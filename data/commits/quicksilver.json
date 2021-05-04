@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc0dda95c48a9667c9e8079a075075b67e1211ef",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-07-02T19:10:41-06:00",
+  "timestamp": 1593738641,
+  "message": "quicksilver-add-v1.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac7f6b98b50c64bf0526a803c89deca64f0e87c5",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-05-27T01:06:25-06:00",
+  "timestamp": 1590563185,
+  "message": "quicksilver-initial-commit-16811",
+  "repo": "spack/spack"
+}]

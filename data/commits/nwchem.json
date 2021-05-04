@@ -1,0 +1,272 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6be5289e56f344a80bc00d5c84dd135a015b93c8",
+  "author": "Edoardo Aprà <edoardo.apra@gmail.com>",
+  "date": "2020-11-14T00:45:18-08:00",
+  "timestamp": 1605343518,
+  "message": "nwchem-remove-patches-for-v6.6-no-longer-supported-19906",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c60cbab215efcd5fcd71ba318a4c9d1b4cc1e48d",
+  "author": "Edoardo Aprà <edoardo.apra@gmail.com>",
+  "date": "2020-10-13T21:06:21-07:00",
+  "timestamp": 1602648381,
+  "message": "new-release-7.0.2-19297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "154870da0ba237b8b94b721d2bc8a4d9f68883dc",
+  "author": "Edoardo Aprà <edoardo.apra@gmail.com>",
+  "date": "2020-07-31T08:45:27-07:00",
+  "timestamp": 1596210327,
+  "message": "NWChem-7.0.0-17779",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "187e110ab03f1bdcb09a5d574b00a8ff9ef489cb",
+  "author": "Edoardo Aprà <edoardo.apra@gmail.com>",
+  "date": "2018-09-03T18:36:49-07:00",
+  "timestamp": 1536025009,
+  "message": "NWChem-6.8.1-9140",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0a0649d2c03adf003add6a8c655eb2041712596",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-07-19T12:03:40-05:00",
+  "timestamp": 1532019820,
+  "message": "nwchem-add-link-type-to-python-dep-8759",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f2918813dd65858ccf6f60290828d07455607e6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-15T10:46:35-07:00",
+  "timestamp": 1529084795,
+  "message": "Add-tags-for-ECP-applications-that-are-in-Spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b6e3595a596bd63ab8586a27041eabe0169f1d2",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-28T15:11:22+02:00",
+  "timestamp": 1527513082,
+  "message": "nwchem-added-version-6.8-8295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d7652c50856296d1e1081098e848d06092854e3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-03-22T21:41:55+01:00",
+  "timestamp": 1521751315,
+  "message": "Used-names-with-__-in-class-level-constructs-to-avoid-rebinding-7563",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f8c7d57eb3839ea866a9fbfb55f9a44af99d6c0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-09-23T15:25:33-07:00",
+  "timestamp": 1506205533,
+  "message": "Patches-are-hashed-with-specs-and-can-be-associated-with-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9ee86cac9275076b8e46a7c7c369df8e84e1955",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-03-25T23:23:47-07:00",
+  "timestamp": 1490509427,
+  "message": "Make-packages-Python3-compatible",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa86432ec6a6b8d173feebf50cc6c98202915fe6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-10-21T16:32:52+02:00",
+  "timestamp": 1477060372,
+  "message": "patch-directive-fixed-retrieval-from-urls-fixes-1584-2039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66ea42f8d75dfd3302a6172c631288be39728365",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-24T23:07:12+02:00",
+  "timestamp": 1472072832,
+  "message": "nwchem-use-basename-for-CC-and-FC",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d2d5806b5ebfbbf75490ead40f6041026ea95e7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-24T13:40:02+02:00",
+  "timestamp": 1472038802,
+  "message": "nwchem-add-python-module",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dae219d5c3b08e50f04c14508638a3ba30f3b615",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-23T22:24:16+02:00",
+  "timestamp": 1471983856,
+  "message": "nwchem-add-another-patch",
+  "repo": "spack/spack"
+},
+{
+  "commit": "459b6eae1105aaeefa2f86f925caa8ccb3fcdc16",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-23T22:15:38+02:00",
+  "timestamp": 1471983338,
+  "message": "nwchem-add-another-patch",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6500ac80e4016d540414e131a634e96ac66977e7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-23T16:46:40+02:00",
+  "timestamp": 1471963600,
+  "message": "nwchem-fix-lapack-detection",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eb386e55e2e69c968369505ab51b073fb23bdec",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-23T14:51:40+02:00",
+  "timestamp": 1471956700,
+  "message": "nwchem-add-patches",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5da9116c067984ec84cb34e1c4ad5b08805fc233",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-23T11:55:00+02:00",
+  "timestamp": 1471946100,
+  "message": "nwchem-add-scalapack-extra-steps-for-32bit-blas-lapack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a44beee172ec0b666b6caa46e320acffe7430cc7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-22T17:25:19+02:00",
+  "timestamp": 1471879519,
+  "message": "nwchem-add-new-package",
+  "repo": "spack/spack"
+}]

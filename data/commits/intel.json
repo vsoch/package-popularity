@@ -1,0 +1,368 @@
+[{
+  "commit": "89e9e44bf25e595483fcb3b0af6188668bccbc7d",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2021-04-16T17:07:59-04:00",
+  "timestamp": 1618607279,
+  "message": "add-maintainers-to-legacy-intel-product-pacakges-23030",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e316b30d135fc61da9458513231d712af41aab5",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-23T18:40:13+01:00",
+  "timestamp": 1616521213,
+  "message": "intel-new-version-20.0.4-22484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bef560636df1a029ea398b657ae9f0d6e1f82ca4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-08-19T08:20:57+02:00",
+  "timestamp": 1597818057,
+  "message": "intel-added-external-detection-capabilities-17991",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ea597c79a45a7ae7b594cbb532fa527815b63c4",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-07-30T05:18:32+02:00",
+  "timestamp": 1596079112,
+  "message": "Intel-packages-new-versions-17692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02d5b8c425a56c353a8228642b5d221c3046a130",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-06-28T20:30:21+02:00",
+  "timestamp": 1593369021,
+  "message": "intel-added-new-versions-17287",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f83d46bb7934444152a0445624d21caef3d2c9a4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-04-07T15:47:22+02:00",
+  "timestamp": 1586267242,
+  "message": "intel-fixed-version-number-update4-is-18.0.5-15915",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37e9e450c94a7f5ff94e4267f7b8d10acaf79824",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-04-03T02:39:44+02:00",
+  "timestamp": 1585874384,
+  "message": "Updates-versions-of-Intel-packages-15839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35a696a96536087cb7c67fce0f8cd5ed86c08169",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2020-01-13T18:51:22-08:00",
+  "timestamp": 1578970282,
+  "message": "added-intel-parallel-2020.0-and-components-14451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f07131a390746694051d0889d8b3311709c1e6b6",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-11-28T00:04:48+08:00",
+  "timestamp": 1574870688,
+  "message": "Bump-intel-compiler-suite-to-2019u5.-13835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f83a2a7d82067dd2e6dacb45572a4948dfda86a",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-07-15T13:37:54-05:00",
+  "timestamp": 1563215874,
+  "message": "Add-auto-dispatch-specification-to-Intel-packages-11697",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91ef079511bae6d14837d1fc38d5f061843d8b9f",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-06-16T00:19:58-04:00",
+  "timestamp": 1560658798,
+  "message": "intel-add-version-19.0.4-11741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fd01af77336443ca2342ae4515b27261131f124",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-11T07:03:24-07:00",
+  "timestamp": 1552313004,
+  "message": "added-intel-19.0.3-packages-10835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e86a28aff76b5753bdfe2afe35465eea18decd28",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-11-24T16:44:57-05:00",
+  "timestamp": 1543095897,
+  "message": "intel-parallel-studio-add-missing-updates-to-2019.1-9941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b1a5a8e6cdaa3afb52276907a1f96c60881c07b",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-11-13T10:56:31-06:00",
+  "timestamp": 1542128191,
+  "message": "intel-parallel-studio-add-missing-updates-9742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a86f22d755887c66b03b62c8be2fa708b79fad0a",
+  "author": "Michael Sternberg <sternberg@anl.gov>",
+  "date": "2018-08-29T23:09:34-05:00",
+  "timestamp": 1535602174,
+  "message": "Intel-prefixes-7469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ca7654df9ef6fc5ca02b216db44849a3745e4b9",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-08-22T09:36:33-05:00",
+  "timestamp": 1534948593,
+  "message": "intel-parallel-studio-add-version-2018.3-9047",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f2867415a26299fb51c8ceae45677b1c3f65a38",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-11-25T10:49:02-08:00",
+  "timestamp": 1511635742,
+  "message": "added-intel-18.0.1-compilers-6381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3606b8a1f343965c815337f676df12f0c587e08b",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-09-20T17:15:20-07:00",
+  "timestamp": 1505952920,
+  "message": "added-Intel-2018-tools-5404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db657d938d38775e4364a6917cc78cb9cdb0b133",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-16T12:21:07-05:00",
+  "timestamp": 1502904067,
+  "message": "Refactor-IntelInstaller-into-IntelPackage-base-class-4300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd1322b2c96f141a68180b052a63df9b3d756cd0",
+  "author": "Kyle Fernandes, né Jacobs <kylefernandes@users.noreply.github.com>",
+  "date": "2017-06-28T17:32:25+01:00",
+  "timestamp": 1498667545,
+  "message": "Update-intel-parallel-studio-and-intel-packages-4628",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8919b07cab4118abc003073abec92ba6e255a7c",
+  "author": "Kyle Fernandes, né Jacobs <kylefernandes@users.noreply.github.com>",
+  "date": "2017-06-16T18:18:25+01:00",
+  "timestamp": 1497633505,
+  "message": "Update-intel-packages-4528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7b8b75c121ce2601ba2b8db1bb105dd525423c4",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-06-06T18:24:33+02:00",
+  "timestamp": 1496766273,
+  "message": "Fix-intel-mpi-installation-4438",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5fd658986be32404b6d50539dc413df8efea96f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-09T18:15:14-05:00",
+  "timestamp": 1494371714,
+  "message": "Add-latest-versions-of-Intel-compiler-4184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67bf71630b55e4ba31373e4ae8ffbd7b8ae67ae4",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-04-23T06:58:47-07:00",
+  "timestamp": 1492955927,
+  "message": "Do-not-require-license-for-new-Intel-libraries-3931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "929a3317e978712a69a11d381891ed7df28d3866",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-23T15:58:12-05:00",
+  "timestamp": 1490302692,
+  "message": "Add-env-vars-for-Intel-VTune-Amplifier-3531",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14c181e4806d5a6bbba9145fd919b363f03ae23c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-03-19T20:57:06+08:00",
+  "timestamp": 1489928226,
+  "message": "Add-new-version-for-intel-package-16.0.4-17.0.2-.-3490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7806fded3e7e90aeb0d864ab76545cc57fbe2b03",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-04T13:47:25-05:00",
+  "timestamp": 1475606845,
+  "message": "Update-documentation-URL-after-switch-to-readthedocs-1901",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e5e36a6596e13c60330b674adf1237fc06f512d",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-10T21:59:46-05:00",
+  "timestamp": 1468205986,
+  "message": "Fix-flake8-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16f67b5bb1b6c8a37022f2a422ef5ae862ead956",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-10T21:21:43-05:00",
+  "timestamp": 1468203703,
+  "message": "Setup-environment-for-Intel-Parallel-Studio",
+  "repo": "spack/spack"
+},
+{
+  "commit": "729f23b43282d971365d66402fe0df67c4bd37a2",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-01T22:13:40-05:00",
+  "timestamp": 1467429220,
+  "message": "Use-Executable-to-set-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2ca5f44b4091821fbda36ce2dce77af3e4087f5",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-15T08:19:55-07:00",
+  "timestamp": 1463325595,
+  "message": "flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3cd0a67d020b73e5fdc6cfeb4ee874d49f2c305",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-13T16:12:48-07:00",
+  "timestamp": 1463181168,
+  "message": "address-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9b71872a8d590d342e4cfcc78ff9855cff7fc24",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-13T15:16:07-07:00",
+  "timestamp": 1463177767,
+  "message": "addressed-PR-946-comments-from-adamjstewart",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8a91db08948440100a2d4d6a0cad01f1eb9b33a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-12T20:04:45-07:00",
+  "timestamp": 1463108685,
+  "message": "Intel-software-packages-and-license-enhancements",
+  "repo": "spack/spack"
+}]

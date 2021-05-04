@@ -1,0 +1,32 @@
+[{
+  "commit": "4c57c88d9e4c0e0ad45c93e0e0253a94f41e084f",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2021-03-19T15:06:30-07:00",
+  "timestamp": 1616191590,
+  "message": "py-zarr-add-v2.4.0-v2.5.0-v2.6.1-22403",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "456aae2627fe07ac3046920077c4386ba9488f6f",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-01-02T11:07:48-08:00",
+  "timestamp": 1577992068,
+  "message": "new-package-py-zarr-14326",
+  "repo": "spack/spack"
+}]

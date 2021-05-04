@@ -1,0 +1,184 @@
+[{
+  "commit": "2019d1deb78a8c9ce93af0eb0b06df3c80983ab7",
+  "author": "Bryan Herman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-02-19T06:11:07-05:00",
+  "timestamp": 1613733067,
+  "message": "CGNS-set-parallel-build-to-False-to-fix-cp-error-21766",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb0c79b50436297861781a11b24441ca348df136",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-01T21:39:57-04:00",
+  "timestamp": 1585791597,
+  "message": "package-add-variants-to-cgns-15816",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73321dd3ea81f18ec5430f45916fa8007e83daf7",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-03-18T12:09:28-06:00",
+  "timestamp": 1584554968,
+  "message": "CGNS-Version-update-15523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db1fb168406abb26f2f5a2d2d19cbc1089a54a9f",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-09-08T16:14:56-06:00",
+  "timestamp": 1567980896,
+  "message": "CGNS-Add-setting-of-RPATH-on-Darwin-9984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "204063e21a6889a729db1ba3cc23c162e7ab94e4",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-03-11T18:43:16-06:00",
+  "timestamp": 1552351396,
+  "message": "cgns-package-add-version-3.4.0-and-update-hdf5-dependency-10803",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93c491f7297ab4e700a414d33ba533968a4be464",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2018-12-19T19:02:24-07:00",
+  "timestamp": 1545271344,
+  "message": "CGNS-Allow-use-of-git-branch-versions-10156",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f8e44551068b831f96b2f15523d12b03fd07d31",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2018-12-04T10:13:49-07:00",
+  "timestamp": 1543943629,
+  "message": "CGNS-Add-option-for-64-bit-integers-9990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c43090ceb2140568618c532feffb0aabd0a9738",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-12-05T14:33:36-07:00",
+  "timestamp": 1512509616,
+  "message": "Update-CGNS-and-add-CGNS-capability-to-Trilinos-6568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d10aa385fb1f5cf056b204476a0978c8a318688e",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2017-09-20T18:21:14-06:00",
+  "timestamp": 1505953274,
+  "message": "Update-recipe-for-cgns-to-avoid-build-warnings-errors-5382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be486c90a68ca413cf7e0674065c3ecbe80630d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-22T17:02:45-05:00",
+  "timestamp": 1469224965,
+  "message": "Add-CGNS-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85502e34f9d8a0a91267247d9b72287012befd0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T14:35:19-05:00",
+  "timestamp": 1465587319,
+  "message": "CMake-knows-how-to-create-PIC",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65896ff2ed809776e54f012a622b13a450c64ea6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-08T14:11:14-05:00",
+  "timestamp": 1465413074,
+  "message": "Add-Armadillo-and-SuperLU-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e414c5fdfbc91e5934ee59233475f8f862e2e0ce",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:31:18-05:00",
+  "timestamp": 1456803078,
+  "message": "Added-missing-cmake-dependencies",
+  "repo": "spack/spack"
+}]

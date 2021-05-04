@@ -1,0 +1,8 @@
+[{
+  "commit": "6c12b6487311801afcafbc611972989593a62f42",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-02-25T23:24:53-08:00",
+  "timestamp": 1614324293,
+  "message": "added-waylaynd-protocols-package-21979",
+  "repo": "spack/spack"
+}]

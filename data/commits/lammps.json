@@ -1,0 +1,424 @@
+[{
+  "commit": "8058aecd2a5049ba86423ec5bcd3712d4e25506b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-04-20T19:55:29+02:00",
+  "timestamp": 1618941329,
+  "message": "lammps-fix-typo-in-variant-name-23085",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e3f7781d4eac7f224222ca85667e148d5a4f97f",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2021-03-22T15:37:46+01:00",
+  "timestamp": 1616423866,
+  "message": "lammps-add-most-recent-stable-and-patch-release-22435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "951c4a6cf267b0664b50bb595688aa2443e0e961",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2021-03-22T15:34:04+01:00",
+  "timestamp": 1616423644,
+  "message": "lammps-patch-for-CUDA-11.x-with-lammps-21-Jul-2020-22434",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f92580240e8e4b50b68d4a26a0c6286a096dcd4f",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2021-02-11T20:10:45-06:00",
+  "timestamp": 1613095845,
+  "message": "Add-support-for-KIM-package-in-LAMMPS-21638",
+  "repo": "spack/spack"
+},
+{
+  "commit": "935ad536494e2f4b88f563d537c665b6cc696798",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2021-02-04T16:29:49-05:00",
+  "timestamp": 1612474189,
+  "message": "lammps-Add-support-for-a-number-of-new-LAMMPS-add-on-packages-21494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b62b33d187674fbca6e0e7c3952d386867352f2",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2020-12-09T23:06:59+05:30",
+  "timestamp": 1607535419,
+  "message": "Below-changes-were-added-to-lammps-recipe-20288",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ba83e6cc6fe04b84d03001bb6d70164764cbdff",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-10-02T15:53:50-05:00",
+  "timestamp": 1601672030,
+  "message": "lammps-choose-FFT-implementation-based-on-provider-19060",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d609a6dde75c0bdafecd65fb24f8abec5b06854a",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-07-31T05:19:59+02:00",
+  "timestamp": 1596165599,
+  "message": "Update-LAMMPS-package-17715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e81533eb9bbd52384b6340cfaf1d354bf77cc058",
+  "author": "oracleLee <52901865+oracleLee@users.noreply.github.com>",
+  "date": "2020-06-25T11:23:17+08:00",
+  "timestamp": 1593055397,
+  "message": "Update-a-supported-package-user-meamc-for-lammps-17207",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e21b4731a97fe79a34d80b52fa4ad089ad70ac74",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-05-14T21:09:41-04:00",
+  "timestamp": 1589504981,
+  "message": "lammps-set-LAMMPS_POTENTIALS-in-the-runtime-environment-16643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa9c98b6a2db58c8097a81e8074496d2c1c790d1",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-05-05T20:22:32+02:00",
+  "timestamp": 1588702952,
+  "message": "Make-usage-example-consistent-with-current-MV-variants-16468",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04cb1800a69436c752c8479cf169c7eb47b606f4",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-05-05T01:54:30-06:00",
+  "timestamp": 1588665270,
+  "message": "lammps-added-v20200505-16463",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfb307b8e7661c96874b86c9a13dbcc45ac20aa4",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-30T10:29:08-06:00",
+  "timestamp": 1588264148,
+  "message": "lammps-fix-build-with-kokkos-16390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "598c233f78d23329c0cc6c7bc86b7117dca7bacd",
+  "author": "Jeremy <jjwilke@users.noreply.github.com>",
+  "date": "2020-04-30T07:13:47-07:00",
+  "timestamp": 1588256027,
+  "message": "Update-kokkos-for-new-3.x-build-systems-16358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da853a5daae434b3b1d2a119bc8c7e15d4295aae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-05T15:19:18-06:00",
+  "timestamp": 1583443158,
+  "message": "lammps-add-most-recent-stable-release-15335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bda848cb92372a699c36241ae58ab042fd8790e",
+  "author": "Yuanqi Wang <21102457+plasmas@users.noreply.github.com>",
+  "date": "2019-12-18T02:35:06+08:00",
+  "timestamp": 1576607706,
+  "message": "LAMMPS-Fix-USER-REAXC-package-variant-14192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "552ffed171e694519d30ed5c770231578f8225d4",
+  "author": "David M. Rogers <predictivestatmech@gmail.com>",
+  "date": "2019-11-25T14:22:31-05:00",
+  "timestamp": 1574709751,
+  "message": "Updated-LAMMPS-package-to-use-gpu-and-kokkos-options.-13886",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41c917b6e665d3a56acc2078e78ebc53a370eb69",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-08-14T16:35:24-06:00",
+  "timestamp": 1565822124,
+  "message": "lammps-add-version-20190807-12424",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d0b5bd54133e5949b43d6c3ff12c6ce61b701a8",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-07-29T13:08:55-04:00",
+  "timestamp": 1564420135,
+  "message": "Change-dependencies-to-use-virtual-jpeg-package-12179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f2144a68eb76012b3e199f3f7b4b1786451fea2",
+  "author": "marvinbernhardt <marvinbernhardt@users.noreply.github.com>",
+  "date": "2019-06-13T05:02:20+02:00",
+  "timestamp": 1560394940,
+  "message": "added-jpeg-png-ffmpeg-variants-to-lammps-10404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c1c50fb7632d179cae32b28e4561c9e041b97f0",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2019-06-07T13:43:13+01:00",
+  "timestamp": 1559911393,
+  "message": "add-openmp-variant-to-lammps-11643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fd64dfa08919c097399a9df8ad1c55bf4fcb450",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-06-05T18:07:33-06:00",
+  "timestamp": 1559779653,
+  "message": "lammps-added-v20190605-11638",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2af7688c55e1ed5afff917bef7caa2f895f087b2",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-05-17T08:57:35-06:00",
+  "timestamp": 1558105055,
+  "message": "parsplice-needs-LAMMPS_EXCEPTIONS-11500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b42cf4d96b306e9356b102626c294a85a2b6d1b",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-12-12T11:08:59-06:00",
+  "timestamp": 1544634539,
+  "message": "lammps-add-new-stable-version-10086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c3091b05ee37d0a72f41bd330e0f442bf49a734",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-27T16:55:21-07:00",
+  "timestamp": 1543362921,
+  "message": "Fixing-problems-with-lammps-dependencies-voropp-and-latte-9909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26e51ff1705a4d6234e2a0cf734f93f7f95df5cb",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-11-16T15:52:26-07:00",
+  "timestamp": 1542408746,
+  "message": "lammps-package-added-new-versions-9868",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca2e1e9019c50b905662b63041695bbbe6ad7630",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-08-23T11:17:27-06:00",
+  "timestamp": 1535044647,
+  "message": "lammps-add-v20180822-9081",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e948a54d8e44ca5b20d4c41c8c6f2344fde32f0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:17:01-05:00",
+  "timestamp": 1532485021,
+  "message": "All-git-URLs-end-in-.git",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25062d0bd4c280ee5ec416bcb75686f50113c2a7",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-07-17T11:13:04-06:00",
+  "timestamp": 1531847584,
+  "message": "lammps-added-v20180629-8695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f2918813dd65858ccf6f60290828d07455607e6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-15T10:46:35-07:00",
+  "timestamp": 1529084795,
+  "message": "Add-tags-for-ECP-applications-that-are-in-Spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45ddfe83efd1a594d2ed126120f7f894877d709c",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-04-10T19:21:35-06:00",
+  "timestamp": 1523409695,
+  "message": "lammps-add-v20180316-7725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95b27385492b948acf6903842a4248ab8ce30ef9",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-03-06T22:32:06-07:00",
+  "timestamp": 1520400726,
+  "message": "lammps-add-version-20180222-7408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "392929ba7721a402d3c273099e2499bc89df5b52",
+  "author": "vishalkenchan <vishalkenchan@users.noreply.github.com>",
+  "date": "2017-11-08T17:01:15+01:00",
+  "timestamp": 1510156875,
+  "message": "lammps-add-more-packages-6174",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83ab0625838e31e64d494351876d7af1b3ea2b73",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-27T13:46:58-06:00",
+  "timestamp": 1506541618,
+  "message": "lammps-add-user-omp-package-5486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64311e8510c99dc0e6dac74da2a6d555680eddf5",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-25T10:39:29-06:00",
+  "timestamp": 1506357569,
+  "message": "lammps-add-support-of-latte-package-5446",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efcd8e6f7f67390ac9481197f27f6c893e90eecf",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-18T16:18:27-06:00",
+  "timestamp": 1505773107,
+  "message": "lammps-fix-checksum-5342",
+  "repo": "spack/spack"
+},
+{
+  "commit": "effba3c95eae08dd704e3239887003134723173b",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-10T17:21:38-06:00",
+  "timestamp": 1505085698,
+  "message": "lammps-version-bump-switch-to-cmake-5313",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6036a5a113220764e32b50a89a45f24d6b305cb4",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-08-28T17:33:30-06:00",
+  "timestamp": 1503963210,
+  "message": "lammps-install-headers-5226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ace890af49645d264a2d3ec0ac93e53dd43278d5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-23T12:28:17-05:00",
+  "timestamp": 1490290097,
+  "message": "Only-configure-requested-lammps-features-3526",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a36ed7fb9b93163358b8e5f63ad0f702f2410b6e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-04T16:42:02+01:00",
+  "timestamp": 1488642122,
+  "message": "fix-blas-lapack-usage-after-PR-1875-3365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c09ad5305dc12d89e0d840afef8f61a3b437783",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2017-02-06T04:34:53+01:00",
+  "timestamp": 1486352093,
+  "message": "Boostrapping-the-lammps-package-3032",
+  "repo": "spack/spack"
+}]

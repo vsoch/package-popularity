@@ -1,0 +1,72 @@
+[{
+  "commit": "b2d3d35528ccf90feca71e2efd62e903256a3029",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-27T14:38:14-04:00",
+  "timestamp": 1619548694,
+  "message": "Add-git-repo-path-for-rocm-packages-23270",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebbce40a887f665a35374e1086a876ce2ad44dbc",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-03-29T18:49:07-04:00",
+  "timestamp": 1617058147,
+  "message": "bumpup-version-for-hipify-clang-rocm-gdb-api-rocm-gdb-for-rocm-4.1.rel-22622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9e6a4d18bee74b80fbaf3b25f219cbde37baf50",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-04T21:46:26+05:30",
+  "timestamp": 1609776986,
+  "message": "Bumpup-version-for-rocm-4.0.0-release-20640",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff4c45289eb239814ed8ff63f1cfb91d037a4a7e",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T00:03:40+05:30",
+  "timestamp": 1606934020,
+  "message": "bump-up-version-for-rocm-3.10.0-release-20214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e93ac1a8bdcbb4b0155e6463508923d52615ba8b",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-11-04T00:09:40+05:30",
+  "timestamp": 1604428780,
+  "message": "bump-up-hsakmt-roct-hsa-rocr-dev-llvm-amdgpu-version-for-3.9.0-release-19668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c9501a47d8ddaa27cf205d313ab21931201cd4",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-09-25T11:56:04+05:30",
+  "timestamp": 1601015164,
+  "message": "ROCm3.8-atmi-hipify-clang-rocm-clang-ocl-rocm-dbgapi-rocprofiler-18871",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fb83047fdea6d47b310b60ec5c9058057c54b81",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-09-16T20:18:48-07:00",
+  "timestamp": 1600312728,
+  "message": "Hipify-clang-with-AMD-rocm-3.7.0-update-18672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c8cfcca0fe2b83a3d97c6cfe29718eeaf415473",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-09-09T11:47:51-07:00",
+  "timestamp": 1599677271,
+  "message": "Adding-hipify-clang-and-aomp-recipe-for-rocm-18333",
+  "repo": "spack/spack"
+}]

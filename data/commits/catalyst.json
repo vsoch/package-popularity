@@ -1,0 +1,192 @@
+[{
+  "commit": "c144222d54bc0436c37be19c463474efbe085e17",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-04-19T18:41:44+02:00",
+  "timestamp": 1618850504,
+  "message": "catalyst-mpi-variant-was-never-declared-23082",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e258ca6ca33f31ec10c7296ff94cdb7829227d4",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-01-22T01:50:08+09:00",
+  "timestamp": 1611247808,
+  "message": "catalyst-Fix-for-aarch64-21187",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaa1afe9ec624fc86259ef817c059a5247770575",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-30T11:16:17-04:00",
+  "timestamp": 1604070977,
+  "message": "mesa-Retire-older-autotools-mesa-as-mesa18-and-create-current-meson-mesa-19528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97d7ef678d8e9647958ba89d446037b1c21edc2c",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2020-05-15T15:11:32-04:00",
+  "timestamp": 1589569892,
+  "message": "fix-catalyst-so-that-it-doesn-t-depend-on-a-particular-spelling-of-python-16667",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90236bc9f54a0fccbf0e133d09ce258b379e5ae3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:25:12+02:00",
+  "timestamp": 1569486312,
+  "message": "Update-target-comparison-semantic-for-a-few-packages-12947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1dbf3c208bb50c1704b0372fcd55a91fb8a0a456",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-09-05T18:44:38+01:00",
+  "timestamp": 1567705478,
+  "message": "FIX-Catalyst-corrected-catalyst-package-for-aarch64-targets-12707",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f18c9e0ba536c284090e1b18a9ed6b34f4af89fd",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-07-29T18:31:07-04:00",
+  "timestamp": 1564439467,
+  "message": "catalyst-package-Fix-paths-used-for-intermediate-code-generation-12082",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a60ffdd5a25f44c1371f0a6adc456fa2bff73b07",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-19T13:57:19-04:00",
+  "timestamp": 1560967039,
+  "message": "vtk-paraview-catalyst-packages-Add-maintainers-11774",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83c795958022d9c130c6b3a8651c1e7ed1a86187",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-17T09:30:29-04:00",
+  "timestamp": 1560778229,
+  "message": "Fix-condition-to-enable-mpi4py.-11707",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16530f84be04b8466769b9b74fe920d67006b988",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-06-12T17:07:47-07:00",
+  "timestamp": 1560384467,
+  "message": "Update-remaining-packages-to-use-Stage.source_path-11662",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c98190a6ec155a3bff0bd8cd77d41438b2714543",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-10T12:48:49-04:00",
+  "timestamp": 1560185329,
+  "message": "ParaView-and-Catalyst-use-python3.-11485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f848205e431c929a54ecf221768591906a0ef67",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-01T18:57:33-04:00",
+  "timestamp": 1556751453,
+  "message": "mesa-re-written-to-new-meson-build-system-10482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "527ff860f01de34e34f8c7be8e5682745504d774",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-16T23:17:23-08:00",
+  "timestamp": 1545031043,
+  "message": "patches-clean-up-patch.py-directives-and-package-class-properties",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7e32cc2d671be385df76a13fbe2d88b234f17f8",
+  "author": "Simone Bnà <simone.bna@cineca.it>",
+  "date": "2018-12-23T20:40:25+01:00",
+  "timestamp": 1545594025,
+  "message": "openFOAM-paraview-catalyst-10129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fc7dd160d91d54b60a688dc35102a109290ff01",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-26T02:03:56+01:00",
+  "timestamp": 1540515836,
+  "message": "updated-URL-format-for-Catalyst-package-when-version-is-greater-or-equal-to-5.6-9611",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e51b48d9a1157fa80f02881a44e35c01b4156bea",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-08T08:10:03+01:00",
+  "timestamp": 1538982603,
+  "message": "Catalyst-Package-made-Python-mandatory-at-build-time-9432",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f29fbb6056d8ae520c8107c61f54f4070f7163c",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-03T01:25:56+01:00",
+  "timestamp": 1538526356,
+  "message": "Adding-new-versions-to-Catalyst-package-9267",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2908af9b4f610427e52a10dc0658b7d5c5a2514",
+  "author": "Simone Bnà <simone.bna@cineca.it>",
+  "date": "2018-01-14T05:20:39+01:00",
+  "timestamp": 1515903639,
+  "message": "Catalyst-package-6834",
+  "repo": "spack/spack"
+}]

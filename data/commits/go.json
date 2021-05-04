@@ -1,0 +1,616 @@
+[{
+  "commit": "51d81af750d3cc726582054c2c04b1755ad01251",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-24T16:00:42+01:00",
+  "timestamp": 1616598042,
+  "message": "go-add-v1.16.2-22506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd944585521ad151f85a91d2716ae795ac3bd936",
+  "author": "Paul <bryantpj@ornl.gov>",
+  "date": "2021-03-01T16:22:12-07:00",
+  "timestamp": 1614640932,
+  "message": "Added-Go-versions-1.16-and-1.15.8-22016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c03a2d0697bc97855dd31a5bec565485ad940c2a",
+  "author": "Paul <bryantpj@ornl.gov>",
+  "date": "2021-01-26T14:19:13-07:00",
+  "timestamp": 1611695953,
+  "message": "Added-Go-versions-1.15.7-and-1.14.14-21294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32f0bf905712d4120217767cc4a3bddab68eff17",
+  "author": "Paul <bryantpj@ornl.gov>",
+  "date": "2020-12-21T18:47:53-07:00",
+  "timestamp": 1608601673,
+  "message": "Corrected-Go-dependent-build-environment.-18493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc53ff162fa09e4378c318bbb8e7d7f6ebeca500",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-29T20:08:31+01:00",
+  "timestamp": 1606676911,
+  "message": "go-added-v1.15.5-and-v1.14.12-20142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7a2412626e0e7b04c1301e2c0cdfd4679df7c71",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-10-02T09:00:56+02:00",
+  "timestamp": 1601622056,
+  "message": "go-Add-1.15.2-and-1.14.9",
+  "repo": "spack/spack"
+},
+{
+  "commit": "017331684e4c116274c6836915b5d5c21681d177",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-09T03:56:08+02:00",
+  "timestamp": 1599616568,
+  "message": "go-Add-1.15.1-and-1.14.8-18575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e7029d80621cf7a6cf9c167343e77172b4e97f8",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-08-24T18:05:48-06:00",
+  "timestamp": 1598313948,
+  "message": "Added-Go-1.15-and-find-external-package.-18235",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c97a0ea1cbcb42fff4cb2183552b6b6c441d791",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-08-03T08:42:05-06:00",
+  "timestamp": 1596465725,
+  "message": "Added-Go-1.14.6-and-1.13.14-17574",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48a9ad36527e666eab0a417696d6b84ac32cf10a",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-07-15T01:31:49-06:00",
+  "timestamp": 1594798309,
+  "message": "Go-added-v1.14.5-and-v1.13.13.-17539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6035b32748261c373ee622a2a0e330cae5a8aa61",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-02T10:48:35+02:00",
+  "timestamp": 1591087715,
+  "message": "go-added-v1.14.4-and-v1.13.12-16903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32238391a97cb32491f4783b38ad6c876909e306",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-05-16T14:55:51-06:00",
+  "timestamp": 1589662551,
+  "message": "Add-Go-versions-1.14.3-and-1.13.11-16673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6cad7a585de5e79d3f2b1c928b61896eecca74b4",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-24T00:01:20+08:00",
+  "timestamp": 1587657680,
+  "message": "Go-support-for-aarch64-16083",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b7458a0f42d2c54a1144370ec6886e5d95886cd",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-04-10T13:35:51-06:00",
+  "timestamp": 1586547351,
+  "message": "Add-Go-versions-1.14.2-and-1.13.10-16000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06ebb94f375b70ceae59fb2f4689c3c4e25e87aa",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-02T14:59:48+02:00",
+  "timestamp": 1585832388,
+  "message": "go-Add-1.14.1-and-1.13.9",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d2f8e314b2c35029d862f5909acde77279c9d3f",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-02-27T10:42:48-07:00",
+  "timestamp": 1582825368,
+  "message": "Added-go-1.14-15249",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8c214176009754e30cb56247e14990589be8cfa",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-02-17T11:43:25+01:00",
+  "timestamp": 1581936205,
+  "message": "go-added-v1.13.8-and-v1.12.17-15022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a846abbe8a6b709d714d3902f301c1ba7d9463a",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-06T17:54:10+08:00",
+  "timestamp": 1580982850,
+  "message": "go-added-v1.13.7-14777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5afc407faa2f2937573d96ff51e992096859e473",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-01-13T08:48:27-07:00",
+  "timestamp": 1578930507,
+  "message": "Add-Go-version-1.13.6-and-1.12.15-14482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a0b1b6aef49f023eeee6aec7d46b9c867fb1577",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-12-05T10:29:00-07:00",
+  "timestamp": 1575566940,
+  "message": "Added-go-1.13.5-and-1.12.14-13997",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abce878fadbd6fc1c0069353d59cc2b34a143ebe",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-11-06T11:36:35+01:00",
+  "timestamp": 1573036595,
+  "message": "go-Add-1.13.4-and-1.12.13-13609",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4e6f28e6dc0f1b16ed81fe0e14b2ce653ff63a0",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-10-28T14:19:14-06:00",
+  "timestamp": 1572293954,
+  "message": "Go-package-add-versions-including-1.13.3-and-update-environment-setup-13254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d0e7efabb8d7ea01b2d7f163065e76a17e135b4",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-10-06T19:22:05-06:00",
+  "timestamp": 1570411325,
+  "message": "Added-go-1.13.1-and-1.12.10-12977",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76b9c561109e4a19375231fd6e8fd8a1c7947f34",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-10-03T07:15:01+02:00",
+  "timestamp": 1570079701,
+  "message": "Remove-support-for-generating-dotkit-files-11986",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb2d18c1e6e25cf95d3f889998ee2db96136cc03",
+  "author": "Paul Bryant <pbryant@newmexicoconsortium.org>",
+  "date": "2019-09-04T07:43:28-06:00",
+  "timestamp": 1567604608,
+  "message": "Add-Go-1.13",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a417fc35c0a29db0374c7c297053624d9fadfca",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-08-23T16:00:44-06:00",
+  "timestamp": 1566597644,
+  "message": "Go-package-add-version-1.12.9-12496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0cdcee92fb5417c7ef87fdbbd47b43f16c33529f",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-08-16T00:01:43+02:00",
+  "timestamp": 1565906503,
+  "message": "go-Add-1.12.8-and-1.11.13-12433",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93e1336de8ad81e57db162987e079275af7ba8ad",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-06-17T16:23:09-06:00",
+  "timestamp": 1560810189,
+  "message": "Added-newer-GoLang-versions-11756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ce0fba036630b0f635dc1868a009de7c2ca0103",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-01-30T20:30:05-06:00",
+  "timestamp": 1548901805,
+  "message": "go-fix-directory-structure-issue-for-1.11.5-10484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28de43558421c2b3c846699adddc7d9fb500e753",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-01-30T12:57:45-06:00",
+  "timestamp": 1548874665,
+  "message": "go-add-version-1.11.5-10451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48db757be13679ce823beb0b8665765c2bb23690",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-01-08T13:57:25+01:00",
+  "timestamp": 1546952245,
+  "message": "go-add-1.11.4-10272",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7df14134c1e8e94778ea0190f9d4345b1d8e051b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-26T18:33:55+01:00",
+  "timestamp": 1543253635,
+  "message": "go-add-1.11.2-9948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8414dd7707b4a216759a4ea85e4f1f32448b7d9",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-11T12:08:42+02:00",
+  "timestamp": 1539252522,
+  "message": "go-Add-1.11.1-9493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d7457edde0a147fd1c615ffd941f98c5a3c3753",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-29T07:00:40+02:00",
+  "timestamp": 1535518840,
+  "message": "go-Update-to-1.11-9101",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7488ed4ff5641ea2eeb7fd1e6b3e95d9a5ced8e4",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-06-08T14:35:43+02:00",
+  "timestamp": 1528461343,
+  "message": "go-Update-to-1.10.3-8426",
+  "repo": "spack/spack"
+},
+{
+  "commit": "937ab7d5cc32d7d011d9e9b3194a7e3152966259",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-05-03T12:14:52+02:00",
+  "timestamp": 1525342492,
+  "message": "go-Update-to-1.10.2-7982",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7760f1f59ddde6bff98ffaf224a3394bf377e93",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-04-10T21:41:52+02:00",
+  "timestamp": 1523389312,
+  "message": "go-Update-to-1.10.1-7708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55b79dca8c2b94911072211c62b4e9544334437d",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-10-26T23:13:33-07:00",
+  "timestamp": 1509084813,
+  "message": "Add-info-for-go-1.9.2-5989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7ac4e37749c782798fcc2c9f139c64fd595c3d4",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-10-24T11:02:33+02:00",
+  "timestamp": 1508835753,
+  "message": "go-Update-to-1.9.1-5868",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92df1492f6e52d6582cdb6168f37aa95d02b04ce",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-08-26T03:29:02+02:00",
+  "timestamp": 1503710942,
+  "message": "go-Update-to-1.9-5216",
+  "repo": "spack/spack"
+},
+{
+  "commit": "887e4724c2f200caee11be762c5b2216c4dedefb",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-08-10T18:42:02+02:00",
+  "timestamp": 1502383322,
+  "message": "go-Fix-cgo-5052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ee9a1a6b6869e496a72c0e1effab2927ae2365",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-07-02T15:02:27+02:00",
+  "timestamp": 1499000547,
+  "message": "Update-go-and-go-bootstrap-4664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ca0d1f5f04885993f1b7fdfea7d2c9c8a6c3796",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-20T12:13:11-05:00",
+  "timestamp": 1492708391,
+  "message": "Remove-all-test-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf9dcc4a10a1c9f1cc4efaa896243fe9fa979166",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-07T14:50:08-07:00",
+  "timestamp": 1491601808,
+  "message": "Add-info-for-go-1.8.1-3765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea1c5821457c74d0dbc33ba047aa3c8199ff5bbd",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-17T11:48:45-08:00",
+  "timestamp": 1487360925,
+  "message": "go-add-support-for-v1.8-3165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1f5b5f75bf0cf9ecb1b05eb0670ee6dd0143e01",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-07T18:22:30-08:00",
+  "timestamp": 1486520550,
+  "message": "Add-comment-explaining-why-patch-is-still-needed-3054",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e2827433cc9702dbeb77c2cda229c36a6d479e0",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-03T18:09:01-08:00",
+  "timestamp": 1486174141,
+  "message": "Update-go-to-v1.7.5-3023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fe5fb79887ab5c68fe9c5bd90dd6560e93c16ad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-25T21:33:57+01:00",
+  "timestamp": 1482698037,
+  "message": "go-fixed-GOROOT_BOOTSTRAP-without-workarounds-2671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9ca5b9f27a7a5c65be3070ad44a5e1478e08788",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-15T18:12:33+01:00",
+  "timestamp": 1481821953,
+  "message": "go-see-2567-temporary-fix-2588",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0dcb5bbf77b07ddad3823a88d60bb7940361c9d",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-12-03T16:44:03-08:00",
+  "timestamp": 1480812243,
+  "message": "Update-go-to-1.7.4-and-1.6.4-to-fix-security-issues-2467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cde8f697a96db9c24d428a9c2e4743e38cd69681",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-11-24T12:25:51-08:00",
+  "timestamp": 1480019151,
+  "message": "Bugfix-update-go-packages-2369",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f9e89eb53c0e093c5efbb8b270e0b3815c90570",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-09-20T10:08:25-07:00",
+  "timestamp": 1474391305,
+  "message": "Update-Package-Git-LFS-1769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "042666eb7e17ab1222a0ae8edf194a8fcd8a89a9",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-08-15T10:46:45-04:00",
+  "timestamp": 1471272405,
+  "message": "go-mark-git-as-also-being-a-runtime-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80c02ad36af00b31f9b4ed4f3d1de72ae963ed98",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-17T05:30:35-07:00",
+  "timestamp": 1463488235,
+  "message": "flake8-related-cleanup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af4af94203d0dc7cebd110c2bd43707e527c63cb",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-17T05:21:11-07:00",
+  "timestamp": 1463487671,
+  "message": "rework-for-gopath-and-bootstrapping",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62dd040a8fd7f6f8993640156049eeb061efe955",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T09:30:37-07:00",
+  "timestamp": 1463416237,
+  "message": "add-GOPATH-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71d991153928e05af21e6fefabf6ae3cd0fd627b",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-15T10:23:33-07:00",
+  "timestamp": 1463333013,
+  "message": "go-cleanup-adding-hub",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bfa4d7e4f0ef9dc70b0d7d12d38c2ec005de7a5",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T22:42:14-07:00",
+  "timestamp": 1463290934,
+  "message": "removing-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "577657b3f7eec000c172ac4f495a9480cd1d4038",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T22:35:55-07:00",
+  "timestamp": 1463290555,
+  "message": "go-rework",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0816e9554d108498cdb419d71f3bac1375622ad1",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T18:06:22-07:00",
+  "timestamp": 1463274382,
+  "message": "adding-go_compiler-providers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "915f91a6199dfe77481742330194e0f6ee17fb8b",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-12T10:45:58-07:00",
+  "timestamp": 1463075158,
+  "message": "moving-go-packages-to-the-new-path",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c33e8ac4859b3ce559055af87479418b8cc8fe4",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-12-30T11:22:11-08:00",
+  "timestamp": 1451503331,
+  "message": "go-and-a-basic-go-package",
+  "repo": "spack/spack"
+}]

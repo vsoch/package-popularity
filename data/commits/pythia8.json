@@ -1,0 +1,72 @@
+[{
+  "commit": "30c81b127c783e4a4e0233c96b5f7da1c73f214f",
+  "author": "Valentin Volkl <valentin.volkl@cern.ch>",
+  "date": "2021-04-23T14:55:04+02:00",
+  "timestamp": 1619182504,
+  "message": "pythia8-add-v8304-fix-copy-paste-errors-in-configure-arguments-23028",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69d618e90d522042eb4120994377e64d73a407b2",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-09-24T08:40:07+02:00",
+  "timestamp": 1600929607,
+  "message": "pythia8-Add-version-8303-make-default-18874",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b51e48732c71d80962c24e18a259ccdb0660e6d3",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-17T11:51:16+02:00",
+  "timestamp": 1597657876,
+  "message": "pythia8-added-environment-variable-18081",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfd5da85c3b468532053d9833039b0c4620b21b3",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-08-09T14:43:47+02:00",
+  "timestamp": 1596977027,
+  "message": "pythia8-added-v8302-and-maintainer-17931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "735416dbf490252d53f5503cb44dd6a9e028034e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-22T20:16:06+02:00",
+  "timestamp": 1592849766,
+  "message": "HEP-generator-update-evtgen-tauola-photos-pythia8-lhapdf-whizard-16880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ec93778526c499efb91d823dd6728411c603673",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-02-04T15:27:57+01:00",
+  "timestamp": 1580826477,
+  "message": "pythia8-added-old-versions-build-depend-on-rsync-14740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52a7f94d9e74620913b57b28680ddbc7215c1bac",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-29T18:40:39+01:00",
+  "timestamp": 1580319639,
+  "message": "pythia8-add-new-package-14665",
+  "repo": "spack/spack"
+}]

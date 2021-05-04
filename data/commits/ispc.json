@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62401ec8f1119225a7a1086a684d2a5203ef4c8",
+  "author": "Martin Aumüller <aumuell@reserv.at>",
+  "date": "2020-11-23T12:28:11+01:00",
+  "timestamp": 1606130891,
+  "message": "ispc-external-find-support-added-master-branch-version-20033",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e6b818c5211e1b74016bda1f67c474e14cfda2f",
+  "author": "Martin Aumüller <aumuell@reserv.at>",
+  "date": "2020-10-21T02:00:45+02:00",
+  "timestamp": 1603238445,
+  "message": "Add-new-packages-ispc-embree-19361",
+  "repo": "spack/spack"
+}]

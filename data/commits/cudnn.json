@@ -1,0 +1,296 @@
+[{
+  "commit": "037e8deecbddc5f728793e0fdcc2905d64b7a800",
+  "author": "romerojosh <romero.josh@gmail.com>",
+  "date": "2021-04-23T09:41:43-07:00",
+  "timestamp": 1619196103,
+  "message": "Add-cuDNN-8.2.0-23214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "396936d24173254ecf4148bc460702185e4c99e5",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-19T03:42:44+01:00",
+  "timestamp": 1616121764,
+  "message": "Adds-new-versions-of-cuDNN-package-22385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50156355060fa972626e9a9b3dbe2017d268a8e2",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-19T09:58:25-08:00",
+  "timestamp": 1605808705,
+  "message": "Removed-accidental-command-to-not-expand-the-tarball.-20001",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db9b7a509a490f95aa7e3ab570185d99c6fd16da",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-18T20:56:39-08:00",
+  "timestamp": 1605761799,
+  "message": "cuDNN-Refactor-to-accommodate-architecture-and-CUDA-version-19989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d38fdb3854cbcada368efd48c3faf44dea960e2f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-02T18:08:44-08:00",
+  "timestamp": 1604369324,
+  "message": "Update-cuDNN-packages-to-check-Power-installation-19620",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c23d79c6d25b656f3ed8fdf74c45ab8f8e161487",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-09-29T21:21:08-07:00",
+  "timestamp": 1601439668,
+  "message": "cuDNN-add-version-8.0.4-19054",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce5d0cb951ba3f234be58f56b810ca2ca62abfc7",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-09-24T18:16:14-07:00",
+  "timestamp": 1600996574,
+  "message": "Updated-cuDNN-to-include-hash-codes-for-8.0.3.-18948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c203898663fe8018b5ea3c700b61766ffa40188c",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-08-04T04:05:29-07:00",
+  "timestamp": 1596539129,
+  "message": "Added-versions-for-cuDNN-8.0.2.-17862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c2b34e43bb150bad862df352c616a16ad4b167f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-07-31T17:48:03-07:00",
+  "timestamp": 1596242883,
+  "message": "cuDNN-package-add-version-7.6.5.32-10.2-linux-ppc64le-17821",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e9a98997aea9365fc46c4503d813947cbead088",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-06-22T06:22:14-07:00",
+  "timestamp": 1592832134,
+  "message": "Added-8.0-RC-to-the-versions-17176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4b17b95036102cba5e662449217ec33d64c6df7",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-04-27T13:15:46-07:00",
+  "timestamp": 1588018546,
+  "message": "cuDNN-Help-dependents-find-libs-includes-on-Power-arch-16128",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a5835ef2c3efc44ff18670aa31a239b8764243b",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-01-24T07:30:38-08:00",
+  "timestamp": 1579879838,
+  "message": "Added-version-for-10.2-compatibility-14613",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dc51d676a2fe6966876277c76aead6c02a035f3f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-11T12:53:26-06:00",
+  "timestamp": 1573498406,
+  "message": "cuDNN-add-new-versions-13668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "802c3c0c5133c44bd037cac2f798b0fe3ea444fb",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-10-28T13:24:50-07:00",
+  "timestamp": 1572294290,
+  "message": "Packages-Add-cuDNN-versions-update-LBANN-dependencies-13412",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92040a475f4b43f9cb0ab63f813ac10605aeee35",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-05-14T14:20:00-07:00",
+  "timestamp": 1557868800,
+  "message": "LBANN-add-support-for-new-python-front-end-11395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47887499bf28f84e7f3df28bb778b3cdd46f1703",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2019-01-30T19:44:24+00:00",
+  "timestamp": 1548877464,
+  "message": "cudnn-package-add-version-7.2-10481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5450303c975e34265f6fda3c014b9aed7d002a3c",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2019-01-05T00:13:11+00:00",
+  "timestamp": 1546647191,
+  "message": "Fix-download-path-the-existing-one-has-been-removed-from-nvidia-s-site-10253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d056427a0064ef01612981c42131c38633ed2271",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-10-02T17:24:13-07:00",
+  "timestamp": 1538526253,
+  "message": "Added-cudnn-7.3-9400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de958df3b8aa977350233877309c10c48c9cb3ed",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-16T11:42:00-05:00",
+  "timestamp": 1494952920,
+  "message": "Update-checksum-for-latest-version-of-cudnn-4254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77673f4c420a374e313a94d41e53bc23f311f139",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-04-10T20:27:15+08:00",
+  "timestamp": 1491827235,
+  "message": "A-new-package-cudnn.-3770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47f9096073a3f11bb3e3d9af75a1ee0323616fd5",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-02-06T07:49:05+08:00",
+  "timestamp": 1486338545,
+  "message": "Use-the-official-Maven-site.-3034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37dede316306d7c42045f5d3815f5e347a7bccad",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-10-25T23:56:31-07:00",
+  "timestamp": 1477464991,
+  "message": "Add-package-for-maven-2132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c77425bb2258ccb9df73044230ebca192e4b209e",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-02T11:32:19-04:00",
+  "timestamp": 1470151939,
+  "message": "Remove-useless-def-unpack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f332c7e4cc10cdbd3c1fa8571bcc276a512b066",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T14:20:06-04:00",
+  "timestamp": 1469470806,
+  "message": "Fix-whitespace-make-flake8-happ-y-ier",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfcec696308ee8bfd226a54c17a7e15d49e2aed7",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T14:17:44-04:00",
+  "timestamp": 1469470664,
+  "message": "Add-standard-header-use-spack-helpers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4373a2b629780a9c14d97110ed014a5620d4eca6",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-12T20:27:44-04:00",
+  "timestamp": 1468369664,
+  "message": "First-cut-package-for-nextflow-has-issues",
+  "repo": "spack/spack"
+}]

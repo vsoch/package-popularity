@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55f490b0937edc9b8fc52d82608643f5a908cc1b",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-08-31T18:12:48+09:00",
+  "timestamp": 1598865168,
+  "message": "lesstif-added-dependency-on-libxext-18408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f40080934e7817e8f7ba370c0e5dce86b3651f25",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2020-03-27T11:57:04-06:00",
+  "timestamp": 1585331824,
+  "message": "New-package-lesstif-15703",
+  "repo": "spack/spack"
+}]

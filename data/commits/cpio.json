@@ -1,0 +1,72 @@
+[{
+  "commit": "cc28bcddd10399cb283f933ea1a4ecb95761fe1e",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-27T20:48:26-05:00",
+  "timestamp": 1611798506,
+  "message": "fix-cpio-for-intel-18-21322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7052c650311db362f80a689032acc6712f2438be",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-10-19T17:48:27-05:00",
+  "timestamp": 1603147707,
+  "message": "external-find-for-cpio-19379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "793ffd8d9cc8c2ce0c13b3bd84c58860fb242822",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-10-10T22:07:04-04:00",
+  "timestamp": 1602382024,
+  "message": "cpio-Fix-issue-compiling-with-newer-intel-compilers-18854-18855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41b68741ec768e3caec8aba6817549da8993408a",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-09-14T23:55:47+09:00",
+  "timestamp": 1600095347,
+  "message": "cpio-add-rtlib-compiler-rt-for-fj-18619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "512fa8e4607d85bf4ef3ebae638ae649e9580420",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-09T15:45:53+02:00",
+  "timestamp": 1596980753,
+  "message": "Fix-cpio-clang-build-error-17963",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cc0e1a333eb52d22039ab049b1d3d384d833ee6",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-30T09:14:57+02:00",
+  "timestamp": 1590822897,
+  "message": "cpio-add-patch-to-fix-build-with-gcc-10-16844",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e8f873b03a6f696ddf999990466fa6e38fc3b85",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2020-03-11T18:35:10-06:00",
+  "timestamp": 1583973310,
+  "message": "cpio-icc-no-gcc-15446",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2885990b8d6dcf4de4f19e90ec8a1c0d94f790c",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2020-02-11T15:21:49-07:00",
+  "timestamp": 1581459709,
+  "message": "Fix-intel-mkl-package-14856",
+  "repo": "spack/spack"
+}]

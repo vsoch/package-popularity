@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d4f7393a3522c1f690a2e9a9683bf0f8f3b43a6",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-10-23T16:17:46+08:00",
+  "timestamp": 1603441066,
+  "message": "Add-new-package-acpica-tools-18739",
+  "repo": "spack/spack"
+}]

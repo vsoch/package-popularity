@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "164fc4ee955d88db3fca3e47d50acaca27b6217c",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-11-25T18:15:51+09:00",
+  "timestamp": 1606295751,
+  "message": "powertop-Add-depend-ncurses-20080",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd41548f6a7f69ce56a3432a952fa539adf10ec",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-10-11T05:52:44+08:00",
+  "timestamp": 1602366764,
+  "message": "Add-new-package-powertop-18904",
+  "repo": "spack/spack"
+}]

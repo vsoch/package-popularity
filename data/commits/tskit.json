@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "740cc4058b8a79f699e4cf80dd6d0be16aac1ad2",
+  "author": "ilbiondo <61497728+ilbiondo@users.noreply.github.com>",
+  "date": "2020-11-09T20:03:09+01:00",
+  "timestamp": 1604948589,
+  "message": "tskit-package-19725",
+  "repo": "spack/spack"
+}]

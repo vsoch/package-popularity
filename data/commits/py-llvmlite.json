@@ -1,0 +1,240 @@
+[{
+  "commit": "3e72a12bfd32e34ac4347ed4ef9574ec15ae0f14",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2021-02-18T00:07:05+09:00",
+  "timestamp": 1613574425,
+  "message": "py-llvmlite-Specified-llvm-version-for-aarch64.-21695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24dd5d12a534c7811e46593ab0aa540601f50046",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2021-02-11T00:58:10+09:00",
+  "timestamp": 1612972690,
+  "message": "py-llvmlite-Changing-build-options-when-using-the-FUJITSU-compiler-21585",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4b4cd497313d12121585b9996e2d8b02987e16f",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-04T16:17:19-05:00",
+  "timestamp": 1604524639,
+  "message": "py-llvmlite-fix-llvm-compatibility-version-19739",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b6c2e80fe1eea0e01a5d560ec910e72b738b6c5",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2020-09-01T04:33:27+01:00",
+  "timestamp": 1598931207,
+  "message": "py-llvmlite-added-v0.34-18432",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c24b8384070fd16ccbc4f0d8d4dbc77d9067247c",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-08-21T11:54:06-04:00",
+  "timestamp": 1598025246,
+  "message": "py-llvmlite-new-version-0.33.0-17878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f10710d5cde778f6f4d00d004cdf4c73d6b322d2",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-27T22:28:16-06:00",
+  "timestamp": 1582864096,
+  "message": "New-package-py-librosa-15223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec3d9798994453c1e15f9bab072318a518de26b7",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-12-11T19:03:48+01:00",
+  "timestamp": 1576087428,
+  "message": "Fix-py-llvmlite-14083",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50193229eafda81e62b66ead2a4a4ab45e9c423c",
+  "author": "Eric Martin <erimar77@users.noreply.github.com>",
+  "date": "2019-03-12T19:40:01-05:00",
+  "timestamp": 1552437601,
+  "message": "py-llvmlite-Add-versions-0.26.0-and-0.27.1-10866",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c267e8534709d4246742dab90abf1e8da6403ee",
+  "author": "Ross Miller <rgmiller@ornl.gov>",
+  "date": "2018-11-13T00:07:40-05:00",
+  "timestamp": 1542085660,
+  "message": "py-numba-update-dependencies-and-versions-9706",
+  "repo": "spack/spack"
+},
+{
+  "commit": "718be8a645ea82d3c71b677eccd41c2771e2c32d",
+  "author": "Ross Miller <rgmiller@ornl.gov>",
+  "date": "2018-10-30T16:33:43-04:00",
+  "timestamp": 1540931623,
+  "message": "Update-dependencies-for-py-llvmlite-9668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a47ff73c6e740015d21f15e1b426c057c4b42940",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-05-14T11:26:01-05:00",
+  "timestamp": 1526315161,
+  "message": "Update-py-llvmlite-to-reflect-llvm-6-requirement-for-versions-0.23.0-8109",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef3c909701cfa0866ef606c85e50ca740711056f",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-11-16T18:13:20+01:00",
+  "timestamp": 1510852400,
+  "message": "add-package-py-numba-6323",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afc4f9c3c2d464b2e1e25ace359e230fbc24fd6a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-06T11:45:00-05:00",
+  "timestamp": 1502037900,
+  "message": "Download-from-pypi.io-not-pypi.python.org-4981",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8dae60c5f026e2ec58ae43cdf5292293ecb50ee4",
+  "author": "hegner <benedikt.hegner@cern.ch>",
+  "date": "2016-12-01T23:34:07+01:00",
+  "timestamp": 1480631647,
+  "message": "Fix-py-scientificpython-and-py-argcomplete-dependencies-2420",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e2154e58fef151f22c6e77a923c7cc76b18517b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-18T16:27:07-05:00",
+  "timestamp": 1461014827,
+  "message": "Add-argcomplete-python-package",
+  "repo": "spack/spack"
+}]

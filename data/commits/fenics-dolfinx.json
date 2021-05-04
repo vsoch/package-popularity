@@ -1,0 +1,40 @@
+[{
+  "commit": "5ed00560cd0f717a50afdbdf66db7ccfd1e5a182",
+  "author": "Chris Richardson <chris@bpi.cam.ac.uk>",
+  "date": "2021-04-01T13:35:01+01:00",
+  "timestamp": 1617280501,
+  "message": "Fenicsx-package-updates-for-basix-install-22679",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ced55fbfe7bb1f1d319316dd19e5ef9c0af9c805",
+  "author": "Chris Richardson <chris@bpi.cam.ac.uk>",
+  "date": "2021-01-25T21:29:06+00:00",
+  "timestamp": 1611610146,
+  "message": "Fenicsx-update-for-basix-21220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dedd2e321ffdcae4bfed4a9ea5df1d505faf70c",
+  "author": "Garth N. Wells <gnw20@cam.ac.uk>",
+  "date": "2020-09-09T16:55:06+01:00",
+  "timestamp": 1599666906,
+  "message": "py-fenics-dolfinx-fix-dependencies-18586",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ccc430e8f108d424cc3c9708e700e94ca2ec688",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2020-08-11T03:43:43+01:00",
+  "timestamp": 1597113823,
+  "message": "Add-fenicsx-packages-17743",
+  "repo": "spack/spack"
+}]

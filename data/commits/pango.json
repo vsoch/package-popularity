@@ -1,0 +1,264 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11fb0e17b0b923c999b060e4c3f4023f201f8c76",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-03T13:29:59-05:00",
+  "timestamp": 1604428199,
+  "message": "py-pygobject-new-version-3.38.0-19709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4652b217cfc2edc4a39833ea61790b7cd5ba6b05",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2020-06-16T15:34:18-07:00",
+  "timestamp": 1592346858,
+  "message": "pango-add-libffi-glib-and-other-dependencies-12384",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c957b6b6281b06718d2028402d6cd3ae9d179f7",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-12-27T10:13:50-08:00",
+  "timestamp": 1577470430,
+  "message": "added-build-dependences-required-after-cairo-package-change-14297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "000bb8ca39f844f397b7bedad9d7e899723d5be4",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-11-19T18:38:52-08:00",
+  "timestamp": 1542681532,
+  "message": "package-pango-disable-gtk-docs-9896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "498c522a31cff72fda0b46ea66234e623e698aa2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-01-15T14:05:27-06:00",
+  "timestamp": 1516046727,
+  "message": "Add-url_for_version-to-pango-package-6939",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a7525064d4d31bd830835d42d81c5724c2c4b4a",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-10T18:02:07+01:00",
+  "timestamp": 1515603727,
+  "message": "Updated-i3-dependencies.-6885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4de3177374e4afe5f025c0526a0a198e7a76645",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-06-24T00:01:09+10:00",
+  "timestamp": 1498226469,
+  "message": "Gtkplus-icons-4511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58567a218273885577a373e6aa8284847203e7d4",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-27T09:04:26-07:00",
+  "timestamp": 1493309066,
+  "message": "Adjustments-to-get-gtkplus-to-build-3208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b00a12565c8aaa4dc54172cd5861020d6e09ff22",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-04-19T21:54:06+10:00",
+  "timestamp": 1492602846,
+  "message": "pango-depends-on-libxft-when-X-disable-libxft-support-when-X-3899",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e340f275b81beebd25df2aec368a11c4370abe64",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-12-22T00:03:28+01:00",
+  "timestamp": 1482361408,
+  "message": "Update-cairo-to-1.14.8-gtkplus-to-2.24.31-and-pango-to-1.40.3-2642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65df41744435ab80f50e0b592320832fd138adc5",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-12-08T09:43:29-08:00",
+  "timestamp": 1481219009,
+  "message": "Update-emacs-current-release-use-our-x11-bits-2052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c250ab4860c69a00fec7574e7dd15b6341d00ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-11T10:19:44+02:00",
+  "timestamp": 1476173984,
+  "message": "pango-add-missing-dependency-1958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d981ebd50fe9b24826fae565f133494d2e49242",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-04T17:29:22+01:00",
+  "timestamp": 1475598562,
+  "message": "A-set-of-tools-used-in-climate-modeling-and-numerical-weather-prediction.-1317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ad21e70700845a51beae5855171492232bd99c1",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-08-06T18:12:47-05:00",
+  "timestamp": 1470525167,
+  "message": "Add-list_url-to-pango-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c80b152208e8f2154db6c658475fe18a9c9f8bc",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-07-29T08:46:31-06:00",
+  "timestamp": 1469803591,
+  "message": "GTK-3-Provide-updates-to-package-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18ce5ccf8fb31dae71848f541f3e139bd582953c",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-08T02:49:11-08:00",
+  "timestamp": 1457434151,
+  "message": "Avoid-race-in-pango-s-make-install-set-parallel-False",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

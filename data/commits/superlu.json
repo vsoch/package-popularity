@@ -1,0 +1,184 @@
+[{
+  "commit": "10204826db45b3b2778e40d77adac0b64eecbb9c",
+  "author": "Sergei Shudler <shudler1@llnl.gov>",
+  "date": "2021-02-04T12:10:15-08:00",
+  "timestamp": 1612469415,
+  "message": "superlu-Add-e4s-testsuite-inspired-smoke-test-21230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "105ee757bc209228a4b5626bab1c76f553da3e5d",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-12-17T12:26:18-08:00",
+  "timestamp": 1608236778,
+  "message": "superlu-depends-on-tcsh-for-build-20381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3508909f069413f0400f92e76078ab5aa671e0c4",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-06-08T16:54:26-06:00",
+  "timestamp": 1496962466,
+  "message": "Adding-Nalu-package.-4428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b612d3568120bc5506c27b05cf3dc38cfd4eb83",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-12-02T11:47:35-07:00",
+  "timestamp": 1480704455,
+  "message": "Updating-SuperLU-package-to-use-pic_flag-instead-of-fPIC-and-removing-specific-version-for-default-install-method.-2456",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6db0bfae2663951dca1f4e51cb631f332a6f430",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-11-23T14:26:00-07:00",
+  "timestamp": 1479936360,
+  "message": "Updating-SuperLU-package-file-with-ability-to-build-version-4.3.-2390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85502e34f9d8a0a91267247d9b72287012befd0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T14:35:19-05:00",
+  "timestamp": 1465587319,
+  "message": "CMake-knows-how-to-create-PIC",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65896ff2ed809776e54f012a622b13a450c64ea6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-08T14:11:14-05:00",
+  "timestamp": 1465413074,
+  "message": "Add-Armadillo-and-SuperLU-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e414c5fdfbc91e5934ee59233475f8f862e2e0ce",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:31:18-05:00",
+  "timestamp": 1456803078,
+  "message": "Added-missing-cmake-dependencies",
+  "repo": "spack/spack"
+}]

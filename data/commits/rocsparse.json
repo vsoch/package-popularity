@@ -1,0 +1,72 @@
+[{
+  "commit": "56418bac391f4fe0b46806651357f47cded557a7",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-07T16:55:20-04:00",
+  "timestamp": 1617828920,
+  "message": "bump-up-version-for-rccl-for-rocm-4.1.0-release-22762",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4acf74091d6d6e2e9914bf9380ffde1cfb1ca4f",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-05T04:32:03+05:30",
+  "timestamp": 1609801323,
+  "message": "bump-up-rocm-math-libs-recipes-for-rocm-4.0.0-release-20651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1b9a00a13fc942e0b54a9c766cff96e7b1eb743",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T17:10:54+05:30",
+  "timestamp": 1606995654,
+  "message": "bumpup-the-version-for-rocm-3.10.0-release-20227",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d40a35e8d7550f9fb2221135bb1a6f1978efbfab",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-11-13T10:34:19+05:30",
+  "timestamp": 1605243859,
+  "message": "ROCm-3.9-Stage2-recipe-19838",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d965f7bb121c633a1e3781c4c1aec0229476d1f",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-09-28T21:40:34+05:30",
+  "timestamp": 1601309434,
+  "message": "ROCm3.8-hipcub-hipsparse-rocprim-rocsparse-rocthrust-18936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d87cbdb524c0fad2100f8fa15b0c76dce432750",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-09-03T02:50:05+02:00",
+  "timestamp": 1599094205,
+  "message": "Add-rocm-3.7.0-libs-18366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebe5a5652cbc50aced28f19cdf8a5476fd111e55",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-20T21:55:02+02:00",
+  "timestamp": 1597953302,
+  "message": "Add-rocSPARSE-rocSOLVER-hipSPARSE-and-hipBLAS-18108",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dfd99c57ae616294410f0e9eae82731d123e875",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-08-14T02:04:30+05:30",
+  "timestamp": 1597350870,
+  "message": "AMD-ROCm-Mathlibs-17699",
+  "repo": "spack/spack"
+}]

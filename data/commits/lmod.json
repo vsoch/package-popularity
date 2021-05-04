@@ -1,0 +1,352 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cad21d6eb19fd9b671073d25c73daac9e391796b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-29T19:35:46+02:00",
+  "timestamp": 1596044146,
+  "message": "lmod-change-variant-defaults-to-match-Lmod-s-defaults-17770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9d573d1101002b127d5c789d86d3c1e92d81309",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-30T08:14:07-05:00",
+  "timestamp": 1585574047,
+  "message": "package-add-additional-configuration-options-to-lmod-15682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1f593b6c6297503f9babf4978d2633f966b838c",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-23T19:02:46-05:00",
+  "timestamp": 1585008166,
+  "message": "lmod-add-version-7.8.1-15643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e0408d05ac7bf06f2634bd298d059852fc2f87d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-01-30T19:33:16+01:00",
+  "timestamp": 1580409196,
+  "message": "Updated-docstring-and-version-of-lmod-to-v8.3-14687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16530f84be04b8466769b9b74fe920d67006b988",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-06-12T17:07:47-07:00",
+  "timestamp": 1560384467,
+  "message": "Update-remaining-packages-to-use-Stage.source_path-11662",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd4521f723f7ac1d901423829ca965aeb00f9de",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-05-24T19:45:53+02:00",
+  "timestamp": 1558719953,
+  "message": "Updated-lmod-to-version-8.1.5-and-associated-dependencies-11552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a2315aa380cd7aa66c4400b63979a0eba701bed",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-01-17T23:49:26-08:00",
+  "timestamp": 1547797766,
+  "message": "adding-checksum-for-latest-lmod-release-10381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db79c86ed60db084033b160b64e94e23beb5f0cb",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-07-31T23:19:41-07:00",
+  "timestamp": 1533104381,
+  "message": "lmod-add-version-7.8-8838",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50122a585acc254378dbfe6fe1f0461b666ed8fe",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-04-26T14:46:45+02:00",
+  "timestamp": 1524746805,
+  "message": "Added-the-latest-versions-of-a-few-packages-7910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e279299b9be8109a446e45eafb82bfedc6cdbd77",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2017-12-08T13:52:00-06:00",
+  "timestamp": 1512762720,
+  "message": "Relax-restriction-on-lua-version.-5886",
+  "repo": "spack/spack"
+},
+{
+  "commit": "138e9d08c6009446f6d30a394a8c3bb6ec0608fc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-11-14T11:32:41-07:00",
+  "timestamp": 1510684361,
+  "message": "Add-the-latest-version-of-Lmod-6297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e947a0b15224edc2932489f269f0da4d7376cad2",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-09-25T06:31:43-07:00",
+  "timestamp": 1506346303,
+  "message": "Add-info-for-lmod-7.7-and-lmod-7.6.14-5450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e65f2347c06a3b6e07099b3b0074c645adbc1a6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-11T14:50:29-05:00",
+  "timestamp": 1494532229,
+  "message": "Add-patch-to-fix-missing-MODULESHOME-in-profile-4214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3af901ac613805544c228a048a383bf92d4d11d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-05T16:06:07-05:00",
+  "timestamp": 1494018367,
+  "message": "Add-latest-version-of-Lmod-4141",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89ea5bdd61869dc8afc2a0f1b1d7451d35991497",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-29T14:44:55+02:00",
+  "timestamp": 1493469895,
+  "message": "A-few-updates-to-packages-mostly-version-updates-4049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28e20313ac5a2a50cdbc4747cd4acbf252ae6ec0",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-07T21:32:32+02:00",
+  "timestamp": 1491593552,
+  "message": "lmod-added-new-version-3763",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9025e3283658bd53756d46d0d5e20ea8e066bf2",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-03-28T16:55:25-07:00",
+  "timestamp": 1490745325,
+  "message": "Add-version-info-for-7.4.1-3600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99ef28b5d247ac9cbd907034fadc33e00c98e6ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-16T12:50:30-05:00",
+  "timestamp": 1489686630,
+  "message": "Add-latest-version-of-lmod-3467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09d96bef9ff2f00ad18d70f3ff88bd3734ef149b",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-06T17:39:05-04:00",
+  "timestamp": 1470519545,
+  "message": "No-need-to-patch-Lmod-after-6.4.4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c105895abe249962e0651fdba8875c70752551a",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-21T14:24:51-04:00",
+  "timestamp": 1469125491,
+  "message": "Fix-flake8-violations",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9523e50732ff651e1ae073791708c312217bedb1",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-21T13:58:16-04:00",
+  "timestamp": 1469123896,
+  "message": "Fix-shebang-line-in-tcl-scripts",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52f0249c61a0336efeb593a930af6ed61f07333b",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-15T18:58:32-04:00",
+  "timestamp": 1468623512,
+  "message": "tcl-is-actually-a-runtime-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a27cb639d805b247c0e6d8348466cfb759f93191",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-15T16:40:15-04:00",
+  "timestamp": 1468615215,
+  "message": "The-lmod-package-should-depend_on-tcl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "564483936f32abfd5ee79dea6263af4bd6e9bb9d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-08T16:33:49+02:00",
+  "timestamp": 1465396429,
+  "message": "qa-fixed-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a61efe641c9bf987a62bff729334c7cce3f141b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-08T16:21:09+02:00",
+  "timestamp": 1465395669,
+  "message": "lmod-fixed-issues-with-LUA_PATH-during-installation",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4a39457de662376b5f9da300a06e2dff91b1aeb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-08T15:35:15+02:00",
+  "timestamp": 1465392915,
+  "message": "lmod-updated-package-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

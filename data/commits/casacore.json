@@ -1,0 +1,104 @@
+[{
+  "commit": "e3b0d7ce0e6f74dd4e70064c1fa211441c7c20b4",
+  "author": "Martin Pokorny <mpokorny@nrao.edu>",
+  "date": "2021-04-12T03:03:24-06:00",
+  "timestamp": 1618218204,
+  "message": "casacore-change-FFT-variants-for-correct-version-dependent-FFT-choices-22925",
+  "repo": "spack/spack"
+},
+{
+  "commit": "355b7787d44a28755c11068a7750b36c3a759096",
+  "author": "Martin Pokorny <martin@truffulatree.org>",
+  "date": "2021-04-07T14:27:42-06:00",
+  "timestamp": 1617827262,
+  "message": "Remove-mpi-variant-from-fftw-dependency-22848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c84c0187eafef812fb1316c4da9bcf1096d26a02",
+  "author": "Martin Pokorny <martin@truffulatree.org>",
+  "date": "2021-03-20T07:58:56-06:00",
+  "timestamp": 1616248736,
+  "message": "casacore-fft-implementation-default-22226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68d5f348e5d00cb673bd2ffb4abffc108a2f1e39",
+  "author": "Martin Pokorny <martin@truffulatree.org>",
+  "date": "2021-03-08T13:26:44-07:00",
+  "timestamp": 1615235204,
+  "message": "casacore-add-v3.4.0-22163",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4097a0c93f3804fb3f3e7b697a1741bbbd3ee88c",
+  "author": "Martin Pokorny <mpokorny@nrao.edu>",
+  "date": "2021-03-05T09:05:37-07:00",
+  "timestamp": 1614960337,
+  "message": "casacore-use-a-modern-CMake-s-version-of-FindHDF5.cmake-21882",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95ea54103f9b3701d35c44de83386d352e24c106",
+  "author": "Martin Pokorny <martin@truffulatree.org>",
+  "date": "2021-02-16T11:17:16-07:00",
+  "timestamp": 1613499436,
+  "message": "Remove-minimum-version-for-cfitsio-dependency-21630",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a23d67f7eae4175f86abb754482e1f35dcfd12b5",
+  "author": "Martin Pokorny <martin@truffulatree.org>",
+  "date": "2020-09-22T12:55:58-06:00",
+  "timestamp": 1600800958,
+  "message": "casacore-added-v3.3.0-18870",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cacd57d3401c48490870df2a9c1b7ab51d0e5065",
+  "author": "Martin Pokorny <mpokorny@nrao.edu>",
+  "date": "2020-01-17T19:02:51-07:00",
+  "timestamp": 1579312971,
+  "message": "Updates-to-casacore-package-14552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a79230c83218890832e4fa134a5e1f0efd1107e8",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-03-13T08:59:48+08:00",
+  "timestamp": 1552438788,
+  "message": "casacore-does-not-support-fftw-mpi-.-10839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9c27f52bd2e033237cfd9ad73a597781310a55b",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-02-13T00:22:48+08:00",
+  "timestamp": 1549988568,
+  "message": "casacore-new-package-7471",
+  "repo": "spack/spack"
+}]

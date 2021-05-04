@@ -1,0 +1,256 @@
+[{
+  "commit": "a7d36cab5befaf37e88d05cddf4e9429eac7ad5a",
+  "author": "Desmond Orton <odesmond21@gmail.com>",
+  "date": "2021-03-26T15:55:05-06:00",
+  "timestamp": 1616795705,
+  "message": "revbayes-Version-updated-to-1.1.1-22555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f294c264a10364caa33b2ec4d00aa196d5af6b67",
+  "author": "Nick Booher <njbooher@iastate.edu>",
+  "date": "2020-05-13T12:54:21-05:00",
+  "timestamp": 1589392461,
+  "message": "revbayes-Update-checksum-16628",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9bdf4564dbf1276881a1e25bb26f9ea42e606346",
+  "author": "Nick Booher <njbooher@iastate.edu>",
+  "date": "2020-05-12T14:26:44-05:00",
+  "timestamp": 1589311604,
+  "message": "revbayes-update-for-1.1.0-16603",
+  "repo": "spack/spack"
+},
+{
+  "commit": "156b59c2f1f4ef96f31004a0516eda65ad8f815c",
+  "author": "Nick Booher <njbooher@iastate.edu>",
+  "date": "2020-03-18T13:18:45-05:00",
+  "timestamp": 1584555525,
+  "message": "revbayes-Update-pre-build-process-15485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bdbd96e68dabe63d136fa9a11df09474311e327",
+  "author": "Nick Booher <njbooher@gmail.com>",
+  "date": "2020-03-11T22:04:59-05:00",
+  "timestamp": 1583982299,
+  "message": "revbayes-Update-URLs-and-hashes-for-old-archives-15451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8c8dca5b5e8cae7e40eb30a36ac55692b352e4e",
+  "author": "Nick Booher <njbooher@iastate.edu>",
+  "date": "2019-11-16T01:12:38-06:00",
+  "timestamp": 1573888358,
+  "message": "revbayes-add-new-versions-13760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "786b59633d009867c8905e8e0067c1e1a11c7d2e",
+  "author": "Nick Booher <njbooher@gmail.com>",
+  "date": "2019-05-30T12:23:32-05:00",
+  "timestamp": 1559237012,
+  "message": "Revbayes-update-11559",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39c40ee3fcb9da8eabd70b4dee1439a2411de3d5",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2019-03-13T15:36:13-05:00",
+  "timestamp": 1552509373,
+  "message": "revbayes-new-version-10873",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd9742a30b847a2b7244cd16b2edcd1884418e77",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-07-21T20:51:39-05:00",
+  "timestamp": 1500688299,
+  "message": "revbayes-trying-this-again-4861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02258056fd890c0fda40c0eba2c6a6cd7572f28e",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-07-10T12:29:59-05:00",
+  "timestamp": 1499707799,
+  "message": "exabayes-new-pacakge-4695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64fb2f22b436cf14e75da11e27430500a675212c",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-05-09T16:26:57-07:00",
+  "timestamp": 1494372417,
+  "message": "Adding-FASTMath-uber-package-and-missing-FASTMath-packages-4120",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1223e43827eb229ca32d83e1b3950a71fe08d29d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-20T19:11:11+01:00",
+  "timestamp": 1484935871,
+  "message": "p4est-add-2.0-2890",
+  "repo": "spack/spack"
+},
+{
+  "commit": "190a5b575ccccf81ee3e71d0048aa0b0e4753f22",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-17T20:05:34+01:00",
+  "timestamp": 1484679934,
+  "message": "p4est-switch-to-AutotoolsPackage-2839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb645a8e46a9e0144149991d486593ca825b0b6c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-12T18:51:58+01:00",
+  "timestamp": 1481565118,
+  "message": "p4est-remove-unneded-lua-dependency-2559",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de9cce3e80e32380b9a7153fc4a143150e1c00cd",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-13T11:45:33+02:00",
+  "timestamp": 1468403133,
+  "message": "p4est-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8bd02c5b2f3813b325d96d364b406b2f13df48f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-13T09:48:53+02:00",
+  "timestamp": 1468396133,
+  "message": "p4est-use-run_tests-instead-of-a-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f417b1cf904d99b4fb81ab31ec3ddd6da362d286",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-04T11:01:52+02:00",
+  "timestamp": 1462352512,
+  "message": "p4est-use-mpicc-mpicxx-mpifc-mpif77-compiler-variables-instead-of-hardcoding-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0583bc98598d5c868e7ca402cbdf80bb4557c8cf",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-03T16:20:38+02:00",
+  "timestamp": 1462285238,
+  "message": "p4est-put-back-tests-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a45aa41854fbc1824401662f93e08d078109f6e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-26T12:52:49+02:00",
+  "timestamp": 1461667969,
+  "message": "p4est-add-missing-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c8d51f403213cf3a49373d4dca03fac565a73b4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T22:58:14+01:00",
+  "timestamp": 1458683894,
+  "message": "add-p4est-package",
+  "repo": "spack/spack"
+}]

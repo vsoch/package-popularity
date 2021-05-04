@@ -1,0 +1,344 @@
+[{
+  "commit": "11584f3cb143f3c903b39e582b376b50652d5c9a",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-03-27T13:17:40-04:00",
+  "timestamp": 1616865460,
+  "message": "gmp-add-version-6.2.1-22570",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea4f9ebbde50ae3606a6d8955512bc1b54299c51",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-12T20:21:45-05:00",
+  "timestamp": 1570929705,
+  "message": "gmp-fix-make-check-on-catalina-13201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5656529974df48f91bb1919806cfd2ea0653f6aa",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-03T17:53:19-04:00",
+  "timestamp": 1525384399,
+  "message": "gmp-update-7999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e064927fab80cc18d5323311df5ecb45c6a4726b",
+  "author": "jthies <jonas.thies@dlr.de>",
+  "date": "2018-03-17T16:22:42-07:00",
+  "timestamp": 1521328962,
+  "message": "gmp-add-oldish-version-5.1.3-with-checksum-7510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "181fd95057018b4e26d3fcbc76dd8d84f56cd3eb",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-06-13T15:06:44+02:00",
+  "timestamp": 1497359204,
+  "message": "Fix-building-shared-libraries-for-gmp-4464",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42b09640f00d57af12a736e2df03af9aaa886bfc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-06T14:24:19-05:00",
+  "timestamp": 1494098659,
+  "message": "gmp-switch-to-download-directly-from-GNU-4152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "040f8a7176040f38ba46abc1afd54464ece3e1c8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-31T00:53:54-06:00",
+  "timestamp": 1483167234,
+  "message": "Add-latest-version-of-gmp-2695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7b624457ff3765c35e4adb9be70d1a2e86e0f2e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-25T16:08:52+02:00",
+  "timestamp": 1477404532,
+  "message": "gmp-fix-a-bug-2114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7a5dd36e2d25d9f9c438b40b94b7d5833e149a8",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-10-11T16:30:06+02:00",
+  "timestamp": 1476196206,
+  "message": "qa-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebef9628a3c37b3853c1d9a40873c5f0f819d2c9",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-06T20:49:03+01:00",
+  "timestamp": 1475783343,
+  "message": "Update-gmp-fixed-an-issue-with-intel-compiler.-1898",
+  "repo": "spack/spack"
+},
+{
+  "commit": "deb1cb4805a9f02330a2380ccd68b72a48c84f13",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-29T14:35:10-05:00",
+  "timestamp": 1475177710,
+  "message": "Add-libint-package-1264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e53f4328fcb94190bf7c54287aee95df563af01",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-01T16:30:11-05:00",
+  "timestamp": 1467408611,
+  "message": "Add-py-meep-package-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a43c63f14953ab105bf80e906dc212a62a0d3f67",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-07-11T10:08:19+02:00",
+  "timestamp": 1468224499,
+  "message": "package-added-EditableMakefile",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e227f603d0c158e9f71a0bc0a815d977415908c",
+  "author": "jppelteret <jppelteret@gmail.com>",
+  "date": "2016-04-26T19:01:09+02:00",
+  "timestamp": 1461690069,
+  "message": "Fix-Add-missing-dependencies-for-gmp-and-eigen-830",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a37828bafba2f594e54e0e7487df909fdeac4c8f",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T21:59:47-07:00",
+  "timestamp": 1412830787,
+  "message": "Packages-for-gcc-and-its-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87fedc7e1e132e52405ee4e0105bb8267ae57c1b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-07T13:51:46-08:00",
+  "timestamp": 1386453106,
+  "message": "Added-support-for-virtual-dependencies-provides",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5c565891ff20c87b3583aaacc29fd37357f723b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-26T14:04:09-07:00",
+  "timestamp": 1382821449,
+  "message": "First-cut-concretization-works-with-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "558cf7e40689fc18eca47bc80d34da555b5d27d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-17T14:46:00-07:00",
+  "timestamp": 1382046360,
+  "message": "spec-flatten-normalize-validate-package-validate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

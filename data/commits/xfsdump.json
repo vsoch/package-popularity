@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221e680e2b0eb27971794e8a680a9cf743f079c3",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-01-04T01:20:57+08:00",
+  "timestamp": 1609694457,
+  "message": "Add-new-package-xfsdump-19914",
+  "repo": "spack/spack"
+}]

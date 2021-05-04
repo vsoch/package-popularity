@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0612a9e8e982abcc5863b087ca1950492c53fc38",
+  "author": "figroc <figroc@gmail.com>",
+  "date": "2020-07-11T08:10:04+08:00",
+  "timestamp": 1594426204,
+  "message": "tensorflow-serving-client-add-new-version-2.2.0-17462",
+  "repo": "spack/spack"
+},
+{
+  "commit": "458c9a22bf16e7e3f9d4475074bcf5ac64c6907e",
+  "author": "Figroc Chen <figroc@gmail.com>",
+  "date": "2020-02-07T02:20:55+08:00",
+  "timestamp": 1581013255,
+  "message": "tensorflow-serving-client-add-new-version-2.1.0-14786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ace47cecbe09395f63f1159cab625060fd7c9c6e",
+  "author": "Figroc Chen <figroc@gmail.com>",
+  "date": "2019-11-21T07:01:04+08:00",
+  "timestamp": 1574290864,
+  "message": "tensorflow-serving-client-add-new-package-13771",
+  "repo": "spack/spack"
+}]

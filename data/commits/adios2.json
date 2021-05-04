@@ -1,0 +1,320 @@
+[{
+  "commit": "48af2ac8f9911fa5b460fa99a09ded4cdae6735e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-10T20:44:42-08:00",
+  "timestamp": 1613018682,
+  "message": "adios2-Add-2.7.1-release-21584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14f6d64edf4989458ad9fc940cdc19bf7cf2425a",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2021-01-22T10:31:21-05:00",
+  "timestamp": 1611329481,
+  "message": "adios2-Fix-dependency-issues-21211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f49b1a9301447a8cf880c99820cad65e5c2d7e3",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2021-01-13T17:42:36-05:00",
+  "timestamp": 1610577756,
+  "message": "adios2-Define-custom-libs-property-20848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc4e66ef3ca7c864f3bdac2a7aec338905841183",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2021-01-13T15:02:30-05:00",
+  "timestamp": 1610568150,
+  "message": "adios2-Add-2.7.0-release-20800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16d5cc2c99d3b4aa8bfb54a4539edfcaa3a7633e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-11-19T11:56:51-08:00",
+  "timestamp": 1605815811,
+  "message": "ADIOS2-dataman-default-20003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "383b5b70ccc8903756fdad27c12303c524eae816",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-14T03:47:15-04:00",
+  "timestamp": 1602661635,
+  "message": "adios2-Remove-rogue-zmq-dependency-for-ssc-engine-19293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2827dca905bd2ae51a0b10ccf634199648f24e80",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-06-10T07:19:41-07:00",
+  "timestamp": 1591798781,
+  "message": "ADIOS-2.6.0-New-Options-17025",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6020d259aacfe1f7168d61f96f3f7fbb8fbe7d5",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-06-10T21:53:09+09:00",
+  "timestamp": 1591793589,
+  "message": "adios2-fix-to-build-on-Fujitsu-MPI-and-Fujitsu-compiler-17034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ace804dc2d33217fb9926be3962e35dc7d007c4",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-06-02T17:15:23-04:00",
+  "timestamp": 1591132523,
+  "message": "Bump-ADIOS-to-2.6.0-16908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20b3e418317644fc17a8787cb2bda52fdb77a24a",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-14T04:46:13+02:00",
+  "timestamp": 1589424373,
+  "message": "adios2-Fix-build-with-gcc-10-16570",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b813887585d62744b979e0613e25f612b8796080",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T19:24:16-06:00",
+  "timestamp": 1583371456,
+  "message": "ADIOS2-Cleanup-Development-Branch-Name-15334",
+  "repo": "spack/spack"
+},
+{
+  "commit": "136a4897b781c186ad70364bc4ab6b9421b90ddb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T19:23:12-06:00",
+  "timestamp": 1583371392,
+  "message": "ADIOS2-Testing-Depends-on-Python-15336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d831db37ca62cfff2545a26dc72dcbe1cfce3031",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-12-17T22:08:22+09:00",
+  "timestamp": 1576588102,
+  "message": "adios2-Fix-use-of-builtin-__clear_cache-14123",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f931cfc87f48321ce91f815590e32a6d503137f",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-22T12:06:06-04:00",
+  "timestamp": 1571760366,
+  "message": "ADIOS2-Document-endian_reverse-variant-13226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "327a7368e91cb1763531e0154ccabf04005a090c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-18T13:26:56-07:00",
+  "timestamp": 1571430416,
+  "message": "ADIOS2-Dataspaces-libffi-libfabric-13230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dc3a9618a0c9aad91e08267c264694860bacf536",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-15T11:55:45-07:00",
+  "timestamp": 1571165745,
+  "message": "ADIOS2-Default-no-Python-13220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dafee9df3199af365a8dfb58952b8fde6116c105",
+  "author": "William F Godoy <williamfgc@yahoo.com>",
+  "date": "2019-10-14T15:47:55-04:00",
+  "timestamp": 1571082475,
+  "message": "Complete-cleanup-of-the-adios2-package-configuration-13107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bec283080292f90f8f97dcb7ceb070a9a86ed388",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-01T23:28:36-07:00",
+  "timestamp": 1569997716,
+  "message": "ZFP-CMake-Package-12999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10e4d611a5cdefec3d0845059eea29bb66bd17b2",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-01T08:49:52-07:00",
+  "timestamp": 1569944992,
+  "message": "ADIOS2-2.5.0-12987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce15510566eff31cac4ec92455320fd57d797a3b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-08-15T08:11:35-07:00",
+  "timestamp": 1565881895,
+  "message": "ADIOS-2.4.0-Add-new-Deps-12414",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18e41f9959180ad32f18021f127c7884dda636ec",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-07-26T16:17:31-04:00",
+  "timestamp": 1564172251,
+  "message": "adios2-Patch-findmpi-for-downstream-issues.-12152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b3c11e7937038e8711ddf872b498f42aa007c68",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-07-01T19:47:32+02:00",
+  "timestamp": 1562003252,
+  "message": "ADIOS2-v2.4.0-11904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bd960ba86c3c1825b64693a17d5b62447a9e0bd",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-02-23T01:36:04+01:00",
+  "timestamp": 1550882164,
+  "message": "ADIOS-package-add-version-2.3.1-10666",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a6a19be855fe682f9e8fd0945f9ddccce4f3716",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-02T18:16:17+02:00",
+  "timestamp": 1533226577,
+  "message": "adios2-add-2.2.0-8871",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b0252ccb3e827a9cde9d15c778b17b34d2e86c7",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-04-07T18:00:00+02:00",
+  "timestamp": 1523116800,
+  "message": "Add-Package-nlohmann_json-7690",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a36c61d0f2239493608d071222810868aa557c5",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-03-26T16:16:38+02:00",
+  "timestamp": 1522073798,
+  "message": "adios2-add-support-for-Fortran-bindings-7600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "001106884befccee29e1ed11aaacad054eb8c483",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-02-14T22:54:13+01:00",
+  "timestamp": 1518645253,
+  "message": "ADIOS-2.1.0-7240",
+  "repo": "spack/spack"
+},
+{
+  "commit": "257d23581cda1b136912dbcfe3c8cee2ba635aab",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-01-08T19:42:51+01:00",
+  "timestamp": 1515436971,
+  "message": "Cleanup-Remove-Dbl-Brackets-6848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e64fa53ed54eba1423ae754e34b3503c9d12dae",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-05T22:27:56+01:00",
+  "timestamp": 1512509276,
+  "message": "Add-Maintainer-6575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cb2d5341d6b7e5b1de9d2bb90ebe4188670ad15",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2017-10-31T15:08:08-06:00",
+  "timestamp": 1509484088,
+  "message": "Fix-incorrect-checksum-value-for-adios2-tarball-6054",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfb34da689013b76995388c055ffeda12f7dc2ab",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-09T03:24:27+02:00",
+  "timestamp": 1502241867,
+  "message": "Adios2-ZeroMQ-5031",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50bf261197e6280f8bf134a1320a4066feb34c86",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-05T19:05:38+02:00",
+  "timestamp": 1501952738,
+  "message": "Add-ADIOS2-4944",
+  "repo": "spack/spack"
+}]

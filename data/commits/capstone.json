@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b7ca5ef507735c8c5754758b060354d5734e878",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-09-07T09:04:23-05:00",
+  "timestamp": 1599487463,
+  "message": "capstone-added-v4.0.2-18534",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "248452df4f98bf20bc84485175dfc0751ab31299",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2019-01-26T08:52:39-06:00",
+  "timestamp": 1548514359,
+  "message": "capstone-new-package-10449",
+  "repo": "spack/spack"
+}]

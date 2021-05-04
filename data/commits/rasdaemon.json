@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f268f65733d18c5d7606b0a16b40093e3fe679cb",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-02T23:08:34+08:00",
+  "timestamp": 1599059314,
+  "message": "Add-new-package-rasdaemon-18434",
+  "repo": "spack/spack"
+}]

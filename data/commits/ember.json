@@ -1,0 +1,64 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37918e0536a57967e970da7704bf41010d4227e1",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-27T04:49:15-07:00",
+  "timestamp": 1538048955,
+  "message": "ember-put-all-READMEs-into-docs-and-add-executables-in-bin-9362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2656ed63eb488b6450829fb1abd8fd4a08ad0f35",
+  "author": "rvinaybharadwaj <vinayr@lanl.gov>",
+  "date": "2018-09-21T13:04:39-06:00",
+  "timestamp": 1537556679,
+  "message": "Spack-package-for-Ember-9292",
+  "repo": "spack/spack"
+}]

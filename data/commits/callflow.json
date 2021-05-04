@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04225d3cefd220971362d1da00bc14724e90e404",
+  "author": "Harsh Bhatia <bhatia4@llnl.gov>",
+  "date": "2020-10-12T12:17:59-07:00",
+  "timestamp": 1602530279,
+  "message": "new-package-callflow",
+  "repo": "spack/spack"
+}]

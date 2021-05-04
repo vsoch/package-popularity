@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b38e4345f5f52c4d360d75978279ae8e852bb8e",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-01-22T08:06:34-05:00",
+  "timestamp": 1611320794,
+  "message": "py-filterpy-new-package-20747",
+  "repo": "spack/spack"
+}]

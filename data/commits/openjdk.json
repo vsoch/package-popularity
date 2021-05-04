@@ -1,0 +1,136 @@
+[{
+  "commit": "ed9ec30176b38e5607ae1e219a044d5045b7b1ae",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2021-04-17T04:10:38+02:00",
+  "timestamp": 1618625438,
+  "message": "Make-OpenJDK-portable-for-Mac-OS-23054",
+  "repo": "spack/spack"
+},
+{
+  "commit": "546581aefe42cdf7811043e6a58739795bac7b72",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2021-04-16T23:03:56+02:00",
+  "timestamp": 1618607036,
+  "message": "fix-openjdk-build-error-Prefix-import-missing-23014",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95b974707ba40a44e9599dfc2eb36ae76f32eb97",
+  "author": "Baptiste Jonglez <30461003+jonglezb@users.noreply.github.com>",
+  "date": "2021-01-20T20:30:39+01:00",
+  "timestamp": 1611171039,
+  "message": "openjdk-Add-ppc64le-package-21173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9721e0fdec0502b50b89770229fa426ffc0c7835",
+  "author": "Ryan Marcellino <67644978+myan-rarcellino-nnl@users.noreply.github.com>",
+  "date": "2020-12-11T04:24:25-05:00",
+  "timestamp": 1607678665,
+  "message": "openjdk-bump-version-1.8-and-11-20315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00e9e1b3c7bda5db7b47416932728a5832ff3e06",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-18T13:17:08-05:00",
+  "timestamp": 1597774628,
+  "message": "Java-add-spack-external-find-support-18006",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d67279181f81f6053659a79f013b1f6266e3f70",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-06-25T05:43:30+02:00",
+  "timestamp": 1593056610,
+  "message": "openjdk-and-jdk-extend-the-list-of-provided-versions-of-java-17151",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d05f25a4d02bae5dd7910a0eb2473abd792d4a7c",
+  "author": "Paul Ferrell <51765748+Paul-Ferrell@users.noreply.github.com>",
+  "date": "2020-04-08T21:07:00-06:00",
+  "timestamp": 1586401620,
+  "message": "Fixed-bad-expand-option-for-openjdk-versions.-15956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f8102d6d0149a13a5bf61e6ec4ad310c0debd52",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-05T00:35:46+08:00",
+  "timestamp": 1586018146,
+  "message": "openjdk-support-aarch64-platform-15840",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2801a8deb62a01f32cc110cd3ace207eb53603b",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-26T03:00:39+01:00",
+  "timestamp": 1585188039,
+  "message": "OpenJDK-add-version-8u222-15677",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3eafde7bf180e94bed6789b5dd41cb3ee240731",
+  "author": "Dominik Dold <34650920+dodo47@users.noreply.github.com>",
+  "date": "2019-12-06T01:48:20+01:00",
+  "timestamp": 1575593300,
+  "message": "Add-new-TensorFlow-package-13112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db7127c56dd03118dff94cb4e86027074c9aa9aa",
+  "author": "zschulte <schulte.zach@gmail.com>",
+  "date": "2019-07-22T14:11:45-04:00",
+  "timestamp": 1563819105,
+  "message": "openjdk-10446",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ed6e78338dbd1a94ad58b0dc977e7db0cd4db0b",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-03-12T18:05:47-05:00",
+  "timestamp": 1552431947,
+  "message": "New-package-ibm-java-10777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21afd258a4784aa08f424647f897a64dfce466d5",
+  "author": "snehring <snehring@users.noreply.github.com>",
+  "date": "2019-01-31T12:54:28-06:00",
+  "timestamp": 1548960868,
+  "message": "New-package-openjdk-9861",
+  "repo": "spack/spack"
+}]

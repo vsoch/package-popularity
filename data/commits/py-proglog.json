@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ebefcc92b20190f46c78d4381efe30f22daf344",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-01-27T21:59:19-05:00",
+  "timestamp": 1611802759,
+  "message": "New-package-py-proglog-20750",
+  "repo": "spack/spack"
+}]

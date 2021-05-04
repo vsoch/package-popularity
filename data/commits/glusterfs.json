@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61804f201a004bafb786fc0f7ea6c7ab2487b0f0",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-07-03T14:35:38+08:00",
+  "timestamp": 1593758138,
+  "message": "glusterfs-add-pkgconfig-dependency-17343",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f63fc5316f5008858f9d88b14b8eb47295d65e4",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-03-20T22:18:24+08:00",
+  "timestamp": 1584713904,
+  "message": "add-new-package-glusterfs-15565",
+  "repo": "spack/spack"
+}]

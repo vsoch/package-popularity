@@ -1,0 +1,64 @@
+[{
+  "commit": "6e48e29c756a87ffdc121b0dc8d90357e3039629",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-06T02:57:03-04:00",
+  "timestamp": 1617692223,
+  "message": "gpu-burn-add-v1.1-and-master-22778",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf3a873a42728d0ff4c90232c6a446574db7bc25",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f4c2b49e38ceecb895b4ad6885ceea377a9737",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd8c73ef1887564ed628748ce5c8ec0a85aa4a76",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-10-12T07:00:56-05:00",
+  "timestamp": 1602504056,
+  "message": "Change-how-CUDA-variants-are-handled-18983",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c566a610c9319098511f7ed645e1bb9e49927db3",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-10-25T19:14:52-05:00",
+  "timestamp": 1572048892,
+  "message": "New-package-gpu-burn-13108",
+  "repo": "spack/spack"
+}]

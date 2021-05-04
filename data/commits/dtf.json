@@ -1,0 +1,8 @@
+[{
+  "commit": "c77267f0a15e72cee2db73eb9e75f9c60ed9024b",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-03-22T19:07:07+09:00",
+  "timestamp": 1616407627,
+  "message": "dtf-new-package.-22446",
+  "repo": "spack/spack"
+}]

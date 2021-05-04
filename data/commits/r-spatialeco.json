@@ -1,0 +1,32 @@
+[{
+  "commit": "cf35661d3c1da612991a43843b7183d50cfc5836",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-24T17:54:25-06:00",
+  "timestamp": 1611532465,
+  "message": "Updates-of-R-CRAN-packages-21223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfc390b41f28817e7ae99061f4364806844a94ef",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-06-23T10:19:00+02:00",
+  "timestamp": 1592900340,
+  "message": "r-spatialEco-added-v1.3-2-17194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e90f51a8026c0eb74383956b3c6cdf92fad84913",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-05-25T20:19:51+02:00",
+  "timestamp": 1590430791,
+  "message": "r-spatialeco-New-package-16744",
+  "repo": "spack/spack"
+}]

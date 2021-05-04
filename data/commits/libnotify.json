@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1461332e9712c48bc5b0ade5ea4c2c1d0f99db11",
+  "author": "Jennifer Herting <jen@herting.cc>",
+  "date": "2020-04-03T12:07:25-04:00",
+  "timestamp": 1585930045,
+  "message": "New-package-libnotify-15769",
+  "repo": "spack/spack"
+}]

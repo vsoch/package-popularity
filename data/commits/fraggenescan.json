@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb218058bcca40a41dac7ca1cc938183ee9193af",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-09-17T00:40:33+09:00",
+  "timestamp": 1600270833,
+  "message": "fraggenescan-Modify-build_targets-for-aarch64-18687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2d35f80d194fee3e1bdeea1d31ea8e3ff5948bf",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-05-22T10:17:43-05:00",
+  "timestamp": 1590160663,
+  "message": "fraggenescan-new-package-at-v1.31-16587",
+  "repo": "spack/spack"
+}]

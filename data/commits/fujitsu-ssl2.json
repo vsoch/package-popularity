@@ -1,0 +1,48 @@
+[{
+  "commit": "3e532db04d0182c9a7dd342495884113cebce379",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2021-04-01T12:59:10+09:00",
+  "timestamp": 1617249550,
+  "message": "fujitsu-ssl2-Add-the-headers-method-22629",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adf19379cc12bac9e8ce8cf77a545b5786d74471",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2021-03-23T16:33:05+09:00",
+  "timestamp": 1616484785,
+  "message": "fujitsu-ssl2-fix-to-library-list-and-env-variables-22462",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e83cce313b92cb163972139cea67ebd2d7f23727",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2021-01-27T19:32:23+09:00",
+  "timestamp": 1611743543,
+  "message": "fujitsu-ssl2-remove-mentions-of-libfj90rt2.a-21308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9d3d668d9457a1a6dfa86d1869ffa0350807f30",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2020-10-27T03:31:45+09:00",
+  "timestamp": 1603737105,
+  "message": "fujitsu-ssl2-update-package.py-19519",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbaa78cb4a217f25b64bd31b619a5558d44c84be",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2020-10-09T01:36:00+09:00",
+  "timestamp": 1602174960,
+  "message": "fujitsu-ssl2-Add-new-package-18498",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,200 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "117000f607a06618879eee868ca2b2c894701246",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-29T20:02:15+01:00",
+  "timestamp": 1606676535,
+  "message": "node-js-added-v15.3.0-and-v14.15.1-20145",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "385f5b8c53e898364db81b21cae522a92b30ae70",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-11-16T15:11:26-07:00",
+  "timestamp": 1605564686,
+  "message": "node-js-add-gcc-4.8-conflict-19945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65fe75d978082e20fef9b7ca8bb0193b9d593e41",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-10-02T09:58:24+02:00",
+  "timestamp": 1601625504,
+  "message": "node-js-Add-14.13.0-and-12.18.4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e43855bc8fa0e808f24b7919ee85834bc2c2ab3b",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-09T03:55:40+02:00",
+  "timestamp": 1599616540,
+  "message": "node-js-Add-14.10.0-and-12.18.3-18576",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afaae7085592b5f788dc51eeb3081476a8ce6d47",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-08-05T23:12:14+08:00",
+  "timestamp": 1596640334,
+  "message": "nodejs-add-version-8.11.4-17824",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76bf5c53fa229356794d41a1b4186509a71732aa",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-02-18T03:25:20+01:00",
+  "timestamp": 1581992720,
+  "message": "node-js-Add-12.16.0-and-13.8.0-15024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73dbda8c5a56725805ec67d78931344b377603a7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-20T16:17:04-06:00",
+  "timestamp": 1576880224,
+  "message": "node-js-add-Python-3-support-14242",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9437cf88f003ef016bace3d28e5af29f02e5bc73",
+  "author": "ajw1980 <ajw1980@gmail.com>",
+  "date": "2019-03-26T14:43:30-05:00",
+  "timestamp": 1553629410,
+  "message": "node-js-package-Depend-on-zlib-when-zlib-10965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a7a532084356a473a282b0443da40f05961327f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T18:39:52+01:00",
+  "timestamp": 1542130792,
+  "message": "node-js-add-10.13.0-and-11.1.0-9781",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c174f11ec9fbdde81c8536d74b86bfaf46d5af0",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-11-25T09:30:06+01:00",
+  "timestamp": 1511598606,
+  "message": "add-new-version-to-node-js-6444",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32d183af05cd9fbe7841eb0e667dafdc3993b189",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-10-09T01:04:09+02:00",
+  "timestamp": 1507503849,
+  "message": "Fix-node-js-requires-openssl-min-1.0.2-5650",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c650303ffdd02c4be273efbce1674706c0182cd",
+  "author": "Matthew Krafczyk <krafczyk.matthew@gmail.com>",
+  "date": "2016-11-11T22:16:30-05:00",
+  "timestamp": 1478920590,
+  "message": "Add-dependencies-and-finish-the-py-tornado-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a5185a2a7dc728d770179bbb2b3b30b30e830d5",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-08-04T13:58:42+02:00",
+  "timestamp": 1470311922,
+  "message": "Added-npm-node.js-and-Jupyter-dependencies",
+  "repo": "spack/spack"
+}]

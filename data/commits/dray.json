@@ -1,0 +1,32 @@
+[{
+  "commit": "513d3bac04f031608622ea654ddf27b584da9610",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-03-26T13:47:46-07:00",
+  "timestamp": 1616791666,
+  "message": "update-ascent-and-friends-for-the-ascent-0.7.0-release-22428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "710fe02a9a7e306ce2f4c1197debb0453fb237d0",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-01-15T15:14:06-08:00",
+  "timestamp": 1610752446,
+  "message": "update-dray-package-with-new-versions-and-to-fix-issue-with-test-variant-19583",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "324c383d8e302370a7bd369c0f8e5db473a7b548",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-07-16T19:51:41-07:00",
+  "timestamp": 1594954301,
+  "message": "add-devil-ray-package-17495",
+  "repo": "spack/spack"
+}]

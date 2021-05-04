@@ -1,0 +1,232 @@
+[{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dacb1b550022062764eec64f0b817d8e5b11a9e",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-01-10T04:36:27-05:00",
+  "timestamp": 1610271387,
+  "message": "libjpeg-turbo-added-v2.05-and-v2.06-20770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d9f0262de6269b895673315a1c36c4f6888419e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-18T14:44:32+02:00",
+  "timestamp": 1592484272,
+  "message": "libjpeg-turbo-fixed-sha256-17154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fe78bceaa9d4390f3ed0641a4223033aaf87b67",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2020-06-18T17:40:54+09:00",
+  "timestamp": 1592469654,
+  "message": "cube-and-libjpeg-turbo-added-cube-v4.5-and-libjpeg-turbo-v2.0.4-17132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94d57446c7e74881816115954a1b8528421df2f1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-12T19:55:44-05:00",
+  "timestamp": 1570928144,
+  "message": "Add-libjpeg-turbo-2.0.3-13152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1269256e25700912bb0a450d2a41cc09d0cc9cff",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-07-18T07:37:18+09:00",
+  "timestamp": 1563403038,
+  "message": "libjpeg-turbo-set-compiler-flags-with-CMake-args-11938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bb44f46204b804f9ba63cd0bcf48bbba1d60c38",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-16T01:47:14-05:00",
+  "timestamp": 1560667634,
+  "message": "Add-libjpeg-turbo-2.0.2-11725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c3adff49b3bb65296e84aeffbfb86eb9ff6dc1d",
+  "author": "ynanyam <31993194+ynanyam@users.noreply.github.com>",
+  "date": "2018-06-06T16:18:03-05:00",
+  "timestamp": 1528319883,
+  "message": "libjpeg-turbo-updated-checksums-and-added-autoreconf-for-older-versions-8411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2eb71ca2086a77a2ebd8d08afb564991ef00b43",
+  "author": "mcneish1 <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-05-18T15:30:25-07:00",
+  "timestamp": 1526682625,
+  "message": "Fix-libjpeg-library-finding-and-opencv-build-with-nonstandard-library-directories-8160-8179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36b4c899fbd06a99f671948160182d185b61b04f",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-05-13T22:01:36-05:00",
+  "timestamp": 1526266896,
+  "message": "Add-cmake-for-newer-version-of-libjpeg-turbo-8102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e9f158a79ddf2e042338f59b13029fe847cbb48",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-03-19T10:41:37-05:00",
+  "timestamp": 1521474097,
+  "message": "Add-latest-version-of-libjpeg-turbo-7518",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a48b5a627cb4fd18f7bd145e6bb944d5a315cfdb",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-08-24T10:30:35+02:00",
+  "timestamp": 1503563435,
+  "message": "Make-jpeg-a-virtual-dependency.-5190",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fd639d6fcc8487ea156a778b28930c198ffb15e",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-11T09:32:05+01:00",
+  "timestamp": 1476174725,
+  "message": "Update-libjpeg-turbo-added-new-version-and-removed-redundant-dependency.-1897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

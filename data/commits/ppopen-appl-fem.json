@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "270c647e719f86653c468756b0bd2c64f31f05ad",
+  "author": "daichi-nishi <70185009+daichi-nishi@users.noreply.github.com>",
+  "date": "2020-10-24T00:46:57+09:00",
+  "timestamp": 1603468017,
+  "message": "modified-var-spack-repos-builtin-packages-ppopen-appl-fem-package.py-19489",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae94c52f1c7cf8341cec15e4c2dd29677a7af037",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-04-07T22:43:46+09:00",
+  "timestamp": 1586267026,
+  "message": "ppOpen-APPL-FEM-New-package.-15911",
+  "repo": "spack/spack"
+}]

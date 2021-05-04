@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f42394daf581c7e8bb8233b6ac9576c6583172d7",
+  "author": "ilbiondo <61497728+ilbiondo@users.noreply.github.com>",
+  "date": "2020-07-23T17:07:48+02:00",
+  "timestamp": 1595516868,
+  "message": "csa-c-added-new-package-at-master-17676",
+  "repo": "spack/spack"
+}]

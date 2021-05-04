@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abbc47823d57eb932eb17e563cf117883644878b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T21:35:30-07:00",
+  "timestamp": 1587098130,
+  "message": "SourceForge-Mirror-Mixin-16112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a0c334d812de7107e3538196c5221246145b0d8",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-12-14T20:12:51-06:00",
+  "timestamp": 1544839971,
+  "message": "pbsuite-pythonpath-should-be-prepended-not-set-10113",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4471f9ea32ce2ceb6ccced163fe0b0aa6673c8d5",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-12-07T20:01:44-06:00",
+  "timestamp": 1544234504,
+  "message": "pbsuite-new-package-at-15.8.24-10059",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,80 @@
+[{
+  "commit": "475c877fc9f69ce5ec9e46b246096f8c0b5b9037",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-16T19:03:32+09:00",
+  "timestamp": 1615889012,
+  "message": "libflame-Fix-build-error-22315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51a9473bf867af3e5f8f024d124c71b5b03384a0",
+  "author": "vijay kallesh <Vijay-teekinavar.Kallesh@amd.com>",
+  "date": "2020-10-31T22:27:17+05:30",
+  "timestamp": 1604163437,
+  "message": "NEW-Added-amdfftw-amdlibflame-and-amdscalapack-recipes-19457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b58b3a1bfc5c30f8640601f3bfd2db8b723eb3a",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2020-06-12T18:12:35-07:00",
+  "timestamp": 1592010755,
+  "message": "replace-no-with-none-as-possible-value-of-threads-variant-17063",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e858e24b0ffccd8962e376f9ffc6cd93ad5c0dd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-25T18:37:33-05:00",
+  "timestamp": 1569454653,
+  "message": "libflame-fix-macOS-build-12950",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53db1eafb9e6c59efba10383d917afdcaf26f718",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-23T18:54:47-05:00",
+  "timestamp": 1569282887,
+  "message": "Fix-installation-permissions-on-BLIS-and-libflame-libs-12919",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48016366c89b1ac1ff8e4cd28dc7288f736c3db1",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-08-10T11:48:58-05:00",
+  "timestamp": 1565455738,
+  "message": "modified-var-spack-repos-builtin-packages-libflame-package.py-12379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66e9b1279a306e872008f41624bd12246484c42d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-08-06T18:20:23-05:00",
+  "timestamp": 1565133623,
+  "message": "Overhaul-numpy-package-12170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f30b7177448471431ea5510867aa313549959971",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-08-01T09:33:24-05:00",
+  "timestamp": 1564670004,
+  "message": "Add-libflame-12193",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d0650b2cbbb623447eaa68c3a50933174220659",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-08-29T00:03:38+09:00",
+  "timestamp": 1598627018,
+  "message": "looptools-skip-UNDERSCORE-check-and-add-Fwide-18135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38d387c9a5831e6e2931b12cba80ec9cf6e50dcc",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-07-10T15:24:14+02:00",
+  "timestamp": 1594387454,
+  "message": "New-packages-looptools-vbfnlo-17446",
+  "repo": "spack/spack"
+}]

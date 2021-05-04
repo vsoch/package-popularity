@@ -1,0 +1,16 @@
+[{
+  "commit": "93d9bed192d3d2f83840e81bdde57abb718708da",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-02-18T19:14:18+09:00",
+  "timestamp": 1613643258,
+  "message": "enzo-fix-for-aarch64-21715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8406bd303f4cd1f16f1c1d8ea194af32f5c928d",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-16T19:42:01+01:00",
+  "timestamp": 1613500921,
+  "message": "enzo-new-package-21634",
+  "repo": "spack/spack"
+}]

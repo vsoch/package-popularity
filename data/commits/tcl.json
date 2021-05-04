@@ -1,0 +1,312 @@
+[{
+  "commit": "54ee955b76e69d39cedbfb5f0cb989b0057cae81",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2021-02-18T11:04:38+01:00",
+  "timestamp": 1613642678,
+  "message": "tcl-add-v8.6.11-21678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "168dd6d03adf7fef6a4f23232418066293de5fe5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-14T05:42:51-06:00",
+  "timestamp": 1605354171,
+  "message": "Don-t-use-prefix.lib-in-tcl-tk-glib-etc-19761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6ca236c269200a8f43dd895baa338849c6cd10d",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2020-08-22T20:02:57-07:00",
+  "timestamp": 1598151777,
+  "message": "add-tcl-6.8.10-18221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abbc47823d57eb932eb17e563cf117883644878b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T21:35:30-07:00",
+  "timestamp": 1587098130,
+  "message": "SourceForge-Mirror-Mixin-16112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c8e9ab406b26437f1a0c9036bad892ea61ac6bd",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-06-06T14:19:24-07:00",
+  "timestamp": 1559855964,
+  "message": "added-tix-package-and-python-variant-for-tix-11599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43e8fcaa767d5262e76a1d932b3ca52a6f60ed1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-02-23T12:36:26-06:00",
+  "timestamp": 1550946986,
+  "message": "Python-optional-dependencies-and-post-installation-tests-10335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd801da1bf906431602cf6f43f121bd3d07dd044",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-09-27T19:34:18-07:00",
+  "timestamp": 1538102058,
+  "message": "Set-libs-property-for-tcl-and-tk-9372",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a53942ee1d1797c32c5039ae7a4bd878f37189c",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-06-08T14:10:40-04:00",
+  "timestamp": 1528481440,
+  "message": "tcl-package-Install-sources-8153",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d602d04d466a161b22963918752fa961b06aed90",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2018-04-13T16:58:25-05:00",
+  "timestamp": 1523656705,
+  "message": "tcl-Add-version-8.6.8-7756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bde69177becaff1ea9fea19014261ffb919e716a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-04-05T16:39:05-05:00",
+  "timestamp": 1522964345,
+  "message": "Don-t-prepend-Tcl-Python-to-PATH-if-in-system-directory-7677",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "213a3de539202c5e1da5b730744ee214d8af64e7",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-03-23T10:05:54+01:00",
+  "timestamp": 1521795954,
+  "message": "Fix-tclsh-command-for-transitive-dependencies-7566",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5879d7d076acbac8912d3996ff40e0e53832d7a",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-03-14T07:02:50+01:00",
+  "timestamp": 1521007370,
+  "message": "Fix-extends-tcl-environment-7473",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b594f89d5e672c00a43e172666635bcb3a47eb33",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-03-13T02:31:03+01:00",
+  "timestamp": 1520904663,
+  "message": "Treat-tcl-as-extendable-7410",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ecfc39e1e94581001a66f3280d58ae9e29d0acf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-23T14:35:11-05:00",
+  "timestamp": 1490297711,
+  "message": "Add-Expect-package-3517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d67bf46bafdf95dec84be6876b1489fdb8a7d0c",
+  "author": "Carlos Bederián <zzzoom@gmail.com>",
+  "date": "2017-02-03T19:15:15-03:00",
+  "timestamp": 1486160115,
+  "message": "Update-Tcl-Tk-to-8.6.6-3002",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc866ae0fe960abf723d5f89c2ae6c6baaa3ce5e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-25T16:57:01+01:00",
+  "timestamp": 1485359821,
+  "message": "build-systems-simpler-clearer-decorators-run_after-run_before-2860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f480e3449eeb047e055af5bbfdf41eefd8de8d1a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-15T18:23:16-06:00",
+  "timestamp": 1484526196,
+  "message": "Added-customization-for-make-targets-in-build-and-install-phases-for-CMakePackage-2742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a27cb639d805b247c0e6d8348466cfb759f93191",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-15T16:40:15-04:00",
+  "timestamp": 1468615215,
+  "message": "The-lmod-package-should-depend_on-tcl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea425a101a698705609698771c0542d2be70987e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-12T11:44:24-05:00",
+  "timestamp": 1468341864,
+  "message": "Flake8-and-new-tk-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "583232ea521c24158a9e537520a5eb434b08a74c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-12T11:38:13-05:00",
+  "timestamp": 1468341493,
+  "message": "Build-Python-with-Tkinter-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4f7b78e9b4ddf1d4fd7dac4782068f07626d9e0",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-01T16:36:31-04:00",
+  "timestamp": 1459542991,
+  "message": "Fixed-tk-and-used-uverridden-url_for_version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4e6b15d981a6bad77cb6f36cdc3a41adf05525b",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-01T15:15:23-04:00",
+  "timestamp": 1459538123,
+  "message": "Fixed-TCL-Tk",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36579844d9f105b5c9182beed83a65bf0bb556a9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-15T23:02:36-08:00",
+  "timestamp": 1424070156,
+  "message": "Add-Tcl-Tk-packages",
+  "repo": "spack/spack"
+}]

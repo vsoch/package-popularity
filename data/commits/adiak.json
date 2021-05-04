@@ -1,0 +1,32 @@
+[{
+  "commit": "098b7b2e50261f6ef26a333a024ff5ab6b2f0521",
+  "author": "David Böhme <boehme3@llnl.gov>",
+  "date": "2021-03-05T06:30:57-08:00",
+  "timestamp": 1614954657,
+  "message": "Add-Caliper-2.5.0-and-Adiak-0.3.0-20718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87fa7c15fc1f529debf7b010a5e3cd8ee4fb3f04",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2019-10-11T12:23:29-07:00",
+  "timestamp": 1570821809,
+  "message": "Add-adiak-package-version-0.1.1",
+  "repo": "spack/spack"
+}]

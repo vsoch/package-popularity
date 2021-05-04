@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "636d6007baaec34f6845b8e3c43e31651972ffd2",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2019-01-22T10:11:19-06:00",
+  "timestamp": 1548173479,
+  "message": "py-pyvcf-new-package-at-0.6.0-10375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ba4c6200c125a651eeb10b3cde964da8f81ae22",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-16T22:53:18-07:00",
+  "timestamp": 1539755598,
+  "message": "relicense-remove-significant-contributions-from-peetsv",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d68b7510b06006be1f2edd16f1df7d6005cf5fe",
+  "author": "peetsv <32349688+peetsv@users.noreply.github.com>",
+  "date": "2018-02-20T15:14:06-08:00",
+  "timestamp": 1519168446,
+  "message": "py-pyvcf-versions-0.6.7-and-0.6.8-6743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6aa3d519390105e64ad940161be0e076892b81cb",
+  "author": "Stas Sergienko <ssergien@anl.gov>",
+  "date": "2017-06-22T12:51:51-05:00",
+  "timestamp": 1498153911,
+  "message": "created-py-tomopy-package-and-fixed-its-dependencies-4576",
+  "repo": "spack/spack"
+},
+{
+  "commit": "336e3e6a897f3759ba8cd5f2b17a33ea2d722164",
+  "author": "Stas Sergienko <ssergien@anl.gov>",
+  "date": "2017-06-15T04:51:52-05:00",
+  "timestamp": 1497520312,
+  "message": "Added-py-pywavelets-package-4496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46251eb559d2eb818fbfca05fb7ca0632a6534e1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-29T11:13:23-05:00",
+  "timestamp": 1490804003,
+  "message": "Add-abipy-package-and-dependencies-3352",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c02de564e4c3b33d0fc0a83078f6c7b43f5004e5",
+  "author": "Kim Serradell <kserradell@yahoo.com>",
+  "date": "2016-12-13T23:36:06+01:00",
+  "timestamp": 1481668566,
+  "message": "New-package-py-cdo-2569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98f27a89eca63b7a5a8d9981eff096d02a947e3d",
+  "author": "Oliver Breitwieser <oliver.breitwieser@gmail.com>",
+  "date": "2016-11-09T16:34:30+01:00",
+  "timestamp": 1478705670,
+  "message": "Add-py-pudb-package-2289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dc8bbcb3a5f710f0ae24b9e4682a5719224a81f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T11:42:20-05:00",
+  "timestamp": 1476204140,
+  "message": "Package-all-of-Xorg-X11-XCB-1740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f56de639721e24348fc889209036b22836232669",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T12:02:06-05:00",
+  "timestamp": 1470157326,
+  "message": "Fix-cycler-dependencies-update-qhull-version-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11e595089d14423025c5c46eedb568616181e19f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T09:25:53-05:00",
+  "timestamp": 1465568753,
+  "message": "Matplotlib-overhaul",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c4ef2996219a00e774baafa558880c83ae3d859",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-04T17:55:43-08:00",
+  "timestamp": 1446688543,
+  "message": "Add-Sphinx-package",
+  "repo": "spack/spack"
+}]

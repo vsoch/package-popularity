@@ -1,0 +1,280 @@
+[{
+  "commit": "26c7f028736010185aa263c654c7159e23b7d4af",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2021-04-06T09:09:01+02:00",
+  "timestamp": 1617692941,
+  "message": "doxygen-add-version-restriction-22773",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28f2349d1efa65db4c2c211ad4edd9283c2c6852",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-22T15:00:31+01:00",
+  "timestamp": 1616421631,
+  "message": "doxygen-new-version-22452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a57598defe119bcd1e7c564ddec6fe8f3705ed4b",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2021-02-11T10:35:51-05:00",
+  "timestamp": 1613057751,
+  "message": "doxygen-fix-gcc-getting-stuck-in-an-infinite-loop-21614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0611036abdb7196d6d91a2433a35394bc2bd4ca7",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2021-01-29T15:05:48-05:00",
+  "timestamp": 1611950748,
+  "message": "doxygen-add-support-for-external-detection-20642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "490105ea20e0f4d818c9951336baf4c211214f97",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2020-10-21T09:38:40-06:00",
+  "timestamp": 1603294720,
+  "message": "Provide-doxygen-1.8.20.-19412",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f683d714f8cb1b69f8d8d572405d65a6d2cfbf9c",
+  "author": "Ryan Pepper <rp20g15@soton.ac.uk>",
+  "date": "2020-04-09T18:03:30+01:00",
+  "timestamp": 1586451810,
+  "message": "Update-doxygen-package-15969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "927f49630639122d0051ec6c05602000be6ed98d",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-12-11T19:22:59+01:00",
+  "timestamp": 1576088579,
+  "message": "doxygen-Fix-libiconv-checks-14106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a6a19d464f31d301fb333c5110042f9ead5d501",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2019-11-21T09:30:31-05:00",
+  "timestamp": 1574346631,
+  "message": "doxygen-added-missing-dependencies-to-the-package-10589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b59f707511d5cbd290567e404c65b1659a6a9dd",
+  "author": "Chad Wood <cdw@cs.uoregon.edu>",
+  "date": "2019-01-07T01:38:32-08:00",
+  "timestamp": 1546853912,
+  "message": "doxygen-URL-and-version-hashes-updated-to-project-s-GitHub-home-10250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8951cc5d7759f27836149856ae0289e6d0f53c62",
+  "author": "Jannek Squar <squar@informatik.uni-hamburg.de>",
+  "date": "2018-12-06T02:02:38+01:00",
+  "timestamp": 1544058158,
+  "message": "Fix-doxygen-package-10021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3ff21eb2ba1b7a3565d736c0da72f0c9a135407",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-10-31T11:03:13-06:00",
+  "timestamp": 1541005393,
+  "message": "Provide-a-newer-doxygen-version.-9681",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6698650679a0b0faf5cb3576565f340a87fef64a",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-12-12T22:45:29+01:00",
+  "timestamp": 1481579129,
+  "message": "Doxygen-Add-new-version-2561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18878a8615f5c124966461a0ffd454af76cabf05",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-12-02T13:56:40-05:00",
+  "timestamp": 1480705000,
+  "message": "doxygen-Disable-unnecessary-graphviz-dependency-by-default.-2323",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ae43b34058223d16ffe3ecd0c4bb6caf006197c",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-05-31T14:32:07-04:00",
+  "timestamp": 1464719527,
+  "message": "doxygen-add-missing-import",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fbf70d95de9fda8dd622a13130575914482bc86",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-15T23:11:49+02:00",
+  "timestamp": 1463346709,
+  "message": "indentation-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "459c647bc97617f2334334c2c59e979f5b15fbef",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-15T18:36:45+02:00",
+  "timestamp": 1463330205,
+  "message": "doxygen-add-graphviz-variant-enable-flex-and-bison-on-OSX-and-they-build-fine",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e763eeacdde4bd63d5beb1fee0ca6eb8593a0884",
+  "author": "George Zagaris <george.zagaris@gmail.com>",
+  "date": "2016-05-12T21:30:11-07:00",
+  "timestamp": 1463113811,
+  "message": "fix-format-in-doxygen-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ece0e7b761755c38f76615fcbd38470940eba61",
+  "author": "George Zagaris <george.zagaris@gmail.com>",
+  "date": "2016-05-12T00:42:22-07:00",
+  "timestamp": 1463038942,
+  "message": "Add-doxygen-version-1.8.11",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e9f5d01ad43e9b00262a12d1fd1225ac368581d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T11:59:13+02:00",
+  "timestamp": 1459331953,
+  "message": "doxygen-add-missing-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99ca0f31531059037a6508aab8ecc62d080f8ce5",
+  "author": "Justin Too <justin@doubleotoo.com>",
+  "date": "2015-09-11T20:27:09+00:00",
+  "timestamp": 1442003229,
+  "message": "Package-Add-Doxygen-v1.8.10",
+  "repo": "spack/spack"
+}]

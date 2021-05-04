@@ -1,0 +1,8 @@
+[{
+  "commit": "1d1d4a57963dccff676aa316bac08ff7e3b0c495",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-17T13:57:53-06:00",
+  "timestamp": 1610913473,
+  "message": "new-package-r-cpp11-21015",
+  "repo": "spack/spack"
+}]

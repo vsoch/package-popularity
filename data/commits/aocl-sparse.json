@@ -1,0 +1,16 @@
+[{
+  "commit": "2fba3e2bd3c43d1f7fc42fd76b2e3aeda7354739",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-22T22:00:08+05:30",
+  "timestamp": 1616430608,
+  "message": "Spack-recipes-for-AOCL-3.0-22376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "912606ad9a6a1751835b91fab52f2f348d80fc0e",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-17T03:04:25+05:30",
+  "timestamp": 1615930465,
+  "message": "spack-recipe-for-aocl-sparse-22079",
+  "repo": "spack/spack"
+}]

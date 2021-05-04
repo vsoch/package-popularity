@@ -1,0 +1,120 @@
+[{
+  "commit": "bf33fe48050bb3d5b0b4f25f034d013320e0db24",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-28T11:04:34-05:00",
+  "timestamp": 1611849874,
+  "message": "openmc-add-v0.11.0-v0.12.0-21349",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cbd349cb4c2420e64de138e848cbeaad232ec1d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-12T01:49:54-07:00",
+  "timestamp": 1570870194,
+  "message": "checksums-fix-packages-that-needed-new-download-locations",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63844a97f813a6530c0e80bbda6094796386ce38",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-10-03T09:12:14-06:00",
+  "timestamp": 1538579534,
+  "message": "openmc-version-bump-7974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f2918813dd65858ccf6f60290828d07455607e6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-15T10:46:35-07:00",
+  "timestamp": 1529084795,
+  "message": "Add-tags-for-ECP-applications-that-are-in-Spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d1456393f3f2f0b0b0358b5d6c69642ec84d56a",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-05-02T06:48:16-06:00",
+  "timestamp": 1525265296,
+  "message": "openmc-is-not-a-proxy-7968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e8cce41e3f78ed4222eff342a5b61b6f8fbf645",
+  "author": "pkondamudi <pkondamudi@users.noreply.github.com>",
+  "date": "2017-08-09T11:11:09-05:00",
+  "timestamp": 1502295069,
+  "message": "OpenMC-parallel-build-fix.-5037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e291f59ea3c1623a9e671fa7e10c78f5161eec70",
+  "author": "pkondamudi <pkondamudi@users.noreply.github.com>",
+  "date": "2017-07-18T13:42:11-05:00",
+  "timestamp": 1500403331,
+  "message": "New-Package-OpenMC-4790",
+  "repo": "spack/spack"
+}]

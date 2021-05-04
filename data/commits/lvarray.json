@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "305d8d9b1bb28ec326427f2de6f11e7c2e55828d",
+  "author": "Ben Corbett <32752943+corbett5@users.noreply.github.com>",
+  "date": "2020-10-29T11:52:10-07:00",
+  "timestamp": 1603997530,
+  "message": "Adds-a-package-for-LvArray-19221",
+  "repo": "spack/spack"
+}]

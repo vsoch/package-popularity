@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "096bd69a949225590feeaeaf16545d673c4cee6d",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-25T12:34:09-05:00",
+  "timestamp": 1593106449,
+  "message": "prevent-multiple-version-sigils-in-the-same-spec-17246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a3552274f6c67439a7da58832fbb3535bf4d966",
+  "author": "Thomas Stitt <tomstit@gmail.com>",
+  "date": "2018-10-31T20:23:44-07:00",
+  "timestamp": 1541042624,
+  "message": "xeus-new-package-9682",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "e5c77232761d895d946ce595e1625639dc56df21",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-06T03:07:56-04:00",
+  "timestamp": 1617692876,
+  "message": "stress-ng-new-package-22777",
+  "repo": "spack/spack"
+}]

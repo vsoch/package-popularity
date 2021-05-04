@@ -1,0 +1,384 @@
+[{
+  "commit": "881ca8406cfddfae1f1cabb7e9ceca3d0af6e86c",
+  "author": "mlawsonca <mlawsonca@users.noreply.github.com>",
+  "date": "2021-01-19T14:58:38-08:00",
+  "timestamp": 1611097118,
+  "message": "fixing-outdated-metis-link-21003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a07c3d2aa8007372718821525ec0cf9ff9342515",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-10-02T17:08:48-04:00",
+  "timestamp": 1601672928,
+  "message": "metis-Ignore-pragma-omp-warnings-errors-with-intel-19049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af189e3ed9643244510db310f05666120772988a",
+  "author": "Garth N. Wells <gnw20@cam.ac.uk>",
+  "date": "2020-09-09T03:01:21+01:00",
+  "timestamp": 1599616881,
+  "message": "Fix-linking-problem-on-macos-18564",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b065150354ee708c202b952cd3f3712a98ea3529",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2020-04-22T11:18:38+01:00",
+  "timestamp": 1587550718,
+  "message": "metis-fix-build-when-version-5.0-16186",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3c1547dbaee2f9cc08b60b4cab244c5d8fe5f79",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-11-17T12:36:14-07:00",
+  "timestamp": 1574019374,
+  "message": "update-to-add-ascent-0.5.0-release-13709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f0fc259c8bdcbbb7d28506f872e085b5fa8356f",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2018-12-09T14:08:38-05:00",
+  "timestamp": 1544382518,
+  "message": "metis-Fix-issues-with-gcc6-and-misleading-indentation-10058",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c7e82a3489241dd7e54b59fa9ace8d28bc1dfd4",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-02-13T02:22:25-08:00",
+  "timestamp": 1518517345,
+  "message": "Fix-for-building-METIS-4.0.3-with-shared-.-7202",
+  "repo": "spack/spack"
+},
+{
+  "commit": "322b016230629c2e97f7d3457f72b13ad3e885b3",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-01-05T12:45:21-07:00",
+  "timestamp": 1515181521,
+  "message": "Provide-build_type-variant-for-Metis.-6808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "56f7c85c939231c289c1b497607058f8bb57245f",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2017-06-13T17:59:25-07:00",
+  "timestamp": 1497401965,
+  "message": "metis-bugfix-make-shared-library-build-portable-4489",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70939cf14729f059ab95e836a8104585ff470b4d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-11T19:04:38-05:00",
+  "timestamp": 1494547478,
+  "message": "Fix-metis-list_url-4222",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58f2a947db98bdecb061133a7b6780fa405fbd33",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-25T13:01:25-05:00",
+  "timestamp": 1493143285,
+  "message": "Properly-ignore-flake8-F811-redefinition-errors-3932",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e895c4cccb67304d3391478cc3fd0c5641bca51",
+  "author": "Jason Sarich <sarich@mcs.anl.gov>",
+  "date": "2017-01-24T13:48:01-06:00",
+  "timestamp": 1485287281,
+  "message": "add-static-options-for-some-libraries-2876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8365dbd959f0c8346017c64298fa1cac06122609",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-16T11:23:07+01:00",
+  "timestamp": 1484562187,
+  "message": "petsc-add-64bit-variant-2655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cbae1d691ade03dac23b949d8233d3680961906",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-09-20T02:48:31-07:00",
+  "timestamp": 1474364911,
+  "message": "Update-Package-Metis-1783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "734fb459a45896ee41881ca906643bd362be3e37",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-25T12:27:52-07:00",
+  "timestamp": 1464204472,
+  "message": "Fixing-a-small-bug-with-metis-4-shared-installs-on-the-Mac-platform",
+  "repo": "spack/spack"
+},
+{
+  "commit": "483ec0d76275521579b2d1c93620a37841159e36",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-24T16:13:52-07:00",
+  "timestamp": 1464131632,
+  "message": "Added-preliminary-improved-testing-code-for-METIS-4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9ba73d931439afd0670bcf6498154724d77cd45",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-24T16:05:29-07:00",
+  "timestamp": 1464131129,
+  "message": "Added-staging-support-and-improved-error-handling-for-METIS-4-installs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5d0a388604f3c33bbbfdc1baff98f54ccdede5b",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-24T15:03:21-07:00",
+  "timestamp": 1464127401,
+  "message": "Fixed-a-few-linking-testing-bugs-in-the-METIS-4-install-method",
+  "repo": "spack/spack"
+},
+{
+  "commit": "064d3584c0f95f19f159f0d7bc51c5172278638f",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-19T09:33:47-07:00",
+  "timestamp": 1463675627,
+  "message": "Updating-metis-and-parmetis-to-conform-to-PEP8-standards",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c95ec0b299f7f0eb83362318f77e31701708902",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-02T16:41:55-07:00",
+  "timestamp": 1462232515,
+  "message": "Updated-and-added-new-versions-to-the-METIS-ParMETIS-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63bade7a0c7350681dd29ce877f2a9fad679d67d",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-17T01:15:07-04:00",
+  "timestamp": 1460870107,
+  "message": "metis-fix-OS-X-install-764",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bbd328d307b6b6a1350114a68a1ce294347a0176",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-06T16:58:48-07:00",
+  "timestamp": 1459987128,
+  "message": "metis-5-fix-download-url",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "624b576b1e21ea476eaf7fdc3ee38a97194e45f7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-02T12:01:46+02:00",
+  "timestamp": 1459591306,
+  "message": "metis-fix-compilation-with-Clang-7.3.0-add-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eca1284c81c3efc5a87b8a174a0974811656b3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T08:59:25+02:00",
+  "timestamp": 1459061965,
+  "message": "metis-parmetis-boost-oce-scalapack-correct-install_name-on-Darwin-via-a-global-function",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fb463abb9b912f9a5bcb6e810b733f0b8bc1672",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-24T20:23:13+01:00",
+  "timestamp": 1458847393,
+  "message": "install-GKlib-headers-along-with-METIS",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd34f4b119243d42b64e4ca2c358cf561fde9a14",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-05-27T17:39:17-07:00",
+  "timestamp": 1432773557,
+  "message": "Added-more-FASTMath-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b80e091f46ca7559b4b81922d9af33fb8fe1d4d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-03-13T00:03:33-07:00",
+  "timestamp": 1426230213,
+  "message": "metis-package",
+  "repo": "spack/spack"
+}]

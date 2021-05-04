@@ -1,0 +1,80 @@
+[{
+  "commit": "46bce56cef6aa5cbea591adc47b2bb5dd2344939",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2021-04-30T14:51:07-07:00",
+  "timestamp": 1619819467,
+  "message": "Metall-package-add-v0.11-and-v0.12-23373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "718e65492e8e03524e525b4fd0719eb9a266a4cd",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2021-03-21T04:41:28-07:00",
+  "timestamp": 1616326888,
+  "message": "Metall-add-v0.10-remove-old-versions-prior-to-v0.7-21893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a1ab9a8a3521e295bf2026b5ad27afc25100808",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2021-01-11T00:11:09-08:00",
+  "timestamp": 1610352669,
+  "message": "metall-added-v0.8-and-v0.9-20763",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ba0ee7a0eb0922a5697180acbafab814991bc39",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2020-11-17T07:58:36-08:00",
+  "timestamp": 1605628716,
+  "message": "Metall-package-add-v0.7-19950",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8edd245bb3c365745ca6fcdf9e7d6499d9083926",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2020-11-11T08:43:00-08:00",
+  "timestamp": 1605112980,
+  "message": "Metall-package-add-v0.6-19854",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea101daf8170b8d44d719a1591a408c96a54eebb",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2020-10-10T18:11:40-07:00",
+  "timestamp": 1602378700,
+  "message": "Update-Metall-package-to-v0.4-and-v0.5-19223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9525c530d54abb44fa6eaab38579ab47e4c9936e",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2020-08-28T12:42:02-07:00",
+  "timestamp": 1598643722,
+  "message": "Add-Metall-v0.3-18340",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c42946201652832bb6dac3599e3242a2582350c",
+  "author": "Keita Iwabuchi <kiwabuchi@llnl.gov>",
+  "date": "2020-05-09T02:31:20+09:00",
+  "timestamp": 1588959080,
+  "message": "Metall-add-version-0.2-16502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b688bb549b984bae1b3b2bb2e774a05778f862c0",
+  "author": "Keita Iwabuchi <iwabuchi1@llnl.gov>",
+  "date": "2020-02-14T22:34:32-08:00",
+  "timestamp": 1581748472,
+  "message": "Add-a-new-package-Metall-14903",
+  "repo": "spack/spack"
+}]

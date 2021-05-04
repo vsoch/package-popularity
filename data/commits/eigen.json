@@ -1,0 +1,296 @@
+[{
+  "commit": "ec0dc67e73cf4b998b40629c5531055cba0c14e9",
+  "author": "Rohit Goswami <r95g10@gmail.com>",
+  "date": "2021-03-20T12:55:06+00:00",
+  "timestamp": 1616244906,
+  "message": "eigen-add-v3.3.9-22369",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac91328c69415f9b5f9ba134cec52cef5501b749",
+  "author": "Melven Roehrig-Zoellner <Melven.Roehrig-Zoellner@DLR.de>",
+  "date": "2020-10-11T03:09:21+02:00",
+  "timestamp": 1602378561,
+  "message": "eigen-add-a-patch-for-3.3.8-19229",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d43522deeb4af2f435aaa920c266f8282a815f72",
+  "author": "Melven Roehrig-Zoellner <Melven.Roehrig-Zoellner@DLR.de>",
+  "date": "2020-10-06T16:00:26+02:00",
+  "timestamp": 1601992826,
+  "message": "eigen-added-v3.3.8-19165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58e57a69864c40b30a6d9be0900bc126c90c7ef8",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-03-06T15:53:24+01:00",
+  "timestamp": 1583506404,
+  "message": "eigen-updated-url-to-point-to-gitlab-15357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bc899d9cad09f3fbaaf68f95a059a0853723150",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2019-03-21T10:16:26-07:00",
+  "timestamp": 1553188586,
+  "message": "add-eigen-v3.3.7-10955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e22a94f81f98cf19a1f83ed34226c53c66319ba",
+  "author": "Jeongseok Lee <jslee02@users.noreply.github.com>",
+  "date": "2019-03-06T18:48:38-08:00",
+  "timestamp": 1551926918,
+  "message": "Eigen-package-support-Spack-external-builds-using-Eigen-10751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af4a36c4d99d7953200d369bbeba6303ad87dcf7",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-03-04T12:36:51-06:00",
+  "timestamp": 1551724611,
+  "message": "Header-subdirectories-for-Python-and-Eigen-10773",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9374adb455c08491d7288414eb606cf284cd972b",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-13T20:33:01+01:00",
+  "timestamp": 1550086381,
+  "message": "Eigen-package-deactivate-some-dependencies-10572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea3c59ed37ac54e16a50a5286006fb0e5179e627",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2018-09-14T17:14:46-07:00",
+  "timestamp": 1536970486,
+  "message": "add-eigen-3.3.5-9212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa84ddffed1fe421a26c4169ae94540beae8def1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-03-22T07:25:26-05:00",
+  "timestamp": 1521721526,
+  "message": "Add-latest-version-of-eigen-7530",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36b8ea2f928651a53f29c0dae158f70597207173",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-09T12:28:39-05:00",
+  "timestamp": 1497029319,
+  "message": "Add-default-list_url-for-GitLab-BitBucket-and-CRAN-4439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34cfd2483a89e83b71d77ba73c3d0990a00e2483",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-11T19:06:11-05:00",
+  "timestamp": 1494547571,
+  "message": "Add-latest-version-of-eigen-4224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b03881d1bb30d03d81481bb90df5b29b185b1511",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2016-12-10T19:23:20-05:00",
+  "timestamp": 1481415800,
+  "message": "Eigen-3.3.1-is-latest-stable-version.-2551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "509bbd7067c1fb50b27e1cd88a82d0db3038b9c2",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-10-24T19:09:17+01:00",
+  "timestamp": 1477332557,
+  "message": "Adds-new-versions-to-eigen-2105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b5ce9e16a1d7a814f1fb847f84485af741e7087",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-06-03T11:52:19+01:00",
+  "timestamp": 1464951139,
+  "message": "lipstick-style-points-requested-by-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29b85fbce045c43987dfb65e3a510044bdcbaa5c",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-05-31T09:52:14+01:00",
+  "timestamp": 1464684734,
+  "message": "Eigen-can-be-installed-with-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e227f603d0c158e9f71a0bc0a815d977415908c",
+  "author": "jppelteret <jppelteret@gmail.com>",
+  "date": "2016-04-26T19:01:09+02:00",
+  "timestamp": 1461690069,
+  "message": "Fix-Add-missing-dependencies-for-gmp-and-eigen-830",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb97e8dd9301e5bbc6752caed2f4861a2a06f494",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T09:43:10+01:00",
+  "timestamp": 1458636190,
+  "message": "adjust-eigen-and-octave-to-use-new-names-of-suite-sparse",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2a95d4b5025a9965ab231e0c43fe9bebd88ca92",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-04T16:27:26+01:00",
+  "timestamp": 1454599646,
+  "message": "eigen-added-support-for-SuiteSparse",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e121faffa1974bff9570eb8b7a2ba83fdd624f0e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-01-19T17:26:26+01:00",
+  "timestamp": 1453220786,
+  "message": "eigen-added-package",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,232 @@
+[{
+  "commit": "13755d57c435e2823c1f7005ee9d3fca51a02064",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-04-28T07:54:41-04:00",
+  "timestamp": 1619610881,
+  "message": "ghostscript-added-v9.54.0-v9.53.3-patch-for-freetype-22393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46ec233a7d761aad9ee1f592122e3e1937cb7d42",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-12-08T19:05:30+09:00",
+  "timestamp": 1607421930,
+  "message": "ghostscript-limited-fujitsu-compiler-s-version-to-apply-patch.-20281",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78a759129aab6079a2c9435cb9c77a52c29e4626",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-10-27T23:54:33+09:00",
+  "timestamp": 1603810473,
+  "message": "ghostscript-fix-add-depends_on-krb5-type-link-19536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78f349c635e477bb846b24e55912b0df80070f6c",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-10-16T20:13:39+02:00",
+  "timestamp": 1602872019,
+  "message": "ghostscript-add-external-package-detection-19346",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd58c7ed0c2596e5cd3f789a0a45c878653469b",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-08-28T18:52:11+09:00",
+  "timestamp": 1598608331,
+  "message": "ghostscript-patched-sources-to-allow-building-with-Fujitsu-compilers-18345",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29a906d20ce0f9ed69871a8106c866920f895bd2",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-06T16:57:42+08:00",
+  "timestamp": 1580979462,
+  "message": "ghostscript-added-v9.27-and-v9.50-14772",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bad485a221200643051a424fe7051b5d7ce3dc1e",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-05T11:59:47-08:00",
+  "timestamp": 1551815987,
+  "message": "various-package-version-updates-and-build-fixes-10775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5964d14936a57c8d4e9bea96393ac2f3ec75738b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-12-17T13:04:16-06:00",
+  "timestamp": 1545073456,
+  "message": "Add-latest-version-of-ghostscript-10123",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43f98dc0d505e7829e5b37a983017a4a7f844d04",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-01-09T15:43:53+01:00",
+  "timestamp": 1515509033,
+  "message": "Fix-missing-dependency-in-ghostscript-6866",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a3acea759b2d36a10cab92c7e08fa7d59cdb281",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-02T09:45:10-05:00",
+  "timestamp": 1493736310,
+  "message": "Allow-ghostscript-to-build-with-Spack-dependencies-4065",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41e3e7dbffa5537b684d151e4fe3b96a898a45a6",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-04-28T01:42:56+10:00",
+  "timestamp": 1493307776,
+  "message": "ghostscript-add-version-9.21-and-handle-new-URL-format-3898",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a388871083f60d0c35f78ceb4b0a4235458b57cb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-03T10:27:55-05:00",
+  "timestamp": 1470238075,
+  "message": "Update-ImageMagick-to-latest-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fbf70d95de9fda8dd622a13130575914482bc86",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-15T23:11:49+02:00",
+  "timestamp": 1463346709,
+  "message": "indentation-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21d4f3a3564c5633ccbce8e75648fa36a2e57388",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-15T18:33:06+02:00",
+  "timestamp": 1463329986,
+  "message": "ghostscript-url-was-changed-upstream",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11b62114bb69add79e5a86232562b24e42171717",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-05-05T16:58:00-07:00",
+  "timestamp": 1462492680,
+  "message": "versioning-the-database",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c9c5a385d4bb24c081a4297daf5dcad08a3c706",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-08-25T11:38:39-07:00",
+  "timestamp": 1440527919,
+  "message": "added-graphviz-and-dependencies",
+  "repo": "spack/spack"
+}]

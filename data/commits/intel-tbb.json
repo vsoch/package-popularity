@@ -1,0 +1,424 @@
+[{
+  "commit": "d07cb59bef98f26ed0d2da332301e5277dd8b4d9",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-19T00:19:08+01:00",
+  "timestamp": 1616109548,
+  "message": "root-intel-tbb-interaction-22366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b33969598aaa5ad59ed38f9fc8a17be2f57c1b9e",
+  "author": "Martin Aumüller <aumuell@reserv.at>",
+  "date": "2020-11-25T17:05:50+01:00",
+  "timestamp": 1606320350,
+  "message": "intel-tbb-patch-for-arm64-on-macOS-20039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ea597c79a45a7ae7b594cbb532fa527815b63c4",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-07-30T05:18:32+02:00",
+  "timestamp": 1596079112,
+  "message": "Intel-packages-new-versions-17692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "885808cc13d90a12a70e9ab082934b5222298004",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-06-06T17:12:46-04:00",
+  "timestamp": 1591477966,
+  "message": "intel-tbb-Fix-for-16938-add-custom-libs-method-16972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37e9e450c94a7f5ff94e4267f7b8d10acaf79824",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-04-03T02:39:44+02:00",
+  "timestamp": 1585874384,
+  "message": "Updates-versions-of-Intel-packages-15839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16f104aafe2bb780f2d03c04aae0ccff333aa821",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-03-27T16:59:05+01:00",
+  "timestamp": 1585324745,
+  "message": "intel-tbb-new-download-url-fix-sha256-15675",
+  "repo": "spack/spack"
+},
+{
+  "commit": "847d5d345964596c8c11893dfcbe4177adf3f088",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-03-17T18:45:56-07:00",
+  "timestamp": 1584495956,
+  "message": "update-checksum-for-intel-tbb-2020.1-15528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c5f72dbaa81e7957ccb5d8005c9d16e62c62f82",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-02-13T19:30:10-06:00",
+  "timestamp": 1581643810,
+  "message": "intel-tbb-update-to-new-tar-file-names-for-2020-versions-14924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a10478708ea23b2a0df8c7d8f5fd57ff34372e6",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-02-09T11:10:44-06:00",
+  "timestamp": 1581268244,
+  "message": "intel-tbb-fix-sha256-sums-for-2020-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b1958219867f6fd140557caf753280e6d97a3a5",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-02-06T16:20:01+01:00",
+  "timestamp": 1581002401,
+  "message": "update-version-intel-packages-daal-ipp-mkl-dnn-mkl-mpi-parallel-14783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16da648d03564871ade5fcce09dc45171b706b8c",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-01-28T20:57:25+00:00",
+  "timestamp": 1580245045,
+  "message": "intel-tbb-Fix-install-names-on-Darwin-14650",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35a696a96536087cb7c67fce0f8cd5ed86c08169",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2020-01-13T18:51:22-08:00",
+  "timestamp": 1578970282,
+  "message": "added-intel-parallel-2020.0-and-components-14451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c627e5a6fcefb44330b4980835f0cf3a34ff2944",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-12-09T17:11:47-06:00",
+  "timestamp": 1575933107,
+  "message": "intel-tbb-fix-and-cleanup-patch-version-ranges-14053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb33b6b8e674084d7b240c5fe8239343f6fb4625",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2019-12-04T07:50:05-06:00",
+  "timestamp": 1575467405,
+  "message": "Use-correct-range-check-for-the-version-13977",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92ca63990505ba700cde99b2c5cfe80b880cbd8e",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-11-29T13:18:56-06:00",
+  "timestamp": 1575055136,
+  "message": "intel-tbb-fix-and-update-patches-for-latest-versions-13932",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c80792fc060d9c33b3974eb4e4449aa145790f76",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2019-11-26T23:15:17-06:00",
+  "timestamp": 1574831717,
+  "message": "Add-version-check-when-building-intel-tbb-with-clang-13893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7872435753a91f130da599be7efd2d23efb0f88f",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2019-11-25T15:52:46-07:00",
+  "timestamp": 1574722366,
+  "message": "Add-intel-tbb-versions-2019.5-to-2019.8-13891",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e26b23e9806f02f8f0d1c32f7f669bf35235dff3",
+  "author": "t-karatsu <fj6085ge@aa.jp.fujitsu.com>",
+  "date": "2019-09-20T15:58:07+09:00",
+  "timestamp": 1568962687,
+  "message": "intel-tbb-fix-typo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92604ed5760cbde70d0d705b5fab0a2682b1eb66",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-05-18T19:00:32-07:00",
+  "timestamp": 1558231232,
+  "message": "intel-tbb-fix-patch-for-old-compilers-11371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1931bc8b404705b85394d7b7499d2b4ff3299643",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-03-11T09:03:19-05:00",
+  "timestamp": 1552312999,
+  "message": "Add-2019.-3-4-and-patches-for-pedantic-warnings.-10836",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "128af27c2188d5ef947593f15b309c169a4b068e",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-20T08:30:53-07:00",
+  "timestamp": 1542727853,
+  "message": "Add-2019.1-and-2018.4-version-of-the-Intel-performance-libraries.-9899",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dc0b657194ee780d8aa7696169c57c8071f91e5",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-11-09T15:35:11-06:00",
+  "timestamp": 1541799311,
+  "message": "Update-Dyninst-package-file-for-TBB-dependency-9728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79eaa1611823fcbcde3436b7c56c01cede0d32b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-25T04:27:43+02:00",
+  "timestamp": 1537842463,
+  "message": "intel-add-2019.0-9328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ba8c0cb58418547d4f9db2336725bf4c4d2e9d9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-20T14:56:53+02:00",
+  "timestamp": 1534769813,
+  "message": "update-Intel-packages-2018.u5-for-TBB-and-2018.u3-for-the-others-8928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af60f962cdf5047bef2cd53ec72f38e033146aa4",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-07-26T01:14:17-05:00",
+  "timestamp": 1532585657,
+  "message": "intel-tbb-Add-tm-variant-to-disable-transactional-memory.-8799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25024b68d071fa0837b3fdc056493eff6903ea8a",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2018-06-07T23:16:31-05:00",
+  "timestamp": 1528431391,
+  "message": "Update-intel-tbb-to-2018.3-and-improve-version-URLs-dependencies-and-patching.-7932",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8d3a0225f2c09494a778eedaf0bca3c3beb3af2",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2018-03-13T00:08:02-07:00",
+  "timestamp": 1520924882,
+  "message": "add-an-option-to-build-tbb-statically-7407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e462d39afeaa88deb7a5469c633a758c02894ee4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T15:39:42+01:00",
+  "timestamp": 1513694382,
+  "message": "intel-tbb-add-2018.2-6725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b079e1dbd56670514a312fbad4dd8e62f1e9ddcd",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-11-10T17:00:47-08:00",
+  "timestamp": 1510362047,
+  "message": "add-alpine-ascent-6224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "957ded209a64b4d904e21b9a72a76c36d2eb8279",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-29T22:38:10+01:00",
+  "timestamp": 1509313090,
+  "message": "add-updated-2017-versions-of-Intel-packages-5957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfd823c3f783b2b04388ceba8b72156ba582cdfc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-15T00:40:23+02:00",
+  "timestamp": 1508020823,
+  "message": "intel-tbb-add-2018.1-5769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d22a88a969fe1ab056e8b16d0b1da1602097cb8",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-17T20:32:19+02:00",
+  "timestamp": 1505673139,
+  "message": "tbb-add-2018-5359",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abc0c65d03bb9632efb6c5e49f0b39eb2880461c",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-15T07:46:01+02:00",
+  "timestamp": 1505454361,
+  "message": "Fix-checksum-of-Intel-TBB-package-5349",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db657d938d38775e4364a6917cc78cb9cdb0b133",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-16T12:21:07-05:00",
+  "timestamp": 1502904067,
+  "message": "Refactor-IntelInstaller-into-IntelPackage-base-class-4300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b252d540218b2dd8af98c184f30952894479d9a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T23:35:17+02:00",
+  "timestamp": 1495920917,
+  "message": "tbb-add-2017.6-4377",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b3ce576a58687ed344389ff0b847cbd1061d69f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-26T09:38:18+02:00",
+  "timestamp": 1490513898,
+  "message": "tbb-add-2017.5-3560",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da2350a1c98f8496b5486bf10427e84875e95c63",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-19T01:20:26+01:00",
+  "timestamp": 1482106826,
+  "message": "tbb-add-2017.3-2619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "267666cd97b93056b9f626e34783554f84bf5bce",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-17T23:35:05+02:00",
+  "timestamp": 1463520905,
+  "message": "formatting",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a187e73ae51e40c1e9bc6eea8aaf8f9e60ffd3f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-17T22:57:32+02:00",
+  "timestamp": 1463518652,
+  "message": "tbb-add-4.4.4-raise-InstallError-when-building-4.4.3-with-GCC6.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e56f5c4d6b4626a428b3c209f00eff59cd37b22f",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2016-03-22T16:59:40+01:00",
+  "timestamp": 1458662380,
+  "message": "add-Intel-TBB-package",
+  "repo": "spack/spack"
+}]

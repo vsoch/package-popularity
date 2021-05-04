@@ -1,0 +1,48 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09ec3e926891d0216d308bae047680aef677204f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-05T08:44:00-06:00",
+  "timestamp": 1604587440,
+  "message": "Update-packages.yaml-format-references-in-packages-19741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea8a0be465b0329cfb4a6b29e02da0dbb4650f6e",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-12T14:05:12-07:00",
+  "timestamp": 1591995912,
+  "message": "add-compilers-to-mpi-setup_run_environment-methods-forall-mpi-implementations-17015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57aa7ba045f26ccf309769e4532518855b924353",
+  "author": "Adrian Jackson <a.jackson@epcc.ed.ac.uk>",
+  "date": "2019-11-12T17:57:07+00:00",
+  "timestamp": 1573581427,
+  "message": "Fixing-Fortran-MPI-compiler-reference-in-mpt-package-13699",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3eaa790efa71a5e43df0aef9648c3cc7051dc069",
+  "author": "Adrian Jackson <a.jackson@epcc.ed.ac.uk>",
+  "date": "2019-11-11T19:22:20+00:00",
+  "timestamp": 1573500140,
+  "message": "Add-HPE-MPT-package-13616",
+  "repo": "spack/spack"
+}]

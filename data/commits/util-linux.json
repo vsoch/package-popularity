@@ -1,0 +1,240 @@
+[{
+  "commit": "4f2a972c2fc4a515cd6bd17620e1f91898ec27b5",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T06:32:07+02:00",
+  "timestamp": 1617251527,
+  "message": "util-linux-uuid-add-2.36.2-22701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf3fb8428d9d329d313c28a37f0ad7303774709d",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-01-21T12:40:03+09:00",
+  "timestamp": 1611200403,
+  "message": "util-linux-Add-ncurses-depend-21165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "765b41fd34ea4a2346085d67acd8ec60a9451a0e",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-10-19T20:27:40+02:00",
+  "timestamp": 1603132060,
+  "message": "util-linux-Add-version-2.33.1-19370",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b272e00d6ac969dc18de07574f45eae092bfff11",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-09-21T14:11:44-07:00",
+  "timestamp": 1600722704,
+  "message": "util-linux-fix-bash-completion-install-errors.-18696",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cb1192050c0cf7f1caff6218eeda59d7cc2b76e",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-18T23:04:28+08:00",
+  "timestamp": 1600441468,
+  "message": "util-linux-fix-build-error-18647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06a0fe9d942182327d650edcf5e2f9d6f6bbab2c",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-08-17T06:28:38+08:00",
+  "timestamp": 1597616918,
+  "message": "util-linux-remove-libintl-link-18065",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11b5fa71703c76655dcab067d94e57ac97b6551d",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-06-09T11:23:29-04:00",
+  "timestamp": 1591716209,
+  "message": "util-linux-disabling-systemd-17008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7454baa558e28bb3135bfeb03510da323a467a9",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-03-28T00:35:08+08:00",
+  "timestamp": 1585326908,
+  "message": "util-linux-add-libmount-variant-15631",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef7837410e32dac1c892a62a5deae10bc0c08da6",
+  "author": "Roman Briskine <brisk022@users.noreply.github.com>",
+  "date": "2020-03-27T03:32:19+00:00",
+  "timestamp": 1585279939,
+  "message": "Fix-non-root-installations-update-homepage-15701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3434e230a127d6cce7331a0c95d0f4e7f1fb789",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-03-19T02:04:51+08:00",
+  "timestamp": 1584554691,
+  "message": "update-util-linux-to-version-2.33-2.35.1-15529",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae37896800127cf0d2dad6ddabfbc1de4e63a7e7",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-09-17T11:22:10-07:00",
+  "timestamp": 1568744530,
+  "message": "cryptsetup-package-dont-vendor-libuuid-in-util-linux-12839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86a1230a60908b60ad040a4f5cc9a9d054cef8d6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-06T11:04:53-08:00",
+  "timestamp": 1551899093,
+  "message": "build-fixes-for-util-linux-10811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a328892d2c07505923a51c6a50c11ad639a9182",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-15T12:47:03-05:00",
+  "timestamp": 1494870423,
+  "message": "Add-latest-version-of-util-linux-4252",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6461737bba24e9a66c09e9b60e9c9148a9406e49",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-24T16:44:54-05:00",
+  "timestamp": 1490391894,
+  "message": "Add-latest-version-of-util-linux-3551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "932f3930f43e10f22c06ede6bb963a23989443c1",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-07T09:18:34-08:00",
+  "timestamp": 1423329514,
+  "message": "util-linux-added",
+  "repo": "spack/spack"
+}]

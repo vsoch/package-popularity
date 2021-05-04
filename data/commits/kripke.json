@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "165dbf719db36bcc0dc2131b83b15a4cc9555ecf",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-09-21T11:19:06-06:00",
+  "timestamp": 1600708746,
+  "message": "fix-spack-build-usages-18846",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9035dc6b3ded135b368feccc83624ceb28897734",
+  "author": "Aniruddha Marathe <aniruddhapmarathe@gmail.com>",
+  "date": "2020-04-08T20:13:13-07:00",
+  "timestamp": 1586401993,
+  "message": "Fixes-build-issues.-15951",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "356b5df7158d524b9e361c4af56a983e734b222c",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-04-02T16:05:21-06:00",
+  "timestamp": 1554242721,
+  "message": "kripke-fix-install-11090",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "febfa609350f4845fd7f387070308305671b7fb7",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-08-03T08:25:10-07:00",
+  "timestamp": 1533309910,
+  "message": "Update-broken-codesign.llnl.gov-urls-8880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a33f52cfb09cf840b00bef6f52b07ab43b53e0bf",
+  "author": "Brian Homerding <homerdin@gmail.com>",
+  "date": "2017-08-08T23:47:34-05:00",
+  "timestamp": 1502254054,
+  "message": "Fixed-minor-issues-from-Cmake-conversion-5024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6bdc373100da03a775698f1cfdcdfd2fa401e88e",
+  "author": "Akhil Reddy Patlolla <patlolla.akhil@gmail.com>",
+  "date": "2017-07-27T15:56:59-05:00",
+  "timestamp": 1501189019,
+  "message": "Added-Proxy-App-tag-4917",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3115aa505b8fc68893e4ebeaf5e5f152507e693",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-10T00:31:06-07:00",
+  "timestamp": 1462865466,
+  "message": "Kripke-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e0ee5404d839a69c626407436c6cb059a51d9fd",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-09T17:14:25-07:00",
+  "timestamp": 1462839265,
+  "message": "clean-up-Kripke-package-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23ec6c6bb031d48e64be07acd199b957ada774e8",
+  "author": "Tanzima Z. Islam <islam3@llnl.gov>",
+  "date": "2016-05-09T16:34:27-07:00",
+  "timestamp": 1462836867,
+  "message": "Removed-FIXME-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "045e5bd4585fdf556651b9c71a0ca7428a27563c",
+  "author": "Tanzima Z. Islam <islam3@llnl.gov>",
+  "date": "2016-05-09T16:22:07-07:00",
+  "timestamp": 1462836127,
+  "message": "Adding-a-new-package-Kripke-from-the-public-tar-ball",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f212e72014e6397215bf7695695c59c710b516d",
+  "author": "Tanzima Z. Islam <islam3@llnl.gov>",
+  "date": "2016-05-06T13:50:34-07:00",
+  "timestamp": 1462567834,
+  "message": "Adding-a-new-package-file-for-Kripke",
+  "repo": "spack/spack"
+}]

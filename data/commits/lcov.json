@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7cbd6074e6d654ff4f0708aa7f18003a364ad6f",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2020-09-25T01:28:01-06:00",
+  "timestamp": 1601018881,
+  "message": "lcov-added-v1.15-18959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fdb85744e3ffc271ab6db157500ca7fa0a354aa1",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-11-11T13:13:48-08:00",
+  "timestamp": 1573506828,
+  "message": "added-lcov-package-13687",
+  "repo": "spack/spack"
+}]

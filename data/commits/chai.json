@@ -1,0 +1,80 @@
+[{
+  "commit": "a618594c28aed14bbed9fc22a31e72221f1cc85c",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2021-04-30T15:57:44-07:00",
+  "timestamp": 1619823464,
+  "message": "BLT-version-lockdown-23356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19b163e49d63b183be7051db9732889a8e1b06f9",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-13T02:16:06+09:00",
+  "timestamp": 1615569366,
+  "message": "chai-Add-2.3.0-version-22254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571e36787b96ac1d24824218024954c83dea8c8f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c42ce439e44f5a8261fdd9d5e4374a0dc26fa71e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22e037e304015243bf5f33197fa3780902430ad",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-12-02T17:07:56-08:00",
+  "timestamp": 1606957676,
+  "message": "Add-CARE-package-fixes-for-ROCmPackage-and-subclasses-20070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0baf429889ca22eaf8e7028ecb0061918c03dbd",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b9155239b83cd22074f8db057e9ad28f37f008e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "305d8d9b1bb28ec326427f2de6f11e7c2e55828d",
+  "author": "Ben Corbett <32752943+corbett5@users.noreply.github.com>",
+  "date": "2020-10-29T11:52:10-07:00",
+  "timestamp": 1603997530,
+  "message": "Adds-a-package-for-LvArray-19221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3978db91dc4385b492b8dcbc1f2b87326f217b1b",
+  "author": "Adrien Bernede <51493078+adrienbernede@users.noreply.github.com>",
+  "date": "2020-08-07T15:42:07-07:00",
+  "timestamp": 1596840127,
+  "message": "Feature-raja-chai-umpire-update-17665",
+  "repo": "spack/spack"
+}]

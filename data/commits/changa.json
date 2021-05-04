@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02dd90ebf9f42b5f9e100f3efd621efcf7e3e723",
+  "author": "Julius-Plehn <Julius-Plehn@users.noreply.github.com>",
+  "date": "2020-07-10T15:22:20+02:00",
+  "timestamp": 1594387340,
+  "message": "New-Package-ChaNGa-17442",
+  "repo": "spack/spack"
+}]

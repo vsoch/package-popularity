@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a7a6d472b241c2ecf5e888b844b84b26547537b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-30T07:55:44-06:00",
+  "timestamp": 1606744544,
+  "message": "CMake-should-be-a-build-dependency-20160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6cd5edacca8e4cacbcaf104b3c241097fc83568f",
+  "author": "Simo Tuomisto <simo-tuomisto@users.noreply.github.com>",
+  "date": "2019-09-24T16:54:23+03:00",
+  "timestamp": 1569333263,
+  "message": "heaptrack-added-new-package-at-version-1.1.0-12844",
+  "repo": "spack/spack"
+}]

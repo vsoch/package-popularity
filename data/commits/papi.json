@@ -1,0 +1,280 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88a608a26c4cce954528ebdb8941066ff7a04e86",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2020-12-23T08:31:19-07:00",
+  "timestamp": 1608737479,
+  "message": "papi-patch-fortran-tests-for-Cray-FTN-compiler-20339",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19b26f2938ecb1348093b2d32f29584c8d9902dc",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-11-14T10:39:14-05:00",
+  "timestamp": 1605368354,
+  "message": "PAPI-package-added-cuda-and-nvml-support-19896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d034d622c015cf857f74b55d3f2aebacba269d1f",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-10-15T09:44:10-04:00",
+  "timestamp": 1602769450,
+  "message": "papi-restrict-sde-to-6.0.0-19290",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e69125e51a88d87628c92c8308d1ee37c65d06b",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-04-20T17:54:44-04:00",
+  "timestamp": 1587419684,
+  "message": "Implemented-shared-and-static_tools-variants-16105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e53a98cb4ff440002e59d23e38f42aea0b0a3297",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-04-09T15:33:24+02:00",
+  "timestamp": 1586439204,
+  "message": "papi-check-existence-of-a-fortran-compiler-15968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9c833e07804ae5282a9d9f6ca69a6b7f10945cd",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-04-09T03:13:35-04:00",
+  "timestamp": 1586416415,
+  "message": "Papi-packge-refactored-to-inherit-from-AutotoolsPackage-15962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf8fea1d53a34214b9ecec1298af011b7d58f74f",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-04-03T16:48:44-04:00",
+  "timestamp": 1585946924,
+  "message": "Added-support-for-new-config-process-for-papi-6-lmsensors-15858",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e5b68c063d16e5574a66ffa216299d2d30f71d4",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-04-03T12:39:29-04:00",
+  "timestamp": 1585931969,
+  "message": "Papi-package-updating-with-new-bugfix-version-and-variant-15849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b70c932aac0aaec35f697d5f08e80e5e46abcce",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2020-03-20T13:08:54-04:00",
+  "timestamp": 1584724134,
+  "message": "papi-add-version-6.0.0-15590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0aab6068ff2212f3d66609b342678d495ad139c8",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2019-11-25T14:42:14-07:00",
+  "timestamp": 1574718134,
+  "message": "Improved-library-access-for-lm-sensors-and-implemented-use-in-papi.-13885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dc36b4737d16ea4aa49daa14fb782b5ea85b60e3",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2019-11-13T16:49:06-05:00",
+  "timestamp": 1573681746,
+  "message": "Papi-components-13706",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b378f27a2a705dd336a9e75d3a2f214a697cca7",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-05-09T18:26:05+02:00",
+  "timestamp": 1557419165,
+  "message": "papi-Add-5.7.0-11390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "643a4fbb5995034a7ecdee6f35bd72376bf439e0",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-07-26T17:02:07+02:00",
+  "timestamp": 1532617327,
+  "message": "papi-Update-to-5.6.0-and-fix-build-with-gcc-8-8796",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6242aaef6c25af4bfb2b1792e9d68401b594358c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-01-18T11:18:38-05:00",
+  "timestamp": 1484756318,
+  "message": "papi-Update-to-5.5.1-2849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28b48f3e1a60bd77134951e1311f0e0877f9c66d",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-10-02T21:37:26-04:00",
+  "timestamp": 1475458646,
+  "message": "Update-PAPI-to-5.5.0-1878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "375de085e271f2926ef2381a2e22f40bd5541177",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-17T01:14:34-04:00",
+  "timestamp": 1460870074,
+  "message": "Make-PAPI-build-on-Darwin-772",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b24db92b5ea64814b1294fc6c9c982bbaa9b3c6",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-17T13:43:40-04:00",
+  "timestamp": 1458236620,
+  "message": "Update-PAPI-to-5.4.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "802acb4d166a7ca3ff2db3c0a0c95a3ad8a6a81a",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-17T13:43:40-04:00",
+  "timestamp": 1458236620,
+  "message": "Update-PAPI-to-5.4.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60fd7e22685c5948309362bbd5e01ae5f5e7dd02",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2015-11-23T16:50:11-05:00",
+  "timestamp": 1448315411,
+  "message": "Update-PAPI",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4e0804b374f1a725d42bdf3a11c3602ff009137",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-07-21T10:50:11-05:00",
+  "timestamp": 1437493811,
+  "message": "Add-the-latest-version-to-the-papi-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e011b767fafc1c7287db1cfd254266171e4e382f",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-31T14:09:38-07:00",
+  "timestamp": 1406840978,
+  "message": "Converting-Luc-s-packages-to-the-new-version-format",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a4881c086111a07d93e0e7d5d4f25ba09bb56cc",
+  "author": "Luc Jaulmes <luc.jaulmes@bsc.es>",
+  "date": "2014-06-20T17:15:32-07:00",
+  "timestamp": 1403309732,
+  "message": "Adding-Extrae-and-OmpSs-with-some-of-their-dependencies-hwloc-and-PAPI",
+  "repo": "spack/spack"
+}]

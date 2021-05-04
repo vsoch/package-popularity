@@ -1,0 +1,24 @@
+[{
+  "commit": "40147d99553e2b7267a96c21499a0b803f58a4bd",
+  "author": "kuramoto-fj <72247780+kuramoto-fj@users.noreply.github.com>",
+  "date": "2021-03-12T15:13:38+09:00",
+  "timestamp": 1615529618,
+  "message": "mptensor-Add-test-method-21712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d267e14405f8b02dad42f0de1e6aae6a972dc1e",
+  "author": "kuramoto-fj <72247780+kuramoto-fj@users.noreply.github.com>",
+  "date": "2020-12-25T07:59:02+09:00",
+  "timestamp": 1608850742,
+  "message": "mptensor-Add-new-package-20542",
+  "repo": "spack/spack"
+}]

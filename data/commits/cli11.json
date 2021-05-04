@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc5516a956fc9fac8ad3a6699955d4ab276ad08",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-12-16T15:26:37-08:00",
+  "timestamp": 1608161197,
+  "message": "cli11-add-new-package-20398",
+  "repo": "spack/spack"
+}]

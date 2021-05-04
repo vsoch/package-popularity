@@ -1,0 +1,160 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a9f97fd0de21f3a82e20f41e1e411c208ad26be",
+  "author": "Jason Lee <jasonlee@lanl.gov>",
+  "date": "2020-09-15T19:37:05-06:00",
+  "timestamp": 1600220225,
+  "message": "jemalloc-Use-AutotoolsPackage-and-allow-for-arbitrary-public-API-prefixes-18680",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d96e496b203b01a5574f2c00e8313677807caa8",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-16T06:08:37+01:00",
+  "timestamp": 1581829717,
+  "message": "Add-extra-version-of-jemalloc-14955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca8db06e376a92c32162ab3b7d56a97bb9856043",
+  "author": "Jennifer Herting <jen@herting.cc>",
+  "date": "2019-09-05T10:39:42-04:00",
+  "timestamp": 1567694382,
+  "message": "jemalloc-added-version-5.2.1-12706",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c69838421614601ef25a75780c8ed93ecd51e379",
+  "author": "Jason Lee <calccrypto@gmail.com>",
+  "date": "2019-01-30T18:16:33-07:00",
+  "timestamp": 1548897393,
+  "message": "jemalloc-Add-variant-to-prepend-public-api-with-je_-prefix-10356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91dd854694c81300df08b2d20d860c94bbe2d28c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-20T16:04:34-04:00",
+  "timestamp": 1490040274,
+  "message": "jemalloc-Update-to-4.5.0-3497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3bd0101fb955c9d92aa355f492d1405b2a9c3464",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-01-18T11:16:59-05:00",
+  "timestamp": 1484756219,
+  "message": "jemalloc-Update-to-4.4.0-2850",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00ad8e87f4153fb148da8b4c9e0669f4e4277684",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-11-29T10:51:55-05:00",
+  "timestamp": 1480434715,
+  "message": "jemalloc-Update-to-4.3.1-2435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8147a0948916e5b1eda2abca394638eb891be28c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-23T16:32:57-04:00",
+  "timestamp": 1474662777,
+  "message": "Update-jemalloc-to-4.2.1-1839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb4f361cd0a8f12c606013b382d7e4fa5706dbfb",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-17T01:12:52-04:00",
+  "timestamp": 1460869972,
+  "message": "Update-to-version-4.1.0-785",
+  "repo": "spack/spack"
+}]

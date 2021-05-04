@@ -1,0 +1,104 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "febfa609350f4845fd7f387070308305671b7fb7",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-08-03T08:25:10-07:00",
+  "timestamp": 1533309910,
+  "message": "Update-broken-codesign.llnl.gov-urls-8880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b47ff33f11571afccf079827143b10aa47467310",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2017-10-24T20:06:33-07:00",
+  "timestamp": 1508900793,
+  "message": "Add-a-new-package-for-AMG-and-fix-build-issues-in-the-amg2013-package-5909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "beab0cb92e61ba4e33124ff17f244c121973117d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-22T21:41:41+02:00",
+  "timestamp": 1508701301,
+  "message": "add-newlines-at-end-of-some-package-files",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3a46310379a5afbb31bf90260f2d243b67799e7",
+  "author": "Akhil Reddy Patlolla <patlolla.akhil@gmail.com>",
+  "date": "2017-08-10T20:09:59-05:00",
+  "timestamp": 1502413799,
+  "message": "Add-AMG2013-package-4836",
+  "repo": "spack/spack"
+}]

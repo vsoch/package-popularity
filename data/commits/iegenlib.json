@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d755cc8ce95f20926b65e23e56de249c64a6a028",
+  "author": "John Jolly <john.jolly@gmail.com>",
+  "date": "2020-06-06T01:55:14-06:00",
+  "timestamp": 1591430114,
+  "message": "iegenlib-add-build-dependencies-for-automake-and-libtool-16980",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "850b2ad42e0b26563c77c9fe402e15a70c638ca3",
+  "author": "Derick Huth <derickhuth@gmail.com>",
+  "date": "2019-08-09T09:14:17-06:00",
+  "timestamp": 1565363657,
+  "message": "Fixed-broken-iegenlib-package-12229",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81db89b5e724bc4635817824745e769bebf3c26f",
+  "author": "Derick Huth <derickhuth@gmail.com>",
+  "date": "2019-06-27T14:41:06-06:00",
+  "timestamp": 1561668066,
+  "message": "New-packages-Chill-and-IEGenLib-11406",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,160 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f9de810ff14455ac6b433398b965d2cf6b4a70f",
+  "author": "Alexander Baumgarten <57231081+ajxander12@users.noreply.github.com>",
+  "date": "2020-11-13T14:59:03-06:00",
+  "timestamp": 1605301143,
+  "message": "Updated-STAR-to-version-2.7.6a-19904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d51cdf824e541ed553fc5d73029d1e104905db6",
+  "author": "Eric Martin <erimar77@users.noreply.github.com>",
+  "date": "2019-03-11T19:44:54-05:00",
+  "timestamp": 1552351494,
+  "message": "STAR-Add-versions-2.7.0d-and-2.7.0e-10831",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "842d75433830f0f07498c0c9b6f88e24654c0c9d",
+  "author": "Douglas Duckworth <quackmaster@protonmail.com>",
+  "date": "2018-09-16T16:44:33-04:00",
+  "timestamp": 1537130673,
+  "message": "star-added-latest-versions-with-shasum-9257",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a7e9e58d09711db3aaa50cb0ed6aef8a4093624",
+  "author": "Douglas Duckworth <quackmaster@protonmail.com>",
+  "date": "2018-08-29T01:34:04-04:00",
+  "timestamp": 1535520844,
+  "message": "added-star-2.6.1a-9103",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecff47538e7064c7c5529abf0213a1c9378c6010",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-12T00:28:11-05:00",
+  "timestamp": 1531373291,
+  "message": "Remove-unnecessary-version-specific-URL-overrides-8693",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98808196cb4ab5531f71341882ce47b6bbd34005",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-03-08T01:27:41-06:00",
+  "timestamp": 1520494061,
+  "message": "star-needs-zlib-7418",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e31f80988c50f0d4db863ee0cfe5b3f23fdf5e73",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-29T13:47:31-07:00",
+  "timestamp": 1496090851,
+  "message": "Add-support-for-an-older-version-of-STAR-4385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f14041d6c1902ea18d74690374074a8d0d256ffe",
+  "author": "Douglas Duckworth <quackmaster@protonmail.com>",
+  "date": "2017-05-27T16:02:39-04:00",
+  "timestamp": 1495915359,
+  "message": "added-STAR-aligner-package-4368",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83e661604df9efdabc1fc461f26a9c3f6ac4db1a",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-03-28T19:36:39-07:00",
+  "timestamp": 1490754999,
+  "message": "Add-package-for-direnv-3608",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45c675fe7ff69408e4f407a9c5eb8f92f746faf8",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-01-25T10:26:35-05:00",
+  "timestamp": 1453735595,
+  "message": "spack-introduce-dependency-types",
+  "repo": "spack/spack"
+}]

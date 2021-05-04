@@ -1,0 +1,232 @@
+[{
+  "commit": "3a8e04bfabf1462b60c0b8f83a078dcb01c76c67",
+  "author": "albestro <9337627+albestro@users.noreply.github.com>",
+  "date": "2021-01-25T22:32:13+01:00",
+  "timestamp": 1611610333,
+  "message": "add-drafts-variant-20643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de085efd7deeb4918c1bc5ef9dedd40844c6dda8",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2021-01-15T17:50:49+09:00",
+  "timestamp": 1610700649,
+  "message": "libzmq-add-platform-conditions-to-libbsd-dependency-20893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cfa3d5c5957aea91416a46e67381522053a5435",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2021-01-13T17:48:03+09:00",
+  "timestamp": 1610527683,
+  "message": "libzmq-add-libbsd-as-a-dependency-20828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cda9ea7fd760f74e278b49e1282c457f8ac149b",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-12-27T04:37:32-08:00",
+  "timestamp": 1609072652,
+  "message": "libzmq-added-v4.3.3-20467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbd294c20452886fcdaf0e566c3874b263eb6564",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2019-07-29T23:36:33+02:00",
+  "timestamp": 1564436193,
+  "message": "zeromq-package-choose-URL-based-on-version-add-versions-12149",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a3552274f6c67439a7da58832fbb3535bf4d966",
+  "author": "Thomas Stitt <tomstit@gmail.com>",
+  "date": "2018-10-31T20:23:44-07:00",
+  "timestamp": 1541042624,
+  "message": "xeus-new-package-9682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c731f54b8886e84012b8fc90484b882c1cd30b4",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2018-06-20T10:33:17-04:00",
+  "timestamp": 1529505197,
+  "message": "Bump-ZeroMQ-from-v4.2.2-to-v4.2.5-8514",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aeb73f958f3731222e654a93edd7d7a62e44c51d",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-03-26T12:22:07+02:00",
+  "timestamp": 1522059727,
+  "message": "zeromq-fix-build-7596",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c110d03f95214613b40bf00634b865f427f6b71d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-07-17T15:40:48+02:00",
+  "timestamp": 1500298848,
+  "message": "ZeroMQ-4.2.2-develop-4785",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "115fec334663682cf67b7469a73943c07dff6c47",
+  "author": "Diana Bite <diana.bite@hotmail.com>",
+  "date": "2017-05-30T12:57:28+01:00",
+  "timestamp": 1496145448,
+  "message": "zeromq-Fix-invocation-when-building-with-clang.-4395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14e3a541e1eb24d4ac225e37f9df2ed28b3b9046",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2016-10-25T14:11:23-04:00",
+  "timestamp": 1477419083,
+  "message": "Add-latest-versions-of-Flux-prerequisites-2108",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7182671f8f63d4071ad7cfae5fec8ffda9c5b901",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-08-03T11:59:52-07:00",
+  "timestamp": 1438628392,
+  "message": "pre-alpha-flux-build-and-requisite-dependencies",
+  "repo": "spack/spack"
+}]

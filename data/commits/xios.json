@@ -1,0 +1,96 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2ce7c65b3123676e7a25e684d7175e08eaab699",
+  "author": "Gilles Gouaillardet <ggouaillardet@users.noreply.github.com>",
+  "date": "2020-12-25T13:44:56+09:00",
+  "timestamp": 1608871496,
+  "message": "xios-add-support-for-Fujitsu-compilers-20474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddccad14c90e8485ee2e87368fc51765a765cf50",
+  "author": "Daniele Cesarini <d.cesarini@cineca.it>",
+  "date": "2020-03-28T21:49:21+01:00",
+  "timestamp": 1585428561,
+  "message": "XIOS-add-new-versions-15728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c56f03a3baab7d851b555ffd6ef161747b423d74",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-09-29T09:27:42-05:00",
+  "timestamp": 1569767262,
+  "message": "The-perl-uri-escape-package-duplicates-perl-uri-12971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70d589a14e980b1419e3f01d12ff37936d088905",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2018-01-05T01:58:24+11:00",
+  "timestamp": 1515077904,
+  "message": "xios-I-O-management-for-climate-models-6796",
+  "repo": "spack/spack"
+}]

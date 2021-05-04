@@ -1,0 +1,280 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a90324a5b2cb5d806b29256e7a805375c2eb1165",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2020-11-11T17:38:50+01:00",
+  "timestamp": 1605112730,
+  "message": "openfoam-remove-mplibUSER-provisioning-19861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3299e6923c8c998317ed9db1dbf86bf45a052f6",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-07-11T13:32:06-07:00",
+  "timestamp": 1562877126,
+  "message": "Rename-build-logs-and-make-names-consistent-11806",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fd3b5acda52f48cb6b4ca16be7844cbc58b097a",
+  "author": "Mark Olesen <Mark.Olesen@esi-group.com>",
+  "date": "2019-07-02T06:54:36+01:00",
+  "timestamp": 1562046876,
+  "message": "openfoam-rename-openfoam-com-to-openfoam-11876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e60fcccfb8996868a5f3275e567843fa7cdfb0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-07-30T20:52:48-07:00",
+  "timestamp": 1533009168,
+  "message": "utils-merge-spack.environment-into-spack.util.environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "638cc64571fd038f5ae7f47a664399b9f2629d66",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2018-08-17T22:08:38-04:00",
+  "timestamp": 1534558118,
+  "message": "install_tree-symlink-handling-and-add-ignore-option-9019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e948a54d8e44ca5b20d4c41c8c6f2344fde32f0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:17:01-05:00",
+  "timestamp": 1532485021,
+  "message": "All-git-URLs-end-in-.git",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "235c3c10250112155715b475dc1b8864c6452b3d",
+  "author": "Mark Olesen <Mark.Olesen@esi-group.com>",
+  "date": "2017-12-20T08:39:12+01:00",
+  "timestamp": 1513755552,
+  "message": "ENH-improved-openfoam-module-creation-issue-4942",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd79094b05172cfcd2b594326eb22bf8e3c83cd",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-23T14:23:00+02:00",
+  "timestamp": 1508761380,
+  "message": "remove-wildcards-from-make-spack-core-and-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76b9563dc3f33356dc44217732ad2be3038f67fd",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-07-03T23:54:50+01:00",
+  "timestamp": 1499122490,
+  "message": "new-OpenFOAM-June-2017-release-OpenFOAM-v1706-4652",
+  "repo": "spack/spack"
+},
+{
+  "commit": "767cdf98d33cbc32c7725f84d2c2cc07fe0e828a",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-26T15:58:02+01:00",
+  "timestamp": 1498489082,
+  "message": "Cleanup-some-depends_on-flex-for-scotch-and-things-depending-on-scotch-4600-4601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f2e56e1f3452fdc9b6dde349a67efc217292b04",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-21T17:35:31+01:00",
+  "timestamp": 1498062931,
+  "message": "refactor-openfoam-packages-3669",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e1abb13dcc4fb21042c6ca3b2e5c445811d6c15",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-03-31T01:35:57+02:00",
+  "timestamp": 1490916957,
+  "message": "support-OpenFOAM-package-s-3528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9af7bef10b3c7312de1fb20847d0e640032333b1",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-03-16T02:02:36+08:00",
+  "timestamp": 1489600956,
+  "message": "Add-version-4.0-for-foam-extend.-3442",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc92b9a3a2005ef494bf7b1249ffd64e68f81217",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-12-02T22:51:03+01:00",
+  "timestamp": 1480715463,
+  "message": "foam-extend-modification-to-accept-flex-version-2.6-2452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0584c78a8c1a93ad60f394f054907ecb3b371e7",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-06-29T15:06:21-04:00",
+  "timestamp": 1467227181,
+  "message": "foam-extend-sundials-add-cmake-as-a-builddep",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f3accb111ef77e9e192305fb09797948cb984851",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-27T01:23:14+02:00",
+  "timestamp": 1466983394,
+  "message": "correcting-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7cf1313572b24917ff77018424d77991312e6f5f",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-27T00:55:26+02:00",
+  "timestamp": 1466981726,
+  "message": "changes-to-use-from_sourcing_file",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9db8dc18956520deae2f2e9a1e6827848df5bd51",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-01T00:57:01+02:00",
+  "timestamp": 1464735421,
+  "message": "Removing-extra-dependencies-minor-fix-according-to-remarks-on-1002",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f4e599232d614ef0611e4e89125b75d4a9d816e",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-05-30T16:58:06+02:00",
+  "timestamp": 1464620286,
+  "message": "Ignoring-the-flake8-error-for-a-line-too-long",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08c8d1d1f7cbae2449dc56b0aafc390247b2be83",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-05-30T15:46:39+02:00",
+  "timestamp": 1464615999,
+  "message": "limiting-package-to-foam-extend-to-start",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4122ecbc804706b93c226f77720a0334fc020a02",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-05-22T18:55:29+02:00",
+  "timestamp": 1463936129,
+  "message": "First-try-at-OpenFOAM-extend",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe79e434592ee87fe69b65d30200794e10bf30f9",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-05-30T15:46:39+02:00",
+  "timestamp": 1464615999,
+  "message": "limiting-package-to-foam-extend-to-start",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c87ef915f917c2262349832966a12127b7700b3",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-05-22T18:55:29+02:00",
+  "timestamp": 1463936129,
+  "message": "First-try-at-OpenFOAM-extend",
+  "repo": "spack/spack"
+}]

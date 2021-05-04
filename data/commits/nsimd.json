@@ -1,0 +1,40 @@
+[{
+  "commit": "7fe131e444626584ee0004b27ea7e0395e31d5e8",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-02-18T04:33:09-05:00",
+  "timestamp": 1613640789,
+  "message": "nsimd-add-v2.2-21743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f003a77dd38f76e34ed7fa63d4de6a46471f1b7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-02-11T10:41:46-05:00",
+  "timestamp": 1613058106,
+  "message": "nsimd-add-v2.1-21623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcb4dfc3077d2cb96c0fe84b6615581640637e3f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-09-19T07:54:26+02:00",
+  "timestamp": 1600494866,
+  "message": "Ensure-variant-defaults-are-parsable-from-CLI.-18661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7cde359eb8a68679c964810f81afcc44cbe70908",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-01-06T16:40:58-05:00",
+  "timestamp": 1578346858,
+  "message": "Nsimd-New-package-14226",
+  "repo": "spack/spack"
+}]

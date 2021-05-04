@@ -1,0 +1,24 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f365cb453529c276b837a6b0e6d9117ef9a72210",
+  "author": "Asher Mancinelli <asher.mancinelli@pnnl.gov>",
+  "date": "2021-04-07T14:48:35-04:00",
+  "timestamp": 1617821315,
+  "message": "Add-ExaGO-develop-branch-22847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4a83aa22cd8f08bd4c348b93941440c02da80be",
+  "author": "Cameron Rutherford <cameron.rutherford@me.com>",
+  "date": "2021-04-07T04:48:46-07:00",
+  "timestamp": 1617796126,
+  "message": "Create-ExaGO-Package-22734",
+  "repo": "spack/spack"
+}]

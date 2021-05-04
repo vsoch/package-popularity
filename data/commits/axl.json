@@ -1,0 +1,96 @@
+[{
+  "commit": "0ea1b9705ffc1a7bd3dcfcdb5ff42a57a848cc64",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2021-04-21T10:24:30-07:00",
+  "timestamp": 1619025870,
+  "message": "axl-add-version-0.4.0-23044",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9debb7e1b6e565320a9d9095acaf8253e2473d39",
+  "author": "Elsa Gonsiorowski, PhD <gonsie@me.com>",
+  "date": "2020-03-10T13:27:41-07:00",
+  "timestamp": 1583872061,
+  "message": "SCR-build-with-components-14931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c5688fcbc2bbefe25fd931c7b63b9af2bd9f696",
+  "author": "Elsa Gonsiorowski, PhD <gonsie@me.com>",
+  "date": "2018-11-20T19:28:47-06:00",
+  "timestamp": 1542763727,
+  "message": "correct-sha-for-axl-v1.1-9907",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cd33e7052e00ff2d194c3635f8c9435dec48789",
+  "author": "Elsa Gonsiorowski, PhD <gonsie@me.com>",
+  "date": "2018-08-08T18:40:38-07:00",
+  "timestamp": 1533778838,
+  "message": "ECP-VELOC-Package-update-8910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c907937ff48d2c5f004061a0caf4fe61452ca8c6",
+  "author": "Elsa Gonsiorowski, PhD <gonsie@me.com>",
+  "date": "2018-07-07T16:56:56+02:00",
+  "timestamp": 1530975416,
+  "message": "ECP-VELOC-8581",
+  "repo": "spack/spack"
+}]

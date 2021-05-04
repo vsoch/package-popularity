@@ -1,0 +1,32 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5fa509b072f0e58f00eaf81c60f32958a9f1e1d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-03-26T18:43:41+01:00",
+  "timestamp": 1616780621,
+  "message": "clingo-modify-recipe-for-bootstrapping-22354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "138312efabd534fa42d1a16e172e859f0d2b5842",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-03-22T23:57:32+01:00",
+  "timestamp": 1616453852,
+  "message": "clingo-bootstrap-account-for-cray-platform-22460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13ac7198d3f3f5b85b53a0364a2b5e67c639567b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-01-29T21:22:57+01:00",
+  "timestamp": 1611951777,
+  "message": "clingo-added-a-package-with-option-for-bootstrapping-clingo-20652",
+  "repo": "spack/spack"
+}]

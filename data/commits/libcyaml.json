@@ -1,0 +1,8 @@
+[{
+  "commit": "ef5b15be40c553e98dfcb1a5cc8ab4c717b6feab",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-11T16:40:28+01:00",
+  "timestamp": 1613058028,
+  "message": "libcyaml-new-package-21598",
+  "repo": "spack/spack"
+}]

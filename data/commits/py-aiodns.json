@@ -1,0 +1,8 @@
+[{
+  "commit": "4f53975a2a51b289114274e76923a65fa04acaf8",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-04-27T20:16:39+08:00",
+  "timestamp": 1619525799,
+  "message": "Add-new-package-py-aiodns-22138",
+  "repo": "spack/spack"
+}]

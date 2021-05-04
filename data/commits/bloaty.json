@@ -1,0 +1,8 @@
+[{
+  "commit": "57c23b964a954fa98a3301065058ed875d806c81",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-01-28T16:44:07-08:00",
+  "timestamp": 1611881047,
+  "message": "add-new-package-bloaty-21355",
+  "repo": "spack/spack"
+}]

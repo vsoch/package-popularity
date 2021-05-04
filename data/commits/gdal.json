@@ -1,0 +1,472 @@
+[{
+  "commit": "73a4a5d394a0b58b38eba5a5dbf677dda0f6bd42",
+  "author": "Amiya Maji <amaji@purdue.edu>",
+  "date": "2021-04-01T19:52:04-04:00",
+  "timestamp": 1617321124,
+  "message": "gdal-package-needs-to-import-the-os-module-22731",
+  "repo": "spack/spack"
+},
+{
+  "commit": "251e4282f178f481d8313a872de7538158f44637",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-17T12:28:06-05:00",
+  "timestamp": 1616002086,
+  "message": "GDAL-add-v3.2.2-22224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba70f90ee0c4af2ba8dcd6fb07be0837660a343a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-04T11:00:37-06:00",
+  "timestamp": 1612458037,
+  "message": "Fix-usage-of-PythonPackage.test-outside-of-PythonPackage-20555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4da57e8afa53d0ca716e0c594106e7b470683915",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-06T03:06:32-06:00",
+  "timestamp": 1609923992,
+  "message": "GDAL-add-v3.2.1-20664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df3cc079eb9577c7eefcb959782f30d30eca84ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-06T11:42:46-06:00",
+  "timestamp": 1604684566,
+  "message": "GDAL-add-v3.2.0-19685",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be146797199bf0976bbc4a3e75b2bc684dbd0779",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-30T12:22:53-05:00",
+  "timestamp": 1604078573,
+  "message": "GDAL-add-new-version-19504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25291cf01c6f707ee6e50359d7aa2097e6022c08",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-10T08:08:24-05:00",
+  "timestamp": 1599743304,
+  "message": "GDAL-fixed-Java-bindings-added-v3.1.3-18494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2430ac5b7c06770eb3e746740f692002ed85e80f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T01:59:34-05:00",
+  "timestamp": 1597388374,
+  "message": "GDAL-add-spack-external-find-support-18004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ce16c89b7491a783de1c30011e87852da7213ff",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-07T15:45:25-05:00",
+  "timestamp": 1594154725,
+  "message": "GDAL-add-v3.1.2-17416",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8e2529eae85710f0895229c13656ee7b2395750",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-29T21:26:49-05:00",
+  "timestamp": 1593484009,
+  "message": "GDAL-add-v3.1.1-17302",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff44a6d03faaa8f932c861c5b4b2cf6cd0deefe8",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-05-26T02:20:04+02:00",
+  "timestamp": 1590452404,
+  "message": "hdf-new-version-variants-and-refactoring-16469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7bd070ae9ab6b2094867f39fa7b7fab5520bdb9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-07T14:41:38-05:00",
+  "timestamp": 1588880498,
+  "message": "GDAL-add-3.1.0-16509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a29956d71e8a3d1ee895c04a503c1e3c2bfd2d50",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-04-10T14:36:08-04:00",
+  "timestamp": 1586543768,
+  "message": "gdal-Patch-to-support-hdf-linked-against-libtirpc-15995",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee35d949f9a38fa99529ad5789bb9d3a7b75e8db",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-30T12:08:47-06:00",
+  "timestamp": 1580407727,
+  "message": "Add-GDAL-3.0.4-14688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d78c52c29126fe0cd56411cd6bc1a11ccb06de60",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-13T20:27:41-06:00",
+  "timestamp": 1578968861,
+  "message": "Add-GDAL-3.0.3-and-2.4.4-14485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5ae5aca36edc1814d3f40505f7be73c8b3d9632",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-07T17:55:01+01:00",
+  "timestamp": 1578416101,
+  "message": "gdal-Fix-libgeotiff-dependency-14410",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a24b973fa4ca80f867a0167ed66beb6aabec0e08",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-12-17T19:57:39-08:00",
+  "timestamp": 1576641459,
+  "message": "package-gdal-add-v2.4.3-14204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec060f3d9c79082580f1d582d67b1703b3af4815",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-12-11T00:34:35+01:00",
+  "timestamp": 1576020875,
+  "message": "Fix-libgeotiff-dependency-of-gdal-14089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ffbc9c091a291ac938ba23f171dcde5c9092860",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-05T15:05:36-06:00",
+  "timestamp": 1572987936,
+  "message": "Add-GDAL-3.0.2-13603",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d7e543cef01743553c944a36d823ff1d9d35f39",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-18T13:47:31-05:00",
+  "timestamp": 1568832451,
+  "message": "GDAL-Add-support-for-MKL-driver-12837",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0babdab8f04569b91ab77645e5c88ec0baa80b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-26T02:25:35-05:00",
+  "timestamp": 1564125935,
+  "message": "Add-GDAL-3.0.1-12140",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ace419aa505304f251442c4bf59ffc88fbd878c",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-07-25T08:14:37-07:00",
+  "timestamp": 1564067677,
+  "message": "gdal-added-versions-2.4.2-and-3.0.1-12125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ef3b4c578cb1f118445546fcca253059ce1fa5c",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-27T02:36:29+02:00",
+  "timestamp": 1561595789,
+  "message": "ncl-Fix-build-11855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de51be45b9b6db714a5b7d8b60307d2f8ed39930",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-17T19:57:48-05:00",
+  "timestamp": 1560819468,
+  "message": "Add-GDAL-3.0.0-11733",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba58b2f43aa0c3ef0e57f137f160ef20615b2808",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-05-03T11:30:10-07:00",
+  "timestamp": 1556908210,
+  "message": "GDAL-package-add-version-2.4.1-11328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04c1af0ee2a14c46605078090483863a2a824d81",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2019-01-13T02:33:18+10:00",
+  "timestamp": 1547310798,
+  "message": "gdal-Add-variant-for-GRIB-driver-10322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f957920c4cac213daece3bb069b5622445ca3fd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-12-28T21:20:13-06:00",
+  "timestamp": 1546053613,
+  "message": "Add-GDAL-2.4.0-10215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5c3b65c60be0034e140929135c8e4d7e2ade940",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-09-01T07:32:24-05:00",
+  "timestamp": 1535805144,
+  "message": "GDAL-add-version-2.3.1-9156",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1383834d155479131fe1a845592652aa31713034",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-29T12:35:56-05:00",
+  "timestamp": 1535564156,
+  "message": "Add-MDB-driver-support-to-GDAL-8614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc01e89d6b0a615059fe3c8ac933230ed41930df",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-25T14:12:46-05:00",
+  "timestamp": 1535224366,
+  "message": "Update-to-latest-version-of-pytest-and-dependencies-9087",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12fb1cdbe51a5fb66f4244752cc2ba68fec40320",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-02T19:29:05+02:00",
+  "timestamp": 1533230945,
+  "message": "Replace-pkg-config-dependencies-with-virtual-8783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cea5d04a1e03c8ecdbbe76d85c8e9fb716257dfb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-06-15T10:14:50-05:00",
+  "timestamp": 1529075690,
+  "message": "Fix-GDAL-Python-bindings-and-add-import-tests-8482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04dce191551b6f40866317daa8b1987e8e259d88",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-06-13T15:57:52+02:00",
+  "timestamp": 1528898272,
+  "message": "gplates-new-package-8336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1549ee76e563399dec69ed2cb16c5d10b2d7c138",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-26T10:37:22-05:00",
+  "timestamp": 1527349042,
+  "message": "Add-GDAL-2.3.0-8263",
+  "repo": "spack/spack"
+},
+{
+  "commit": "593ad23a9f4f51e3ff4231a894ba1998e212fdc4",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-03T23:55:31-04:00",
+  "timestamp": 1525406131,
+  "message": "gdal-update-8008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be5fa8f6c20ec04c233e90bdaae34849345a5d21",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-02-03T04:06:35-05:00",
+  "timestamp": 1517648795,
+  "message": "macOS-Fix-for-GDAL-7155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ce3165ae6dbe34cea3e4f63990ca4e4a5d874bd",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-12-20T02:06:57+01:00",
+  "timestamp": 1482196017,
+  "message": "Update-gdal-to-2.1.2-2643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "540e57f02686bad7125a951d14784e8fcc896e26",
+  "author": "Josh Sixsmith <josh.sixsmith@gmail.com>",
+  "date": "2016-03-25T18:27:02+11:00",
+  "timestamp": 1458890822,
+  "message": "Upload-of-GDAL-kealib-openjpeg-py-tuiview-package-builds",
+  "repo": "spack/spack"
+}]

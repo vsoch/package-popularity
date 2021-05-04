@@ -1,0 +1,248 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8845358f10c5007137bd18c3dbc8e8d423f7db94",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-05-07T04:51:04+02:00",
+  "timestamp": 1588819864,
+  "message": "New-version-of-pylint-fix-dependencies-16443",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0be09abd9c9590f813a2a99bed4ca4b2ff4f31e6",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-20T06:04:11+01:00",
+  "timestamp": 1582175051,
+  "message": "Add-extra-version-of-py-pylint-15068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c2bdfaf6399ee3584bd30edad1b0b2607ab952",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:56:56-05:00",
+  "timestamp": 1532487416,
+  "message": "Further-improvements-to-version-parsing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7fda19f5d7af1023fbfdf5901ea1ed607c5719c",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-11-29T00:46:23+01:00",
+  "timestamp": 1511912783,
+  "message": "remove-breaking-version-and-cleanup-of-dependencies-6494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c5c46a7a2e2e7347af37462b7419c578ec7b371",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-11-25T19:41:45+01:00",
+  "timestamp": 1511635305,
+  "message": "add-missing-dependencies-to-py-pylint-6445",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b41184920070f6b95fdd333ec04a0198c3c157d3",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-07-18T17:37:40-07:00",
+  "timestamp": 1500424660,
+  "message": "Misc-python-updates-4807",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e087f2e25ee82ea7fafe2a144991703c5825911",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-23T08:51:45-05:00",
+  "timestamp": 1498225905,
+  "message": "Remove-test-dependencies-from-Python-packages-4572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b337de93e29638b7f040d64c8742d6f1b64767d",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-01-06T08:50:06-08:00",
+  "timestamp": 1483721406,
+  "message": "various-python-package-version-and-dependency-updates-2751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b0a9c059bc854d94e2160efbe9bd3fa401af0f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:39:01-07:00",
+  "timestamp": 1433173141,
+  "message": "updated-Python-extension-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06d6b0b205095f849ace216aa51393b907cf821b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-16T21:53:55-08:00",
+  "timestamp": 1424152435,
+  "message": "More-py-setuptools-dependencies-added",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc3f74df263eb92a99e5477f4ce04972eb76994",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-22T11:50:01-08:00",
+  "timestamp": 1421956201,
+  "message": "added-more-Python-modules",
+  "repo": "spack/spack"
+}]

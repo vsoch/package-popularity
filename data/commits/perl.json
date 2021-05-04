@@ -1,0 +1,512 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f523ea8c4e4e293af5e8e00c9b385f2ccde29fac",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-01-28T21:54:28+01:00",
+  "timestamp": 1611867268,
+  "message": "perl-add-v5.32.1-21375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e2fa561f3a12dadabe192a3c07cfe934859c50b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-01-20T15:51:06-06:00",
+  "timestamp": 1611179466,
+  "message": "Perl-NVIDIA-HPC-SDK-updates-21177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0857648313bb375bfa1e0b252746cb674d1c71a9",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-08T17:54:22+01:00",
+  "timestamp": 1604854462,
+  "message": "perl-make-5.32.0-the-preferred-version-19799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38bfb81e2b8d130d3995ca0a189ee3d42a198a8c",
+  "author": "zhiyuanzhai <37478391+zhiyuanzhai@users.noreply.github.com>",
+  "date": "2020-10-08T02:55:35+08:00",
+  "timestamp": 1602096935,
+  "message": "macOS-11-version-check-for-Perl-19210",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a14648ffd0bfdb447a5aa7f996afee01454cf5e3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T01:40:58-05:00",
+  "timestamp": 1597387258,
+  "message": "external-packages-redirect-stderr-too-18037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80a382c2182800b735571ebf53c37715b4155608",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-11T17:06:20-07:00",
+  "timestamp": 1597190780,
+  "message": "Adding-external-recognition-to-perl-17756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1494fe8da39ecadef706397a74784da4cb13bde",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-07-29T13:46:24-04:00",
+  "timestamp": 1596044784,
+  "message": "perl-add-missing-berkeley-db-dependency-17771",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe0d3c22c6a02af6f9dde13aab3f4772c33aa59e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-24T11:01:48+02:00",
+  "timestamp": 1592989308,
+  "message": "perl-added-v5.30.3-and-v5.32.0-17220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2704a6037719f80273fce25b06b27d4d63f0c95",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:11:46+02:00",
+  "timestamp": 1588277506,
+  "message": "perl-Add-5.30.2-16396",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ad0be96aa83815c1ebb9d1b77f701466bbfa776",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-16T17:11:54+01:00",
+  "timestamp": 1579191114,
+  "message": "perl-Fix-binary-detection-14536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2778d8898e99581d7ea0974dc61fb8463286f5f",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-15T21:12:51+01:00",
+  "timestamp": 1579119171,
+  "message": "perl-Add-5.30.1-and-5.31.7-14509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cacfc3a6e1c79520087455a0831a567ad6fb3486",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-11-29T04:30:40-07:00",
+  "timestamp": 1575027040,
+  "message": "Handle-external-perl-13903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99dfff447509a68d672a82812e5abfbc463b6d26",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-11-04T23:03:35-06:00",
+  "timestamp": 1572930215,
+  "message": "binary-distribution-relocate-text-files-properly-in-relative-binaries-13578",
+  "repo": "spack/spack"
+},
+{
+  "commit": "385e41d70b6562e19a549f9141697ba12b4e7b6d",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-11-04T23:03:35-06:00",
+  "timestamp": 1572930215,
+  "message": "binary-distribution-relocate-text-files-properly-in-relative-binaries-13578",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ace11d857f5c7ff6ddbdfbfc5cbdd0a898f16468",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:08:40-05:00",
+  "timestamp": 1570727320,
+  "message": "Add-latest-Perl-releases-13093",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f98cf03988a53505fccb22971a4b10e37e3ee48",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-07-25T02:32:49+09:00",
+  "timestamp": 1563989569,
+  "message": "Perl-take-in-flags-12112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5315f3878ed55ed5e373f51905da865085c756b",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-04-10T08:44:27-05:00",
+  "timestamp": 1554903867,
+  "message": "Fix-bug-when-system-perl-is-used.-11034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89ccaa2472cf88a548ba91050fa6b7f8ce410441",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-10-02T15:48:28-07:00",
+  "timestamp": 1538520508,
+  "message": "Added-perl-5.28-9379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "777a0fe5df4682a7f04b0c63e5cb7697ed4055f8",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-07-22T15:51:59-06:00",
+  "timestamp": 1532296319,
+  "message": "Make-read-only-source-file-writeable-in-perl-before-patch-to-avoid-failures-on-lustre-filesystem.-8764",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3560f6dbe9823c4b36783dfb8244d01672074760",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2018-06-26T16:14:05-07:00",
+  "timestamp": 1530054845,
+  "message": "views-packages-can-customize-how-they-re-added-to-views-7152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "064ae1e6e080f450c58bacfa2fe4dbbfe34cdcff",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-05-29T17:28:58+02:00",
+  "timestamp": 1527607738,
+  "message": "perl-Fix-build-on-Fedora-28-8305",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c06174a0814896a5f168fb1e524ab7462d04e46a",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-05-17T20:02:07-05:00",
+  "timestamp": 1526605327,
+  "message": "perl-adding-threads-variant-8142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f202198777b4353c57c26fa87739b306070fd960",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-16T10:57:40-07:00",
+  "timestamp": 1526493460,
+  "message": "Convert-lazy-singleton-functions-to-Singleton-object",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f2cac9565cd50cded141533b1594faa02c4b2f6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-10T11:45:44-07:00",
+  "timestamp": 1525977944,
+  "message": "init-initialize-spack.store-lazily",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4d276fbe4ec45c7ac4d9315d0f803a223096d18",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-04-08T21:10:05-05:00",
+  "timestamp": 1523239805,
+  "message": "init-factor-paths-out-of-spack-__init__.py-and-into-spack.paths-module",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a88227c83b17ef01325d92193a1c387ed6fb4e0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-07T20:40:32+02:00",
+  "timestamp": 1525718432,
+  "message": "perl-add-5.26.2-7984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24bb3c61de6aff0972f8f568e86a81df8778add4",
+  "author": "Luigi Calori <l.calori@cineca.it>",
+  "date": "2017-11-09T06:10:50+01:00",
+  "timestamp": 1510204250,
+  "message": "fix-perl-dependent-modules-5900-5937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a81485cb3fa7972549e2163a96cb11fb41088723",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2017-10-27T13:38:42-04:00",
+  "timestamp": 1509125922,
+  "message": "perl-support-extensions-in-views",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9d9901e43aa067770e68b3be1dccddce70db48e",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-10-20T16:18:24-07:00",
+  "timestamp": 1508541504,
+  "message": "perl-add-old-version-5844",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d72bcc91f4f11095e72b99aa7ff9dee6dfbc3a52",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-10-20T08:24:49+11:00",
+  "timestamp": 1508448289,
+  "message": "perl-ignore-perllocal.pod-files-during-package-activation-5271",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad5fb40d75d5e89517dc7c18b95e3ccb87e2e195",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-10-17T18:38:23-07:00",
+  "timestamp": 1508290703,
+  "message": "perl-add-write-permissions-to-update-config-files-5746",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4044e9f91819ad2c7859781eb807fa16e0e0c7f3",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-07-24T00:41:45+10:00",
+  "timestamp": 1500820905,
+  "message": "Perl-allow-package-activation-without-PERL5LIB-variable-4540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23474be4b0fe55dc0818c0a334a337e282717b44",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-06-02T08:44:01-07:00",
+  "timestamp": 1496418241,
+  "message": "Add-variant-to-build-shared-Perl-lib-4416",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3eaba80b1b48788e0c80e581650c33a3f729836",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-29T14:59:30-07:00",
+  "timestamp": 1496095170,
+  "message": "Ensure-Config.pm-has-correct-setting-for-cc-4345",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f55eddb9bd0bcefe637093cdcb22328dbd7f0e62",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-05T16:00:23-07:00",
+  "timestamp": 1494025223,
+  "message": "Add-info-for-perl-5.22.1-4147",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6efb1aa21ffa89d695cdfe69bf0f6c3238f7e1f",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-04-26T22:42:43+10:00",
+  "timestamp": 1493210563,
+  "message": "perl-identify-dependency-on-gdbm-3896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46d0ca9d01c6d6e2a67dacf528b7cc306d5bb815",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T12:15:39-05:00",
+  "timestamp": 1492794939,
+  "message": "Ensure-that-tests-are-optional-3922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cddb7524b7ca7dd086b11e6130717a328f66147e",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-02T18:32:20-07:00",
+  "timestamp": 1491183140,
+  "message": "Hey-I-was-using-that-3660",
+  "repo": "spack/spack"
+},
+{
+  "commit": "343f3b2fde46f2de34f16ed1cacbd7455b4a8498",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-31T11:51:13-05:00",
+  "timestamp": 1490979073,
+  "message": "Add-QBank-package-3641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d13854b5d424e8fef3cef1ab11650ad787dcecc1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-31T09:18:28-05:00",
+  "timestamp": 1490969908,
+  "message": "Perl-add-more-versions-add-phases-3640",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e43ff821c1549d5813eebd5a9ca81a7869786e7",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-03-31T09:38:58+10:00",
+  "timestamp": 1490917138,
+  "message": "Extendable-Perl-3614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c1441c3e3f4dfaf1b0cd6c607efeddd7f55d454",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-03-04T06:50:38-07:00",
+  "timestamp": 1488635438,
+  "message": "Using-fPIC-in-PERL-when-using-an-Intel-compiler.-3355",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cb7f3d262b97674f0d77f80ab1dc29c4b6038e0",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-02-17T14:52:08-05:00",
+  "timestamp": 1487361128,
+  "message": "Keep-Curl-Bootstrap-Working-With-http-3113",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbb18df3f27cae1b06731eae53a27bde5f6b8277",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-03T16:10:08-06:00",
+  "timestamp": 1486159808,
+  "message": "Add-latest-stable-Perl-release-2969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2f5f6c27989c701274cbbb9bfcd7aa1e0f0561a",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-02T11:18:50-04:00",
+  "timestamp": 1470151130,
+  "message": "Touch-up-variant-comment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c994565c621f4283736ac70f7792c20e2d9e1b11",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-01T23:56:58-04:00",
+  "timestamp": 1470110218,
+  "message": "Use-resource-machinery-to-manage-cpanm-tarball",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b9becc54162ed9239a03cf613f50ae7996625c3",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T10:27:35-04:00",
+  "timestamp": 1469456855,
+  "message": "Add-the-std-spack-header-to-perl-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08ff7b65afdeaaa0535094843940c0881905b27c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-22T19:16:42-04:00",
+  "timestamp": 1469229402,
+  "message": "Make-running-perl-s-tests-conditional",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d72e0fb9db7716f40899ff4df24e0487a9bf826",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-22T17:55:57-04:00",
+  "timestamp": 1469224557,
+  "message": "Make-the-cpanm-version-a-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5a4525bed678b989130583a1ea54c63f36fdf56",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-22T13:39:10-04:00",
+  "timestamp": 1469209150,
+  "message": "Add-perl-package",
+  "repo": "spack/spack"
+}]

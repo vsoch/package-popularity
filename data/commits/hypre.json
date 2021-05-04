@@ -1,0 +1,544 @@
+[{
+  "commit": "b7c4bfb2a70f3cf466371f27444a24f9ddcfcb4e",
+  "author": "QuellynSnead <quellyn@lanl.gov>",
+  "date": "2021-04-26T13:55:37-06:00",
+  "timestamp": 1619466937,
+  "message": "hypre-Add-a-variant-for-unified-memory-support-23258",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e88fc38cfeaf643fce2b9b714921caffa372f615",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-26T01:17:35-08:00",
+  "timestamp": 1614331055,
+  "message": "hypre-enable-cuda-variants-21885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a95bf8df436dae2e360f916f92c517508c5fc45a",
+  "author": "Sergei Shudler <shudler1@llnl.gov>",
+  "date": "2021-01-20T15:05:25-08:00",
+  "timestamp": 1611183925,
+  "message": "Mirror-current-E4S-hypre-test-suite-test-as-a-smoke-test-20484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6f0cb04611737055d5caf91a5b0a9a5874d9952",
+  "author": "David M. Rogers <predictivestatmech@gmail.com>",
+  "date": "2020-10-30T15:55:21-04:00",
+  "timestamp": 1604087721,
+  "message": "Patched-hypre-to-better-add-flags-based-on-compiler.-19498",
+  "repo": "spack/spack"
+},
+{
+  "commit": "569eb866fc7f42da0018b73ac7b4bc7a5dbc76ff",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-10-02T14:02:23-05:00",
+  "timestamp": 1601665343,
+  "message": "Add-hypre-2.20.0-petsc-3.14.0-and-3.13.6-3.13.5-19105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9979aa28ce8fc31dd8730eb2bc68d995a10261b6",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-08-09T14:42:52+02:00",
+  "timestamp": 1596976972,
+  "message": "hypre-added-v2.19.0-17809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43b18dada4442f688f2a3ef6629671cd9fd866a8",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-31T18:35:13-05:00",
+  "timestamp": 1572564913,
+  "message": "hypre-add-version-2.18.2-13527",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7536eb3323309b47a2f17883f0ad75cf1fa1e90",
+  "author": "Sarah Osborn <30503782+osborn9@users.noreply.github.com>",
+  "date": "2019-10-23T12:13:21-07:00",
+  "timestamp": 1571858001,
+  "message": "hypre-Add-new-variants-to-expose-existing-features.-13373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ea0eed2876b272b06861c5697c5ba8627842dd7",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-15T15:05:51-05:00",
+  "timestamp": 1571169951,
+  "message": "hypre-add-version-2.18.1-13224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd64bdc3130ac23f06ff6f4397428912b5c1a793",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-10T09:11:15-05:00",
+  "timestamp": 1570716675,
+  "message": "hypre-add-compatibility-patch-for-petsc-mfem-build-failures-13116",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9a860820a6a350ec6bddd41634affa6e88641c0",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-01T10:48:40-05:00",
+  "timestamp": 1569944920,
+  "message": "hypre-add-version-2.18.0-12992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16e54646ea3381afdb7f3bb04590a007c2939fab",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-24T09:43:57-07:00",
+  "timestamp": 1566665037,
+  "message": "hypre-2.17.0-new-version-12562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bc15b2d9a061b37e55434edec6ae3954e95032b",
+  "author": "Tim Fuller <tjfulle@sandia.gov>",
+  "date": "2019-07-12T18:46:47-06:00",
+  "timestamp": 1562978807,
+  "message": "find_libraries-searches-lib-and-lib64-before-prefix-11958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ec3d78441c6150eb2c634394d3c4951f9202509",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-06-24T16:55:04-05:00",
+  "timestamp": 1561413304,
+  "message": "hypre-superlu-dist-link-2.15.0.patch-is-now-in-hypre-develop-11829",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d65e6ad7e3ee86fe77e2af151b28a40cede4737d",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-06-23T15:33:06-06:00",
+  "timestamp": 1561325586,
+  "message": "hypre-add-v2.16.0-11821",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1746150f58e9e396136f3e64ca9608ef2446bd0f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-19T15:55:35-05:00",
+  "timestamp": 1555707335,
+  "message": "hypre-add-osborn9-to-maintainers-11233",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90c7c74334eaa6818b9c66b1808c80c255fd7f0e",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-05T21:11:36-05:00",
+  "timestamp": 1554516696,
+  "message": "hypre-disable-variant-superlu-dist-default-11097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06e82edf15ed65678c0f9619f1984a58b20caaea",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-28T14:57:51-05:00",
+  "timestamp": 1553803071,
+  "message": "hypre-add-a-modified-superlu-dist-patch-for-2.14.0-11032",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c165494f2767ddce7b8c44bfd4138dcb38b73ad",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-24T22:16:47-05:00",
+  "timestamp": 1553483807,
+  "message": "hypre-add-superlu-dist-variant-10985",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1e5f8e37be906276ded9dc1b20a6833e14d6806",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-11-13T07:54:09-08:00",
+  "timestamp": 1542124449,
+  "message": "hypre-patch-only-2.13.0-and-2.14.0-on-darwin-9832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a69bb474fd7f57bb7e7f50f33d7e8f062a53b3f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-22T18:05:23-05:00",
+  "timestamp": 1540249523,
+  "message": "hypre-update-to-version-2.15.1-9602",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e11d5914c2216b4314b57055906c61bb443b93c",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-10-08T00:58:02-06:00",
+  "timestamp": 1538981882,
+  "message": "Update-HYPRE-with-version-2.15.0.-9443",
+  "repo": "spack/spack"
+},
+{
+  "commit": "affea920cfa40cf22a7883c530ad056f696fd199",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-09-14T17:14:30-07:00",
+  "timestamp": 1536970470,
+  "message": "hypre-patch-shared-2.13.0-on-darwin-9220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a76aa364819baf88d7bd45bad134f1de1e2012d6",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-09-14T15:53:06-07:00",
+  "timestamp": 1536965586,
+  "message": "hypre-add-debug-variant-9222",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f59666587bf0eb853fc1b47576a71d3f4c20ec3c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-07-25T15:31:35-05:00",
+  "timestamp": 1532550695,
+  "message": "hypre-master-is-branch-not-a-tag",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7da156879328c7b25758db359d2235af9d245e3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-24T14:10:46+02:00",
+  "timestamp": 1524571846,
+  "message": "petsc-and-slepc-add-3.9.0-hypre-add-2.14-needed-by-petsc-7877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3858d4a3a354facf4bce66567c07d2d229f9d98a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-03-22T17:43:23-07:00",
+  "timestamp": 1521765803,
+  "message": "hypre-add-the-headers-property-7278",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5bc6e7056c6be30945dff8c8b624cc3f7716d57",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-02-14T00:21:13-08:00",
+  "timestamp": 1518596473,
+  "message": "hypre-add-libs-method-7234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98f220b304bf49531b20480918d3bbf37b7832be",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T15:39:27+01:00",
+  "timestamp": 1513694367,
+  "message": "hypre-add-2.13.0-6726",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39616a2fe1fe6cb0172c2e2a79a362112002a290",
+  "author": "Ondřej Čertík <ondrej@certik.us>",
+  "date": "2017-10-24T19:53:12-06:00",
+  "timestamp": 1508896392,
+  "message": "hypre-make-mpi-dependency-optional-5905",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ed457759c6a2457d2eb1bb780c33647e470bbce",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-08T15:27:25+02:00",
+  "timestamp": 1507469245,
+  "message": "hypre-add-2.12.1-5653",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0d7768b90674ad200509a7ce71e8f3adb97604e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T23:35:05+02:00",
+  "timestamp": 1495920905,
+  "message": "Petsc-and-Slepc-add-new-versions-4378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d04ae9a2b4c19e45c99f3af3c6d6a2599486ee05",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2017-04-25T18:09:30-05:00",
+  "timestamp": 1493161770,
+  "message": "xsdk-version-0.2.0-3928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a14f9491dbbd78fef7be5c2362dd6e14b614c9e7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-26T09:32:49+02:00",
+  "timestamp": 1490513569,
+  "message": "hypre-add-2.11.2-3556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be0c06b9866e7ddd580ff5ff5c7c3228962d31d",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-02-28T14:24:43-05:00",
+  "timestamp": 1488309883,
+  "message": "Patch-hypre-to-support-ppc64le-3238",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8365dbd959f0c8346017c64298fa1cac06122609",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-16T11:23:07+01:00",
+  "timestamp": 1484562187,
+  "message": "petsc-add-64bit-variant-2655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76dae1dc5fb18c349e2a214c2aa03b75e0deff25",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-12-06T14:10:51-06:00",
+  "timestamp": 1481055051,
+  "message": "hypre-superlu-dist-trilinos-support-using-develop-master-branches-of-these-packages-2443",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f20c43315fc39dff92ff9a456adb75fca99989a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-18T16:38:15+02:00",
+  "timestamp": 1476801495,
+  "message": "hypre-add-2.11.1-2040",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d939802ae208a79ef685fe59b204bcc86df4b6b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-11T15:48:16+02:00",
+  "timestamp": 1476193696,
+  "message": "hypre-fix-blas-lapack-for-MKL-1993",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df5e151049a6fd9ba14632516a70f3a81f1a2379",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-23T19:06:18+02:00",
+  "timestamp": 1474650378,
+  "message": "hypre-fix-a-bug-with-blas-lapack-names-1841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ee4df8101e1b068f2789d9b6818fe9ead99d658",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-29T11:37:19+02:00",
+  "timestamp": 1469785039,
+  "message": "hypre-minor-cleanup-related-to-blas-lapack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ea4f80f154f264986dcadf9de4dd192b8dce037",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T07:58:51+02:00",
+  "timestamp": 1468648731,
+  "message": "flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "514c61b8fe923de7eb0c41205fdfaae48afb5cdf",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T07:28:31+02:00",
+  "timestamp": 1468646911,
+  "message": "hypre-don-t-hardcode-blas-lapack-mpi-optionally-run-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63c3feb79e7e4022e5565deb9f2749fa9732e7d2",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-29T09:41:57+02:00",
+  "timestamp": 1459237317,
+  "message": "minor-fixes-to-hypre-and-muparser-on-Linux",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09e77812b67d92094bea8dae54617e3e02ebaa61",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-28T17:49:20+02:00",
+  "timestamp": 1459180160,
+  "message": "fix-installation-of-superlu_dist-headers-and-add-it-as-a-dependency-to-petsc-add-a-variant-to-hypre-to-disable-internal-superlu",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7618dc504cb58e115a0a95b130bcfc485cd8341d",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-22T19:17:39+01:00",
+  "timestamp": 1458670659,
+  "message": "temporary-fix-Hypre-for-OSX-by-building-static-lib-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b22873b3dce37c0d7bad418bf6e0b73d381d19e",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-09T00:18:20-05:00",
+  "timestamp": 1457500700,
+  "message": "Fixed-issues-with-hypre",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1330c10fc8ed4a4e9ddcb846f0b82644e34fd92d",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2015-11-23T16:00:10-05:00",
+  "timestamp": 1448312410,
+  "message": "Don-t-use-https-for-downloading",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d266bf0184ca0d3a466d2370be0e61c13ff30dcd",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-06-06T17:20:33-07:00",
+  "timestamp": 1433636433,
+  "message": "Working-Hypre-PARPACK",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd34f4b119243d42b64e4ca2c358cf561fde9a14",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-05-27T17:39:17-07:00",
+  "timestamp": 1432773557,
+  "message": "Added-more-FASTMath-packages",
+  "repo": "spack/spack"
+}]

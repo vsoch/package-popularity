@@ -1,0 +1,8 @@
+[{
+  "commit": "a04e0d25258c11215221953abf46b3f137203138",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2021-01-31T19:29:29+01:00",
+  "timestamp": 1612117769,
+  "message": "Add-package-py-beancount-21274",
+  "repo": "spack/spack"
+}]

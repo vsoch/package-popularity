@@ -1,0 +1,264 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c9bc8da86ba2c5e1da02ccfa30e3592a8c5f975",
+  "author": "Pariksheet Nanda <pariksheet.nanda@uconn.edu>",
+  "date": "2019-08-07T15:18:36-04:00",
+  "timestamp": 1565205516,
+  "message": "ncbi-toolkit-add-version-22_0_0-12278",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d0b5bd54133e5949b43d6c3ff12c6ce61b701a8",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-07-29T13:08:55-04:00",
+  "timestamp": 1564420135,
+  "message": "Change-dependencies-to-use-virtual-jpeg-package-12179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fa22125437c4102b87b77661672690a18120026",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2018-07-05T21:34:38-05:00",
+  "timestamp": 1530844478,
+  "message": "ncbitoolkit-Create-new-package.-8591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b2953939b4e1a09c1d8f07046e8bf97f3bf3584",
+  "author": "Ricardo Silva <ricardo.d.silva@gmail.com>",
+  "date": "2018-06-08T15:35:28+02:00",
+  "timestamp": 1528464928,
+  "message": "GDL-and-missing-dependencies-8283",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af850149789761c8fff6a0f03a01fcaf9cdcfe4c",
+  "author": "Stas Sergienko <ssergien@anl.gov>",
+  "date": "2017-06-07T11:49:39-05:00",
+  "timestamp": 1496854179,
+  "message": "Added-latest-version-of-image-magick-7.0.5-9-4447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "331f42b9911b0348cf287a5239d7d50cbdcd0ee5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-14T10:13:47-05:00",
+  "timestamp": 1492182827,
+  "message": "Convert-Image-Magick-to-AutotoolsPackage-3828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5146c64dfc5096ce4320270354acb62135fc63e7",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2016-09-02T18:41:35+01:00",
+  "timestamp": 1472838095,
+  "message": "Fixes-for-the-ImageMagick-package.-1709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "633e540a1718a5cc515725b13d3f1740bb950bb6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-11T14:13:33-05:00",
+  "timestamp": 1470942813,
+  "message": "Use-GitHub-URL-for-ImageMagick",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a388871083f60d0c35f78ceb4b0a4235458b57cb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-03T10:27:55-05:00",
+  "timestamp": 1470238075,
+  "message": "Update-ImageMagick-to-latest-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7847ff7685a52670a9d01cf39bd44eff1a57684",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T01:16:41-07:00",
+  "timestamp": 1462954601,
+  "message": "Use-just-one-flake8-file-mark-package.py-files-to-avoid-E501-w-url",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d74e209f365ba135acd9dfe738737bcf37d4b79",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-05-10T19:20:26+02:00",
+  "timestamp": 1462900826,
+  "message": "qa-this-should-still-fail-due-to-F821",
+  "repo": "spack/spack"
+},
+{
+  "commit": "979b53cab605d250dfe23edaacc6b0d2ff88d978",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-05-10T18:33:07+02:00",
+  "timestamp": 1462897987,
+  "message": "qa-modifying-2-packages-and-a-framework-file-just-for-the-sake-of-it",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "959ce4f98577c872c69a29a30a2e0659e12cff75",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-18T10:43:29-08:00",
+  "timestamp": 1424285009,
+  "message": "Downgrade-standard-version-of-ImageMagick-to-a-non-changing-URL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01ca61c7cce510f7f80912f5b01bd69043de7008",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-22T23:23:11-08:00",
+  "timestamp": 1419319391,
+  "message": "Updates-for-Qt-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7905b50dcb14c1a71303ce38dc6b0bdb7931d89c",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-03T01:44:30-08:00",
+  "timestamp": 1415007870,
+  "message": "Bump-ImageMagick-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9149b6cb63416af2f952c71db8750450f30cbc1",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:59:01-06:00",
+  "timestamp": 1414295941,
+  "message": "Fixing-errors-in-depends_on-and-updating-version-for-ImageMagick",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

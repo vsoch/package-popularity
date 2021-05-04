@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a71a7646130017c767a3a85c642fc2b097d824d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-20T05:08:54-04:00",
+  "timestamp": 1584695334,
+  "message": "py-tfdlpack-add-new-package-15583",
+  "repo": "spack/spack"
+}]

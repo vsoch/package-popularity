@@ -1,0 +1,48 @@
+[{
+  "commit": "1a45bdb036a4ee8ff6aa61b44c255b3793422d8f",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-02-26T20:21:08+01:00",
+  "timestamp": 1614367268,
+  "message": "FastJet-fix-patch-level-21936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eac95c866ab16983b0d1a5c00c64e895b3a6df3c",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-02-01T20:18:04+01:00",
+  "timestamp": 1612207084,
+  "message": "FastJet-add-optional-patch-to-make-random-generator-thread-local-21395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01357d49255a8fb74feb0dcef79ec3d69a09f15f",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-06-29T10:46:44+02:00",
+  "timestamp": 1593420404,
+  "message": "New-package-fjcontrib-new-variants-for-fastjet-17255",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed9e19df06ab44bd3040675c6647f593816b8e59",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-03T20:27:18+02:00",
+  "timestamp": 1588530438,
+  "message": "Add-new-HEP-package-fastjet-16439",
+  "repo": "spack/spack"
+}]

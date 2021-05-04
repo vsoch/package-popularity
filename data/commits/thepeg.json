@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03611f2e89854a7aa6424cfb93319b5fc7fd8be3",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-10-20T23:33:17+02:00",
+  "timestamp": 1603229597,
+  "message": "Thepeg-fix-19405",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed7d485b58a5242416e863de7f08fdc978d15e23",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-07-10T15:25:21+02:00",
+  "timestamp": 1594387521,
+  "message": "New-packages-thepeg-herwig-2.x-17443",
+  "repo": "spack/spack"
+}]

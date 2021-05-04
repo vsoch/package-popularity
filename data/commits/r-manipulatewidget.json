@@ -1,0 +1,64 @@
+[{
+  "commit": "cf35661d3c1da612991a43843b7183d50cfc5836",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-24T17:54:25-06:00",
+  "timestamp": 1611532465,
+  "message": "Updates-of-R-CRAN-packages-21223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68845f6b23cf0e11c510e951da04f13e2c70d501",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-17T11:29:22-06:00",
+  "timestamp": 1610904562,
+  "message": "add-version-0.10.1-to-r-manipulatewidget-21086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23a759cda0bec5e99518b042f123c8f150306a87",
+  "author": "Jennifer Herting <jen@herting.cc>",
+  "date": "2020-01-30T05:26:48-05:00",
+  "timestamp": 1580380008,
+  "message": "r-manipulatewidget-added-versions-14674",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "553cecaade598992b3b6c0dd71a5d87933a6a557",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-11-12T18:41:03-06:00",
+  "timestamp": 1542069663,
+  "message": "r-manipulatewidget-new-package-at-0.10.0-9826",
+  "repo": "spack/spack"
+}]

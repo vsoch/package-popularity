@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e26e532eb3de5b14982848f4630f12cec5259572",
+  "author": "Jianwen <weijianwen@gmail.com>",
+  "date": "2020-08-23T04:23:04+08:00",
+  "timestamp": 1598127784,
+  "message": "vifi-a-new-package.-WIP-14287",
+  "repo": "spack/spack"
+}]

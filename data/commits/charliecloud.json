@@ -1,0 +1,328 @@
+[{
+  "commit": "cb82e4b088bab00fba3594e3fe0c60fe506705fb",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2021-04-29T15:25:07-06:00",
+  "timestamp": 1619731507,
+  "message": "add-charliecloud-0.23-23344",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02a4abadfa46cb1d7dd0b26da8e946197957e6dd",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2021-02-09T13:15:03-07:00",
+  "timestamp": 1612901703,
+  "message": "add-charliecloud-0.22-21574",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2f2417a3166562ba89fd83abf124af3c6e5c94d",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2021-01-06T13:13:31-07:00",
+  "timestamp": 1609964011,
+  "message": "add-charliecloud-0.21-20703",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "435c8862a61a6df1aae9c81c867d5786f4c4ca24",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-09-22T12:45:29-06:00",
+  "timestamp": 1600800329,
+  "message": "charliecloud-added-v0.19-18866",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1666db60d0ac45f2ba10a36e71f8a03a1647f257",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-08-20T19:16:34-06:00",
+  "timestamp": 1597972594,
+  "message": "charliecloud-add-0.18-18200",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f243291334eb30d974e7dd6fb37ea1289c8146f5",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-08-09T07:55:53-06:00",
+  "timestamp": 1596981353,
+  "message": "charliecloud-added-v0.17-17855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66b8b5ab37ed07e3bafe957dbdc23dbf3d8ad6e2",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-05-30T20:10:50-07:00",
+  "timestamp": 1590894650,
+  "message": "add-charliecloud-0.16-16810",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d12e588c60cb98382c3f6907492fbb220e50d62d",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-29T18:22:22-04:00",
+  "timestamp": 1588198942,
+  "message": "charliecloud-add-more-checksummed-versions-16146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad8977467bc3949adf3954c1f03c9de715ddf95f",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-04-17T13:51:18-07:00",
+  "timestamp": 1587156678,
+  "message": "charliecloud-fix-url-16133",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cba5f71eee154524572f1e0f071af7e52016feea",
+  "author": "Tyler Reddy <tyler.je.reddy@gmail.com>",
+  "date": "2020-04-14T15:55:10-06:00",
+  "timestamp": 1586901310,
+  "message": "MAINT-Charliecloud-OSX-error-16049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25e2548489ed17fdf3593a462e6565d838e1e913",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-04-14T10:02:22-06:00",
+  "timestamp": 1586880142,
+  "message": "add-charliecloud-0.15-16023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9e58a52dad06caee5c7becd4e9025253a2571f4",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-03-19T12:49:11-07:00",
+  "timestamp": 1584647351,
+  "message": "add-charliecloud-0.14-remove-umoci-skopeo-remove-builder-variant-15573",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c9337a5e42d23f952ddc5eea9da5d86ef253ecb",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2020-01-24T17:55:55-07:00",
+  "timestamp": 1579913755,
+  "message": "charliecloud-package-add-version-0.13-remove-older-versions-14591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dabdb7a82e2522012ad85f838e0f0ee90017772",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-11-05T15:51:02-06:00",
+  "timestamp": 1572990662,
+  "message": "add-charliecloud-0.12-13599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9c22e3f9c26fb989c18062f84eaa69d7809a059",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-09-20T19:01:40-06:00",
+  "timestamp": 1569027700,
+  "message": "charliecloud-package-add-version-0.11-and-test-dependency-12861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8ffb1cf7fa6fd5e01df6ca0d7279840be958eb4",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-08-14T18:14:00-06:00",
+  "timestamp": 1565828040,
+  "message": "Fix-charliecloud-dependencies-12427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4119886cbc7fe395d977e256f3376c0a53a841c2",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-08-13T18:37:58-06:00",
+  "timestamp": 1565743078,
+  "message": "add-charliecloud-master-branch-add-dependencies-12327",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ada50b968a62da4790c933061b9f2856e0d712bc",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-07-17T20:28:02-06:00",
+  "timestamp": 1563416882,
+  "message": "add-charliecloud-v0.10-12046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e275ddc1696b72de43a795581ac87488f4c80fbc",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-06-13T15:50:55-06:00",
+  "timestamp": 1560462655,
+  "message": "add-charliecloud-0.9.10-11471",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a49de9eb0983a8f3d6ed71957976e6bb0a7f5631",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-04-15T16:59:10-06:00",
+  "timestamp": 1555369150,
+  "message": "add-charliecloud-0.9.9-11190",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d73868333932675116cd97081591e477a55e436",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-03-14T13:36:53-06:00",
+  "timestamp": 1552592213,
+  "message": "charliecloud-added-version-0.9.8-10900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad8036e5a21fd29885dc7ebf201e599a0ca79563",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2019-02-21T01:58:37-07:00",
+  "timestamp": 1550739517,
+  "message": "add-charliecloud-0.9.7-10661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1944d4cbfa0f1496c028416d81b1342837fb612",
+  "author": "Jordan Ogas <jogas@lanl.gov>",
+  "date": "2018-12-21T11:17:33-07:00",
+  "timestamp": 1545416253,
+  "message": "add-charliecloud-0.9.6-10176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c35c70217ab14422883d2e78f962cf6c5256432",
+  "author": "Reid Priedhorsky <1682574+reidpr@users.noreply.github.com>",
+  "date": "2018-10-05T03:16:07-06:00",
+  "timestamp": 1538730967,
+  "message": "add-Charliecloud-0.9.2-and-0.9.3-9441",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed9a1b7a45cf333dc23ba20d7024c339a31d854c",
+  "author": "Reid Priedhorsky <1682574+reidpr@users.noreply.github.com>",
+  "date": "2018-08-06T16:43:00-06:00",
+  "timestamp": 1533595380,
+  "message": "add-Charliecloud-0.9.1-8902",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0499cf45e85eea054bf79d1d185a619a52e553e",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-07-25T21:54:09-07:00",
+  "timestamp": 1532580849,
+  "message": "Added-latest-version-of-charliecloud-8792",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1aef372fbf0e0b207a643c3750e67d0ab26292b1",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-05-14T10:09:57-06:00",
+  "timestamp": 1526314197,
+  "message": "charliecloud-fix-copyright-8115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f4c2a65a888f7eda9bbe7d86bb24f345c05994c",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-05-13T21:00:18-06:00",
+  "timestamp": 1526266818,
+  "message": "charliecloud-initial-commit-8106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd5fa128c5d65bc169cec68b4333a67e70dacc4b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-05-12T09:56:59-07:00",
+  "timestamp": 1431449819,
+  "message": "Work-on-SPACK-41-Optional-dependencies-work-for-simple-conditions",
+  "repo": "spack/spack"
+}]

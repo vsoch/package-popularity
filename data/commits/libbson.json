@@ -1,0 +1,232 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "262edde2c1a0391c76192a783286811bc3521f53",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-04T22:59:43+02:00",
+  "timestamp": 1599253183,
+  "message": "libbson-mongo-c-driver-Add-1.17.0-18506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad2dd4be01d7caae69455ff61d5e006efab83e30",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-06T23:18:48+02:00",
+  "timestamp": 1591478328,
+  "message": "mongo-c-driver-Add-1.16.2-16956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "070bcab7f2655b110447bb3b97e8733d98742e74",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-11T17:19:44+01:00",
+  "timestamp": 1515687584,
+  "message": "libbson-libmongoc-Update-to-1.9.1-6900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93bca2f3a27e377d1c3f69311f8ade99a2cd0ac3",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-14T17:21:05+01:00",
+  "timestamp": 1510676465,
+  "message": "libbson-libmongoc-Update-to-1.8.1-6290",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed6003b51405e2b8a55a0a5f4b380875489359db",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-27T18:19:10+02:00",
+  "timestamp": 1506529150,
+  "message": "libbson-libmongoc-Update-to-1.8.0-5478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b413f37b3e1eecdf8b1557f48568bd8165414c7b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-12T07:02:48+02:00",
+  "timestamp": 1505192568,
+  "message": "Update-libbson-and-libmongoc-to-1.7.0-5294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d82ccd25c3ed82617efca82d1261ada8c310055",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-06-25T14:09:47+02:00",
+  "timestamp": 1498392587,
+  "message": "Update-libbson-and-libmongoc-to-1.6.3-4599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b91bf0e067c61bbaa443af1356fbaf9907ad9f7c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-04-08T13:40:55+02:00",
+  "timestamp": 1491651655,
+  "message": "Update-libbson-and-libmongoc-to-1.6.2-3767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1124bdc99ee84c26201c40536d9b04dac74d7f6a",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-03-17T07:16:30+01:00",
+  "timestamp": 1489731390,
+  "message": "Add-packages-libbson-and-libmongoc-3440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68baac0549e816dce68ebab40c701b92f5f46dec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T20:07:00-06:00",
+  "timestamp": 1483841220,
+  "message": "Various-updates-to-the-NCO-package-and-dependencies-2639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65ff89a0b0f49bfc0bfa0370460c86d8b12f8db7",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-05-16T12:53:24-04:00",
+  "timestamp": 1463417604,
+  "message": "Placate-flake8-demands",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bf9b168a57dab285983485394f7d22d6ec7ea1f",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-05-14T16:19:10-04:00",
+  "timestamp": 1463257150,
+  "message": "netcdf-cxx4-Update-to-latest-released-version-4.3.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae87948a232c17982a7987e5423ac77acdc59194",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-05T23:05:45-05:00",
+  "timestamp": 1457237145,
+  "message": "Fixed-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "648d08eb305e04d95ee702b819923f31fd829955",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T12:05:43-05:00",
+  "timestamp": 1457111143,
+  "message": "Update-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0eb6ef2cd031d1668e1891425bdc6234df0594df",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T11:09:40-05:00",
+  "timestamp": 1457107780,
+  "message": "1.-Removed-fake-MPI-dependency-from-netcdf-cxx4-and-netcdf-fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "976d0240c467b9ff74333fafcd2ac1e896819a80",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-02T18:58:47-05:00",
+  "timestamp": 1456963127,
+  "message": "Removed-FIXMEs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15ae92aae9c8ac521bb5d7ee5f210d265494d87a",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:59:28-05:00",
+  "timestamp": 1456804768,
+  "message": "New-packages-added-blitz-netcdf-cxx4-netcdf-fortran-proj-udunits2",
+  "repo": "spack/spack"
+}]

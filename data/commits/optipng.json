@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70a3626af7382a3daccde0efc73cf42c51e463cd",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-10-01T00:59:40+09:00",
+  "timestamp": 1601481580,
+  "message": "optipng-allow-build-on-aarch64-19039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abbc47823d57eb932eb17e563cf117883644878b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T21:35:30-07:00",
+  "timestamp": 1587098130,
+  "message": "SourceForge-Mirror-Mixin-16112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ec5cf4bf0ee2a96964be8ba6adbc68905004ef3",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-08-31T12:41:06-07:00",
+  "timestamp": 1567280466,
+  "message": "new-package-optipng-12608",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "3959da5a688b03b4499ecae9f46e022a3c1e9e90",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-04-29T23:15:01+08:00",
+  "timestamp": 1619709301,
+  "message": "Add-new-package-py-openidc-client-23277",
+  "repo": "spack/spack"
+}]

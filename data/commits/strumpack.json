@@ -1,0 +1,136 @@
+[{
+  "commit": "671f0ff32b3ee2fdf7cae71864073e974b804c23",
+  "author": "Sergei Shudler <sergshu@gmail.com>",
+  "date": "2021-02-22T10:46:04-08:00",
+  "timestamp": 1614019564,
+  "message": "STRUMPACK-Add-e4s-testsuite-inspired-smoke-test-21705",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b37c601a01a3b140f2a54c5ff679a011aad7eb66",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2021-02-08T10:27:41-08:00",
+  "timestamp": 1612808861,
+  "message": "Strumpack-slate-variant-21542",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dba6a26920f9d6392be10acbddfc2666a21129c9",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2021-01-23T00:31:23-08:00",
+  "timestamp": 1611390683,
+  "message": "Add-strumpack-v5.1.0-add-support-for-ROCm-HIP-21203",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0b1f93d12d63bd7edd8a0ddead6400314b5739a",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2020-10-16T09:08:38-07:00",
+  "timestamp": 1602864518,
+  "message": "Fix-for-MKL-ScaLAPACK-19336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb9e0d52979868af5a366b662f6ae6aaa2289e36",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2020-10-12T23:21:59-07:00",
+  "timestamp": 1602570119,
+  "message": "STRUMPACK-added-v5.0.0-19283",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2945babdad039db73faa6220785b1f65c761a287",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2020-08-19T01:15:02-07:00",
+  "timestamp": 1597824902,
+  "message": "STRUMPACK-added-v4.0.0-18159",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53b2add34f29407fc9d1521a04ec8136be6fc227",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-11-12T20:22:34-06:00",
+  "timestamp": 1573611754,
+  "message": "strumpack-revert-default-to-shared-i.e-behavior-before-this-variant-was-added-as-shared-fails-on-multiple-builds-13703",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fc3e73f8d2b93eb1fed4949829283d221165976",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2019-11-11T10:24:13-08:00",
+  "timestamp": 1573496653,
+  "message": "Update-ButterflyPACK-and-STRUMPACK-13661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4731041f88dd2feec5bad46b6128bfccc06ae628",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-17T12:10:05-05:00",
+  "timestamp": 1555521005,
+  "message": "strumpack-3.1.1-add-patch-for-Intel-19-build-failure-on-cori-11204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d4c15e0bd30fe2eaaecdc722bcd7beb17fed81a",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-29T15:34:14-05:00",
+  "timestamp": 1540845254,
+  "message": "strumpack-update-to-version-3.1.1-9666",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db98418fef75dc36b1fa562903f244ced05234ec",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2018-10-22T11:05:14-07:00",
+  "timestamp": 1540231514,
+  "message": "Update-STRUMPACK-package-9580",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "838337da370b8b9e4667c4bc3dbb5ee32ee30030",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2018-10-09T06:44:49-07:00",
+  "timestamp": 1539092689,
+  "message": "STRUMPACK-new-package-9429",
+  "repo": "spack/spack"
+}]

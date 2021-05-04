@@ -1,0 +1,224 @@
+[{
+  "commit": "56418bac391f4fe0b46806651357f47cded557a7",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-07T16:55:20-04:00",
+  "timestamp": 1617828920,
+  "message": "bump-up-version-for-rccl-for-rocm-4.1.0-release-22762",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b59af8b2b5b0d35cebf3dc68cbae49cac69a354",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-03-31T20:30:56-04:00",
+  "timestamp": 1617237056,
+  "message": "Changes-to-packages-for-rocm-4.1.0-release-22687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ece71f1648229825200f5c86297a87430d228dd4",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-20T09:52:22+01:00",
+  "timestamp": 1616230342,
+  "message": "hip-shorten-shebang-before-cmake-phase-because-it-is-used-there-22391",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a9c8ec1ad3c777371f4f82f00537b320b93037d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-24T10:37:16+01:00",
+  "timestamp": 1614159436,
+  "message": "HIP-document-variables-apply-patches-to-older-versions-fix-build-issues-21852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571e36787b96ac1d24824218024954c83dea8c8f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c42ce439e44f5a8261fdd9d5e4374a0dc26fa71e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d42d9a619a92cd65b3f8e6676be395f7fc98e98b",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-22T09:55:46+01:00",
+  "timestamp": 1611305746,
+  "message": "add-patch-for-not-linking-to-clang-rt-bulitin-lib-and-apply-patches-to-3.9.0-too-20937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2a0262f79567a309ec919c21af4f3dc8cebc999",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-12T09:48:03+01:00",
+  "timestamp": 1610441283,
+  "message": "hip-fix-naming-of-libraries-when-installing-from-tarballs-20780",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efb1e19339bf5800718928d13b9ad6f7aae67772",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-04T21:36:44+05:30",
+  "timestamp": 1609776404,
+  "message": "bumpup-version-for-rocm-stage1-recipes-for-rocm-4.0.0-release-20635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba62dc3dcea7b71512210481a821d720a524f757",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-25T10:24:59+05:30",
+  "timestamp": 1608872099,
+  "message": "fix-rocm_3.8.0-build-error-for-rocprim-rocrand-rocfft-packages-20446",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39be60ab929c90ce9c1c459d3511454efab04b92",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T18:58:51+05:30",
+  "timestamp": 1607002131,
+  "message": "bump-up-version-for-rocm_3.10.0-rel-20229",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f37adc71f0a7ec2a0ac606a61a143ad8921bb12c",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-12-02T13:49:24-08:00",
+  "timestamp": 1606945764,
+  "message": "fix-harmen-branch-20216",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0baf429889ca22eaf8e7028ecb0061918c03dbd",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a680df8453cd07daad40f832b47d756b1e8a7f1b",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-11-18T20:47:10-08:00",
+  "timestamp": 1605761230,
+  "message": "AMD-ROCm-3.9.0-release-Bump-up-version-for-aomp-roctracer-dev-19957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b9155239b83cd22074f8db057e9ad28f37f008e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbde1abc8ccbe8349da33e06fbd377c9c53e62ac",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-11-13T10:25:57-08:00",
+  "timestamp": 1605291957,
+  "message": "AMD-ROCm-HIP-update-and-bump-up-version-to-3.9.0-for-rccl-debug-agent-hip-rocclr-and-atmi-19832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fe56de72ebfe09b81419663064331fb5770aab0",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-11-02T09:54:29+01:00",
+  "timestamp": 1604307269,
+  "message": "hip-revert-using-libs.directories-0-instead-of-prefix.lib-19671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2d6c634216a0ee2f0532372456ad389dd6fb427",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-01T19:52:06-08:00",
+  "timestamp": 1604289126,
+  "message": "hip-setup-run-environments-19637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fb2d5521de3f24f970ebf9cb5384ba43f471564",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-10-30T13:33:54-07:00",
+  "timestamp": 1604090034,
+  "message": "changes-to-support-hip-build-of-camp-19502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "761348a3af3d973a789f614ba4b433210f039229",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-10-18T21:01:25-07:00",
+  "timestamp": 1603080085,
+  "message": "AMD-ROCm-rccl-numa.h-issue-fix-19317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b6f995187cbcf17d9aa4c11be1b8bc3a4d678cf",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-10-15T21:11:48+05:30",
+  "timestamp": 1602776508,
+  "message": "Update-migraphx-for-rocm-3.8-19300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d9f692d6ce8303ea719c0477add3c6f1f693947",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-10-12T16:28:48+02:00",
+  "timestamp": 1602512928,
+  "message": "libamd_comgr.so.1-is-linked-to-by-libamdhip64.so.3-so-it-should-be-a-link-dep-19025",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ec3c4d35ed5b0ba9681cc5ee4ceec2e0503b282",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-24T08:49:46-07:00",
+  "timestamp": 1600962586,
+  "message": "renaming-of-Rocclr-rocgdb-to-hip-rocclr-and-rocm-gdb-fix-build-error-for-rocm-opencl-18900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e906e2d474c2a95182eb9b1615b10e624293dee",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-09-22T21:39:03+05:30",
+  "timestamp": 1600790943,
+  "message": "ROCm-3.8-Stage1-Components-18830",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d87cbdb524c0fad2100f8fa15b0c76dce432750",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-09-03T02:50:05+02:00",
+  "timestamp": 1599094205,
+  "message": "Add-rocm-3.7.0-libs-18366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24f2850cab759cb735ea2282da043cacfd53dfe3",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-08-26T18:47:55-07:00",
+  "timestamp": 1598492875,
+  "message": "update-to-rocm-hip-hsa-rocr-dev-rocm-dbgapi-18280",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad060c7870675ccb82c537fd983fd6bc28f7f4e8",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-12T17:36:35-07:00",
+  "timestamp": 1597278995,
+  "message": "Spack-recipes-for-ROCm-software-components-Phase1-17422",
+  "repo": "spack/spack"
+}]

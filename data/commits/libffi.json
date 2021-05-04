@@ -1,0 +1,224 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "56db9647b11fbca475e4178eac687cc3adbc1664",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-06-28T14:31:59-04:00",
+  "timestamp": 1593369119,
+  "message": "Prevent-libffi-3.3-from-adding-contradictory-tuning-flags-17285",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34fb4b30dc5b97de2efde4f32f45b3105c1f701d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-06-12T11:25:06-07:00",
+  "timestamp": 1591986306,
+  "message": "libffi-3.3-float128-ppc-patch-17043",
+  "repo": "spack/spack"
+},
+{
+  "commit": "806a19c6b63acccb7c0e58a27f46ccf4c7db3f2c",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-06-09T13:52:01-07:00",
+  "timestamp": 1591735921,
+  "message": "libffi-add-patch-for-building-with-clang-on-power-16855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2fc61a0196eeb85514c9f85d533dbceb262de90",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:12:00+02:00",
+  "timestamp": 1588277520,
+  "message": "libffi-Add-3.3-16400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5acea35e82f894a45615a5b02378bdef6ef6f345",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-14T09:09:30-07:00",
+  "timestamp": 1586880570,
+  "message": "sourceware.org-mirror-urls-15992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14441e00dc1c04df40d361ca46fd63c7446ac2ae",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-13T19:41:19+01:00",
+  "timestamp": 1584124879,
+  "message": "package-Add-fetch_options-variable-15317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f580b340f8fa04a7f2e915e27857ff8dad39aa67",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-02-26T07:45:33+01:00",
+  "timestamp": 1582699533,
+  "message": "Add-new-timeout-fetch_option",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b6c4245d0bc38e5465e8855992e813906b0f2c0",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2019-11-13T02:58:49+09:00",
+  "timestamp": 1573581529,
+  "message": "Fixed-url.-url-https-sourceware.org-pub-libffi-libffi-3.2.1.tar.gz-13693",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c434d7d73c83710410141fce4afe2e6df7efa2",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-09-15T02:07:13+02:00",
+  "timestamp": 1536970033,
+  "message": "Build-Python-3.7-with-external-libffi.-9245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "943c007fb5ff42e7aaa053a17b43d02f3d047ec8",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-12-09T17:19:53-08:00",
+  "timestamp": 1481332793,
+  "message": "update-flux-dependencies-and-package-2541",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75d30b08fbf09cbbc587891d0df472327d3669b9",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-10-01T21:51:55-07:00",
+  "timestamp": 1443761515,
+  "message": "Added-current-version-3.2-of-libffi-version-3.1-has-a-bug-that-interferes-with-glib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6cd8ae243c07fa80d54207c334883585eca0d97",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-10-01T21:35:25-07:00",
+  "timestamp": 1443760525,
+  "message": "Use-more-recent-version-of-libffi.-3.1-has-a-known-bug-that-is-fixed-in-current-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c8fc749be47aeb1aee74f74b7129f233afdbe51",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-30T15:02:06-07:00",
+  "timestamp": 1414706526,
+  "message": "Initial-versions-of-python-and-libffi",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "4668f346821771dc3f89c336747f1facdf1eba7a",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-04-06T16:23:49+08:00",
+  "timestamp": 1617697429,
+  "message": "capnproto-add-v0.8.0-22743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbb149cd7f5d5c88bfc9787f4c163337f928efc2",
+  "author": "Olaf Mersmann <olafm@p-value.net>",
+  "date": "2020-01-20T00:20:22+01:00",
+  "timestamp": 1579476022,
+  "message": "capnproto-New-package.-14557",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,112 @@
+[{
+  "commit": "8dab9f0a81a8cfa686160e7bef947400506f38f5",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2021-04-06T01:41:11-06:00",
+  "timestamp": 1617694871,
+  "message": "seacas-add-v2021-04-05-22784",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ecc3fc06f3012ac5d361a3ef859ba2018279ac0",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2021-01-20T16:07:38-07:00",
+  "timestamp": 1611184058,
+  "message": "SEACAS-New-version-v2021-01-20-21178",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac3f8656fb48b01bd4427f85b6918035de1715f0",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2021-01-06T11:53:45-07:00",
+  "timestamp": 1609959225,
+  "message": "SEACAS-Update-to-lastest-version-20701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a5f043ce604c1fbadd936a539767696c9b983c4",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-09-16T15:37:13-06:00",
+  "timestamp": 1600292233,
+  "message": "seacas-Force-use-of-non-mpi-enabled-hdf5-18702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f14d67537bb4aa68b952a8634d636c81296c9ff",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-08-14T00:25:06-06:00",
+  "timestamp": 1597386306,
+  "message": "SEACAS-added-v2020-05-12-and-v2020-08-13-18053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "787f89b7db20335704bf17fe81cc3960d39bdda7",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-03-17T19:02:31-06:00",
+  "timestamp": 1584493351,
+  "message": "SEACAS-Add-versions-2020-03-16-and-2020-01-16-15525",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99a19596c4dd9b928c48d3e3bcac0a41c1276600",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-12-18T12:45:03-07:00",
+  "timestamp": 1576698303,
+  "message": "SEACAS-Update-to-include-new-versions-14212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8175e3fae782155de451b4db8c89fbe8878826a",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-08-23T16:08:02-06:00",
+  "timestamp": 1566598082,
+  "message": "SEACAS-package-add-fixed-versions-and-adios2-variant-12503",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d580d2a033da38adbd7036bddffd1f51e4a4f782",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-03-05T06:05:52-07:00",
+  "timestamp": 1551791152,
+  "message": "seacas-Update-NetCDF-version-requirement-10787",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccce3b79ab22952becc946d953dab0f501d47afd",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2018-12-17T11:57:31-07:00",
+  "timestamp": 1545073051,
+  "message": "SEACAS-Add-preliminary-support-for-seacas-package-9972",
+  "repo": "spack/spack"
+}]

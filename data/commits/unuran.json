@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ec3cb1ddb08e14ba3c2ba169b4c5c47c779740a",
+  "author": "Javier Cervantes <javiercvilla@gmail.com>",
+  "date": "2018-06-11T15:41:32+02:00",
+  "timestamp": 1528724492,
+  "message": "Add-new-package-unuran-8397",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e7faff6c979a89d4549238e66c25bb59d04db2a",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2017-09-29T22:08:15-07:00",
+  "timestamp": 1506748095,
+  "message": "Add-test-deptype-5132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b89272ae08b1606144149a17686e29739d286a4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-19T15:13:18-05:00",
+  "timestamp": 1497903198,
+  "message": "Various-updates-to-wget-and-dependencies-4116",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c612781f6f8b7221aa0934705d11363b59388148",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-12T11:29:16-05:00",
+  "timestamp": 1494606556,
+  "message": "Convert-pixman-to-AutotoolsPackage-4231",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dc8bbcb3a5f710f0ae24b9e4682a5719224a81f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T11:42:20-05:00",
+  "timestamp": 1476204140,
+  "message": "Package-all-of-Xorg-X11-XCB-1740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92ca6d64239186c269430b9bf6aa81bc2ecf904e",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-06T10:43:34+01:00",
+  "timestamp": 1475747014,
+  "message": "Update-pixman-mmx-is-disabled-only-for-MacOS.-1896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b810a113af9ce32b7e83d122187878cf1b014631",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-08-25T10:58:16-04:00",
+  "timestamp": 1472137096,
+  "message": "pixman-disable-mmx",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f182590aae0ec228eab44b99f5f0aceccda88084",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-15T15:17:53-07:00",
+  "timestamp": 1471299473,
+  "message": "added-pkg-config-to-build-deps-of-cairo-and-pixman",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

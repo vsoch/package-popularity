@@ -1,0 +1,48 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09ec3e926891d0216d308bae047680aef677204f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-05T08:44:00-06:00",
+  "timestamp": 1604587440,
+  "message": "Update-packages.yaml-format-references-in-packages-19741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15d2883abecec3433d2b3daa61a4edbb730d8451",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-05-26T02:14:47+02:00",
+  "timestamp": 1590452087,
+  "message": "openmpi-get-rid-of-implicit-system-dependencies-16758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8804fbd891ae0d166604f631e74d6efd25b41115",
+  "author": "Dustin Wheeler <mdwheele@ncsu.edu>",
+  "date": "2019-05-29T13:38:55-04:00",
+  "timestamp": 1559151535,
+  "message": "Add-LSF-dependency-for-OpenMPI-11532",
+  "repo": "spack/spack"
+}]

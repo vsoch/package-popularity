@@ -1,0 +1,32 @@
+[{
+  "commit": "97afb34ac364f100fd9472d0029ae10f6147ddc0",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-05T18:37:39+09:00",
+  "timestamp": 1614937059,
+  "message": "keepalived-add-with-systemdsystemunitdir-option-22098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff60f51a7aee5c46d446739ff74550eb0bfaf099",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-07-03T06:13:24+08:00",
+  "timestamp": 1593728004,
+  "message": "keepalived-openssl-is-a-link-and-build-dependency-17346",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c4c26f5383740257b8bca56ce1ea9011053aff6",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-01-14T10:36:16+08:00",
+  "timestamp": 1578969376,
+  "message": "add-new-package-keepalived-14463",
+  "repo": "spack/spack"
+}]

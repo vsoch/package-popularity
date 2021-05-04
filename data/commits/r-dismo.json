@@ -1,0 +1,128 @@
+[{
+  "commit": "53c9b0232b18b34dce0f80aeb6d492b3f66e7c4f",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-15T02:55:28-06:00",
+  "timestamp": 1610700928,
+  "message": "add-version-1.3-3-to-r-dismo-20883",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abad2c97437c7cac365b2faeed8631f3b1d8c928",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-10-31T05:28:09-05:00",
+  "timestamp": 1540981689,
+  "message": "r-dismo-new-package-starting-at-1.1-4-9675",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ba4c6200c125a651eeb10b3cde964da8f81ae22",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-16T22:53:18-07:00",
+  "timestamp": 1539755598,
+  "message": "relicense-remove-significant-contributions-from-peetsv",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f12b5aed61ad2a5d1330224267a8ff94136a03e",
+  "author": "peetsv <32349688+peetsv@users.noreply.github.com>",
+  "date": "2018-05-17T17:50:19-07:00",
+  "timestamp": 1526604619,
+  "message": "R-dismo-1-1-4-new-package-8176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "265c30b943798b71d1a312ffa4f940d48f8f1ef7",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2017-11-12T19:09:12-08:00",
+  "timestamp": 1510542552,
+  "message": "Update-packaging-tutorial-6270",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bdd1069a9ee8ed5ddc5fee5006782543c04002b3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-11-13T13:29:28-07:00",
+  "timestamp": 1479068968,
+  "message": "Add-SC16-tutorial-to-the-Spack-docs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "216d269f1d85b9e3aba43009ceda11035ee57430",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2016-11-12T07:45:50-08:00",
+  "timestamp": 1478965550,
+  "message": "Add-packaging-tutorial-to-docs-2315",
+  "repo": "spack/spack"
+}]

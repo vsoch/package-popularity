@@ -1,0 +1,1384 @@
+[{
+  "commit": "a7547d8ee94abb97faf04e624d6066500a7fa838",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-13T22:58:59+02:00",
+  "timestamp": 1618347539,
+  "message": "Python-add-versions-3.8.9-3.9.4-22975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e178be890ff8b197fe62768dac9d4c511ece31a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-26T03:31:57-06:00",
+  "timestamp": 1614331917,
+  "message": "Python-add-new-versions-21969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df5992293ae0ea6baf40bec34ab3024eb691c197",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-04T10:00:21-06:00",
+  "timestamp": 1612454421,
+  "message": "Python-add-maintainer-s-21125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cc5b7adc7d2167646d6a049d64c710d98e1d6f0",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-01-27T19:20:36+01:00",
+  "timestamp": 1611771636,
+  "message": "Python-extensions-consistently-set-LDSHARED-to-get-Spack-RPATHs-21149",
+  "repo": "spack/spack"
+},
+{
+  "commit": "723f132531eab9206276d46f1e44d750bcf09dc4",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-01-18T19:44:22+01:00",
+  "timestamp": 1610995462,
+  "message": "python-improve-building-with-Intel-21134",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5964cb49d9dede06a0bf2e5ea3c86669c3ffe9b2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-30T10:13:34-06:00",
+  "timestamp": 1609344814,
+  "message": "Use-system-libuuid-on-macOS-20608",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b421080c037f646dbfb7fc92f2c1d3f3a64fde54",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T10:04:58-06:00",
+  "timestamp": 1609257898,
+  "message": "GDB-Better-Python-debugging-support-20486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49b5ce954a180390c3d0c329c5d5d66b8c907045",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-28T23:21:20+01:00",
+  "timestamp": 1609194080,
+  "message": "python-add-3.8.7-and-3.9.1-20589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "168dd6d03adf7fef6a4f23232418066293de5fe5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-14T05:42:51-06:00",
+  "timestamp": 1605354171,
+  "message": "Don-t-use-prefix.lib-in-tcl-tk-glib-etc-19761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb4e30b477027c515ffc64ab513963d1e126bb90",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-12T19:59:20-05:00",
+  "timestamp": 1602550760,
+  "message": "Python-add-both-lib-and-lib64-to-PYTHONPATH-18523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b9dce6b262358c3a4faef4a5acd9f9f177b271a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-11T23:16:51-05:00",
+  "timestamp": 1602476211,
+  "message": "Python-add-v3.9.0-19260",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fcec1dcff50168cf4534eb1fd23a73ad08ef472",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T18:15:43-05:00",
+  "timestamp": 1599174943,
+  "message": "Python-default-to-Python-3.8-17798",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b20687b26abc374c970c10cec85e50f746f4845",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-02T16:46:58-05:00",
+  "timestamp": 1599083218,
+  "message": "python-switch-to-uuid-by-default-18252",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ab8521a1c09558339900041647b2466c2709de9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T09:08:42-05:00",
+  "timestamp": 1597414122,
+  "message": "Python-add-spack-external-find-support-16684",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a480507a9264d9f4f082d3f70de0de005b71b1d5",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-08-03T12:53:14+09:00",
+  "timestamp": 1596426794,
+  "message": "python-RPATH-on-fj-17783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d512537417ba0f40db4345f59e642beb1c6e2109",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-30T07:49:01-05:00",
+  "timestamp": 1596113341,
+  "message": "Python-added-v3.8.4-v3.8.5-v3.7.7-v3.7.8-v3.6.11-17775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8199ece656aa49796d80bf99aa8d43492ebfd1f",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-06-17T21:30:41-07:00",
+  "timestamp": 1592454641,
+  "message": "python-fix-patch-issue-for-2.7.X-3.7.X-17140",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0095c4c25c459b5d7d25ce0462eed753b4036166",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-06-16T10:45:36-07:00",
+  "timestamp": 1592329536,
+  "message": "python-fix-distutils-for-python-modules-e.g.-matplotlib-with-C-and-C-source-files-16856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3347ef2de4e08374750eb68f750800c1854d595f",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-03T09:45:13-07:00",
+  "timestamp": 1591202713,
+  "message": "Feature-add-option-to-create-view-by-copying-relocating-files-16480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "232cdb85a5fb97961dde44f9c27a5361407737ab",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-25T13:59:47+02:00",
+  "timestamp": 1590407987,
+  "message": "python-added-v3.8.3-16775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa702b8311faf7fa073d9ae852a82c1f50199172",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-05-11T16:02:56-07:00",
+  "timestamp": 1589238176,
+  "message": "python-add-fwrapv-to-cflags-for-python-3.8.0-intel-16592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dea5d913db9f98870eb4bd91ba1f8276e5e47d17",
+  "author": "Elizabeth Fischer <eafischer2@alaska.edu>",
+  "date": "2020-05-04T13:30:59-08:00",
+  "timestamp": 1588627859,
+  "message": "Updates-to-Python-for-macOS-16449",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f314ff6639e895cadb95481d485e7cc71d123f39",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-04-27T17:36:33-07:00",
+  "timestamp": 1588034193,
+  "message": "python-fix-SSL-for-older-Python-versions-16217",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0bff870a6b3af5122c251d697c6d5a3f221d96c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-22T17:41:33-07:00",
+  "timestamp": 1587602493,
+  "message": "macOS-GCC-Conflicts-CMake-libuv-CPython-16249",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45fee6edbd696ae1180dda066a8e714bc8676349",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-20T16:57:08-05:00",
+  "timestamp": 1587419828,
+  "message": "Python-add-latest-Python-2-releases-16191",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f49fb8cebe5dfe1ca2f5caeb614f266dc5912e6",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-20T22:32:58+02:00",
+  "timestamp": 1587414778,
+  "message": "python-Add-3.7.7-16170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ebed5a6184ea7090e501487944382904de6846c",
+  "author": "Hector <10837193+he-b@users.noreply.github.com>",
+  "date": "2020-03-26T22:45:47-05:00",
+  "timestamp": 1585280747,
+  "message": "fix-gdb-installation-15679",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa0ab13a73f23b6532b3379cff9ed41c0f261ab4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-05T17:02:13-06:00",
+  "timestamp": 1583449333,
+  "message": "Python-add-3.8.2-15365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c607288a7c9a63d6b36b455b9c99142546050398",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-02-13T20:16:34-06:00",
+  "timestamp": 1581646594,
+  "message": "fix-env-vars-before-install-14575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22ac814b02b2440d9f656f8091bf28942af3273",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2020-02-07T19:55:04-05:00",
+  "timestamp": 1581123304,
+  "message": "Align-default-libxml2-settings-for-gettext-and-Python-14795",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52d1f5b83996c0086adb62b509bdf01b03424733",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-04T19:32:48-06:00",
+  "timestamp": 1580866368,
+  "message": "Remove-python-patch-for-inapplicable-versions-14746",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd60e0f13772b4769cbf6831bcd3bc6497fb121b",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-01-29T12:39:55-08:00",
+  "timestamp": 1580330395,
+  "message": "fix-cycle-dependency-in-libxml-python-13847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d794d63b5ac3c667446c74d367fe4eb7f1e2caf",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-01-21T15:09:41-08:00",
+  "timestamp": 1579648181,
+  "message": "python-add-debug-variant-to-enable-pydebug-14584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a61d1dbd1b7c16f65c03aab28619d581b28fe7c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-16T15:21:14-06:00",
+  "timestamp": 1579209674,
+  "message": "Add-include-pythonX.Y-to-CPATH-14523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b69cf08cfbfa83b4dbec2d7ba08da1d9b35c8524",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-15T18:24:48+01:00",
+  "timestamp": 1579109088,
+  "message": "python-Add-3.7.6-and-3.7.5-14497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8660b0b5b8ead9adefa4ff5a143d32901a1f40da",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-14T03:29:02+01:00",
+  "timestamp": 1578968942,
+  "message": "python-Fix-post-install-script-without-C-compiler-14481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b1297378ced79908671b5737d4c8cede7337328",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-13T20:27:57-06:00",
+  "timestamp": 1578968877,
+  "message": "Add-Python-3.8.1-14484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d7b9de3be0d6b32c72088c8299b44a91a615093",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-12-12T20:58:16-08:00",
+  "timestamp": 1576213096,
+  "message": "compile-python-with-sqlite-loadable-extensions-14132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ec1917d9b7141b5eda59a5fbd0890936150653a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-11T20:16:33-06:00",
+  "timestamp": 1576116993,
+  "message": "Add-try-except-for-Python-installation-14122",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a93a6136682debfd58d295e3035ad2c6d142bda1",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-02T23:05:02+01:00",
+  "timestamp": 1575324302,
+  "message": "Speedup-environment-activation-13557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bca59f8d834f17bfcd851909f07b3d8a8ad2f6a3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-02T23:05:02+01:00",
+  "timestamp": 1575324302,
+  "message": "Speedup-environment-activation-13557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6ea0bbbaea533bc024fcc326fece709fe5b24a6",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-10-24T16:27:21-05:00",
+  "timestamp": 1571952441,
+  "message": "Views-fix-python-in-views-when-python-prefix-is-under-a-symlink-12575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "526ee113ea4c8003650d7d0611cd736eef01732a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-22T10:22:32-05:00",
+  "timestamp": 1571757752,
+  "message": "Default-to-Python-3.7-10319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ab63c17d58c7d24ec6a446daf784f95bc818f49",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-21T11:21:47-05:00",
+  "timestamp": 1571674907,
+  "message": "Fix-Python-3.8-build-on-macOS-13338",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ddc98e46a73d53e9937cad1a430a34522d241de",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-10-17T19:17:21+02:00",
+  "timestamp": 1571332641,
+  "message": "Separate-setting-build-environment-and-run-environment-in-packages-11115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e17df2e8f5dd46ef1c08252c08bdda191b64d911",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2019-10-16T22:42:36+01:00",
+  "timestamp": 1571262156,
+  "message": "add-python-version-3.8.0-13218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46027bea13572edd8b7134733581c12a6c847867",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-01T13:22:35-04:00",
+  "timestamp": 1564680155,
+  "message": "Fix-QT4-build-for-mac-10944",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7d9a6f426b17774fd6f716384577d83d2263fd0",
+  "author": "Glenn P Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-07-25T22:18:19-05:00",
+  "timestamp": 1564111099,
+  "message": "Add-conflicts-statement-for-Python-3.6.7-and-Intel-compiler",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95985e0798dbbfc27d1dc3135db6b695848d7c3f",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-07-28T15:58:09-04:00",
+  "timestamp": 1564343889,
+  "message": "Prevent-conflicts-between-libuuid-and-Apple-Cocoa-Framework-on-Mac-12166",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07fefea52daaa7e8076ac16b6e4ea044c77c075b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-26T02:18:46-05:00",
+  "timestamp": 1564125526,
+  "message": "Add-Python-3.7.4-12142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b16be538e2d367ade48225c8c5150ebd9ed3ab9",
+  "author": "Shane R. Spencer <shane@bogomip.com>",
+  "date": "2019-07-16T17:50:43-08:00",
+  "timestamp": 1563328243,
+  "message": "Added-url_for_version-to-python-package.py-12040",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c8e9ab406b26437f1a0c9036bad892ea61ac6bd",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-06-06T14:19:24-07:00",
+  "timestamp": 1559855964,
+  "message": "added-tix-package-and-python-variant-for-tix-11599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2e280b7945e1bd710a085e839d59f3b6d502577",
+  "author": "Felix Mayr <49785055+flxmr@users.noreply.github.com>",
+  "date": "2019-05-02T01:01:30+02:00",
+  "timestamp": 1556751690,
+  "message": "python-add-versions-3.7.3-3.5.7-and-3.4.10-11300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10b0251af0ac8a19f12661441b1e089c556f7a1f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-06T11:05:32-08:00",
+  "timestamp": 1551899132,
+  "message": "added-python-2.7.16-10805",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af4a36c4d99d7953200d369bbeba6303ad87dcf7",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-03-04T12:36:51-06:00",
+  "timestamp": 1551724611,
+  "message": "Header-subdirectories-for-Python-and-Eigen-10773",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43e8fcaa767d5262e76a1d932b3ca52a6f60ed1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-02-23T12:36:26-06:00",
+  "timestamp": 1550946986,
+  "message": "Python-optional-dependencies-and-post-installation-tests-10335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9d75635c7961e8ab204ebf03b4d3f904855df80",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2019-02-06T11:03:25-07:00",
+  "timestamp": 1549476205,
+  "message": "Add-Python-3.7.2-updated-10531",
+  "repo": "spack/spack"
+},
+{
+  "commit": "450b0e30599a05e13aa9070221d7bcab052eee30",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-01-09T17:39:35-08:00",
+  "timestamp": 1547084375,
+  "message": "Allow-combinatorial-projections-in-views-9679",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "600acbbe663c6b341eac53611611887242ffba87",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-04T04:46:14+02:00",
+  "timestamp": 1538621174,
+  "message": "python-add-details-on-missing-library-to-error-message-9332",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c434d7d73c83710410141fce4afe2e6df7efa2",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-09-15T02:07:13+02:00",
+  "timestamp": 1536970033,
+  "message": "Build-Python-3.7-with-external-libffi.-9245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccbff6e0cdc1e4e045656a784e28225f416a8ed4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-09-10T17:14:57-05:00",
+  "timestamp": 1536617697,
+  "message": "Improve-spec-python-.command-support-for-bwpy-9157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ead9363bee6cc90132a5bb4888c3444b726de5a2",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2018-08-16T14:51:09+02:00",
+  "timestamp": 1534423869,
+  "message": "add-patch-for-gcc-8-for-python-2.7.14-8990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c13229e8028cccb572a77bb06f1039020c2710",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-06-29T16:25:39-05:00",
+  "timestamp": 1530307539,
+  "message": "Add-Python-3.7.0-8619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3560f6dbe9823c4b36783dfb8244d01672074760",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2018-06-26T16:14:05-07:00",
+  "timestamp": 1530054845,
+  "message": "views-packages-can-customize-how-they-re-added-to-views-7152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8af37d5d645913d086ec151835fb02274291bcb5",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-05-29T17:28:32+02:00",
+  "timestamp": 1527607712,
+  "message": "python-Update-to-2.7.15-8306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f202198777b4353c57c26fa87739b306070fd960",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-16T10:57:40-07:00",
+  "timestamp": 1526493460,
+  "message": "Convert-lazy-singleton-functions-to-Singleton-object",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f2cac9565cd50cded141533b1594faa02c4b2f6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-10T11:45:44-07:00",
+  "timestamp": 1525977944,
+  "message": "init-initialize-spack.store-lazily",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4d276fbe4ec45c7ac4d9315d0f803a223096d18",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-04-08T21:10:05-05:00",
+  "timestamp": 1523239805,
+  "message": "init-factor-paths-out-of-spack-__init__.py-and-into-spack.paths-module",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbd77e3a8d22f389041c216ba743eda601fe3754",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-02T15:26:30-04:00",
+  "timestamp": 1525289190,
+  "message": "make-symlinking-python3-python-optional-7960",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bde69177becaff1ea9fea19014261ffb919e716a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-04-05T16:39:05-05:00",
+  "timestamp": 1522964345,
+  "message": "Don-t-prepend-Tcl-Python-to-PATH-if-in-system-directory-7677",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b5492ca1902257f0f80a99be471b2010107dfd9",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-03-30T12:20:16+02:00",
+  "timestamp": 1522405216,
+  "message": "add-version-3.6.5-to-python-7643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dffd8f384c1bc5e8cbb82db43e47d530c739dd66",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-03-25T09:10:40+02:00",
+  "timestamp": 1521961840,
+  "message": "python-added-a-variant-to-enable-PGO-using-with-icc-if-compiled-with-Intel-7496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c14c0d8e7410fcc3754b6a3c8b988f8c71d2960a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-03-19T22:19:26+01:00",
+  "timestamp": 1521494366,
+  "message": "python-dbm-module-version-3.6.4-7520",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7baeb542d08eff79e543cdfb62171a08cab502c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-02-12T08:08:45+01:00",
+  "timestamp": 1518419325,
+  "message": "Set-a-default-python-that-is-consistent-with-the-libraries-in-PYTHONHOME-7157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bddc1556e18494d6a1e35805bb8daf5fc8884db9",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-02-01T01:11:25+01:00",
+  "timestamp": 1517443885,
+  "message": "symlink-python3-to-python-7103",
+  "repo": "spack/spack"
+},
+{
+  "commit": "278901c02cd51b5d89febbb57d5b04157ea54488",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2018-01-12T19:02:54-08:00",
+  "timestamp": 1515812574,
+  "message": "Handle-test-dependencies-that-are-python-extensions-6904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d91f51a27b418f8ec7d57241e8d40f25854ea97",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-11-26T02:34:24+08:00",
+  "timestamp": 1511634864,
+  "message": "Python-add-3.6.3-.-6454",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "643a28aac5d370172a4350a1c0dae642d516398e",
+  "author": "Oliver Breitwieser <oliver.breitwieser@kip.uni-heidelberg.de>",
+  "date": "2017-09-14T16:23:38-04:00",
+  "timestamp": 1505420618,
+  "message": "python-extensions-support-for-easy-install.pth",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5449884b2ecd84f61287923aaffa867d07cbf026",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-23T16:51:11+02:00",
+  "timestamp": 1508770271,
+  "message": "Fix-bare-except-to-placate-errors-in-new-flake8-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd79094b05172cfcd2b594326eb22bf8e3c83cd",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-23T14:23:00+02:00",
+  "timestamp": 1508761380,
+  "message": "remove-wildcards-from-make-spack-core-and-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ad3a1bff7eec326a6406d5a1f9bfa7dd6cd084f",
+  "author": "Mike Pozulp <mmpozulp@email.wm.edu>",
+  "date": "2017-09-21T18:14:31-07:00",
+  "timestamp": 1506042871,
+  "message": "Update-pic-shared-variants-for-hdf5-python-silo-5423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34d2762b1f6b8ef905403eabee7d73f3951e6a57",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-09-18T20:05:26-07:00",
+  "timestamp": 1505790326,
+  "message": "added-python-version-2.7.14-and-3.6.2-packages-5389",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ea0e143c5e923b80b0c3fa3db321cc93adf02fd",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-29T02:17:16+10:00",
+  "timestamp": 1495988236,
+  "message": "python-RPATH-on-Cray-4209",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa90a65d0964bbaaea4f267d5634c0410e0c773e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-18T12:12:08-05:00",
+  "timestamp": 1495127528,
+  "message": "Fix-spec-python-.home-4228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e78e87fd4bb37000e767d1c026c6891f272d0829",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-28T16:55:02+02:00",
+  "timestamp": 1493391302,
+  "message": "python-added-version-3.6.1-4035",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dead67ae56587914f35ae3343b7240bed561c45d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-03-28T09:32:50-07:00",
+  "timestamp": 1490718770,
+  "message": "Restore-newlines-to-easy-install.pth-files.-3583",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a873bbd8d7c64d1070c01b5bd1a38971350457a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-03-27T10:56:55-07:00",
+  "timestamp": 1490637415,
+  "message": "Fix-easy-install.pth-syntax-3569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bde0a674151dc514571b7e5357df7a2711b7ac3a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-02T18:35:19-06:00",
+  "timestamp": 1488501319,
+  "message": "Add-new-package-for-PaGMO-PyGMO-3210",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6bc7be9217f62169e689f9a38fca6c47a2bc2873",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-01-23T09:34:50-08:00",
+  "timestamp": 1485192890,
+  "message": "updated-config-file-name-for-Python-3.6-2881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b337de93e29638b7f040d64c8742d6f1b64767d",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-01-06T08:50:06-08:00",
+  "timestamp": 1483721406,
+  "message": "various-python-package-version-and-dependency-updates-2751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b240fdb2b9524ea3152224ea2338cbdc3ec35df4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-25T21:53:16-05:00",
+  "timestamp": 1482720796,
+  "message": "Add-latest-version-of-Python-2-2668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8c44189528207dd341766284dd08d0a78bc879f",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-12-09T10:18:10+01:00",
+  "timestamp": 1481275090,
+  "message": "Updated-python-refactoring-and-warning-messages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ba88a750970a995fd295e92dbf231dcb6a13d6c",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-12-08T13:39:10+01:00",
+  "timestamp": 1481200750,
+  "message": "Updated-python-pass-LDSHARED-to-dependants-setup-scripts",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec855df071acaa758d40a18074a955e5effc9321",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-12-08T13:36:18+01:00",
+  "timestamp": 1481200578,
+  "message": "Updated-python-account-for-lib64-when-filtering-compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58cb2cc2afbe742eb7a453e263437c5d503862c6",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-12-08T13:35:11+01:00",
+  "timestamp": 1481200511,
+  "message": "Updated-python-reformat-code",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5fb33b0e4d67408fdb4a685925b62db823d98d2",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-11-16T15:29:08+01:00",
+  "timestamp": 1479306548,
+  "message": "python-symlink-lib64-python2.7-lib-dynload-to-lib-python2.7-lib-dynload-2295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62eba4774de584f676a1cdb339c33cc4033195be",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-11-01T16:15:34+01:00",
+  "timestamp": 1478013334,
+  "message": "Updated-python-package-reflecting-the-changes-in-9347f86",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a714377123cf2aefb895badfbf9d4baf81b39654",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-10-30T19:13:16-05:00",
+  "timestamp": 1477872796,
+  "message": "python-PYTHONHOME-may-not-be-the-same-as-the-prefix-of-the-python-executable-2173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1284a9046bc54c34ec400bffa9458f084c0f9da",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-09-21T06:02:28-05:00",
+  "timestamp": 1474455748,
+  "message": "Stop-python-from-linking-with-system-ncurses-1672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6dc448f1843078f922d9ff018cc4bd0c9a19967",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-08-31T12:13:08-05:00",
+  "timestamp": 1472663588,
+  "message": "Compiling-python-with-gnu-c-on-macos-fails-with-toolboxglue-enabled",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a0824df09dfe5d8ff0b34a35ee93be81fc75380",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-03T12:35:09-05:00",
+  "timestamp": 1470245709,
+  "message": "Update-matplotlibrc-filtering-for-GUI-backends",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac2e0962ce64a5b0824e79ad4266cbdb6207b336",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-07-22T11:12:02-07:00",
+  "timestamp": 1469211122,
+  "message": "Improved-the-build-flag-construction-code-in-the-python-install-method",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb2d2303d667253c7dfa166607dced4b4b43e26e",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-07-22T11:08:08-07:00",
+  "timestamp": 1469210888,
+  "message": "Fixed-a-bug-that-was-causing-Python-installs-to-be-affected-by-user-config",
+  "repo": "spack/spack"
+},
+{
+  "commit": "583232ea521c24158a9e537520a5eb434b08a74c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-12T11:38:13-05:00",
+  "timestamp": 1468341493,
+  "message": "Build-Python-with-Tkinter-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ca1a481a3dd77110c3ab2be7b3125a0c559a953",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-23T14:47:01-04:00",
+  "timestamp": 1458758821,
+  "message": "python-setup-the-dependent-environment-properly",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49e8e4b590e964a370c4c683113d0ba199c549ac",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-08T13:47:25+01:00",
+  "timestamp": 1467982045,
+  "message": "Add-comments-explaining-UCS4-and-prevent-variant-being-used-on-Python-3.3-and-above",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2be05f24bd3c3e378dcdf4c336fb9c6c0058672",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-07T14:00:37+01:00",
+  "timestamp": 1467896437,
+  "message": "Fix-whitespace",
+  "repo": "spack/spack"
+},
+{
+  "commit": "719b6bfffddb1e99606f5cfc71ec6b70e2ea08e7",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-07T13:18:40+01:00",
+  "timestamp": 1467893920,
+  "message": "Modify-range-for-ucs4-2.-configure-arguments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c1274bbbbc25f18bcfea4850bbf49db1b86ca47",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-07T13:12:43+01:00",
+  "timestamp": 1467893563,
+  "message": "Fix-Python-configure-arguments-for-ucs4-variant-on-Python-3.0-and-above",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb6d850637fd1399232a08f27d63da318eb474d2",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-07T13:09:08+01:00",
+  "timestamp": 1467893348,
+  "message": "Add-more-python-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61fe89bda0d5690a4851cde5baa7d55f6a43a6bd",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2016-07-06T18:29:54+01:00",
+  "timestamp": 1467826194,
+  "message": "Add-ucs4-unicode-variant-to-Python-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0fbf14f9907aec7eef5e813febca6d3c0e335c9",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-21T09:23:58-07:00",
+  "timestamp": 1466526238,
+  "message": "consolidated-f2py-regex",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4041f45b6c387ab07c3e9681d5b3423eb31739a2",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T16:17:07-07:00",
+  "timestamp": 1466464627,
+  "message": "fixed-conflicts-in-python-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "536fa73d5f1e0a676d3db68097bbdbab8ba424cd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-17T13:33:09-05:00",
+  "timestamp": 1466188389,
+  "message": "Python-flake8-overhaul",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80d444624b433d1059bed6580c24fb87db331016",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-15T16:42:50-05:00",
+  "timestamp": 1466026970,
+  "message": "Fix-activation-of-sites.py-for-sncosmo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfc0efa8edc3ccdb8e8c4b0504c5fe77e298a9fd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-26T12:32:14-05:00",
+  "timestamp": 1461691934,
+  "message": "Put-f2py-of-py-numpy-in-python-ignore-list.-827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "758a9c9096bd6c306f2dba0e40b46544dcec1992",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-23T11:18:11+01:00",
+  "timestamp": 1458728291,
+  "message": "python-extensions-create-PYTHONPATH-in-module-files",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4134ee71e43a6a2a38822e25cc72ca73efdcfea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-23T00:36:32-07:00",
+  "timestamp": 1458718592,
+  "message": "Fix-608-broken-numpy-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1516f64eb75c108eded1e9ee7e0480a4552236a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-21T02:21:31-07:00",
+  "timestamp": 1458552091,
+  "message": "Rename-some-environment-methods-to-be-less-repetitive-add-set_path",
+  "repo": "spack/spack"
+},
+{
+  "commit": "439d47b4e45c674ab9aa4ebd0c2bfaf6911ade60",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-21T01:48:18-07:00",
+  "timestamp": 1458550098,
+  "message": "Refactor-environment-setup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec8cc2b52839007f0825815c8cfdee8f9a8629a6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-18T14:40:53+01:00",
+  "timestamp": 1458308453,
+  "message": "PYTHONPATH-python-patches-methods-for-its-extensions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e55880904376847ce767770344059eef1ba7707c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-17T19:32:31+01:00",
+  "timestamp": 1458239551,
+  "message": "python-fixed-typo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0f0663d1b9ece1e2b0b0a8f720b1325eec443bb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-17T15:11:39+01:00",
+  "timestamp": 1458223899,
+  "message": "package-split-environment_modifications-into-setup_environment-and-setup_dependent_environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "597727f8bedc894330dfd26eab1a82859980f2f1",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-16T15:19:13+01:00",
+  "timestamp": 1458137953,
+  "message": "tclmodules-added-hooks-to-process-EnvironmentModifications-objects",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b45ec3f04e3627dbe3633239560873ae01bf3beb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-16T10:55:28+01:00",
+  "timestamp": 1458122128,
+  "message": "environment-simplified-modification-of-the-environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "572cb93bf8131d222d2d08bca13fd9de6fded1f4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T14:05:30+01:00",
+  "timestamp": 1458047130,
+  "message": "package-renamed-setup_dependent_environment-to-module_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c85888eb5763d453af7b7255b6d8c3461082362f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T13:36:41+01:00",
+  "timestamp": 1458045401,
+  "message": "package-added-environment_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fe196f95cc26cac73abe64752ff67b150f4d50a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-02T22:38:21-08:00",
+  "timestamp": 1456987101,
+  "message": "whitespace-and-formatting",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19d10291bfeae45315fcef852baddec63b69247a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-02-18T15:45:29-08:00",
+  "timestamp": 1455839129,
+  "message": "modify-compiler-commands-in-python-config-files-fix-for-431",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c023b1000e6f9044e40080f2bf10f0406ba6ec28",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-19T17:52:22-05:00",
+  "timestamp": 1447973542,
+  "message": "python-target-OS-X-10.6",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ac5c021b8cf8924349a8c4cb87e561cd525c225",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-04T15:49:55-07:00",
+  "timestamp": 1433458195,
+  "message": "new-package-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b0a9c059bc854d94e2160efbe9bd3fa401af0f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:39:01-07:00",
+  "timestamp": 1433173141,
+  "message": "updated-Python-extension-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43e546559285621e439d30df974fe9b8d49c5381",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-05-10T17:56:27-07:00",
+  "timestamp": 1431305787,
+  "message": "Fix-bug-in-directory-layout-hidden-files",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67db8ddca8ac7ab9adeb827a7dadd34a385b2b6b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-17T00:21:15-08:00",
+  "timestamp": 1424161275,
+  "message": "Factor-ignore-logic-into-a-predicate-builder",
+  "repo": "spack/spack"
+},
+{
+  "commit": "614c22fc1b1ac10c85ed9e27a1e59eeb88de0898",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-16T12:41:22-08:00",
+  "timestamp": 1424119282,
+  "message": "Allow-forced-deactivation-best-effort-unlinking",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c0048dd89e4d18ac95afd19b65d7ce54a48d862",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-15T01:59:36-08:00",
+  "timestamp": 1423994376,
+  "message": "py-sip-installs-properly-into-a-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0c08799249fb56c281f62b3659e7cf7d7080188",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-15T01:58:35-08:00",
+  "timestamp": 1423994315,
+  "message": "Better-extension-activation-deactivation",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25af341954fa7c9a88943fe24cad88275ee00795",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-09T02:54:49-08:00",
+  "timestamp": 1423479289,
+  "message": "Python-package-improvements",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20ec80295dbf2a36b633860c139d113f9c0e6388",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-08T19:41:17-08:00",
+  "timestamp": 1423453277,
+  "message": "setup_extension_environment-is-now-setup_dependent_environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e51e01f4f066f9b0f412354cb8abab3642845d43",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-08T19:39:36-08:00",
+  "timestamp": 1423453176,
+  "message": "Cleaned-up-python-to-remove-redundant-line",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cc369c2b831446f1afaaba41cbf0dbdba75b4ed",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-02-06T16:35:35-08:00",
+  "timestamp": 1423269335,
+  "message": "add-dependent-packages-to-PYTHONPATH-for-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d9190d264dd276853aca41998fffbab1baecdb0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-02T06:09:35-08:00",
+  "timestamp": 1422886175,
+  "message": "Add-extensions-command",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de91c95e8e45b8ab066ba3dfc8f89c92da761b5a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-20T15:07:53-08:00",
+  "timestamp": 1421795273,
+  "message": "Ability-to-ignore-files-in-activate-deactivate-for-extensions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff9cb94f4f92112739f53881bcb0a9a19811684d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-20T00:23:16-08:00",
+  "timestamp": 1421742196,
+  "message": "Add-arguements-to-extends-and-activate-deactivate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcccf020204a556e382c0af2897ad9126bb24984",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-10T19:37:01-08:00",
+  "timestamp": 1420947421,
+  "message": "Add-setup_extension_environment-method",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99775434785779d223997a9e41972da470214e5d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-07T11:48:21-08:00",
+  "timestamp": 1420660101,
+  "message": "Added-feature-package-extensions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c8c41da98a01d595b8ef77175e2c717accf02d7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-03T00:15:05-08:00",
+  "timestamp": 1415002505,
+  "message": "Working-Python-2.7.8-ncurses-readline",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c8fc749be47aeb1aee74f74b7129f233afdbe51",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-30T15:02:06-07:00",
+  "timestamp": 1414706526,
+  "message": "Initial-versions-of-python-and-libffi",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,224 @@
+[{
+  "commit": "b48de4baa77cffd9832ec04674048522aea457ca",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-25T18:42:57+01:00",
+  "timestamp": 1614274977,
+  "message": "harfbuzz-dependency-assumed-cairo-was-compiled-with-pdf-and-ft-21954",
+  "repo": "spack/spack"
+},
+{
+  "commit": "074a6f224f17812b06a9e269d756aeb53c5d8a85",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-22T10:50:25+01:00",
+  "timestamp": 1613987425,
+  "message": "harfbuzz-allows-compilation-standard-being-set-properly-for-gcc-21810",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef814b7a32617e62257ca93ebc3726d79324e619",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-07-18T07:49:32-06:00",
+  "timestamp": 1595080172,
+  "message": "Add-texlive-2020-version-17559",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80745128b3b4a48356617d4a100003ec22dcf1ed",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-01-24T20:05:50-06:00",
+  "timestamp": 1579917950,
+  "message": "harfbuzz-package-add-conflict-for-2.3.1-with-intel-compiler-14386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25f217f5f2c54240e4cdedc0c40339623c161972",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-12-29T12:40:09-06:00",
+  "timestamp": 1577644809,
+  "message": "Add-support-for-graphite2-support-to-harfbuzz-14300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1dc3744d2c44cf3f21de279797def80d3fa57dc9",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2019-04-17T23:53:52-07:00",
+  "timestamp": 1555570432,
+  "message": "new-package-kitty-terminal-9621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bad485a221200643051a424fe7051b5d7ce3dc1e",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-05T11:59:47-08:00",
+  "timestamp": 1551815987,
+  "message": "various-package-version-updates-and-build-fixes-10775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47a641f13b19a68546f8d4274bbf132f1312d4da",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-11-19T18:42:08-08:00",
+  "timestamp": 1542681728,
+  "message": "package-harfbuzz-disable-building-of-gtk-docs-add-new-version-9891",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "447d6f660294272dde1fd46fa8d9dac7e6276edb",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-14T22:39:50+10:00",
+  "timestamp": 1494765590,
+  "message": "harfbuzz-add-latest-version-1.4.6-4245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d981ebd50fe9b24826fae565f133494d2e49242",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-04T17:29:22+01:00",
+  "timestamp": 1475598562,
+  "message": "A-set-of-tools-used-in-climate-modeling-and-numerical-weather-prediction.-1317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64194a823af1e54951bb67d5d354b4a91d90bc86",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-23T16:16:59-05:00",
+  "timestamp": 1474665419,
+  "message": "Remove-duplicate-ICU-package-1837",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f3954c1bdc329f2cb09e5e5baa140419222df8f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T20:21:10-07:00",
+  "timestamp": 1466479270,
+  "message": "flake-8-fixes-for-cairo-freetype-and-harfbuzz",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4041f45b6c387ab07c3e9681d5b3423eb31739a2",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T16:17:07-07:00",
+  "timestamp": 1466464627,
+  "message": "fixed-conflicts-in-python-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

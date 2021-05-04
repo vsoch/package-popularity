@@ -1,0 +1,8 @@
+[{
+  "commit": "cca5f260e59a98efa53d2e506c4c1ba5d33f1ec9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-04-08T06:33:04-05:00",
+  "timestamp": 1617881584,
+  "message": "py-python-certifi-win32-add-new-package-22843",
+  "repo": "spack/spack"
+}]

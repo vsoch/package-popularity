@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa614404e6522273ec54ac5f7d7b88bd8a093152",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-07-14T19:02:31+08:00",
+  "timestamp": 1594724551,
+  "message": "smartdenovo-added-patch-to-fix-compile-error-debian-17435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81b5475f8e6045d22298df191786c54bdbbbde13",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-27T22:55:35+08:00",
+  "timestamp": 1587999335,
+  "message": "Add-new-package-smartdenovo-16310",
+  "repo": "spack/spack"
+}]

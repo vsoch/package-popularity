@@ -1,0 +1,72 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00d7e817c676e9a55214f004a8c7e1817f522653",
+  "author": "figroc <figroc@gmail.com>",
+  "date": "2020-07-10T21:25:47+08:00",
+  "timestamp": 1594387547,
+  "message": "grpc-add-versions-1.28-1.29-1.30-17433",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c6406c0031b457b05eb9e8a2640f2f1fddf0474",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-05-26T16:30:18+02:00",
+  "timestamp": 1590503418,
+  "message": "grpc-allow-building-shared-libraries-16356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94aa368af8d72278715e3a56d6cd8a7704f873b0",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2020-04-15T18:32:08+02:00",
+  "timestamp": 1586968328,
+  "message": "Fix-grcp-1.27.0-16052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e62c82de7f7c1e9fdd2711d1c9c7b049ad6f5026",
+  "author": "Figroc Chen <figroc@gmail.com>",
+  "date": "2020-02-06T20:20:37+08:00",
+  "timestamp": 1580991637,
+  "message": "grpc-added-v1.25.0-v1.26.0-and-v1.27.0-14781",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a4797b74c59dca7a879288f5701d96b689719d3",
+  "author": "Figroc Chen <figroc@gmail.com>",
+  "date": "2019-11-10T02:42:34+08:00",
+  "timestamp": 1573324954,
+  "message": "grpc-update-to-1.24.3-13658",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a362cf5ff6dcea353560409b9430ca82150b5918",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2019-10-05T01:42:09+02:00",
+  "timestamp": 1570232529,
+  "message": "grpc-new-package-13054",
+  "repo": "spack/spack"
+}]

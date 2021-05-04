@@ -1,0 +1,56 @@
+[{
+  "commit": "136753ccd9883d4715c997c73edf58401513c907",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-01-06T16:55:48-05:00",
+  "timestamp": 1609970148,
+  "message": "py-absl-py-0.10.0-20709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00de09268e8b420775315c0b657049645fbb5e45",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-16T06:04:40+01:00",
+  "timestamp": 1581829480,
+  "message": "Add-extra-version-of-py-absl-py-14965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bb745325d12dd7bd91f8af832e707c74a368d9c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-07-24T12:33:45-05:00",
+  "timestamp": 1563989625,
+  "message": "Add-py-setuptools-as-a-build-dependency-for-py-absl-py-12109",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b39a9925280e5dff661d1db76a7a2c8f1f871d53",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2019-06-23T23:33:36+02:00",
+  "timestamp": 1561325616,
+  "message": "add-new-package-py-absl-py-11812",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,504 @@
+[{
+  "commit": "b0e5cce9c17e405399b9265a58cc6770238a0c05",
+  "author": "finkandreas <finkandreas@web.de>",
+  "date": "2021-04-15T13:28:45+02:00",
+  "timestamp": 1618486125,
+  "message": "suite-sparse-fix-building-with-CUDA-11-22971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b642871b23713201668645d6c7f45ae89f54e68b",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2021-03-08T19:37:08+09:00",
+  "timestamp": 1615199828,
+  "message": "suite-sparse-add-v5.9.0-22168",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "467767466763b734ef8b770834b4d84e0ba02c28",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-12-18T01:40:01+09:00",
+  "timestamp": 1608223201,
+  "message": "suite-sparse-add-flags-for-Fujitsu-compilers-20393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a3bf5387e3b4f0830957ad37eae591c49b587ba",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-13T10:12:02-08:00",
+  "timestamp": 1605291122,
+  "message": "suite-sparse-mpfr-gmp-needed-for-5.8.0-19898",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81cab3b2711f12d82f73db44438afd5794529f1e",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-12T11:29:07-08:00",
+  "timestamp": 1605209347,
+  "message": "suite-sparse-add-deps-mpfr-gmp-19883",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6011ccbb770916ff6688a71d41233bf4e99939f",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-11-12T01:53:27+09:00",
+  "timestamp": 1605113607,
+  "message": "suite-sparse-add-versions-5.8.0-and-5.8.1-19812",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52959528a2cb7e7e9b213efd1243a078502ac708",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-10-29T21:29:39+01:00",
+  "timestamp": 1604003379,
+  "message": "Suite-sparse-Fix-Darwin-install-name-19507",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e20ee8ea23962d25fe2d6f3d33d2111813ccf89",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-09T06:54:50+02:00",
+  "timestamp": 1591678490,
+  "message": "suite-sparse-build-libraries-without-running-demos-17007",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8be7823cc5b7147880f7c8107519b4f24f434d8f",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-05T20:17:41+09:00",
+  "timestamp": 1591355861,
+  "message": "suite-sparse-change-the-condition-to-add-C11-flag.-16859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c28a271ae354492ff3b3b7dcfefa0a3f7085d35",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-04-14T01:03:30+09:00",
+  "timestamp": 1586793810,
+  "message": "suite-sparse-add-version-5.7.2-16020",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc8d9eee8ec7fe60235b00d52170f717c703dc0b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T13:16:42-06:00",
+  "timestamp": 1583349402,
+  "message": "suite-sparse-fix-installation-for-v5.X-15326",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cfd862f47024eea60f89479a229e0a4676a8fc9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T13:16:42-06:00",
+  "timestamp": 1583349402,
+  "message": "suite-sparse-fix-installation-for-v5.X-15326",
+  "repo": "spack/spack"
+},
+{
+  "commit": "518d1439c7c210ddb6c1bd6267fed62bb0cb8ab7",
+  "author": "Mathias Anselmann <mathias.anselmann@posteo.de>",
+  "date": "2020-03-03T12:06:58+01:00",
+  "timestamp": 1583233618,
+  "message": "Suite-sparse-compilation-fix-for-5.7.0-and-5.7.1-15289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a0b7c9d2085c1ae41b6190d1aeb03cced737436",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-02-25T13:22:00+09:00",
+  "timestamp": 1582604520,
+  "message": "suite-sparse-add-version-5.7.1-15195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9010d4fce53fd8f02b345e9c4d78b0276d7289b3",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-01-18T04:04:53+09:00",
+  "timestamp": 1579287893,
+  "message": "suite-sparse-add-5.4.0-5.5.0-and-5.6.0-GitHub-releases-14547",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d34326992fd467476380474d3101bc26eec16ed",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-15T20:03:19+02:00",
+  "timestamp": 1557943399,
+  "message": "fix-suite-sparse-built-with-tbb-from-intel-parallel-studio-11134",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2611c80862628046556c73e1e9da6ec69060428",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-10T09:21:54+02:00",
+  "timestamp": 1554880914,
+  "message": "suite-sparse-fix-tbb-patching-11155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb86598b35fba4b80a6efab17432408ea64834a7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-26T02:20:25+02:00",
+  "timestamp": 1540513225,
+  "message": "suite-sparse-add-GCC-version-constraint-9622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c79cd5fe51352eba3a2855a60ce90421701ed3bc",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-01T22:25:57-07:00",
+  "timestamp": 1533187557,
+  "message": "suite-sparse-add-version-5.3.0-8837",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a67b2e2942bf8cbd3322cc699dd3da131b6ee30a",
+  "author": "Dan FitzGerald <38731008+djfitzgerald@users.noreply.github.com>",
+  "date": "2018-06-14T23:45:21-04:00",
+  "timestamp": 1529034321,
+  "message": "Use-the-name-of-the-Fortran-compiler-to-determine-what-name-mangling-8393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4869b7312a000421074ad43233aa1264a2fb8ca4",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-04-19T07:59:55-06:00",
+  "timestamp": 1524146395,
+  "message": "Suite-sparse-provide-patch-to-fix-builts-with-clang-6.0.0.-7811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75c9083139f2ee2dc7317328fba59c0881bdebc5",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-03-21T22:49:01+01:00",
+  "timestamp": 1521668941,
+  "message": "suite-sparse-add-cmake-dependency-7538",
+  "repo": "spack/spack"
+},
+{
+  "commit": "869cb699856c29715157d171ed3f24aa2c9995f2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-03-19T16:19:44-05:00",
+  "timestamp": 1521494384,
+  "message": "Add-latest-version-of-SuiteSparse-7525",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7482cf1d9fc19b1fb0690aad490129e276a5731c",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-03-06T01:09:20-08:00",
+  "timestamp": 1520327360,
+  "message": "suite-sparse-add-a-package-specific-libs-property-7269",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e623bbb6794f86f298aef8b63e1d5d2331527e9f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-01-03T16:58:19+01:00",
+  "timestamp": 1514995099,
+  "message": "suite-sparse-support-64bit-BLAS-6767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "599094abbd1f356246e879587af8f80dfbf8be60",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T15:39:12+01:00",
+  "timestamp": 1513694352,
+  "message": "suite-sparse-add-5.1.0-6727",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d741a2110e6cf71b46dc93860278eb548aae8f0",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2017-06-23T06:50:49-07:00",
+  "timestamp": 1498225849,
+  "message": "suite-sparse-add-openmp-variant-4563",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b07d949aeb88c31f7618eaed391a27839f4abb4",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-05-27T07:49:21-04:00",
+  "timestamp": 1495885761,
+  "message": "Added-pgi-support-for-suite-sparse-package-4340",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4cc2d33bcfb33b199bf3c9f8418f67c19a9be2c5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-11T18:07:28-05:00",
+  "timestamp": 1494544048,
+  "message": "Force-suite-sparse-to-use-Spack-s-compiler-wrappers-4220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0ceece9ccc251a8f9c0dd51b0504bd54d9dfae5",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2017-05-10T09:13:14-04:00",
+  "timestamp": 1494421994,
+  "message": "enable-cuda-support-for-suite-sparse-4163",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17767bcf25c4b2bd53c506768696b2ae4533050f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-30T12:01:35+02:00",
+  "timestamp": 1493546495,
+  "message": "suite-sparse-updated-version-4055",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e9eae4bfafe189f6451c1fbfcf1625cf3662c37",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-26T09:26:57+02:00",
+  "timestamp": 1490513217,
+  "message": "suite-sparse-add-4.5.4-3558",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bce2accb69eea21ba88d7bf768d421b9cd0b023b",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-02-28T14:26:49-05:00",
+  "timestamp": 1488310009,
+  "message": "xl-support-for-suite-sparse-3226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e11e7e456668f81392b12be124d8280b511a7a4",
+  "author": "christianbaensch <christian.baensch@fau.de>",
+  "date": "2016-11-09T16:37:40+01:00",
+  "timestamp": 1478705860,
+  "message": "Update-package.py-with-out-CUDA-support-2266",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64c3b11478e02a5fa1eb9b60c09d514245181275",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-09-22T14:03:49-04:00",
+  "timestamp": 1474567429,
+  "message": "suitesparse-Added-fpic-for-linking-with-shared-libraries-1542",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96e9dbca0828e0664c4c20d6223b94d8040fc1a6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-15T22:41:01+02:00",
+  "timestamp": 1468615261,
+  "message": "suite-sparse-enable-TBB-and-fix-Blas-Lapack-libs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3df0f1902d84223dba02692d80439ee928f28285",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-06T12:15:20-07:00",
+  "timestamp": 1467832520,
+  "message": "clean-up-suitesparse-deps",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e27d91351f1f2f29adec9d1be44e25cbb79bb9f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-05T14:28:24-07:00",
+  "timestamp": 1467754104,
+  "message": "flake-8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c063c60556d714fd7fe4792b6aa137fd7d3f45e",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-05T13:48:32-07:00",
+  "timestamp": 1467751712,
+  "message": "kludge-to-get-suite-sparse-4.5.1-to-link-with-lstdc",
+  "repo": "spack/spack"
+},
+{
+  "commit": "976b2b4d250c88f9668c7e4cf4f6c7bdb8324a2c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-05T13:45:22-07:00",
+  "timestamp": 1467751522,
+  "message": "added-suitesparse-version-4.5.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "131d34f318a9955ff05c35eb8de0b399c31d5cc2",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-04T09:05:27+02:00",
+  "timestamp": 1459753527,
+  "message": "suite-sparse-temporary-disable-TBB-due-to-linking-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a88c6da9acc234484d34acf6588c838bef09e8c4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-02T12:02:29+02:00",
+  "timestamp": 1459591349,
+  "message": "suite-sparse-fix-a-bug-where-interla-metis-was-used-add-TBB-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01657e6991197c999180c2fec367fc75e59fba15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-30T11:41:25-07:00",
+  "timestamp": 1459363285,
+  "message": "Make-suite-sparse-use-spack-compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c5a1605d5e3cba881b743bf561f0966b1a3ad8b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T09:27:39+01:00",
+  "timestamp": 1458635259,
+  "message": "adjust-the-class-name-for-suite-sparse",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aca8b5c89de7058ab58f2eb3392e8b023b16fe8a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T09:27:00+01:00",
+  "timestamp": 1458635220,
+  "message": "move-suite-sparse-to-a-proper-folder",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3a0e1881dce3b251608d4252c7aafaa2da34104",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-04T16:00:39+01:00",
+  "timestamp": 1454598039,
+  "message": "suitesparse-basic-implementation",
+  "repo": "spack/spack"
+}]

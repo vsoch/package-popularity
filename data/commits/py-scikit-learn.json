@@ -1,0 +1,376 @@
+[{
+  "commit": "6b12000a7c81ca26b874b087a1a3c88034cfdd34",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-04-29T03:05:51-05:00",
+  "timestamp": 1619683551,
+  "message": "py-scikit-learn-add-v0.24.2-23330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99e36bcef6026be5009af92689699315c592a263",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-22T07:32:23-06:00",
+  "timestamp": 1611322343,
+  "message": "py-scikit-learn-add-v0.24.1-21158",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f19346c9af459770aa879d2ee0b9dfde6ddbaff",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2021-01-07T15:58:33-05:00",
+  "timestamp": 1610053113,
+  "message": "py-scikit-learn-do-parallel-builds-of-C-extension-20733",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69b9741e67dd88d7b9563ff56808b0f9b1f7bd58",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-28T05:47:02-06:00",
+  "timestamp": 1609156022,
+  "message": "py-scikit-learn-add-v0.24.0-20519",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b6c16ee9f1fa5102ecf9c266a9aa6685622b187",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-09T08:57:07-05:00",
+  "timestamp": 1596981427,
+  "message": "py-scikit-learn-added-v0.23.2-17876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc08070da9e9ef41f6a6630a17d8b3c25f25cf0e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-19T20:59:11-05:00",
+  "timestamp": 1589939951,
+  "message": "py-scikit-learn-add-latest-version-16731",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4e587bd0b8f489eb367c83225c1a2fe67292444",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-12T16:43:56-05:00",
+  "timestamp": 1589319836,
+  "message": "py-scikit-learn-add-new-version-16607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8825335056c0c69f3ba2508b65b4d09c173da5e7",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-19T21:51:25+01:00",
+  "timestamp": 1582145485,
+  "message": "Add-extra-version-of-py-scikit-learn-15087",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e26f517dafe0686b329cfd880e0b3400a1803e85",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-02T15:15:49-06:00",
+  "timestamp": 1577999749,
+  "message": "py-scikit-learn-add-0.22.1-14350",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10f4445309e18d5c99690f0d1fcbcfcabb8cd725",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-04T11:47:07-06:00",
+  "timestamp": 1575481627,
+  "message": "Add-latest-version-of-py-scikit-learn-13979",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38da69346c1201fabcaf257f6eec6dfdac1f6404",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-11T12:52:30-06:00",
+  "timestamp": 1573498350,
+  "message": "py-scikit-learn-update-OpenMP-flag-13683",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48e8029fb16ec6a1b4882b03791715f8c7650144",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-22T09:16:58-05:00",
+  "timestamp": 1571753818,
+  "message": "Add-latest-version-of-py-scikit-learn-13295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "032075af7446b9cd5cd419c9f0db38e566e7b917",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-18T15:56:48-05:00",
+  "timestamp": 1563483408,
+  "message": "Add-master-version-to-sklearn-12057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d1f965e592d0d854de71aa3ce4bf67fe8ad5d8a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-17T21:27:16-05:00",
+  "timestamp": 1563416836,
+  "message": "Fix-scikit-learn-build-with-Apple-clang-11496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43204049aa1b200500700595209e1b9b5910711b",
+  "author": "Levi Baber <baber@iastate.edu>",
+  "date": "2019-05-07T13:35:32-05:00",
+  "timestamp": 1557254132,
+  "message": "py-scikit-learn-needs-setuptools-11379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "096922c39d122037069a0e33048d640fa9e77914",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-11-24T17:03:30-08:00",
+  "timestamp": 1543107810,
+  "message": "Package-py-scikit-learn-9843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91f9a25905f7c1032252a3e3bc8e0c1a4477ec1c",
+  "author": "Leonhard Reichenbach <Zehvogel@users.noreply.github.com>",
+  "date": "2018-10-15T19:25:05+02:00",
+  "timestamp": 1539624305,
+  "message": "py-scikit-learn-added-version-0.20.0-9526",
+  "repo": "spack/spack"
+},
+{
+  "commit": "891a15f4090e1989d43455a1fb1f3a505d139e9b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-06-06T14:41:48+02:00",
+  "timestamp": 1528288908,
+  "message": "py-scikit-learn-added-version-0.19.1-and-updated-dependencies-8399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c32b0ad56f299a83c4ef4cbbc383f55f2637e3d",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-08-16T19:48:50-05:00",
+  "timestamp": 1502930930,
+  "message": "tppred-new-package-5091",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4de85ab4b79f81b82603f6eee5b68065535106f5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-20T17:38:30-06:00",
+  "timestamp": 1487633910,
+  "message": "Add-new-versions-of-several-Python-packages-3195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b3a8a4a5afc3f263a66b02b2f3cce9a5d1787fc",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-04T19:01:44-05:00",
+  "timestamp": 1459814504,
+  "message": "Add-missing-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0ca3952a34a74f0167b76bbedfa3cf8875a399c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-02T20:17:01-05:00",
+  "timestamp": 1459646221,
+  "message": "Add-version-0.17.1-of-scikit-learn",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b0a9c059bc854d94e2160efbe9bd3fa401af0f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:39:01-07:00",
+  "timestamp": 1433173141,
+  "message": "updated-Python-extension-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc3f74df263eb92a99e5477f4ce04972eb76994",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-22T11:50:01-08:00",
+  "timestamp": 1421956201,
+  "message": "added-more-Python-modules",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7017f8e3829ef3c0611bf0316db99d414606d66",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-12-26T00:12:42+09:00",
+  "timestamp": 1608909162,
+  "message": "openfdtd-Add-version-2.6.0-20460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf7cb3dca9c95782ff83fb54f095a00eeb96ddc9",
+  "author": "Hironori-Yamaji <52182908+Hironori-Yamaji@users.noreply.github.com>",
+  "date": "2019-08-28T08:32:18+09:00",
+  "timestamp": 1566948738,
+  "message": "New-package-openfdtd-12498",
+  "repo": "spack/spack"
+}]

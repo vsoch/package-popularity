@@ -1,0 +1,72 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a63baef4d48b8b017f9260a0cb0b1dea1531ab1",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-10-17T13:23:40-07:00",
+  "timestamp": 1602966220,
+  "message": "helics-Add-version-2.6.1-19348",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a1334bc6a0cdd21d453a69eed445e0bf96c0ea8",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-08-20T20:24:46-07:00",
+  "timestamp": 1597980286,
+  "message": "helics-Add-version-2.6.0-18208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c28d8932f2a437ca18b1731126fdcba82c84b1a",
+  "author": "Ryan Mast <mast9@llnl.gov>",
+  "date": "2020-06-16T07:37:12-07:00",
+  "timestamp": 1592318232,
+  "message": "helics-Add-version-2.5.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f9bfec32ec98bff24d00324ef7f9128e74ba87e",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-06-08T14:37:49-07:00",
+  "timestamp": 1591652269,
+  "message": "HELICS-add-version-2.5.1-17014",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c50b586e06c1fa3ffd997adbd9d4e711a6c6ca46",
+  "author": "Nathan <35582439+yee29@users.noreply.github.com>",
+  "date": "2020-05-13T15:25:07-07:00",
+  "timestamp": 1589408707,
+  "message": "Helics-add-python-variant-16625",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c0d4fb5e5a533bbe5b86711b7e09c3b9f1ca758",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-04-29T00:10:33-07:00",
+  "timestamp": 1588144233,
+  "message": "helics-fixed-dependency-on-boost-16363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25c17e0ca6ed064ac229b0a2a8aa2d96f338d711",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-04-28T17:21:22-07:00",
+  "timestamp": 1588119682,
+  "message": "helics-Add-version-2.5.0-16364",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bc6b290e53f26807fee42a23f7a7ba9861d9cdd",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-03-30T17:50:53-07:00",
+  "timestamp": 1585615853,
+  "message": "helics-add-new-package-15763",
+  "repo": "spack/spack"
+}]

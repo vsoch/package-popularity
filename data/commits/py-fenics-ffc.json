@@ -1,0 +1,8 @@
+[{
+  "commit": "73da7b6de68c6102ef024e794f9ccb2a9ac7cc1a",
+  "author": "emai-imcs <edwin.mai@unibw.de>",
+  "date": "2021-02-22T22:10:28+01:00",
+  "timestamp": 1614028228,
+  "message": "py-fenics-ffc-new-package-to-support-fenics-21862",
+  "repo": "spack/spack"
+}]

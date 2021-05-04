@@ -1,0 +1,1128 @@
+[{
+  "commit": "8a7487773b3e9a9152bb914d27c43ce5ccd7bbbc",
+  "author": "Luca Heltai <luca.heltai@sissa.it>",
+  "date": "2021-01-27T17:02:15+01:00",
+  "timestamp": 1611763335,
+  "message": "dealii-added-support-for-simplices-updated-sundials-20621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "812a3fb0aed8741c90b799371bb6213e5e93171b",
+  "author": "Luca Heltai <luca.heltai@sissa.it>",
+  "date": "2021-01-06T09:51:21+01:00",
+  "timestamp": 1609923081,
+  "message": "dealii-fix-concretization-problem-between-trilinos-and-adol-c-20606",
+  "repo": "spack/spack"
+},
+{
+  "commit": "155a3b3a08e905046a345c10a29973e1d82e60ce",
+  "author": "Luca Heltai <luca.heltai@sissa.it>",
+  "date": "2021-01-05T19:42:11+01:00",
+  "timestamp": 1609872131,
+  "message": "Fix-compilation-for-boost-1.72-20618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7501d9d150b0a58643dcef0edc7606a225f654a9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T17:44:20+01:00",
+  "timestamp": 1608050660,
+  "message": "dealii-piranha-trilinos-remove-mentions-of-non-existing-variants-20406",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a56248eba0bdea005c7faa9d54fb489fc62f05f",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-10-20T21:55:22+02:00",
+  "timestamp": 1603223722,
+  "message": "deal.II-Add-more-conflicts-due-to-symbol-clashes-between-dependencies-19408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50c7bc8cfdd042b18142ac73885686927390982d",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-10-15T04:23:55+02:00",
+  "timestamp": 1602728635,
+  "message": "deal.II-Fix-broken-include-and-library-path-concatenation-19315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "beeab6e1b99ee5756ea7f57131609ea03a85458b",
+  "author": "David M. Rogers <predictivestatmech@gmail.com>",
+  "date": "2020-10-13T14:23:04-04:00",
+  "timestamp": 1602613384,
+  "message": "Make-DEAL_II_MPI_WITH_CUDA_SUPPORT-conditional-on-mpi-package-option.-19279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d431fcd9044d7536a53a0a5e6d8b71ba1f7c775b",
+  "author": "David M. Rogers <predictivestatmech@gmail.com>",
+  "date": "2020-10-12T05:28:06-04:00",
+  "timestamp": 1602494886,
+  "message": "Added-CUDAHOSTCXX-variable-needed-to-compile-with-cuda-and-mpi.-19254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe239c83fc9da1c93df265f50beef80d32c0e8ed",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-10-11T21:48:09+02:00",
+  "timestamp": 1602445689,
+  "message": "deal.II-Further-modernisation-and-improvements-19253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69eb51dbfe4957855e9a83361c671e5eb77bb0c3",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-10-10T15:20:53+02:00",
+  "timestamp": 1602336053,
+  "message": "dealii-Reorganize-package-and-add-some-new-settings-19137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b578d55d12a75102c25062b73e4ebbf8d54e8de3",
+  "author": "Mathias Anselmann <mathias.anselmann@posteo.de>",
+  "date": "2020-09-23T01:52:05+02:00",
+  "timestamp": 1600818725,
+  "message": "setting-old-GO-default-values-for-older-trilinos-versioins-to-hopefully-not-break-the-installation.-Adjusting-dealii-package-to-just-explicitly-set-GO-if-trilinos-12.18.1-is-installed-15439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6779061d7cbfa6e3bc98dffd3d139bc428014a2",
+  "author": "Luca Heltai <luca.heltai@sissa.it>",
+  "date": "2020-05-28T12:02:34+02:00",
+  "timestamp": 1590660154,
+  "message": "dealii-deal-with-nanoflann-after-9.2.0-16839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55eb192234dada43e519443023c259220410a60c",
+  "author": "Luca Heltai <luca.heltai@sissa.it>",
+  "date": "2020-05-23T04:19:19+02:00",
+  "timestamp": 1590200359,
+  "message": "dealii-9.2.0-release-16743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b3b0232847157f3ab1939bb46ba41961053a2b3",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-03-29T17:56:15+02:00",
+  "timestamp": 1585497375,
+  "message": "deal.II-Update-dependencies-and-fix-target-for-vectorisation-15731",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6b0cf75ed79ace3154de11ff3ad24af4e69f773",
+  "author": "Mathias Anselmann <mathias.anselmann@posteo.de>",
+  "date": "2020-03-03T18:26:20+01:00",
+  "timestamp": 1583256380,
+  "message": "cherry-picking-global-ordinal-type-variant-from-https-github.com-spack-spack-pull-14215-and-setting-dealii-to-GO-int-to-make-it-compile-again-15288",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dcaa50c9d0839b2ceb4606525e521c917adbba06",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-02-03T13:04:12+01:00",
+  "timestamp": 1580731452,
+  "message": "deal.II-Add-patch-for-TBB-version-check-14724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b624b9d45862d35e6112298c0ce98b9f9b7d348",
+  "author": "Hector Martinez-Seara <hseara@gmail.com>",
+  "date": "2019-12-02T23:01:14+01:00",
+  "timestamp": 1575324074,
+  "message": "amber-Improved-package.py-and-added-version-18-13945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e3ff9b39c8e9ecd9549c04ceef6665fdc6c11b1",
+  "author": "Alexander Knieps <alexanderrobom@web.de>",
+  "date": "2019-12-01T20:34:26+01:00",
+  "timestamp": 1575228866,
+  "message": "dealii-Added-threads-variant-that-controls-the-TBB-dependency-13931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31e5318c240e12d59b01972cbaf92680ef4be6bd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:02:08+02:00",
+  "timestamp": 1569484928,
+  "message": "Removed-references-to-march-mtune-mcpu-native-12948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e094e19224712b03655feaa1842e8bb3a4548347",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-28T22:22:39+02:00",
+  "timestamp": 1559074959,
+  "message": "dealii-add-9.1.1-11573",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a973ab47517f50718ab92874bf0e934904b78a19",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-21T23:23:03+02:00",
+  "timestamp": 1558473783,
+  "message": "dealii-add-9.1.0-11527",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d6461b895b01da6d06a9bbff0ecdf78ba17b8d5",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-21T07:38:58+02:00",
+  "timestamp": 1558417138,
+  "message": "dealii-fix-symengine-constraints-11517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a66cc59bb044d7195571d60ca8efcb77efde4ce0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-19T06:01:44+02:00",
+  "timestamp": 1558238504,
+  "message": "trilinos-add-variant-to-disable-chaco-from-seacas-11482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "517212b8a32a172454e8dc062c32592c3c17f93e",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2019-05-19T05:56:56+02:00",
+  "timestamp": 1558238216,
+  "message": "Add-conflicts-in-deal.II-package-between-SymEngine-and-Trilinos-variants-11499",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38a59e6e37d7073d380b785faa17a2c4ca6df652",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-05-16T12:23:21+02:00",
+  "timestamp": 1558002201,
+  "message": "symengine-add-0.4.0-fix-dependency-in-dealii-11473",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c4849f775a06a16e25a24478069ab14d272e3f",
+  "author": "tcojean <35342290+tcojean@users.noreply.github.com>",
+  "date": "2019-05-02T01:25:39+02:00",
+  "timestamp": 1556753139,
+  "message": "Ginkgo-package-update-to-release-1.0.0-11312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39855fbcf8316813c786af158d017d6fb42acadf",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-20T07:00:34-05:00",
+  "timestamp": 1555761634,
+  "message": "dealii-add-patch-for-build-with-boost-1.70.0-11239",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e9748a3c80373a4b4274f993cb8be225320e91c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-10T14:51:39+02:00",
+  "timestamp": 1554900699,
+  "message": "dealii-fix-build-with-tbb-from-intel-parallel-studio-11138",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d971c4493d881755f227e8979eb2df27f75f2ef",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-22T10:58:48+01:00",
+  "timestamp": 1553248728,
+  "message": "add-ginkgo-package-use-it-in-dealii-along-with-symengine-10917",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2851b3f57ce5866f79208300386a6a60c0ccb3b7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-02-24T08:53:13+01:00",
+  "timestamp": 1550994793,
+  "message": "dealii-fix-default-of-cuda_arch-10690",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09033e991ef390370955eebecb2c0f734994d16b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-01-12T22:28:57+01:00",
+  "timestamp": 1547328537,
+  "message": "dealii-does-not-support-sundials-4.x-10324",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4bda74b308fcb17f00fcc132dee042d79c5e9cc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-01-11T19:07:28+01:00",
+  "timestamp": 1547230048,
+  "message": "dealii-fix-concretization-of-xsdk-package-10288",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "309f70758bed927f4a1335e8003887738014b76e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-12-30T15:43:25+01:00",
+  "timestamp": 1546181005,
+  "message": "dealii-workaround-concretization-issue-with-PETSc-10217",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9da7c98a21d3a6bdb2d92b90e53c92c82d5cb2d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-12-25T01:53:53+01:00",
+  "timestamp": 1545699233,
+  "message": "dealii-fix-build-with-some-Intel-compilers-10188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "121362383bb3bbc5ccef49e98a4885a09bf0c728",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-12-04T23:55:41+01:00",
+  "timestamp": 1543964141,
+  "message": "dealii-do-not-hardcode-prefix.include-for-BLAS-LAPACK-10008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f4d6caf323dd2bb10847260ef30fe4a29e8a859",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-11-08T09:05:52+00:00",
+  "timestamp": 1541667952,
+  "message": "muparser-minor-fixes-to-2.2.5-and-add-2.2.6-with-CMake-9724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb86598b35fba4b80a6efab17432408ea64834a7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-26T02:20:25+02:00",
+  "timestamp": 1540513225,
+  "message": "suite-sparse-add-GCC-version-constraint-9622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5196c1a51aac8cd0eed8da7eba2844b046de46b3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-12T09:17:26+02:00",
+  "timestamp": 1539328646,
+  "message": "dealii-add-9.0.1-and-update-to-sha256-9511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18ca19675354508a7a8593c8baf9e98b33e302e1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-07T02:22:17+02:00",
+  "timestamp": 1536279737,
+  "message": "xsdk-add-dealii-7529",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a041b3fea3d9bc925c7a534ed5c150db4d31b66",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-22T16:34:47+02:00",
+  "timestamp": 1534948487,
+  "message": "dealii-patch-boost-1.68.0-9070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "271633ee939b43640a99423ac49e7d1c44244520",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-20T17:43:30+02:00",
+  "timestamp": 1534779810,
+  "message": "dealii-add-constraint-on-suite-sparse-for-old-gcc-9026",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5aa126d850bbb529a972caedd08b2f4a212b55b1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-20T16:40:10+02:00",
+  "timestamp": 1534776010,
+  "message": "dealii-blacklist-boost-1.68.0-due-to-segmentation-fault-in-serialization-lib-9023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e378d4ee342e2547da9f5902bd4a8cd8a4f02000",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-21T18:24:05+02:00",
+  "timestamp": 1529598245,
+  "message": "dealii-add-msg-to-conflicts-statements-8509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42137d59ef7b147d200864ba000b40d2fd9ac8ea",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-14T18:07:19+02:00",
+  "timestamp": 1526314039,
+  "message": "dealii-another-fix-for-quick-tests-only-in-9.0-and-thus-hash-8114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "635f3e2969763b9dcf07c7a6e5cc63d6ed35eafe",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-14T10:49:26+02:00",
+  "timestamp": 1526287766,
+  "message": "dealii-update-hash-due-to-upstream-changes-8105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e271f14493ecd0305ac073914e451b6bcc50e3ba",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-12T04:59:25+02:00",
+  "timestamp": 1526093965,
+  "message": "dealii-add-9.0.0-8096",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28bebe13a8e0fcce716c6adb6789f43e99f4665d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-11T15:50:35+02:00",
+  "timestamp": 1526046635,
+  "message": "dealii-disable-tpetra-when-cuda-check-for-in-cuda_arch-7958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "206e61bafdde19b6ec28583386e08917aefb91b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-11T14:22:12+02:00",
+  "timestamp": 1526041332,
+  "message": "gmsh-add-netgen-and-tetgen-8060",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2dfd61080bdd9855fd142d4cd4994b7e4de9dfe6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-21T17:22:10+02:00",
+  "timestamp": 1524324130,
+  "message": "dealii-disable-slepc-with-petsc-7832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "338fa8d7d6a3cabcb167063db44f9a00edb7088d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-03T17:15:09+02:00",
+  "timestamp": 1522768509,
+  "message": "fix-dealii-dependencies-for-Clang-9.1.0-C-17-7644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6170ca863dd8f3cb7c1e0e86f51fcb6a097ce421",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-01-20T21:59:24+01:00",
+  "timestamp": 1516481964,
+  "message": "dealii-update-CMake-dependency-7010",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b5fe75bc38b9e4f45d077aabb6909daca31a70f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-01-03T03:03:27+01:00",
+  "timestamp": 1514945007,
+  "message": "add-OctavePackage-6746",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f764ac4573e512e9ccec6a6f7b3a0d0bf8c59c1b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-22T15:55:04+01:00",
+  "timestamp": 1513954504,
+  "message": "dealii-support-64bit-BLAS-6758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "548c225d458e383e7f032a158812035be3e45454",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T08:28:55+01:00",
+  "timestamp": 1513668535,
+  "message": "dealii-add-GMSH-add-CMAKE_FIND_APPBUNDLE-to-CMakePackage-6723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23d56a75abd852a9daf15db61b38bb5804026b75",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-08T10:37:54+01:00",
+  "timestamp": 1512725874,
+  "message": "dealii-update-boost-dependency-6586",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9c66a76f00057f9900e8678765c474dc2a79823",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-04T08:02:05+01:00",
+  "timestamp": 1512370925,
+  "message": "dealii-add-scalapack-and-various-cleanups-6552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddf10fa3223b0985d0ad01bd17f89ce2bb3e0c55",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-11-23T15:16:44+01:00",
+  "timestamp": 1511446604,
+  "message": "dealii-limit-CMake-to-3.9-as-3.10.0-is-not-supported-yet-6427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93d5a91a566a67913b75724242555b1e0e78a6aa",
+  "author": "BenBrands <benjamin.brands@fau.de>",
+  "date": "2017-11-20T19:57:53+01:00",
+  "timestamp": 1511204273,
+  "message": "dealii-fix-HDF5-dependency-6374",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34da07db9b0384c0ae7fa7fcbd11ce64232678f4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-11-19T20:39:13+01:00",
+  "timestamp": 1511120353,
+  "message": "dealii-add-cuda_arch-variant-via-CudaPackage-6070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f538b7ac3e96ef6cd1d07c945f41eae991f372ab",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-11-06T12:38:59+01:00",
+  "timestamp": 1509968339,
+  "message": "dealii-make-sure-bundled-libs-are-not-used-6106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6a8ae230e79bc8f1b336adce2ba007033989580",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-29T14:39:51+01:00",
+  "timestamp": 1509284391,
+  "message": "dealii-remove-bzip2-dependency-for-newer-versions-6022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e67b98e29579ae8203f308f9e14e2f1de8f7b77",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-18T23:58:05+02:00",
+  "timestamp": 1508363885,
+  "message": "dealii-blacklist-boost-1.64-and-1.65-5805",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35a62f715be12a701c18abeb784200a7f766ebeb",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-11T23:09:39+02:00",
+  "timestamp": 1507756179,
+  "message": "dealii-minor-fixes-5687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "330211468a418e04a05ddd45ead763e1fb43f2cc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-25T14:58:13+02:00",
+  "timestamp": 1506344293,
+  "message": "add-assimp-package.-link-against-it-in-dealii-5463",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8a7b2e9a0515cb0464a518edec837c28b5b888d",
+  "author": "BenBrands <benjamin.brands@fau.de>",
+  "date": "2017-09-21T08:17:24+02:00",
+  "timestamp": 1505974644,
+  "message": "dealii-add-cuda-support-5402",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9e46a29132c412c78f52d871f6c2e2edb9031d3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-12T05:47:05+02:00",
+  "timestamp": 1505188025,
+  "message": "dealii-explicitly-specify-bzip2-libs-5337",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a9f8ead14a18c3be24fce97cb2277e1a5baad1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-08-30T19:56:24+02:00",
+  "timestamp": 1504115784,
+  "message": "add-optional-maintainers-property-to-package-5230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0d3d33b58eb14e3da2980db43db98b0cbd3e967",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-08-25T03:18:06+02:00",
+  "timestamp": 1503623886,
+  "message": "dealii-add-nanoflann-sundials-and-adol-c-plus-fixes-on-macOS-5175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92e6616a8ab9a579aa9feee79809113228ec5c91",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-07-13T14:51:45+02:00",
+  "timestamp": 1499950305,
+  "message": "dealii-workaround-for-concretization-bug-4735",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c5fd4a7e38aada4f0ca8d39394c457dbc1ecc5e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-06-09T14:10:54+02:00",
+  "timestamp": 1497010254,
+  "message": "add-teuchos-to-Trilinos-update-dealii-to-explicitly-require-certain-packages-4460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1059b5a6c185bcae5b15ec229ada27aa6928354",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-28T19:43:06+02:00",
+  "timestamp": 1493401386,
+  "message": "dealii-fix-missing-march-native-in-flags-4036",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c0fe2829bb248cd9b8dc5ba3a0260f27c1c891c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-06T23:29:40+02:00",
+  "timestamp": 1491514180,
+  "message": "deal.ii-add-8.5.0-3741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88f97c07dea843f2a2c1d87347edccb69c093903",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-02T15:16:58+01:00",
+  "timestamp": 1488464218,
+  "message": "fix-build-of-64bit-PETSc-and-Trilinos-in-the-same-deal.II-DAG-3223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "031cde6e25e2b48035b61c95f9b2e4c92183fb30",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-02-21T00:40:46+01:00",
+  "timestamp": 1487634046,
+  "message": "openblas-add-develop-version-to-make-it-work-with-Kabylake-CPUs-3192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7a0a6fbc4dffa056406da434b60de2e0e9b2496",
+  "author": "Ce Qin <qince168@gmail.com>",
+  "date": "2017-02-17T10:37:20+08:00",
+  "timestamp": 1487299040,
+  "message": "Add-tag-master-for-version-develop-of-dealii.-3048",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c350bd12163c7a3886a573b0d9e777395efe22e9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-19T20:24:09+01:00",
+  "timestamp": 1484853849,
+  "message": "dealii-fix-config-without-mpi-2856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8365dbd959f0c8346017c64298fa1cac06122609",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-16T11:23:07+01:00",
+  "timestamp": 1484562187,
+  "message": "petsc-add-64bit-variant-2655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17b13b161b3ddcd691ea7ed90165cfab6dec3950",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-28T21:37:02+01:00",
+  "timestamp": 1482957422,
+  "message": "Directive-inheritance-laziness-for-the-win-2623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e16908b16bf8b9644ca177d9d5061c312bb580aa",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2016-12-25T21:55:14-05:00",
+  "timestamp": 1482720914,
+  "message": "Add-64-bit-variant-to-dealii.-2654",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ef55b831fab41be7efe837a54dae22eeb04562c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-17T17:57:33+01:00",
+  "timestamp": 1481993853,
+  "message": "dealii-fix-config-for-Netcdf-with-lib64-2616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cab8788f53d5dd7dd45c23d600963c6e3228b6ef",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-08T16:29:22+01:00",
+  "timestamp": 1481210962,
+  "message": "dealii-remove-dependencies-which-are-not-needed-2522",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a135a1245a3bcf61a683d25c313984408184fca5",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2016-11-04T17:57:53+00:00",
+  "timestamp": 1478282273,
+  "message": "tweaks-to-packages-using-CMakePackage-2241",
+  "repo": "spack/spack"
+},
+{
+  "commit": "453331dba02e612b799d5bcf4a56b34d67880858",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-11-04T09:46:39+01:00",
+  "timestamp": 1478249199,
+  "message": "dealii-switch-to-CMakePackage-and-minor-cleanup-2237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48f23aadbedcc6b4524df09b11ec9fcfbeca7c13",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-14T18:49:31+02:00",
+  "timestamp": 1476463771,
+  "message": "dealii-remove-extra-test-which-are-now-mostly-integrated-in-make-test-2013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbc864c9db38a363a68c6a140d957a2b24a7a2ff",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-10-06T15:57:23-07:00",
+  "timestamp": 1475794643,
+  "message": "Restore-default-RPATH-settings-but-allow-packages-to-limit-to-immediate-deps.-1954",
+  "repo": "spack/spack"
+},
+{
+  "commit": "462a4a1353bfcf68e75036d322bd3b668d2b8756",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-22T22:47:22+02:00",
+  "timestamp": 1474577242,
+  "message": "boost-fix-a-bug-which-broke-it-on-macOS-with-clang-gfortran-1816",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1565a643bd467196cb9d42ab244488bdeaebd0ff",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-20T11:46:57+02:00",
+  "timestamp": 1474364817,
+  "message": "dealii-add-8.4.2-1782",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af8741c23cf0671ba14ab6b90a583f39afc6902f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-04T09:57:50+02:00",
+  "timestamp": 1470297470,
+  "message": "dealii-add-optional-python-bindings",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b553f2b21bcfeb3423a2a12d8921c9389e399f6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-11T13:12:04+02:00",
+  "timestamp": 1468235524,
+  "message": "dealii-fix-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f14cd67446fae1fbe30617df6fb934a7960bf6ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-11T10:56:57+02:00",
+  "timestamp": 1468227417,
+  "message": "dealii-flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84afaf385f0415db32a05c088dc0b1f76fc9aac7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-11T10:22:29+02:00",
+  "timestamp": 1468225349,
+  "message": "dealii-run-tests-only-when-self.run_tests-true",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cc6e426823e9c22515415fd13b8a7d30cdba2ce",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-11T10:20:15+02:00",
+  "timestamp": 1468225215,
+  "message": "dealii-add-petsc-slepc-3.7-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32c801bbf6ddcbec05a4b4b6b7a01ba1f4daf46b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-28T18:06:56+02:00",
+  "timestamp": 1467130016,
+  "message": "dealii-run-more-unit-tests-when-building-dev",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fe531050c33f874882adcbe3a657628fe8cd517",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-15T18:33:34+02:00",
+  "timestamp": 1466008414,
+  "message": "flake8-fixes-for-dealii",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d04dc8440f61df77f79bd1fd3bb5cd799e83e4f0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-14T15:59:49+02:00",
+  "timestamp": 1465912789,
+  "message": "dealii-specify-petsc-slepc-version-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f96484f83dff008ef8712c63202ee140000ff22",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-31T09:58:29+02:00",
+  "timestamp": 1464681509,
+  "message": "Spacing-correction",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e82fb5b58f4ccdf7a4bfcda0331b4649dec3de75",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-31T08:44:46+02:00",
+  "timestamp": 1464677086,
+  "message": "Fixed-spacing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4d5bd13c7596577bef119dcac2b83e213a92ce5",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-30T18:11:34+02:00",
+  "timestamp": 1464624694,
+  "message": "dealii-Added-comment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f591a6fe3f2fc1477d5b740d1eb9e56a37d56b3",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-30T16:42:24+02:00",
+  "timestamp": 1464619344,
+  "message": "Step-40-test-for-8.3.0-and-earlier",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7e84fe07c748206afa25e8e45a2ebfac71c7cdf",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-30T14:03:27+02:00",
+  "timestamp": 1464609807,
+  "message": "dealii-test-for-specific-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2ac47235fd02e34c4ea5ac9d9c65a8b313ffa41",
+  "author": "Ali Dorostkar <ashkan.dorostkar@gmail.com>",
+  "date": "2016-05-29T13:22:19+02:00",
+  "timestamp": 1464520939,
+  "message": "additional-versions-for-Dealii",
+  "repo": "spack/spack"
+},
+{
+  "commit": "040c122719c7f4cb97ce14668111e0c66125c8c3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-26T20:54:38+02:00",
+  "timestamp": 1464288878,
+  "message": "dealii-formatting",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0036483dedfcb75c6b893db7108a7f2b6a4c6187",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-26T10:25:16+02:00",
+  "timestamp": 1464251116,
+  "message": "dealii-don-t-hardcode-blas-and-mpi-minor-fixes-to-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2eb4248f90650f83b7fca7587d59e8fc16bb5305",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-02T18:52:44+02:00",
+  "timestamp": 1462207964,
+  "message": "dealii-fix-a-bug-where-P4EST_DIR-was-unconditionally-requested",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cde1d183994363cbb70a72bd180999a0ce151e16",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-30T17:53:17+02:00",
+  "timestamp": 1462031597,
+  "message": "dealii-add-new-dependency-gsl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ff41206923dc9235b7f7341b514b4e2944d262d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-26T13:13:47+02:00",
+  "timestamp": 1461669227,
+  "message": "dealii-add-missing-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef9347bcfb52e7f80aacb4ecb63d1536b8aaa3c0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-22T04:25:17+02:00",
+  "timestamp": 1461291917,
+  "message": "dealii-set-DEAL_II_DIR-when-loading-a-module-816",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0ff3f16cc142fb9ca55cc1c6000fb230627f8fe",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-03T19:41:20+02:00",
+  "timestamp": 1459705280,
+  "message": "dealii-blacklist-boost",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adccd18015eec2589d69194fa30be45b04cb515e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-02T12:02:59+02:00",
+  "timestamp": 1459591379,
+  "message": "dealii-add-extra-test-for-Petsc-Metis",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d0b4a28abf8216ed141dac80a6779f6a51f03f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-31T09:39:37+02:00",
+  "timestamp": 1459409977,
+  "message": "oce-fix-bugs-related-to-NULL-pointers-and-compiler-optimisation",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5506e89aa9f45b94a7b16a24e24e3c081fdf1e38",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T21:41:23+02:00",
+  "timestamp": 1459366883,
+  "message": "rename-variant-doxygen-to-doc",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2abdd71b414b4f551e927edb7304b4dcc053d09e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T15:19:29+02:00",
+  "timestamp": 1459343969,
+  "message": "add-dev-version-and-conditionals-for-tests-remove-parmetis",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bafc6cebe1ca37116badc1baf60e88564eb01614",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T12:00:21+02:00",
+  "timestamp": 1459332021,
+  "message": "doxygen-off-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b6eefbf0417668c19e4c898c31cf56764d5bc2b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T11:30:35+02:00",
+  "timestamp": 1459330235,
+  "message": "add-variants-and-extra-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e00cab75bd6721ac49bb6199d77ad99df80556a9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-28T12:12:55+02:00",
+  "timestamp": 1459159975,
+  "message": "more-elaborated-tests-direct-solvers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97cdd7947894b3b631e2a209f0573ed839eb7b8a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-28T10:49:20+02:00",
+  "timestamp": 1459154960,
+  "message": "fix-netcdf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc73e93b50a708ecfa2395a636bc32161c9d3051",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T23:47:43+02:00",
+  "timestamp": 1459115263,
+  "message": "rework-netcdf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20600b8cac9488ff416397de374c2d3dacf4afe4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T21:03:18+02:00",
+  "timestamp": 1459105398,
+  "message": "add-tests-and-netcdf-cxx4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c391bbda1c8379dd60cf21d82779db704183f32",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-26T20:52:08+01:00",
+  "timestamp": 1459021928,
+  "message": "minor-changes-to-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7011d21aa95145c7b3978f4220b211e39c9ecf2",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-25T22:15:39+01:00",
+  "timestamp": 1458940539,
+  "message": "update-dependencies.-Builds-fine-on-OSX",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ee993569f8f47f5ca94873bc779d98639e9a1b4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T23:04:59+01:00",
+  "timestamp": 1458684299,
+  "message": "add-deal.ii-package",
+  "repo": "spack/spack"
+}]

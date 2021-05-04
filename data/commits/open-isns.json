@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e16593e551b2373aac8412c87337f982ee8f425b",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-08T11:27:04+08:00",
+  "timestamp": 1586316424,
+  "message": "Add-new-package-open-isns-15914",
+  "repo": "spack/spack"
+}]

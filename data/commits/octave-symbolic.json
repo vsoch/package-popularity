@@ -1,0 +1,8 @@
+[{
+  "commit": "7e144b6841a385d588543402d64b9424fd22c9e0",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-22T18:42:50+01:00",
+  "timestamp": 1614015770,
+  "message": "New-Package-octave-symbolic-21857",
+  "repo": "spack/spack"
+}]

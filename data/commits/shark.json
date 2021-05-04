@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb9c86e5262e14bc257a7aef7f1fd0525dbe0bb8",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-08T00:57:21+08:00",
+  "timestamp": 1586278641,
+  "message": "Add-new-package-shark-15913",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,32 @@
+[{
+  "commit": "bc639fe60b9c6cb861b72b7a14d20f7e680c072f",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-01-29T17:37:00+09:00",
+  "timestamp": 1611909420,
+  "message": "wtdbg2-enable-build-for-aarch64-21390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f4f828b457147a16685580e0c245adcb5eda7e8",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2019-02-27T13:27:45-06:00",
+  "timestamp": 1551295665,
+  "message": "wtdbg2-new-package-10639",
+  "repo": "spack/spack"
+}]

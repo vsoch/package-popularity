@@ -1,0 +1,312 @@
+[{
+  "commit": "bf3a873a42728d0ff4c90232c6a446574db7bc25",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "564aebdb1a7ae3294801c9eceed08202fd665fe7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-06T01:56:22-06:00",
+  "timestamp": 1609919782,
+  "message": "Xorg-proto-type-build-link-20685",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f4c2b49e38ceecb895b4ad6885ceea377a9737",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa8d5d2e8cd6d6c7abe6b8db41e1d9abf783f1ef",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-08T15:51:04-06:00",
+  "timestamp": 1575841864,
+  "message": "cbtf-krell-fix-missing-dependencies-14021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bed7e40dcc390efcc426bc28d8bf2be5d347fa9b",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-11-22T03:38:09+09:00",
+  "timestamp": 1574361489,
+  "message": "cbtf-krell-add-rpcsvc-proto-and-libtirpc-dependency.-13800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4367e16740ccd39515ad75e86cce9f65ac46ca69",
+  "author": "Jim Galarowicz <jeg@trenzasynergy.com>",
+  "date": "2019-10-28T17:36:12-05:00",
+  "timestamp": 1572302172,
+  "message": "Update-the-module-files-for-cbtf-krell-and-openspeedshop-13400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c779608b2f33429333f36d883ecaf602cda99dc",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-06-27T18:55:15+09:00",
+  "timestamp": 1561629315,
+  "message": "cbtf-krell-fixed-to-build-on-ARM.-11859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7f23dcd8d972f3954a7f210080072c93a5dcf48",
+  "author": "Jim Galarowicz <jeg@trenzasynergy.com>",
+  "date": "2019-05-16T20:19:55-05:00",
+  "timestamp": 1558055995,
+  "message": "OpenSpeedShop-CBTF-package-updates-and-fixes-11470",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dc0b657194ee780d8aa7696169c57c8071f91e5",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-11-09T15:35:11-06:00",
+  "timestamp": 1541799311,
+  "message": "Update-Dyninst-package-file-for-TBB-dependency-9728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c10d432a2e8d3dbb417c85e18d516e99f9805bdf",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-10-30T20:41:08-05:00",
+  "timestamp": 1540950068,
+  "message": "Update-openspeedshop-and-cbtf-krell-module-creation-code-9234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccd96a2fedfc4ddf0d0eac931797ab59bc5e0a97",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-09-03T20:35:25-05:00",
+  "timestamp": 1536024925,
+  "message": "Update-openspeedshop-and-cbtf-version-numbers-9150",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69641851ea9fab604fbe664df8b44b4ce61dfe44",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-08-03T13:00:12-05:00",
+  "timestamp": 1533319212,
+  "message": "libmonitor-update-version-and-add-variant-to-configure-8834",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec66e0fb7eccc2f67cda5a2ef9785b2e495ccd28",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-06-17T09:49:27-05:00",
+  "timestamp": 1529246967,
+  "message": "Add-changes-to-the-Krell-packages-with-version-updates-and-ranges-for-the-latest-release.-8468",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7aaf4e19341ae4cd9fb57f5c2b456e0c7caa267",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-05-21T16:03:31-05:00",
+  "timestamp": 1526936611,
+  "message": "Add-urls-into-cbtf-and-openspeedshop-package-files-and-update-the-release-versions-for-the-Krell-products-8188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f202198777b4353c57c26fa87739b306070fd960",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-16T10:57:40-07:00",
+  "timestamp": 1526493460,
+  "message": "Convert-lazy-singleton-functions-to-Singleton-object",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f2cac9565cd50cded141533b1594faa02c4b2f6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-05-10T11:45:44-07:00",
+  "timestamp": 1525977944,
+  "message": "init-initialize-spack.store-lazily",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4d276fbe4ec45c7ac4d9315d0f803a223096d18",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-04-08T21:10:05-05:00",
+  "timestamp": 1523239805,
+  "message": "init-factor-paths-out-of-spack-__init__.py-and-into-spack.paths-module",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfd168d557f1acc981c9939526b3ab3f160bee5a",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-05-17T14:04:33-05:00",
+  "timestamp": 1526583873,
+  "message": "cbtf-argonavis-gui-add-openspeedshop-utils-package-to-address-qt-conflicts-8066",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fc51a9c3eb8d6632b7cec18cd38758d03b77b57",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-04-18T14:05:53-05:00",
+  "timestamp": 1524078353,
+  "message": "Simple-updates-to-the-Krell-Institute-OpenSpeedShop-and-CBTF-components-build-package-files.-7812",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f3a72fb33df5bb954728b1f1468059d2899944b",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-03-07T16:26:07-06:00",
+  "timestamp": 1520461567,
+  "message": "OpenSpeedShop-package-add-support-for-building-on-cray-7338",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95ff37309ac1c9eb6605a3a7c2d6eb9f34895245",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2017-09-26T13:15:37-07:00",
+  "timestamp": 1506456937,
+  "message": "Add-ability-to-build-llvm-openmp-ompt-alone-with-gnu-compilers-and-use-the-resulting-ompt-interface-in-cbtf-krell-and-openspeedshop-to-gather-openmp-specific-performance-information.-5288",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5b76d24cf44a9b60d53cd807ebbc93034674623",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-08-08T00:03:51+02:00",
+  "timestamp": 1502143431,
+  "message": "Update-openspeedshop-and-cbtf-krell-to-use-latest-binutils-version-fix-4992-4997",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5173a8bef909bab3b1f525929db0ba637037c9b1",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2017-07-20T13:25:57-05:00",
+  "timestamp": 1500575157,
+  "message": "Spack-updates-to-three-Krell-packages-4765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "481bc91854219a4b7a65de85e2025e20c7ec23c8",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2017-01-10T12:28:05-08:00",
+  "timestamp": 1484080085,
+  "message": "Update-the-boost-versions-used-by-openspeedshop.-Boost-1.60-to-current-latest-causes-compile-errors-when-building-openspeedshop.-2300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87adcfeea85b3b1fa51d0d5067541f88d4edcca8",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2016-10-17T01:18:30-07:00",
+  "timestamp": 1476692310,
+  "message": "Update-the-Krell-Institute-products-to-use-the-latest-features-of-spa-1984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44321c5c2487c62e58f543455569804c95081cfa",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2016-04-18T16:46:15-07:00",
+  "timestamp": 1461023175,
+  "message": "Update-the-main-Krell-Institute-and-Argo-Navis-Tech.-packages-for-MPI-variant-support-get-source-from-github-not-sourceforge-tested-external-package-usage-and-general-package-clean-up",
+  "repo": "spack/spack"
+}]

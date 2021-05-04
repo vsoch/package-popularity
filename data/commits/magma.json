@@ -1,0 +1,320 @@
+[{
+  "commit": "75fd886f62a43b52678c6936fef29867b58d0eff",
+  "author": "Sergei Shudler <sergshu@gmail.com>",
+  "date": "2021-04-21T11:12:59-07:00",
+  "timestamp": 1619028779,
+  "message": "MAGMA-Add-e4s-testsuite-inspired-smoke-test-23011",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8956c8c7b71b09e5bc6432b157bb4ca9a5d6004f",
+  "author": "jkelling <j.kelling@hzdr.de>",
+  "date": "2021-01-06T10:51:05+01:00",
+  "timestamp": 1609926665,
+  "message": "magma-remove-W-args-from-CMakeLists.txt-when-using-nvhpc-20516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "160c00e3f77ef51b79e04d374b8db2da89dad8ee",
+  "author": "Stan Tomov <tomov@eecs.utk.edu>",
+  "date": "2020-10-10T17:58:37-04:00",
+  "timestamp": 1602367117,
+  "message": "Add-MAGMA-v2.5.4-release-19245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84dbf6948eed21e9cda8af92a4ca0d39b2ff7abc",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-09-22T11:35:13-05:00",
+  "timestamp": 1600792513,
+  "message": "Set-conflicts-parameter-for-cuda-11-18847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b86e620743aff8668752574e4c39b3a569f12668",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-07-30T23:01:48-04:00",
+  "timestamp": 1596164508,
+  "message": "Fixing-problems-caused-by-a-comfused-spack-concretizer-17797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f5e4e1664fc72161f458b022b6066f28e84825a",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-07-30T05:24:21-04:00",
+  "timestamp": 1596101061,
+  "message": "MAGMA-isn-t-compatible-with-CUDA-11-17753",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "950180ab034d85afb76ed91b46e3476558add786",
+  "author": "Stan Tomov <tomov@eecs.utk.edu>",
+  "date": "2020-04-17T05:33:24-04:00",
+  "timestamp": 1587116004,
+  "message": "magma-added-v2.5.3-16097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "829bfb578814d076000d6d0ad8339143322e28ee",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-03-27T13:28:54-07:00",
+  "timestamp": 1585340934,
+  "message": "magma-now-extends-CudaPackage-class-taking-care-of-the-gcc-conflicts-14471",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d646c8d8d5bf4cf5ddcb4ac04ce29efa5a8cd2df",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2020-01-22T18:13:01-05:00",
+  "timestamp": 1579734781,
+  "message": "magma-add-new-version-2.5.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "480cd9344f12f3c24e500bd77d51bafb4e013c3b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-04T20:36:48-05:00",
+  "timestamp": 1564969008,
+  "message": "Add-version-2.5.1-of-MAGMA-released-today-12274",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c970613b67067cf1c10ebc7199fc12af393059c",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2019-07-31T23:43:47+02:00",
+  "timestamp": 1564609427,
+  "message": "Magma-fix-prefix-12220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "900f8f0806609a32050b2a1f57d68bc45c064fa9",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-05-17T09:19:33-04:00",
+  "timestamp": 1558099173,
+  "message": "Add-version-2.5.1-alpha1-of-MAGMA-11486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b94c8c2d536ff0967fc61d80f9b51d5e333c4c9f",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-01-26T10:03:05-05:00",
+  "timestamp": 1548514985,
+  "message": "magma-add-version-2.5.0-10438",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b100d1fc4045a9bf743f7f7cbf85c93d3e9b1898",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2018-10-10T22:14:31-04:00",
+  "timestamp": 1539224071,
+  "message": "Magma-add-version-2.4.0-9478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d512ce9ae9a8b71c7442f327c595ac476b261af",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-09T13:34:40-06:00",
+  "timestamp": 1510256080,
+  "message": "magma-cuda-updates-from-xsdk-0.3.0-branch-6160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a36ed7fb9b93163358b8e5f63ad0f702f2410b6e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-04T16:42:02+01:00",
+  "timestamp": 1488642122,
+  "message": "fix-blas-lapack-usage-after-PR-1875-3365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4e7cfe02b358dd23674b0655f1eefd03f324957",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-03-03T22:37:29-05:00",
+  "timestamp": 1488598649,
+  "message": "Added-magma-package-3273",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffce6e1c4e8ab98c6d90dd2187a63387d13c098e",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-01T23:36:46+01:00",
+  "timestamp": 1488407806,
+  "message": "add-variant-shared-to-yaml-cpp-3254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17b13b161b3ddcd691ea7ed90165cfab6dec3950",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-28T21:37:02+01:00",
+  "timestamp": 1482957422,
+  "message": "Directive-inheritance-laziness-for-the-win-2623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb7b51855aa32f2e695c21add373c7f6dab0d286",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-07T16:55:12-05:00",
+  "timestamp": 1481147712,
+  "message": "yaml-cpp-add-boost-dependency-2517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "946605a4c99f78b3311435948de0c60b98fb1ef1",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-12-02T11:41:18-07:00",
+  "timestamp": 1480704078,
+  "message": "Updating-yaml-cpp-from-Package-to-CMakePackage.-2457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8d038c0b85dab9d7a95de0509d49bd186c96863",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-11-23T11:54:22-07:00",
+  "timestamp": 1479927262,
+  "message": "New-package-yaml-cpp-2399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fc43046ebfaa41410c28ba6d3d27fffed25ee4e",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-04-30T12:11:10+02:00",
+  "timestamp": 1462011070,
+  "message": "Add-missing-dependency-for-glm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec5560374c218bfb1f16934259108ebc305cf838",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-14T16:13:56+02:00",
+  "timestamp": 1444832036,
+  "message": "glm-added-basic-configuration-for-the-package",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "8395df6b5b64fac9828eedcba8973aed4845c035",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2021-03-09T10:12:25+09:00",
+  "timestamp": 1615252345,
+  "message": "DSQSS-Add-test-function-and-Continuation-of-21666.-22103",
+  "repo": "spack/spack"
+},
+{
+  "commit": "506da6891ad56278e7af23ef244e0c0d862585fd",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2021-01-12T18:00:30+09:00",
+  "timestamp": 1610442030,
+  "message": "dsqss-new-package-at-v2.0.3-20723",
+  "repo": "spack/spack"
+}]

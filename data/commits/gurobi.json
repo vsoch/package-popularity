@@ -1,0 +1,168 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64bdc3251f86667cfe1df533ee8638e73514c540",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-12T02:04:05-07:00",
+  "timestamp": 1570871045,
+  "message": "checksums-enforce-that-all-mainline-packages-use-sha256-checksums",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90c0c12f2ac45fdf1019bf797ee2053ac48a2990",
+  "author": "Yifan Zhu <ifanzhu@foxmail.com>",
+  "date": "2018-03-29T14:42:36-05:00",
+  "timestamp": 1522352556,
+  "message": "gurobi-new-package-7639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23ee792dcf46b4ea948b71ada1bfd26e5729a4ee",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-11T11:30:55-05:00",
+  "timestamp": 1494520255,
+  "message": "Update-NAG-checksum-add-F77-and-FC-4196",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52158d9316aabd9c02a719825928607cb5204377",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-21T09:49:36-05:00",
+  "timestamp": 1477061376,
+  "message": "Add-new-Version-property-to-handle-joined-version-numbers-2062",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c043275f1b83e54ad00355fdae255aa11a2d03e1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-11T11:46:41-05:00",
+  "timestamp": 1462985201,
+  "message": "Final-flake8-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5879f8207fe005a485c09a3d8802493455ba16ac",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-10T16:40:46-05:00",
+  "timestamp": 1462916446,
+  "message": "Flake8-formatting-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bcb812529eb62f1afad089dda02ea6cf6eb01cf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-19T12:28:50-05:00",
+  "timestamp": 1461086930,
+  "message": "Allow-multiple-license-symlinks",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6906911e85f5df504ef0a039ac510822eafc3643",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-05T11:00:55-05:00",
+  "timestamp": 1459872055,
+  "message": "Allow-license-files-to-use-different-symbols-for-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240c0643f214006ecf0321e3466fa3d5db7eb092",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-01T12:23:08-05:00",
+  "timestamp": 1459531388,
+  "message": "Add-NAG-Fortran-compiler-package",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,424 @@
+[{
+  "commit": "12224930552272d0d6686a606eca6be6c91dc8d4",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-15T13:49:31+02:00",
+  "timestamp": 1618487371,
+  "message": "Update-versions-of-several-dependencies-of-Spack-22990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76424c1a915dd1b0ebeb39c27819380c2b245ec1",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T13:57:20+02:00",
+  "timestamp": 1617278240,
+  "message": "sqlite-add-3.35.3-22697",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af988fc32de5d03dd13a74827e27904bedaa76e3",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-02-01T15:04:19+01:00",
+  "timestamp": 1612188259,
+  "message": "sqlite-add-v3.32.03-21417",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d1c4e4b5d17d3efb83b21394b2eb975fadc5e4a",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-24T23:47:17+01:00",
+  "timestamp": 1608850037,
+  "message": "sqlite-add-3.34.0-20354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc3b4657ceaf548a10cecdab6db66534ebebf3ec",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-08-21T00:17:02+02:00",
+  "timestamp": 1597961822,
+  "message": "sqlite-Add-3.33.0-18145",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a24a12f22917558d7b99148a011460e7b5507f54",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:12:51+02:00",
+  "timestamp": 1588277571,
+  "message": "sqlite-Add-3.31.1-16404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c45c44738049e062916f9df38eb41ff9c1594e3",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2020-03-20T15:26:41-04:00",
+  "timestamp": 1584732401,
+  "message": "Add-version-5.8-and-fix-sqlite-column_metadata-mismatch.-15450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f752d48802bc0891c1db7615e054b77a8aa6579",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-10-26T00:33:47+02:00",
+  "timestamp": 1572042827,
+  "message": "sqlite-package-add-version-3.30.1-13438",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f904e47c4ec0cfe55539ab99fd627355cdb2cd3f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:06:44-05:00",
+  "timestamp": 1570727204,
+  "message": "Add-sqlite-3.30.0-13098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec11574a02608951c168a53d7d32eb7002f7ea16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-18T14:36:41-05:00",
+  "timestamp": 1568835401,
+  "message": "Add-SQLite-3.29.0-12862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b95b4bb9e0ccc27b99e8c5bab54175563c6128ba",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-09-12T13:31:03-07:00",
+  "timestamp": 1568320263,
+  "message": "add-compilation-option-to-sqlite-12794",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a60be51549ad385c077e21c96b3912a2fe60d9a",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-08-31T12:12:20-07:00",
+  "timestamp": 1567278740,
+  "message": "add-variant-for-building-RTREE-module-12668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7467a46c2ca5eb84f035381553bcdd0c1e793207",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-05-10T12:58:24-05:00",
+  "timestamp": 1557511104,
+  "message": "sqlite-add-versions-restore-old-versions-variant-resolves-security-issues.-11336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84c547cf6e2e136e206e6a0bd477230fd5ade134",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-12-20T00:07:03+01:00",
+  "timestamp": 1545260823,
+  "message": "sqlite-add-3.26.0-10138",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55f8dbbba0b1a8d81a1d605bf7b8966985f59ff6",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T17:50:54+01:00",
+  "timestamp": 1542127854,
+  "message": "sqlite-add-3.25.3-9756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c434d7d73c83710410141fce4afe2e6df7efa2",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-09-15T02:07:13+02:00",
+  "timestamp": 1536970033,
+  "message": "Build-Python-3.7-with-external-libffi.-9245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d3ad6ea7e3f62b371418e91f0afc59b7b73b456",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T18:34:29+02:00",
+  "timestamp": 1528389269,
+  "message": "add-sqlitebrowser-8418",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0d7e8ebd2ce837a609ce8ce4a882867fc3e0b3c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-20T15:05:11-05:00",
+  "timestamp": 1526846711,
+  "message": "Add-sqlite-3.23.1-8212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "642484caebcaa261c5db3ba2952a23f9af54c784",
+  "author": "mcneish1 <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-03-06T09:09:09-08:00",
+  "timestamp": 1520356149,
+  "message": "Add-sqlite-3.22.0-7335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "241ea772293f18c7c9f18b0fe7053c58e2ed3509",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-12-19T11:06:39-08:00",
+  "timestamp": 1513710399,
+  "message": "sqlite-package-apply-B0-patch-to-additional-versions-6728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f0659f03271872359c4db3c39d4c6ae05f0867a",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-11-23T16:04:41+01:00",
+  "timestamp": 1511449481,
+  "message": "New-version-and-patch-for-sqlite-.-6303",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "452f382293cffe6fbf134db13cb1420d11e93689",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-04T10:46:07-05:00",
+  "timestamp": 1501861567,
+  "message": "Add-a-QMakePackage-base-class-4925",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26a9793148fe419b2895fe325b63dbe66df74b29",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-05-04T04:43:28-07:00",
+  "timestamp": 1493898208,
+  "message": "patch-sqlite-to-work-around-macro-definition-4117",
+  "repo": "spack/spack"
+},
+{
+  "commit": "348e715da7dfab1964d18b5b999a99febe8d5414",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-26T14:59:03-05:00",
+  "timestamp": 1493236743,
+  "message": "Add-missing-readline-dependency-to-sqlite-4001",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3dff31b07bbb948a7648d95ba6c27b30e1892ca",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-19T14:15:21-07:00",
+  "timestamp": 1492636521,
+  "message": "Add-info-for-sqlite-3.18.0-3913",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e93c9060f545a9628ca14fd859194aca8359200b",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-10-16T01:31:23+02:00",
+  "timestamp": 1476574283,
+  "message": "fix-sqlite-download-url-2031",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dc11472bf2d74e4a89a940a60023ed8e91f7bc2",
+  "author": "James Wynne III <wynnejr@ornl.gov>",
+  "date": "2016-10-06T05:48:05-04:00",
+  "timestamp": 1475747285,
+  "message": "Sqlite-ppc64le-configure-build-guess-fix-1684",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7a3c7e555bfd93fbf93ec55608d7fc6aa8052f8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-08-03T12:57:09-07:00",
+  "timestamp": 1407095829,
+  "message": "Fix-up-Matt-s-openss-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7fbc77babea727ee7620c8dbe48fd91ac953ff2",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2014-08-01T15:50:43-07:00",
+  "timestamp": 1406933443,
+  "message": "Add-sqlite-to-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93e288859adc8e14ab9f7fde9d842f185f0d4954",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-06T14:14:57+01:00",
+  "timestamp": 1389014097,
+  "message": "Simpler-prefix-args",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0b82d291f4d8449a0ab856768b019b591514ea9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-04T14:44:16-08:00",
+  "timestamp": 1388875456,
+  "message": "Change-deps-on-mpich-to-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,248 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d7fc47672ccdbc8665ed4799bdc854ed35fb74c",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-18T00:41:08+01:00",
+  "timestamp": 1581982868,
+  "message": "Add-new-version-of-cairo-14941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08898a2ad7c4579ff9b0c08c4e97cde11c0d4601",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-12-26T14:20:16-08:00",
+  "timestamp": 1577398816,
+  "message": "patch-cairo-build-files-for-build-without-fontconfig-fixes-14112-14296",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd67868ef66fb72c937e9e9a0bbf00a193918643",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-12-10T18:58:37+01:00",
+  "timestamp": 1576000717,
+  "message": "More-variants-for-cairo-14092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e891cc49d5bc4a9db9fd3674c178fcb23b846e49",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-27T01:29:50-07:00",
+  "timestamp": 1566894590,
+  "message": "cairo-add-gobject-variant-12568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8c650b9c41421e1eda79caeedcdd68dcfb77171",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-12-18T09:39:36-06:00",
+  "timestamp": 1545147576,
+  "message": "Add-pdf-variant-to-cairo-10135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfdbadf2bb54b949d6fe822b27886ec65f9420bc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-12-14T10:46:52-06:00",
+  "timestamp": 1544806012,
+  "message": "Add-latest-version-of-cairo-10102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a7525064d4d31bd830835d42d81c5724c2c4b4a",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-10T18:02:07+01:00",
+  "timestamp": 1515603727,
+  "message": "Updated-i3-dependencies.-6885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0932b16d4ef905508630d5c11d3719b3b08d1b2a",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-24T07:43:22+10:00",
+  "timestamp": 1495575802,
+  "message": "cairo-ensure-that-X-support-is-disabled-for-variant-X-4242",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58567a218273885577a373e6aa8284847203e7d4",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-27T09:04:26-07:00",
+  "timestamp": 1493309066,
+  "message": "Adjustments-to-get-gtkplus-to-build-3208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e340f275b81beebd25df2aec368a11c4370abe64",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-12-22T00:03:28+01:00",
+  "timestamp": 1482361408,
+  "message": "Update-cairo-to-1.14.8-gtkplus-to-2.24.31-and-pango-to-1.40.3-2642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ab69c4d322d541cf33d3ca32d48eb1e3ac74970",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-11-30T13:49:49-08:00",
+  "timestamp": 1480542589,
+  "message": "Update-R-friends-to-use-our-X11-libs-2053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee6eb508cbaf6e34643bec8fd2759149b48b92cc",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-11-04T12:12:37-07:00",
+  "timestamp": 1478286757,
+  "message": "patch-older-config.guess-for-newer-architectures-2221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f182590aae0ec228eab44b99f5f0aceccda88084",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-15T15:17:53-07:00",
+  "timestamp": 1471299473,
+  "message": "added-pkg-config-to-build-deps-of-cairo-and-pixman",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f3954c1bdc329f2cb09e5e5baa140419222df8f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T20:21:10-07:00",
+  "timestamp": 1466479270,
+  "message": "flake-8-fixes-for-cairo-freetype-and-harfbuzz",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4041f45b6c387ab07c3e9681d5b3423eb31739a2",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T16:17:07-07:00",
+  "timestamp": 1466464627,
+  "message": "fixed-conflicts-in-python-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7b4faff96dbc4d1559fd06d1e9f1327590f1cc7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-01-18T03:01:46-08:00",
+  "timestamp": 1453114906,
+  "message": "disable-cairo-trace-which-is-incompatible-with-older-libiberty.h",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,880 @@
+[{
+  "commit": "9b5df573c09289515243a520799d9b8c12c3c35b",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2021-03-20T20:41:04+09:00",
+  "timestamp": 1616240464,
+  "message": "openblas-add-v0.3.14-22371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5103b69149f7bcc4ce83a620939b06e44cb6434",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2021-03-17T23:21:58-04:00",
+  "timestamp": 1616037718,
+  "message": "openblas-fix-older-versions-22358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b2a54952c083dbb1f6ea45827adbd83d023fbbb",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2021-03-13T06:00:15-05:00",
+  "timestamp": 1615633215,
+  "message": "openblas-prevent-microarch-flags-for-generic-targets-22270",
+  "repo": "spack/spack"
+},
+{
+  "commit": "edeb6c52f0fbb496e62ccef57637fdaab9222b54",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-02-27T13:06:29+01:00",
+  "timestamp": 1614427589,
+  "message": "Openblas-add-experimental-BIGNUMA-flag-21393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf6aeace42aebb0c1c0c69e37d410ea19294028f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-25T13:38:15+01:00",
+  "timestamp": 1614256695,
+  "message": "openblas-add-perl-as-a-build-dependency-21908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcc370102f4ce254d32d7305c96679eaeee5371e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-23T00:16:02-08:00",
+  "timestamp": 1614068162,
+  "message": "openblas-add-locking-variant-updated-blaspp-21770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1dc161095a0bb401ad254e3fa0be8acc974faac5",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-17T18:34:54-08:00",
+  "timestamp": 1613615694,
+  "message": "openblas-0.13.3-cannot-be-built-with-gcc-10.2-on-power-21711",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b802e75274af6306c69a7d11ae52669009d60232",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-02-10T02:53:09+09:00",
+  "timestamp": 1612893189,
+  "message": "penblas-fix-link-error-in-dependent-packages.-21561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ef3fb943437d624b9b9744b152a4f9ccc1cd221",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2020-12-25T08:05:01+09:00",
+  "timestamp": 1608851101,
+  "message": "Fixed-for-merging-patches-for-Fujitsu-compiler-in-version-0.3.13-20539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f8c9b34a9b106ef9cef69f5d058367a75ff1541",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-17T17:01:49+01:00",
+  "timestamp": 1608220909,
+  "message": "openblas-added-v0.3.13-20357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "535acdcdb15b2066903e09efc20bc94021319fbb",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-11-30T16:09:37-08:00",
+  "timestamp": 1606781377,
+  "message": "OpenBLAS-More-Precise-GCC-Conflicts-20101",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2801a1384f6af3afd84a4db984f36ffa06554fe",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-18T20:52:31-08:00",
+  "timestamp": 1605761551,
+  "message": "openblas-0.3.11-conflicts-with-gcc-less-than-8.3.0-19975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6b001927130d3a731cb2477a1b25fc8f2e0542d",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-11-14T20:29:30+09:00",
+  "timestamp": 1605353370,
+  "message": "openblas-fix-to-build-v0.3.11-or-later-with-Fujitsu-compiler.-19853",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e2f27141c90e5373e9a25fcfcc1994b1d093ded",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-11-10T07:33:54+09:00",
+  "timestamp": 1604961234,
+  "message": "openblas-Add-versions-0.3.11-and-0.3.12-19811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbc7cefcf76b05e3af4c0b01a403449b1675433f",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-06T19:11:13-08:00",
+  "timestamp": 1604718673,
+  "message": "make-TIMER-compatible-with-LLVM-F18-19765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9644332a13d68957a74bb8163335a2b13dd2ab93",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2020-10-02T22:57:46+02:00",
+  "timestamp": 1601672266,
+  "message": "openblas-patch-to-build-with-apple-clang-12.0.0-19057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5ec89ad5b89d4ef3e68d65f0b52ced7994f1da8",
+  "author": "Gilles Gouaillardet <ggouaillardet@users.noreply.github.com>",
+  "date": "2020-07-06T05:14:36+09:00",
+  "timestamp": 1593980076,
+  "message": "openblas-fix-fj-compiler-support-in-0.3.10-17376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7717532d141522877347cf8d3037276f7bca85f1",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-06-24T22:12:48-05:00",
+  "timestamp": 1593054768,
+  "message": "The-lapack-0.3.9-xerbl-patch-is-no-longer-needed-17217",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e8fc7871da15ee8050950d5cf436e0cca338b7a6",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-06-16T13:22:48+09:00",
+  "timestamp": 1592281368,
+  "message": "openblas-added-v0.3.10.-17086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7be7d672b788f807ec9ca8fdead07538806236a3",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-05-05T11:45:01-07:00",
+  "timestamp": 1588704301,
+  "message": "OpenBLAS-Fix-LLVM-9.0.0-ICE-on-macOS-16471",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ac06ece3d6a1cb700d7f2dd2da58a3f7f995233",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-03-10T17:40:03-04:00",
+  "timestamp": 1583876403,
+  "message": "Fix-OpenBLAS-0.2-build-0.38-Intel-builds-and-variant-name-15419",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1db1ae68872234637722568b1976d18e5f54a97f",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-03-03T02:58:54+09:00",
+  "timestamp": 1583171934,
+  "message": "openblas-Add-version-0.3.9.-15287",
+  "repo": "spack/spack"
+},
+{
+  "commit": "893f76da53f2ca53fc18f3a08e370b4dfd80ebb4",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-18T15:23:54-05:00",
+  "timestamp": 1582057434,
+  "message": "Fix-OpenBLAS-0.3.8-build-on-darwin-15041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fa29ceb504087c25fd85c16abc150831af29b4e",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-02-14T10:59:34+09:00",
+  "timestamp": 1581645574,
+  "message": "openblas-add-variant-consistentFPCSR-14876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d173579cb29ef1a96ad175a5f4b3d8593c4725c",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-02-10T18:35:29+09:00",
+  "timestamp": 1581327329,
+  "message": "openblas-added-v3.8.0-14875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca6e75c9f678ecf603354531cfec68ab4a121def",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-01-24T09:19:05-05:00",
+  "timestamp": 1579875545,
+  "message": "Use-Spack-target-architecture-to-determine-OpenBLAS-target-14380",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0cfc88c7d7458fd62408d92636c9c264f338364a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T17:06:30-05:00",
+  "timestamp": 1571609190,
+  "message": "openblas-http-https-13335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71cc29691b537e55120e92ab8081ace66de4a00f",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-09-25T15:15:23-05:00",
+  "timestamp": 1569442523,
+  "message": "openblas-fixed-a-query-to-target-family-12910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e08f5270045d1c17cca1809201d9e313f466768d",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-09-05T07:01:58+09:00",
+  "timestamp": 1567634518,
+  "message": "openblas-Add-route-to-f_check-for-Fujitsu-compiler.-11804",
+  "repo": "spack/spack"
+},
+{
+  "commit": "490168be4d4cb87ea9d80a2d77b4e9c4f0d18a8d",
+  "author": "Janne Blomqvist <blomqvist.janne@gmail.com>",
+  "date": "2019-08-12T22:43:04+03:00",
+  "timestamp": 1565638984,
+  "message": "openblas-fix-target-detection-for-cross-compiling-12390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "820b220b223ceb9bb4aa6f75d54d718b3eed24a8",
+  "author": "Janne Blomqvist <blomqvist.janne@gmail.com>",
+  "date": "2019-08-12T22:41:26+03:00",
+  "timestamp": 1565638886,
+  "message": "openblas-0.3.7-New-version-12391",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a83b4710c2d0f2ceebb3aebdc93c5f4659a662f",
+  "author": "Janne Blomqvist <blomqvist.janne@gmail.com>",
+  "date": "2019-05-07T21:36:39+03:00",
+  "timestamp": 1557254199,
+  "message": "Add-OpenBLAS-0.3.6-11375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fb6145f6f058776c26b5792a45ecdb5ee998464",
+  "author": "Janne Blomqvist <janne.blomqvist@aalto.fi>",
+  "date": "2019-02-26T14:09:21+02:00",
+  "timestamp": 1551182961,
+  "message": "OpenBLAS-Allow-enabling-disabling-AVX2-512-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "312122f1691ecfc18165b1ed04ac94b05a0bbf1e",
+  "author": "Janne Blomqvist <janne.blomqvist@aalto.fi>",
+  "date": "2019-02-25T14:14:47+02:00",
+  "timestamp": 1551096887,
+  "message": "Don-t-try-to-build-TARGET-PILEDRIVER-on-aarch64",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bc3936004ad37e384e2e4315cf0f76058f3c161",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-16T15:11:08+01:00",
+  "timestamp": 1547647868,
+  "message": "Openblas-added-version-0.3.5-10364",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5434a2507692bb34d89b677905e98482dcfd645b",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-12-05T08:41:58-06:00",
+  "timestamp": 1544020918,
+  "message": "openblas-add-version-0.3.4-10016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84bc1d6654760e7a58d15cff15b98baf51adb483",
+  "author": "Tiziano Müller <tm@dev-zero.ch>",
+  "date": "2018-11-20T18:23:01+01:00",
+  "timestamp": 1542734581,
+  "message": "CP2K-related-fixes-and-update-9308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "605dc8bf85d5e4d60bfabdd05e9b12dfebeb7a65",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-11-14T19:35:42-08:00",
+  "timestamp": 1542252942,
+  "message": "openblas-add-headers-property-9831",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2914644b30f3ab5d1a29125ac566e10d66a7fd27",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-11T03:58:47+02:00",
+  "timestamp": 1539223127,
+  "message": "openblas-patch-experimental-USE_TLS-makefile-option-for-0.3.3-9474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bdfa19d974950b1b65cbe7f6bb5ae1d2aab5f16",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-09-03T18:49:45-07:00",
+  "timestamp": 1536025785,
+  "message": "openblas-add-0.3.1-patch-CMake-export-bug-in-0.3.1-0.3.2-9123",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d54a91fd2b50fe459bebdcc4deaf4e29df92c074",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-31T11:14:37-07:00",
+  "timestamp": 1535739277,
+  "message": "openblas-0.3.3-new-version-9143",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e793f29173f21209005832f563f455bac820fce3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-01T17:14:48-07:00",
+  "timestamp": 1533168888,
+  "message": "openblas-add-version-0.3.2-8833",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aab5488154c819c8db841f08a5e7906c5ccb359d",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2018-07-03T14:25:12-07:00",
+  "timestamp": 1530653112,
+  "message": "disable-openblas-intel-openmp-patch-for-versions-0.2.20-fixed-upstream-8638",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5fcd62891b4e4c54e805704fd6b2c9c9a707c95",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-14T20:43:05+02:00",
+  "timestamp": 1529001785,
+  "message": "openblas-add-0.3.0-8478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cde5fdde20970d3cd29c55300bff77e68faec120",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-11-24T07:15:01+01:00",
+  "timestamp": 1511504101,
+  "message": "Openblas-needs-FC-not-F77-6435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a2b3b2588a97655ca76efc20b7f10b0777800de",
+  "author": "Ondřej Čertík <ondrej@certik.us>",
+  "date": "2017-11-23T07:28:35-07:00",
+  "timestamp": 1511447315,
+  "message": "Add-a-patch-for-Intel-18.0.1-6392",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2eb7fabe622c71d6848b9b04b3ee82ba02b9c54c",
+  "author": "Benedikt Riedel <benedikt.riedel@gmail.com>",
+  "date": "2017-11-15T12:32:02-06:00",
+  "timestamp": 1510770722,
+  "message": "Allow-openblas-to-build-on-a-VM-6258",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd79094b05172cfcd2b594326eb22bf8e3c83cd",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-23T14:23:00+02:00",
+  "timestamp": 1508761380,
+  "message": "remove-wildcards-from-make-spack-core-and-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22ef8efce9b7d4d8cbadf3a8fa0d496fc4a876b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-13T12:10:05+02:00",
+  "timestamp": 1507889405,
+  "message": "openblas-remove-extra-develop-version-5750",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd185b8146e0c2bc83ec113e16c81e41279cddab",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-10-12T19:23:38-07:00",
+  "timestamp": 1507861418,
+  "message": "Lbann-flags-5747",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f84de52a08719d1bdc3f75d9f02a5a897264e22",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-23T22:27:42+02:00",
+  "timestamp": 1506198462,
+  "message": "blas_lapack-add-multithreading-variant-consistent-in-all-implementations.-5340",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bce26745e30386ef9a2aa71a8c99ee9d353843ed",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-09-21T21:28:24+02:00",
+  "timestamp": 1506022104,
+  "message": "Add-cpu_target-variant-to-openblas-5090",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c24370512ec6a0bc586f07acada6e7cb47f4015",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-12T08:40:28+02:00",
+  "timestamp": 1505198428,
+  "message": "openblas-add-ilp64-option-5289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b517916254ec1a6a4f6e09de3e861145c17d8a1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-08-15T14:57:11-07:00",
+  "timestamp": 1502834231,
+  "message": "Openblas-clang-fix-5065",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41361cffea619c80300af0a371f3c682548b3771",
+  "author": "Jia Li <lijia1608@gmail.com>",
+  "date": "2017-08-05T13:56:04-04:00",
+  "timestamp": 1501955764,
+  "message": "Fixed-OpenBLAS-compilation-error-on-POWER8-with-GCC-7.-4783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8dfb6a4866179629b03b2c8796b69ef18ae45df",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-08-04T16:34:58+02:00",
+  "timestamp": 1501857298,
+  "message": "OpenBLAS-one-of-the-patches-is-not-needed-starting-version-0.2.20.-4971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddc1dcd084458ad6bd470b4ba6b30dc380d9ddb8",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-07-27T15:51:39+02:00",
+  "timestamp": 1501163499,
+  "message": "openblas-add-0.2.20-4915",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9a780562610e32b854c94864d4736252261759e",
+  "author": "Diana Bite <diana.bite@arm.com>",
+  "date": "2017-06-15T12:38:24+01:00",
+  "timestamp": 1497526704,
+  "message": "openblas-Fix-build-on-aarch64.-4487",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f9acfa3b28d9a0acaada37ba61090a6b34bf879",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-04-28T12:54:59-07:00",
+  "timestamp": 1493409299,
+  "message": "Various-patches-to-Openblas-for-Intel-4030",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46d0ca9d01c6d6e2a67dacf528b7cc306d5bb815",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T12:15:39-05:00",
+  "timestamp": 1492794939,
+  "message": "Ensure-that-tests-are-optional-3922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ed18de8365f6e951938dc686392aaf7be3e621c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-17T16:16:18+02:00",
+  "timestamp": 1492438578,
+  "message": "opneblas-fix-compilation-with-clang-3862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffef681377a2140040b4d65a991b9f75e56f9252",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-02T20:40:09+02:00",
+  "timestamp": 1491158409,
+  "message": "new-directive-conflicts-3125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8c58551ae0c41ba1f7d200f09b7384f9250aa46",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-28T16:14:12+03:00",
+  "timestamp": 1490706852,
+  "message": "openblas-raise-an-error-when-using-unsupported-Apple-clang-3577",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55e1550a59cc2d354723b0c85aba6350c400d90c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-05T13:29:02-05:00",
+  "timestamp": 1488738542,
+  "message": "openblas-Run-tests-only-when-requested-3370",
+  "repo": "spack/spack"
+},
+{
+  "commit": "003e841016fdb0a0ddc1334cc519ea62b1c9d392",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-04T02:30:35+01:00",
+  "timestamp": 1488591035,
+  "message": "openblas-fix-flags-3344",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "031cde6e25e2b48035b61c95f9b2e4c92183fb30",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-02-21T00:40:46+01:00",
+  "timestamp": 1487634046,
+  "message": "openblas-add-develop-version-to-make-it-work-with-Kabylake-CPUs-3192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1de2c5393585c698a9ba0223228891c247992caa",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-02-18T04:03:43+08:00",
+  "timestamp": 1487361823,
+  "message": "Patch-openblas-Makefile-only-when-version-0.2.16.-3170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc866ae0fe960abf723d5f89c2ae6c6baaa3ce5e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-25T16:57:01+01:00",
+  "timestamp": 1485359821,
+  "message": "build-systems-simpler-clearer-decorators-run_after-run_before-2860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "592df25aefc3a57f8a77a4e75d1f9c3eb957d5ab",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-12-17T17:04:59-08:00",
+  "timestamp": 1482023099,
+  "message": "build-fixes-for-openblas-2601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87c9b010336e524ce6a1164cbb469d1a0d8808b5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-15T19:15:52+01:00",
+  "timestamp": 1481825752,
+  "message": "openblas-derives-from-MakefilePackage-2488",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3de26ff3d7aebc8a2529d58ee9a3fa1c0f6cde3a",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-10-25T13:12:22-05:00",
+  "timestamp": 1477419142,
+  "message": "openblas-Fixes-to-get-OpenBLAS-to-install-with-Intel-compilers-2101",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e490050f6dfb0f9e5253e83fcf640d605dd83f7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:13:25-04:00",
+  "timestamp": 1474362805,
+  "message": "Update-OpenBLAS-to-0.2.19-1702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cc04cff27273bdad8962f2edd854f1d18481545",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-19T11:59:10+02:00",
+  "timestamp": 1466330350,
+  "message": "openblas-raise-an-error-without-Fortran-compiler",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8db35ab9a282c2a609afc846abb76f4bd22b836e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-13T10:10:38+02:00",
+  "timestamp": 1463127038,
+  "message": "openblas-use-spack_cc-spack_f77-and-add-a-note-on-compiler-mixing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eba264fcd0701b2172dc39d2616cb2f90b4d8578",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-11T15:45:57+02:00",
+  "timestamp": 1462974357,
+  "message": "fix-formatting",
+  "repo": "spack/spack"
+},
+{
+  "commit": "809ded74c99ac6883bc5b5e4c7a2da887131360c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-11T15:02:14+02:00",
+  "timestamp": 1462971734,
+  "message": "add-functions-for-simple-unit-tests-refactor-openblas-to-use-them",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b063ab42bff9a3382a6c79663d41d13a0c028c50",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-27T11:57:48+02:00",
+  "timestamp": 1461751068,
+  "message": "openblas-fix-and-cleanup-the-unit-test",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72b91758c9537009de967cfe560c2a510b9c2795",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-20T10:06:49+02:00",
+  "timestamp": 1461139609,
+  "message": "openblas-raise-an-error-when-using-openmp-with-clang-set-openmp-to-false-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40d578be958b7bc0269f2f6f92cc2b6e70a43353",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-05-03T10:38:05-04:00",
+  "timestamp": 1462286285,
+  "message": "Disable-OpenBLAS-s-overriding-of-our-make-jN-option",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71ca837adad0e8c8149bdfd5be602ac7cc27c9a5",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-27T20:35:29-04:00",
+  "timestamp": 1461803729,
+  "message": "Add-fpic-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee6a75c9b5bb072ef852b2fae80e2dc1f3944d53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-27T18:43:16-04:00",
+  "timestamp": 1461796996,
+  "message": "Added-missing-lpthread-to-OpenBLAS-check",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd37959899d03fc33d59f725dbad4fe33b579725",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-25T16:21:19+02:00",
+  "timestamp": 1461594079,
+  "message": "output-with-new-lines",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b81cb554f505c4075b9df79ab3db08be3d3b9e36",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-25T09:57:48+02:00",
+  "timestamp": 1461571068,
+  "message": "openblas-a-small-unit-test-to-make-sure-Lapack-symbols-are-compiled",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb6c6fb3747aafbfb0fe81803eacf2807dde301f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-11T16:28:30-05:00",
+  "timestamp": 1460410110,
+  "message": "Add-elk-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b3c7b8afa40bd30e8bd54be12f5377ccd448c47",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-06T10:55:59+02:00",
+  "timestamp": 1459932959,
+  "message": "openblas-provide-basename-of-compilers-to-avoid-issues-with-detection-of-Fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66bb71534b3ab7eaf7b27743efc0ecf9763e4982",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-26T20:02:08-07:00",
+  "timestamp": 1459047728,
+  "message": "Better-blas-lapack-and-scipy-packages-more-robust-added-shared-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e5dfc8b18ed30e261fe6b6dd014c8991937934d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-23T19:40:16+01:00",
+  "timestamp": 1458758416,
+  "message": "fix-missing-depricated-_dggsvd_-and-_sggsvd_-in-Openblas-0.2.16",
+  "repo": "spack/spack"
+},
+{
+  "commit": "620c120503c8c23d10feb14e14d37dfc36f4befb",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-19T19:32:44+01:00",
+  "timestamp": 1458412364,
+  "message": "fix-openblas-suffix-for-OS-X",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b279cd7ff29e09ef9afa1a328b964487b5b2030",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-17T13:55:45-04:00",
+  "timestamp": 1458237345,
+  "message": "Update-OpenBLAS-to-0.2.16",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70985170e5f248d0d6a1b6245bd5581185ecaa64",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-12T12:08:31+01:00",
+  "timestamp": 1455275311,
+  "message": "qe-compiled-on-rhle6",
+  "repo": "spack/spack"
+}]

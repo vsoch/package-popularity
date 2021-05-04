@@ -1,0 +1,232 @@
+[{
+  "commit": "da69f6eda83e03290d0a7d6c5435f1f9cbc25286",
+  "author": "Asher Mancinelli <asher.mancinelli@pnnl.gov>",
+  "date": "2021-03-05T12:32:11-07:00",
+  "timestamp": 1614972731,
+  "message": "Added-support-for-disabling-mumps-in-ipopt-21592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "104eee7a7e7111cf66c56f67014c98d05496b9be",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-10-19T05:59:18+02:00",
+  "timestamp": 1603079958,
+  "message": "Revert-ipopt-Add-condition-for-aarch64-to-Ipopt-config.guess-13499-19341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f574aad5e89be222fbee0dff72f685f87f165c",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-11-01T02:38:23+09:00",
+  "timestamp": 1572543503,
+  "message": "ipopt-Add-condition-for-aarch64-to-Ipopt-config.guess-13499",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca0d9ae7f024806a93295af19ec37aa491cdaac0",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2018-10-09T15:18:31-07:00",
+  "timestamp": 1539123511,
+  "message": "Make-builtin-flag-handlers-available-in-package-scope-8668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69a9a3291af5889e50c0300622da39601eb11a63",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-09-14T15:53:25-07:00",
+  "timestamp": 1536965605,
+  "message": "ipopt-add-debug-variant-9223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7a8b47e74b13b0c8775258d5aef974477dd3402",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-29T01:58:05-07:00",
+  "timestamp": 1535533085,
+  "message": "ipopt-3.12.10-new-version-9120",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8766daf9de5b9879fca32aedac849d446fe1000e",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-02-13T23:40:47-08:00",
+  "timestamp": 1518594047,
+  "message": "ipopt-fix-lmod-global-name-prefix-undefined-bug-7224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b83936a1f9fc0b3225bd899317df6047b7b64d2b",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-20T10:11:18-08:00",
+  "timestamp": 1516471878,
+  "message": "ipopt-add-version-3.12.9-6982",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9704369f171b421add4d9bc89ea3031225b3ab78",
+  "author": "junkudo <junkudo18@gmail.com>",
+  "date": "2018-01-18T10:39:08-08:00",
+  "timestamp": 1516300748,
+  "message": "ipopt-package-set-compiler-flags-in-configure-6714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48b127a2253142801d9fcb7c1ffdef24d8790d34",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-15T07:31:50-08:00",
+  "timestamp": 1516030310,
+  "message": "ipopt-add-version-3.12.8-relax-metis-version-requirements-6936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb87edf230c80fa1e0fc54027d0773f6a4d0b270",
+  "author": "Jonathan Wong <jonwong12@users.noreply.github.com>",
+  "date": "2017-06-21T04:47:06-07:00",
+  "timestamp": 1498045626,
+  "message": "Modified-ipopt-package-to-support-build-on-ppc64le-4561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3025f9d30305c8af38288f8329081a7c2f713ac8",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2017-06-13T18:09:12-07:00",
+  "timestamp": 1497402552,
+  "message": "ipopt-3.12.7-4490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b32e008ec26e927fdf4fc712f100bfb1d614b98",
+  "author": "futuretristan <tristan.schloegl@fau.de>",
+  "date": "2017-04-26T10:42:48+02:00",
+  "timestamp": 1493196168,
+  "message": "ipopt-fix-build-with-Linux-clang-3995",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "edf6e9ceacab9aa2d8795340089182ead07c30b3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-03-31T15:25:32-07:00",
+  "timestamp": 1459463132,
+  "message": "Add-ipopt-v3.12.4-package",
+  "repo": "spack/spack"
+}]

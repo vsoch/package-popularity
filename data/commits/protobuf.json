@@ -1,0 +1,304 @@
+[{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66d4bc3f3c14f7c21de2a8c6907366944c054d2a",
+  "author": "figroc <figroc@gmail.com>",
+  "date": "2020-07-06T04:22:31+08:00",
+  "timestamp": 1593980551,
+  "message": "protobuf-add-versions-17381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "096bd69a949225590feeaeaf16545d673c4cee6d",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-25T12:34:09-05:00",
+  "timestamp": 1593106449,
+  "message": "prevent-multiple-version-sigils-in-the-same-spec-17246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5ac168f31dd8a552634b9197da484cadd214397",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-06-07T04:47:30+08:00",
+  "timestamp": 1591476450,
+  "message": "protobuf-support-aarch64-2.5.0-16862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f83d98a62d0100b8f9b510d7e7b58af81d63af0a",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-03-03T09:27:01-08:00",
+  "timestamp": 1583256421,
+  "message": "Protobuf-s-cmake-environment-does-not-properly-handle-being-exported-15293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90f3635afd5d4079631460535bcd8213945b0349",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-02-12T16:21:43-05:00",
+  "timestamp": 1581542503,
+  "message": "protobuf-Fix-intel-compiler-failures.-14916",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94bc6b06b1e5cc8746271d761d7ff007a394d592",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-01-16T15:02:50-08:00",
+  "timestamp": 1579215770,
+  "message": "Added-new-hashes-for-the-protobuf-and-py-protobuf-packates.-14546",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e12a738d84e8a48d37722b9638f888eb3bdbd332",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-02T15:58:46-05:00",
+  "timestamp": 1572728326,
+  "message": "Add-latest-version-of-protobuf-13551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92040a475f4b43f9cb0ab63f813ac10605aeee35",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-05-14T14:20:00-07:00",
+  "timestamp": 1557868800,
+  "message": "LBANN-add-support-for-new-python-front-end-11395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b64047e07ccd8a0b97168603d406c97c5eea4f7",
+  "author": "Leonhard Reichenbach <Zehvogel@users.noreply.github.com>",
+  "date": "2018-11-15T16:59:04+01:00",
+  "timestamp": 1542297544,
+  "message": "Updated-protobuf-and-py-protobuf-to-version-3.6.1-9536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cadf9242ba6a5385055775a28bc1bf05c15230fa",
+  "author": "mcneish1 <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-05-09T18:52:39-07:00",
+  "timestamp": 1525917159,
+  "message": "Add-3.5.2-Add-optional-cpp-implementation-enable-for-py-protobuf-8069",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc0f683e64e50aeac2ba6bc0a6d3ae3dc17ac949",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-31T10:39:53-07:00",
+  "timestamp": 1517420393,
+  "message": "Protobuf-fix-7110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bc5916b684d6d9a45961f935ce19d2e1e0c2a87",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-25T13:14:48-07:00",
+  "timestamp": 1516911288,
+  "message": "Protobuf-package-allow-building-shared-library-7067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45188d6d9673706506fc56aabf72bb87a9ed7853",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-04T08:48:22-07:00",
+  "timestamp": 1515080902,
+  "message": "Protobuf-intel-patch-5233",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28dd6b378cdf5859e0ab7980b0e57ede6e3227db",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-09-25T19:47:55+02:00",
+  "timestamp": 1506361675,
+  "message": "Fix-Protobuf-URLs-5373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99cefcc955a0f25855ac65576765a958be2a2e02",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-09-24T14:12:35-07:00",
+  "timestamp": 1506287555,
+  "message": "New-version-for-mosh1.3.2-5448",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd8ac0a738ba46f773722230a1943feb33197bbb",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-21T14:29:47+02:00",
+  "timestamp": 1503318587,
+  "message": "Protobuf-3.4-5177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "269925f77539436045d8a1c2a7d8325d3e8d8c7f",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-02T15:03:31+02:00",
+  "timestamp": 1501679011,
+  "message": "Protobuf-CMake-4846",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00fdbe81bcf322f93e90537bbe0b6bcf31863bf1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-04-24T11:32:27-07:00",
+  "timestamp": 1493058747,
+  "message": "Caffe-3948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ad6754c1a92b8205e4d5b9ba71303307988c8ed",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-04-08T02:11:22+08:00",
+  "timestamp": 1491588682,
+  "message": "Add-the-shared-variant-for-protobuf.-3703",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70372ddcd79773a88dad09e6c2678655ec37bd89",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-04-05T20:59:18+08:00",
+  "timestamp": 1491397158,
+  "message": "Add-versions-3.2.0-3.1.0-for-protobuf.-3698",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88e9bb586e85e1793f1b42d4c99883d638358c53",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-02-07T10:05:02-08:00",
+  "timestamp": 1486490702,
+  "message": "Added-a-new-version-of-the-Google-protobuf-to-the-spack-package.-3046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4e22ed17ec92a7be2895070e1d720ba4afb3dcb",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2015-09-21T16:19:50-07:00",
+  "timestamp": 1442877590,
+  "message": "add-protobuf-package",
+  "repo": "spack/spack"
+}]

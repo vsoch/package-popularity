@@ -1,0 +1,40 @@
+[{
+  "commit": "c7306db0617909e099f1c743e83eb2bc1454abdb",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-02T17:57:46+01:00",
+  "timestamp": 1614704266,
+  "message": "geant4-data-Add-version-10.7.1-22044",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0dd628d0d3bb2bb923e774d60c61487849814bdc",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-12-04T18:22:47+00:00",
+  "timestamp": 1607106167,
+  "message": "geant4-geant4-data-versions-10.6.3-and-10.7.0-20250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77e13849026b9b177c27fcaefd134dd32e4329e4",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-03-31T09:54:31+01:00",
+  "timestamp": 1585644871,
+  "message": "geant4-new-version-10.6-plus-simplifications-15447",
+  "repo": "spack/spack"
+}]

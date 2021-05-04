@@ -1,0 +1,48 @@
+[{
+  "commit": "1e70ee38a25d0203664b3f2acf9a977dfdeef8dc",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-04-01T17:06:03+02:00",
+  "timestamp": 1617289563,
+  "message": "New-version-of-OpenLoops-22240",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9aac3e221b847a7db231628a0c3cfe707046a85",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-11-19T13:49:04+09:00",
+  "timestamp": 1605761344,
+  "message": "openloops-Fix-for-aarch64-19965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be068038048808c206e20b2a4d4ee41e0345f9d9",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-25T00:25:57+02:00",
+  "timestamp": 1595629557,
+  "message": "WHIZARD-package-add-LCIO-dependency-Openloops-support-17658",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae44b1d7b90cc1c49ddab1e9d913e3b90fc4b2f1",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-07-16T15:33:23+02:00",
+  "timestamp": 1594906403,
+  "message": "New-package-openloops-17520",
+  "repo": "spack/spack"
+}]

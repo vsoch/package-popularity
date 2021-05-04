@@ -1,0 +1,40 @@
+[{
+  "commit": "03756583c36d0fd49d0fa753e955098019ae5942",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-05T18:07:02+09:00",
+  "timestamp": 1614935222,
+  "message": "py-python-ldap-add-link-dependency-on-cyrus-sasl-22105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d20e3517c20633534e0d358de1e400b5f8d8a4ec",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-10-01T18:59:53-07:00",
+  "timestamp": 1569981593,
+  "message": "new-package-py-python-ldap-12599",
+  "repo": "spack/spack"
+}]

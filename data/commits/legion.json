@@ -1,0 +1,208 @@
+[{
+  "commit": "24c87e07b5b50099bd2b6fc4ad74e1f27aaa1732",
+  "author": "Pat McCormick <651611+pmccormick@users.noreply.github.com>",
+  "date": "2021-04-27T17:51:48-06:00",
+  "timestamp": 1619567508,
+  "message": "Legion-package-overhaul-23252",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22b56e75c4de22695f61bf09023bdccc71872efa",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-12-27T23:22:46-07:00",
+  "timestamp": 1609136566,
+  "message": "legion-add-streichler-as-maintainer-20575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ca6d1f0f77cc6002792e8343832818dd809aa7f",
+  "author": "Ben Bergen <bergen@lanl.gov>",
+  "date": "2020-07-22T11:41:20-06:00",
+  "timestamp": 1595439680,
+  "message": "Added-variant-to-enable-Legion-SPY-logging.-17637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "623cc7427e1833e4b506bf6ffd0049f28271887f",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-05-28T14:58:55-06:00",
+  "timestamp": 1590699535,
+  "message": "legion-add-v20.03.0-16848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "656d1ac5ab133b00834ef29b5614d5fb937bf020",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-05T16:28:35-06:00",
+  "timestamp": 1583447315,
+  "message": "Update-legion-versions-15364",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b3f5f3890025494ffa620d144d22a4734c8fcee",
+  "author": "ktsai7 <35276356+ktsai7@users.noreply.github.com>",
+  "date": "2020-02-24T12:22:25-07:00",
+  "timestamp": 1582572145,
+  "message": "update-flecsi-and-legion-package.py-15159",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb0667ceaf3311630e8e1fae024660e22b2749f7",
+  "author": "ktsai7 <35276356+ktsai7@users.noreply.github.com>",
+  "date": "2019-11-18T23:51:41-07:00",
+  "timestamp": 1574146301,
+  "message": "add-more-legion-version-and-expose-more-flecsi-options-13741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96ba5a126569333488dc1de320d133d079a1d9f7",
+  "author": "ktsai7 <35276356+ktsai7@users.noreply.github.com>",
+  "date": "2019-09-12T13:46:37-06:00",
+  "timestamp": 1568317597,
+  "message": "Update-legion-gasnet-config-12523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8922c1f666731fb2dfd4d0643a23e0a38f45d1b9",
+  "author": "Ben Bergen <bergen@lanl.gov>",
+  "date": "2019-08-01T10:33:29-06:00",
+  "timestamp": 1564677209,
+  "message": "Add-HDF5-variant-to-Legion-package-12221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f2e364fa1aa573579916aa4f3acd4c020e18358",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-06-29T07:12:24-06:00",
+  "timestamp": 1561813944,
+  "message": "legion-added-recent-releases-11889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d48226b260172e2f646f1d81cb51ed213ac785a9",
+  "author": "ktsai7 <35276356+ktsai7@users.noreply.github.com>",
+  "date": "2019-06-28T09:39:59-06:00",
+  "timestamp": 1561736399,
+  "message": "Update-package.py-11872",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfd9ebaa92b141f82931d78ee72f2371d8f501e0",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-06-02T19:27:46-06:00",
+  "timestamp": 1527989266,
+  "message": "legion-version-bump-8352",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3f678c1c058a1c24b3851b3c2ded9edd8ae9f7b",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-11-08T19:43:13-07:00",
+  "timestamp": 1510195393,
+  "message": "gasnet-add-1.30.0-6167",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "167f7d0cddff820485efea878a04be62957411b9",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-28T12:09:39-06:00",
+  "timestamp": 1509214179,
+  "message": "legion-add-v17.10.0-6019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f62a4fe36f5cb24f947903a8e96760b10df0258",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-27T13:10:30-07:00",
+  "timestamp": 1493323830,
+  "message": "flecsi-add-mpi-interoperability-4000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54bfa888b96cb40c7be64c4b0f2e2459a543949a",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-25T10:06:05-07:00",
+  "timestamp": 1493139965,
+  "message": "legion-add-mpi-interoperability-and-shared-libs-3959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10ceed3b66f280336b37fe6da112ca1bf47c0ada",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-06T16:55:09-06:00",
+  "timestamp": 1491519309,
+  "message": "A-new-package-legion-3738",
+  "repo": "spack/spack"
+}]

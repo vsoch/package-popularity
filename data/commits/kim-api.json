@@ -1,0 +1,96 @@
+[{
+  "commit": "2a7f588612802f3f5e6cceb674f919beecd33eea",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-08T03:55:32-05:00",
+  "timestamp": 1617872132,
+  "message": "kim-api-support-the-NVIDIA-compiler-22857",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12378db0d8eec62fc9f7cfbadd4e1291d4da9bc4",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2020-12-17T10:44:33-06:00",
+  "timestamp": 1608223473,
+  "message": "kim-api-added-v2.2.1-20382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03a808ec2d1dc58d4b428631e9b4f911dc8e7c5a",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-09-08T00:47:55+09:00",
+  "timestamp": 1599493675,
+  "message": "kim-api-add-support-for-Fujitsu-compilers-18533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7737d623b02dc2ce112114632830f2a9609777b9",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-08-20T08:29:17-06:00",
+  "timestamp": 1566311357,
+  "message": "kim-api-added-version-2.1.3-12457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86ff5baed72dc119c372a0640245b561bd8ecfbf",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-07-31T02:13:13-05:00",
+  "timestamp": 1564557193,
+  "message": "kim-api-added-version-2.1.2-12189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12055acccc64d467609b19ae34f2fd6d2fb481c0",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-07-26T13:06:10-05:00",
+  "timestamp": 1564164370,
+  "message": "update-to-kim-api-2.1.1-and-openkim-models-2019-07-25-12137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f3048c8af43f8bf119a88f56391360ab42a957d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-17T16:23:23-05:00",
+  "timestamp": 1563398603,
+  "message": "Add-support-for-.txz-and-.tbz2-file-extensions-12048",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9b6c78d3af51fb37a8def237139132499866d97",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-07-17T12:11:34-05:00",
+  "timestamp": 1563383494,
+  "message": "kim-api-2.1.0-12041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c641f47cda7129007f997d3f3237116f207df90",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-04-02T19:44:24-05:00",
+  "timestamp": 1554252264,
+  "message": "kim-api-and-openkim-models-version-update-and-rename-11065",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39467e4d67643adfe03063441a337a4925eb179b",
+  "author": "Ryan S. Elliott <relliott@umn.edu>",
+  "date": "2019-03-06T17:23:05-08:00",
+  "timestamp": 1551921785,
+  "message": "Update-kim-api-package-and-add-openkim-models-v2-10780",
+  "repo": "spack/spack"
+}]

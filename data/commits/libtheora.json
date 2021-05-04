@@ -1,0 +1,48 @@
+[{
+  "commit": "5a9da90d072937e3daf3ea32194ef2c098101165",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2021-01-28T15:58:55-05:00",
+  "timestamp": 1611867535,
+  "message": "Use-utf8-for-latex-build.-21360",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89b94d968d9c66bfeb46f4f5b674bc7aea7e2b92",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-01-06T10:44:05+01:00",
+  "timestamp": 1609926245,
+  "message": "libtheora-fetch-a-patch-instead-of-storing-it-in-Spack-20620",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61f0f840d4c04113169de817a23ad60fb7c0dd40",
+  "author": "Howard Pritchard <howardp@lanl.gov>",
+  "date": "2020-12-04T02:12:44-07:00",
+  "timestamp": 1607073164,
+  "message": "libtheora-patch-for-png_sizeof-issue-20240",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d84c59c9a069ec68c7cd1f6326e1ae8ee82a1eb7",
+  "author": "Howard Pritchard <howardp@lanl.gov>",
+  "date": "2020-12-02T09:24:37-07:00",
+  "timestamp": 1606926277,
+  "message": "libtheora-patch-autogen.sh-to-avoid-20008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b01aea2cec88e93f1fd96db5ac8bf75c4afcaeb9",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-25T00:38:42+08:00",
+  "timestamp": 1600965522,
+  "message": "Add-new-package-libtheora-18928",
+  "repo": "spack/spack"
+}]

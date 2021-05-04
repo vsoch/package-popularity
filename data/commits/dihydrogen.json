@@ -1,0 +1,168 @@
+[{
+  "commit": "fd9918ab6f3d57fa75b92498a593804c85706b22",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-04-20T16:54:12-07:00",
+  "timestamp": 1618962852,
+  "message": "Removed-unnecessary-code-to-put-cuda_arch-in-DiHydrogen-23158",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d42381d38fff23e9ef2c2d4de5a48efe937eb7a",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-03-29T19:25:56-07:00",
+  "timestamp": 1617071156,
+  "message": "Bugfixes-in-LBANN-software-stack-identified-by-clingo-22554",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a8fad8474eb41ec7da07ec2e9790b4d3557d937",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-03-12T09:43:13-08:00",
+  "timestamp": 1615570993,
+  "message": "LBANN-software-stack-new-versions-and-dependencies-22234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9ff80e2135fb14922c856f66ec6d97332082a2c",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-23T09:09:46-08:00",
+  "timestamp": 1614100186,
+  "message": "lbann-updated-python-dependencies-and-new-variants-21863",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9246af112470cd83369158d883fcbf6b52b42ee",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-22T14:35:58-08:00",
+  "timestamp": 1614033358,
+  "message": "Adding-support-for-ROCm-for-the-LBANN-software-stack.-21716",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23e22ae623225f94e4f4ff339198ffc0ed0b7baf",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-19T00:32:17-08:00",
+  "timestamp": 1613723537,
+  "message": "Updates-to-the-LBANN-software-stack-21733",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46153a82010c9048564f7efb50cdbf49f4123d31",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-01-27T00:49:53-08:00",
+  "timestamp": 1611737393,
+  "message": "NVSHMEM-package-21279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c00ebab16c692c71ae88fa45715f297a596c337",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-12-24T14:46:12-08:00",
+  "timestamp": 1608849972,
+  "message": "Add-lbann-cmake-flags-20452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7aea9f3b1a652e95a16b17fe526ec15731af40b",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-12-14T01:14:49-08:00",
+  "timestamp": 1607937289,
+  "message": "Propagate-cuda_arch-downstream-from-LBANN-Hydrogen-and-DiHydrogen-20345",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55ec18a580a8dff078e1467604c4eb4fa3faba6b",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-14T16:59:12-08:00",
+  "timestamp": 1605401952,
+  "message": "Bugfixes-for-lbann-sw-stack-19903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9cd0f00607f6e58c6f037757701856eeb73b0607",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-07T12:09:00-08:00",
+  "timestamp": 1604779740,
+  "message": "Added-code-to-help-DiHydrogen-find-cuDNN-and-CUB-19783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16c8cdaef7cc5a685018ca36598770f4fea42bfa",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-05T14:28:27-08:00",
+  "timestamp": 1604615307,
+  "message": "LBANN-update-HWLOC-versions-19683",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dea225fcefd33266438e1c9d403d6139a45215c",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-10-30T12:51:10-07:00",
+  "timestamp": 1604087470,
+  "message": "Update-lbann-version-and-simplify-installation-19579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2da7e66718dcf51e1b8c0793cf8e72baddce87f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-10-02T08:56:06-07:00",
+  "timestamp": 1601654166,
+  "message": "Added-initial-version-hash-19053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87dc324f369c4edd0ed866ad8d8a04a869d95efc",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-09-09T19:42:34-07:00",
+  "timestamp": 1599705754,
+  "message": "Support-older-cuda-arch-capabilties.-18597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28ef5c0e276ae00ce3b99040a30be3ca9d083de1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-08-31T20:42:21-07:00",
+  "timestamp": 1598931741,
+  "message": "dihydrogen-hydrogen-dependency-on-CUB-is-conditional-on-CUDA-version-18427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa79d565b3a4ae5b27e7bd3a2dca9ac83b6a8954",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-08-09T22:31:41-07:00",
+  "timestamp": 1597037501,
+  "message": "DiHydrogen-adding-blas-and-associated-variants-17911",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54dc871524613c00b2d8209ddbdee0519ce36472",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-08-04T10:52:59-07:00",
+  "timestamp": 1596563579,
+  "message": "Renamed-the-aluminum-variant-for-thhe-intra-node-RMA-functions.-17861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46e7fbe120076439f4f0013b95e6fae8291effc5",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-07-31T13:53:51-07:00",
+  "timestamp": 1596228831,
+  "message": "LBANN-add-versions-update-CUDA-support-and-dependencies-17813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57ad02ad43efdd465964a22fcceecaa48ad3d8a5",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-03-18T09:46:49-07:00",
+  "timestamp": 1584550009,
+  "message": "Added-a-package-for-the-DiHydrogen-distributed-linear-algebra-library.-15426",
+  "repo": "spack/spack"
+}]

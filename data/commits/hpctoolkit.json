@@ -1,0 +1,304 @@
+[{
+  "commit": "09028f7407f3aceeb81f882d53d5bd003e63c86c",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-04-22T20:07:13-05:00",
+  "timestamp": 1619140033,
+  "message": "hpctoolkit-fix-patch-from-22864-23149",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7170c666a015fe323ec1f3c03a5bf1452d23e547",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-08T16:31:17+02:00",
+  "timestamp": 1617892277,
+  "message": "hpctoolkit-fix-for-GCC-10-22864",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6b632a1f9fcf132d1036ec42186d05161c4e037",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-03-05T03:06:11-06:00",
+  "timestamp": 1614935171,
+  "message": "hpctoolkit-add-version-2021.03.01-22106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9831b5f65566c0a586b662a2144ff731841eaa8",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-02-16T01:47:37-06:00",
+  "timestamp": 1613461657,
+  "message": "hpctoolkit-pre-release-update-21613",
+  "repo": "spack/spack"
+},
+{
+  "commit": "991ff2fd94c3696d0d2f3b804b44f06d927bb0d5",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-01-13T02:54:17-06:00",
+  "timestamp": 1610528057,
+  "message": "hpctoolkit-add-variant-to-support-rocm-20826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "850924e423c05d38e6a70a081418332624ce8376",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-09-08T01:27:39-05:00",
+  "timestamp": 1599546459,
+  "message": "hpctoolkit-adjust-some-dependencies-18558",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f128e7de54a29ca422e43e0f24145f95638724c5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-28T10:56:59+02:00",
+  "timestamp": 1595926619,
+  "message": "Removed-references-to-BlueGene-Q-in-Spack-builtin-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d348268fb8baea14335c7f724d2bf5b0a7f2152",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-08-07T01:42:52-05:00",
+  "timestamp": 1596782572,
+  "message": "hpctoolkit-fix-commit-hash-for-version-2020.08.03-17920",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a02d1a847e65f329c073be54eab3fc96f273bb9",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-08-04T06:39:47-05:00",
+  "timestamp": 1596541187,
+  "message": "hpctoolkit-add-v2020.08.03-17860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c7e52adaa37a380c7873eb914b4fcbed8e97fa6",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-07-22T15:53:41-05:00",
+  "timestamp": 1595451221,
+  "message": "hpctoolkit-add-version-2020.07.21-17645",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa50c2c7d05ff8b42b22f814e593ae235235eb75",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-06-13T09:01:42-05:00",
+  "timestamp": 1592056902,
+  "message": "hpctoolkit-add-version-2020.06.12-17081",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b858eebc514c35906bd27a70cf8682d28597b4e7",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-05-16T15:59:33-05:00",
+  "timestamp": 1589662773,
+  "message": "hpctoolkit-add-dependency-on-gotcha-16670",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69231c7d189239df9874b4a4273acf16d64a3dc1",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-03-18T22:19:25-05:00",
+  "timestamp": 1584587965,
+  "message": "hpctoolkit-restore-binutils-2.34-for-master-15556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "471f23e456e3b26aff75c17e8e97497087fd7fd3",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-03-14T07:45:00-05:00",
+  "timestamp": 1584189900,
+  "message": "Limit-binutils-to-2.33.1-15470",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c506c88f0971c7235343e1b3ec9d36b1f728e20",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-02-29T18:30:42-06:00",
+  "timestamp": 1583022642,
+  "message": "hpctoolkit-add-version-2020.03.01-15277",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b221d26b8e915853b9b450e3e87c0017f2e1d36",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-02-19T18:42:51-06:00",
+  "timestamp": 1582159371,
+  "message": "hpctoolkit-adjust-libunwind-dependency-15099",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5d729a829b2be15fcd13ff40db5512ba0d3a2a7",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-01-15T14:04:23-06:00",
+  "timestamp": 1579118663,
+  "message": "hpctoolkit-add-version-2019.12.28-14519",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "410bce91d4f21c7870a13d223ba9fbc584cab478",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-12-14T12:37:04-06:00",
+  "timestamp": 1576348624,
+  "message": "hpctoolkit-update-git-branch-for-version-gpu-14155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90236bc9f54a0fccbf0e133d09ce258b379e5ae3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:25:12+02:00",
+  "timestamp": 1569486312,
+  "message": "Update-target-comparison-semantic-for-a-few-packages-12947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8e2dbc488c999f9788689cc8d9c56fd7a26cebe",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-08-29T00:32:56-05:00",
+  "timestamp": 1567056776,
+  "message": "hpctoolkit-tighten-some-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a78f0e0fdb1bd40ed1f19a3d166cb8c26e8d75e",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-08-15T17:53:41-05:00",
+  "timestamp": 1565909621,
+  "message": "hpctoolkit-add-version-2019.08.14-12435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6111758b488583a98ecdbd7d3ced6ed6a1aa0bbe",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-07-22T00:29:08-05:00",
+  "timestamp": 1563773348,
+  "message": "hpctoolkit-add-version-gpu-and-variant-cuda-12068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e8b17b177aa0ca5e8aab5020f5bbf26ca6b34bf",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-01-10T14:50:58-06:00",
+  "timestamp": 1547153458,
+  "message": "hpctoolkit-variants-to-build-for-cray-and-blue-gene-10223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc5446f25ce9b6055d24ca6da82a4e6b93ccbed3",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-11-30T20:11:12-06:00",
+  "timestamp": 1543630272,
+  "message": "hpctoolkit-overhaul-to-use-spack-dependencies-9946",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e948a54d8e44ca5b20d4c41c8c6f2344fde32f0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:17:01-05:00",
+  "timestamp": 1532485021,
+  "message": "All-git-URLs-end-in-.git",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54d0cef5c4b65c17c8bd9be2f1d5cb159ab56cdf",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-15T21:58:33+02:00",
+  "timestamp": 1505505513,
+  "message": "Update-hpctoolkit-and-externals-to-latest-release",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e546d6246f2cdb14c6ae01ecf322e75de78325de",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-10-04T10:02:50+02:00",
+  "timestamp": 1475568170,
+  "message": "Spack-package-for-HPCToolkit-1892",
+  "repo": "spack/spack"
+}]

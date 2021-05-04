@@ -1,0 +1,240 @@
+[{
+  "commit": "01ea3e346901b4b13852a6d51a26abcc260a9e24",
+  "author": "André Brandenburger <brandenburger@dismail.de>",
+  "date": "2021-03-22T16:06:05+01:00",
+  "timestamp": 1616425565,
+  "message": "py-tensorflow-remove-bazel-restriction-to-tmp-22250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8071be81c4cef38d54814b6f1a348c318b86d2b6",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-02-25T17:08:00-05:00",
+  "timestamp": 1614290880,
+  "message": "py-tensorflow-disable-h5py-hdf5-mpi-variant-s-if-tensorflow-is-mpi-21955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba70f90ee0c4af2ba8dcd6fb07be0837660a343a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-04T11:00:37-06:00",
+  "timestamp": 1612458037,
+  "message": "Fix-usage-of-PythonPackage.test-outside-of-PythonPackage-20555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccb5cc50f780db016a9a90c1d1c421c4187e2508",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-22T07:12:37-06:00",
+  "timestamp": 1611321157,
+  "message": "TensorFlow-add-v2.4.1-21205",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c1e99b3c881f10c9b700fc10b3b8fafba658b78",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-01-09T13:03:49-05:00",
+  "timestamp": 1610215429,
+  "message": "py-tensorflow-version-updates-add-2.4.0-20702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e575a38d967cd20c44fa4eb515d543f0a21127ec",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-12-02T23:45:30+09:00",
+  "timestamp": 1606920330,
+  "message": "py-tensorlow-use-mkdtemp-for-temporary-directory.-20212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0df70e217ff5f602f1fd3e3c06a6ac3fd6783d02",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-10-19T14:15:49-04:00",
+  "timestamp": 1603131349,
+  "message": "A-collection-of-tensorflow-fixes-and-updates-19371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80bbeaf629dc62a91c4f8f7fa575f928520bc038",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-04T13:50:45-05:00",
+  "timestamp": 1601837445,
+  "message": "TensorFlow-added-new-versions-up-to-v2.3.1-18945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20d37afafa3be3f9b6c3388e22f813261d4c3fec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-26T07:32:14-05:00",
+  "timestamp": 1598445134,
+  "message": "TensorFlow-added-v2.3.0-17736",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f128e7de54a29ca422e43e0f24145f95638724c5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-28T10:56:59+02:00",
+  "timestamp": 1595926619,
+  "message": "Removed-references-to-BlueGene-Q-in-Spack-builtin-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7679e20e839ff561f26e1fd64540e433ecd89b66",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2020-07-03T11:49:29+09:00",
+  "timestamp": 1593744569,
+  "message": "py-tensorflow-Fix-for-tensorflow-issue-40688-17324",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb5f1886b78a2b79c9fb5748addaad69c1a56591",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2020-06-17T22:00:36+09:00",
+  "timestamp": 1592398836,
+  "message": "py-tensorflow-Update-for-use-with-Fujitsu-compiler-17088",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e6f0c353cc40970051326ea9540beabb388baca",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-06-16T22:35:03-05:00",
+  "timestamp": 1592364903,
+  "message": "Add-patch-for-older-versions-of-py-tensorflow-17122",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73d13461b1b4c0ad595c0506e104d2ffccc07be2",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-06-06T13:51:19-07:00",
+  "timestamp": 1591476679,
+  "message": "ensure-xla-is-turned-off-16974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf4c48c37e4a25bc0de4249c3266c99abb1aa1fc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-18T16:38:37-05:00",
+  "timestamp": 1589837917,
+  "message": "TensorFlow-add-new-versions-16703",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2709fd3766678961bc4d3a6728cc52448309b72",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-06T18:12:28-05:00",
+  "timestamp": 1588806748,
+  "message": "TensorFlow-add-new-version-16494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5d232e20767b8c0abc56ba75f07c4537449e333",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-04-23T12:14:09-04:00",
+  "timestamp": 1587658449,
+  "message": "tensorflow-compile-against-spack-provided-protobuf-16258",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aed516ad56c855afa65a8aea847fdf64330e797e",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-03-27T22:35:13-04:00",
+  "timestamp": 1585362913,
+  "message": "TensorFlow-let-install-take-care-of-the-headers-15718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "108a0c99f15acceb0c1302cbdbc370bb2a0d75fa",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-03-27T11:51:04-04:00",
+  "timestamp": 1585324264,
+  "message": "TensorFlow-Make-horovod-compilation-work-15692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8be90cf3f00b30cf3a364701008d8680f56f406",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-26T15:41:09-06:00",
+  "timestamp": 1580074869,
+  "message": "Add-TensorFlow-1.15.2-14624",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb3f4081a0c73f0e679ab72e5cf647b79a1ca32e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-25T12:45:09-06:00",
+  "timestamp": 1579977909,
+  "message": "Add-TensorFlow-2.0.1-14623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "031fdfd7ca1df854e4a829ed124f5ce0043c779e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-23T16:25:30-06:00",
+  "timestamp": 1579818330,
+  "message": "Add-TensorFlow-1.15.1-14614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52df2309cb7ab3a2da67e6d0461b04d017416223",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-09T11:01:51-06:00",
+  "timestamp": 1578589311,
+  "message": "Add-TensorFlow-2.1.0-14429",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f657f73e9477fcd3b6495af3c022f380b4656ded",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-12-17T12:46:34-06:00",
+  "timestamp": 1576608394,
+  "message": "tf-verbosity-to-better-enable-debugging-14177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f9d37c3464cf9867ed8e7960d27d11eff0d323a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-11T20:16:52-06:00",
+  "timestamp": 1576117012,
+  "message": "TensorFlow-must-specify-CUDA-compute-capabilities-14118",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23faffa2d0f18d95c6938c9da75ce6ae4818194a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-09T11:22:57-06:00",
+  "timestamp": 1575912177,
+  "message": "TensorFlow-don-t-override-HOME-env-var-14054",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3eafde7bf180e94bed6789b5dd41cb3ee240731",
+  "author": "Dominik Dold <34650920+dodo47@users.noreply.github.com>",
+  "date": "2019-12-06T01:48:20+01:00",
+  "timestamp": 1575593300,
+  "message": "Add-new-TensorFlow-package-13112",
+  "repo": "spack/spack"
+}]

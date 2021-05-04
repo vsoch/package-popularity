@@ -1,0 +1,24 @@
+[{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "404ff9eb326566b98d836af92acf4e91ac419392",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-06-23T03:34:47-05:00",
+  "timestamp": 1592901287,
+  "message": "dock-new-package-at-6.9-17138",
+  "repo": "spack/spack"
+}]

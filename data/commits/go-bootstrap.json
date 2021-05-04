@@ -1,0 +1,184 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c2bdfaf6399ee3584bd30edad1b0b2607ab952",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:56:56-05:00",
+  "timestamp": 1532487416,
+  "message": "Further-improvements-to-version-parsing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7760f1f59ddde6bff98ffaf224a3394bf377e93",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-04-10T21:41:52+02:00",
+  "timestamp": 1523389312,
+  "message": "go-Update-to-1.10.1-7708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ee9a1a6b6869e496a72c0e1effab2927ae2365",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-07-02T15:02:27+02:00",
+  "timestamp": 1499000547,
+  "message": "Update-go-and-go-bootstrap-4664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0a6ead19c854f214bd29f13f73bd0e7a665f7dd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-20T12:48:02-05:00",
+  "timestamp": 1492710482,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ca0d1f5f04885993f1b7fdfea7d2c9c8a6c3796",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-20T12:13:11-05:00",
+  "timestamp": 1492708391,
+  "message": "Remove-all-test-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fe5fb79887ab5c68fe9c5bd90dd6560e93c16ad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-25T21:33:57+01:00",
+  "timestamp": 1482698037,
+  "message": "go-fixed-GOROOT_BOOTSTRAP-without-workarounds-2671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cde8f697a96db9c24d428a9c2e4743e38cd69681",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-11-24T12:25:51-08:00",
+  "timestamp": 1480019151,
+  "message": "Bugfix-update-go-packages-2369",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f9e89eb53c0e093c5efbb8b270e0b3815c90570",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-09-20T10:08:25-07:00",
+  "timestamp": 1474391305,
+  "message": "Update-Package-Git-LFS-1769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80c02ad36af00b31f9b4ed4f3d1de72ae963ed98",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-17T05:30:35-07:00",
+  "timestamp": 1463488235,
+  "message": "flake8-related-cleanup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af4af94203d0dc7cebd110c2bd43707e527c63cb",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-17T05:21:11-07:00",
+  "timestamp": 1463487671,
+  "message": "rework-for-gopath-and-bootstrapping",
+  "repo": "spack/spack"
+}]

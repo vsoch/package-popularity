@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9729aaab7cd8ec8f159e19c1f354df2667da775",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-01-05T01:33:09+08:00",
+  "timestamp": 1578159189,
+  "message": "add-new-package-tajo-14314",
+  "repo": "spack/spack"
+}]

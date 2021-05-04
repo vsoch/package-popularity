@@ -1,0 +1,112 @@
+[{
+  "commit": "b54e9b0b319f66e8491db386eaedb08696f10f37",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2021-02-07T06:26:49-05:00",
+  "timestamp": 1612697209,
+  "message": "mercury-variant-to-control-checksumming-feature-21467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cf160689646b8ee681b88860adfef821d3bb280",
+  "author": "Jerome Soumagne <jsoumagne@hdfgroup.org>",
+  "date": "2020-10-31T13:02:03-05:00",
+  "timestamp": 1604167323,
+  "message": "mercury-update-to-v2.0.0-19635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ca753e5a6c910cfd71a2599d004c5c0e8f94231",
+  "author": "Jerome Soumagne <jsoumagne@hdfgroup.org>",
+  "date": "2020-10-02T16:14:55-05:00",
+  "timestamp": 1601673295,
+  "message": "mercury-package-turn-off-post-limit-by-default-19048",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e70fa52df69757c535ea4fd4008c6f7f091bf22",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2020-01-02T21:29:18+00:00",
+  "timestamp": 1578000558,
+  "message": "added-verbose-variant-to-mercury-package-14355",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77e4e3d87e2c63ca65130bdfaefb811fb931a812",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-08-21T13:28:20-04:00",
+  "timestamp": 1566408500,
+  "message": "mercury-Fix-CMake-3.15-configure-error-12504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5f88d6ec80bc538f5bb83267ffd8610578f9c70",
+  "author": "Jerome Soumagne <jsoumagne@hdfgroup.org>",
+  "date": "2019-05-09T12:56:10-05:00",
+  "timestamp": 1557424570,
+  "message": "Clean-up-mercury-package-and-add-boostsys-shared-variants-11368",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c2228df59215dd0fb3cc0676b88be043ccd8b59",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-05-03T02:11:31-05:00",
+  "timestamp": 1556867491,
+  "message": "add-BMI-package-11310",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8dc3853922ee74938c0ee15cd40bc0290b558fa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-04-20T17:03:18-05:00",
+  "timestamp": 1555797798,
+  "message": "Mercury-package-add-version-1.0.1-and-update-dependencies-10906",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de91d0badcf95a4280fa8dcacbed425a8b338ca3",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-02-04T19:51:04-06:00",
+  "timestamp": 1549331464,
+  "message": "mercury-package-add-udreg-variant-10415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36c46a7daf7d9eee425b20bfa190c1cf96847f06",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-01-30T21:57:31-05:00",
+  "timestamp": 1548903451,
+  "message": "Mercury-package-update-libfabric-dependency-on-Cray-10408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13b95b8ae69db8f24daed28b80352077ed97578b",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-11-20T17:14:30+00:00",
+  "timestamp": 1542734070,
+  "message": "Package-Mercury-9903",
+  "repo": "spack/spack"
+}]

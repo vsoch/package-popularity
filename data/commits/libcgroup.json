@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be0aed9d8acc1948c3eb43a0b4abcd9ab8f142b2",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-22T19:19:01+08:00",
+  "timestamp": 1587554341,
+  "message": "libcgroup-added-package-at-v0.41-16229",
+  "repo": "spack/spack"
+}]

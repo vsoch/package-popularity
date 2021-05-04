@@ -1,0 +1,264 @@
+[{
+  "commit": "b6ac3bb6d73b63c39f74e91d7a0d49db8e58ac09",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-02-27T00:39:08+09:00",
+  "timestamp": 1614353948,
+  "message": "ncl-allow-building-on-aarch64-21984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c264a9f261e6e95deac21254d032bbc2af8f4bb",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-03T18:32:41+02:00",
+  "timestamp": 1599150761,
+  "message": "freetype-Add-custom-headers-property-18440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "084994db9c858b79ffe37dd1fc7205150d0a2447",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-07-08T08:42:49+02:00",
+  "timestamp": 1594190569,
+  "message": "ncl-fix-compilation-errors-with-Intel-compilers-17391",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9ee4da67012344d6ab31db901556dbeb00b2b52",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-13T19:45:12+02:00",
+  "timestamp": 1589391912,
+  "message": "ncl-Fix-build-with-gcc-10-16624",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be3482de097ef3973f2350cc91b746ce2699aef5",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-07T17:55:34+01:00",
+  "timestamp": 1578416134,
+  "message": "ncl-Add-missing-fontconfig-dependency-14411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd4eed117dbbb743949bcda8acef6de1340747da",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-08-23T20:16:09-04:00",
+  "timestamp": 1566605769,
+  "message": "ESMF-NCL-packages-Bug-fixes-for-Intel-Compilers-11923",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ef3b4c578cb1f118445546fcca253059ce1fa5c",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-27T02:36:29+02:00",
+  "timestamp": 1561595789,
+  "message": "ncl-Fix-build-11855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c717f56359ed15a0c5f80ad1bdca5d9de819a371",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-05T17:13:51+01:00",
+  "timestamp": 1551802431,
+  "message": "ncl-Add-6.6.2-10800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e338f2c2c14476303c2d00732ef770f68eb873b7",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-01-30T20:10:08+01:00",
+  "timestamp": 1548875408,
+  "message": "ncl-package-require-cairo-with-pdf-support-10465",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da193a07a32d76df595faf3d2e828480d409890f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-08T10:03:29+01:00",
+  "timestamp": 1541667809,
+  "message": "ncl-Add-6.5.0-9736",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2386ce4995d88266919d1f402f0e7d52df8f0215",
+  "author": "Nasr S. Hassanein <nasr.s.hassan@gmail.com>",
+  "date": "2018-07-23T00:54:06+03:00",
+  "timestamp": 1532296446,
+  "message": "Ncl-update-8747",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa27432a1d2548ae47c6b7316c81f000bd464187",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-14T17:22:04+01:00",
+  "timestamp": 1510676524,
+  "message": "ncl-Check-for-ncl-binary-after-installation-6298",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4065ef2106b04c671e1af6690dfb9ca1686f75e8",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-10-06T21:53:05+02:00",
+  "timestamp": 1507319585,
+  "message": "ncl-Fix-temp-directory-and-depend-on-esmf-5636",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac98e0978a2e4a00db86f17de3562847480a7d93",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-28T20:51:04+02:00",
+  "timestamp": 1506624664,
+  "message": "ncl-Add-tcsh-dependency-5195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cba1ddff4ae6ad51f9b1445a69e5f93dc69196f1",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-15T15:43:42+02:00",
+  "timestamp": 1505483022,
+  "message": "ncl-Fix-buffer-overflow-in-ymake-filter-5357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54cc8dd7fd956b37e17982173e5624d0c98f8ce3",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-06-06T21:05:10+10:00",
+  "timestamp": 1496747110,
+  "message": "ncl-cairo-and-math-libraries-4434",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b6b91b0b90e8c1af2b903ccfb5492bae506a184",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-04-19T21:55:22+10:00",
+  "timestamp": 1492602922,
+  "message": "ncl-capture-more-dependencies-3902",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9dcd6052cb004324472ccd5c21d7f337cbed9f23",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-04-05T20:59:26+02:00",
+  "timestamp": 1491418766,
+  "message": "Fix-ncl-3708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9ee86cac9275076b8e46a7c7c369df8e84e1955",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-03-25T23:23:47-07:00",
+  "timestamp": 1490509427,
+  "message": "Make-packages-Python3-compatible",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1f8fbed34ad856edcb621c028f70d269bca5e15",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-03-09T15:11:06+01:00",
+  "timestamp": 1489068666,
+  "message": "ncl-Update-to-6.4.0-3384",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fb5cb2137e1277abcd96285865dac5ac7f5e623",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-11-02T15:20:57+00:00",
+  "timestamp": 1478100057,
+  "message": "Added-first-version-of-the-NCL-package.-2195",
+  "repo": "spack/spack"
+}]

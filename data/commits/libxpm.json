@@ -1,0 +1,192 @@
+[{
+  "commit": "564aebdb1a7ae3294801c9eceed08202fd665fe7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-06T01:56:22-06:00",
+  "timestamp": 1609919782,
+  "message": "Xorg-proto-type-build-link-20685",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9630b572ace19f17f05fdb9e7cf17d6b4300ac7",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-14T20:54:16-07:00",
+  "timestamp": 1586922856,
+  "message": "x.org-packages-mirror-mixin",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b763980b6f3ac94b4644829c96abded3f7104ff",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-07-19T08:36:58-05:00",
+  "timestamp": 1563543418,
+  "message": "libxpm-cope-with-system-gettext-if-configured.-10881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c0b746f44dcbe8b6d73dccc61cf79c9d941330f",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-06-05T15:13:19-05:00",
+  "timestamp": 1559765599,
+  "message": "libxpm-revert-change-made-in-unrelated-PR-11634",
+  "repo": "spack/spack"
+},
+{
+  "commit": "964a1d59970b27105ca61684228f5b3309e00cdd",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-06-04T14:39:04-05:00",
+  "timestamp": 1559677144,
+  "message": "Buildcache-relocate.py-error-fix-11616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f962aba6ce85ba001bbe20f6f849478fdb9370c5",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2017-07-19T20:12:00-07:00",
+  "timestamp": 1500520320,
+  "message": "Allow-packages-to-control-handling-of-compiler-flags-4421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2553afac259f969a73aecda90cc88fe00a4d6c9f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-26T17:34:47-05:00",
+  "timestamp": 1493246087,
+  "message": "Add-latest-version-of-libxpm-4012",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8137648749abbd517106bb98ec6b291c6215499",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-04-05T21:50:42+02:00",
+  "timestamp": 1491421842,
+  "message": "Fix-libxpm-3704",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dc8bbcb3a5f710f0ae24b9e4682a5719224a81f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T11:42:20-05:00",
+  "timestamp": 1476204140,
+  "message": "Package-all-of-Xorg-X11-XCB-1740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b6035ab8268de726933b657837d5c1bd8d13d4e",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-03T00:21:41+02:00",
+  "timestamp": 1464906101,
+  "message": "Making-emacs-dependent-on-internal-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22afc6dadd81db12262571bddad6256c2900db64",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-06T15:33:26-07:00",
+  "timestamp": 1462574006,
+  "message": "pile-of-dependencies-for-neovim-including-luajit-and-libuv",
+  "repo": "spack/spack"
+}]

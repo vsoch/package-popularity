@@ -1,0 +1,184 @@
+[{
+  "commit": "f7a9fbc688c8d59d0e89ef4c7fa874a960d15815",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-09T15:35:30-06:00",
+  "timestamp": 1612906530,
+  "message": "Update-the-Spack-R-BioConductor-packages-to-Bioconductor-3.12-21575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b24dfb8bafe86fbff47a9751b199e2707e3c23e",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-11-27T20:57:15-06:00",
+  "timestamp": 1574909835,
+  "message": "Replace-git-based-Bioconductor-R-packages-12005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1572bb9991fc8fd8aa5a2d9a17f3b978a0d0bb6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T21:56:48-05:00",
+  "timestamp": 1532401008,
+  "message": "Add-top-level-attributes-for-git-R-Bioconductor-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6046386811e724aed64c8b917e16e0927d00ba0",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-11-17T19:58:01-06:00",
+  "timestamp": 1510970281,
+  "message": "r-fgsea-Create-new-package.-6354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cca06422fa2f7834b54579d23c057bdf49cb6368",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-11-16T10:28:59-06:00",
+  "timestamp": 1510849739,
+  "message": "r-sva-Create-new-package.-6333",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f91c25ddeefd6815bb2139e1990fc241adcede66",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-11-03T15:19:16-05:00",
+  "timestamp": 1509740356,
+  "message": "r-samr-Create-new-package.-6117",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c077052664b0510430e53cda86fcfe0f5d870ced",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-11T01:22:47+02:00",
+  "timestamp": 1505085767,
+  "message": "Change-glog-from-Autotools-to-CMakePackage-5323",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7eee1bd7be538077fd21b52236dc341beba14b5",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2017-04-03T13:56:58+01:00",
+  "timestamp": 1491224218,
+  "message": "add-gflags-as-dependency-of-glog-3665",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98d67bd060e31ccd7adf9317844c59ad9a2f4f8a",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-28T19:28:30+02:00",
+  "timestamp": 1490722110,
+  "message": "Add-new-version-to-glog-3586",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5d7cd55ce197bf4e6d476996ab874083efb86a2",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2015-09-21T16:30:11-07:00",
+  "timestamp": 1442878211,
+  "message": "add-glog-package",
+  "repo": "spack/spack"
+}]

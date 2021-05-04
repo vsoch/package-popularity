@@ -1,0 +1,8 @@
+[{
+  "commit": "3a5ee398f42f4197975f99228537d5a1585c8623",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-02-22T18:51:45+09:00",
+  "timestamp": 1613987505,
+  "message": "rasqal-add-new-package-at-v0.9.33-21836",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64b14b64c00bc6885acc1ff4d9b76898f66a8a86",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-01T13:30:03-05:00",
+  "timestamp": 1585765803,
+  "message": "OpenDX-add-new-package-15737",
+  "repo": "spack/spack"
+}]

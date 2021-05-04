@@ -1,0 +1,456 @@
+[{
+  "commit": "7e6b76301ade33355a8e35b80c2fd21f87f13017",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2021-04-20T07:07:10+01:00",
+  "timestamp": 1618898830,
+  "message": "Adding-CUDA-SDK-11.3.0-23051",
+  "repo": "spack/spack"
+},
+{
+  "commit": "220c0d9cfcdf273a8f15daea8eae7541f1a9245f",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2021-03-30T16:57:15+02:00",
+  "timestamp": 1617116235,
+  "message": "cuda-add-dev-variant-and-ABI-variant-for-ncurses-22536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76bfdbfb961fb5ee6deddd0c5acf08189353be89",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-23T15:55:17+01:00",
+  "timestamp": 1616511317,
+  "message": "cuda-add-v11.2.2-22471",
+  "repo": "spack/spack"
+},
+{
+  "commit": "048adfdc1b656ad1eacc24708505bb163b6902aa",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2021-02-19T12:11:51+00:00",
+  "timestamp": 1613736711,
+  "message": "Adding-CUDA-SDK-11.2.1-21800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b597e01e330637318ca5bd6d01e6faef9b2754ac",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-03T18:06:49+01:00",
+  "timestamp": 1612372009,
+  "message": "Add-cuda-as-opencl-provider-21464",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49f0e9640df0a8756e8c3d5be979819aeaa65776",
+  "author": "Baptiste Jonglez <30461003+jonglezb@users.noreply.github.com>",
+  "date": "2021-01-22T23:27:14+01:00",
+  "timestamp": 1611354434,
+  "message": "cuda-add-installation-workaround-for-version-10.1.243-on-ppc64le-21200",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de068f0b52a3a434b789e681d79001e52ca508b7",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2020-12-25T04:42:47+00:00",
+  "timestamp": 1608871367,
+  "message": "Adding-CUDA-11.2.0-20477",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adbbd6f28f4cc0201094fb284ea549f0f78ac344",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2020-12-09T17:47:03+00:00",
+  "timestamp": 1607536023,
+  "message": "Adding-CUDA-11.1.1-20289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "759e8ee4c289dbd9c763ece54526939a5bdba683",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-11T23:11:17-05:00",
+  "timestamp": 1602475877,
+  "message": "CUDA-update-maintainers-19262",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2e018b68f84599734875ba1230334136a4731ca",
+  "author": "g-mathias <40861554+g-mathias@users.noreply.github.com>",
+  "date": "2020-10-06T14:45:27+02:00",
+  "timestamp": 1601988327,
+  "message": "package-cuda-fix-for-chmod-error-17596",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8edb31e934e38a7f0f1b6c7a6da42ac1a7dd9591",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-09-29T02:38:56-07:00",
+  "timestamp": 1601372336,
+  "message": "CUDA-added-v11.1.0-19036",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1746799087db022e251ca8380b299413ffd1ef69",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2020-08-27T21:56:18+09:00",
+  "timestamp": 1598532978,
+  "message": "CUDA-Toolkit-added-v11.0.2-for-Arm-17845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ef7d5e7921fc696908556dd924c8e7ac7bd37dc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-24T16:50:10-05:00",
+  "timestamp": 1598305810,
+  "message": "CUDA-add-v10.1.243-for-ppc64le-18237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c064088cf3ab23f74791f49c587a301144b5c3a3",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-12T04:13:57-07:00",
+  "timestamp": 1597230837,
+  "message": "Bugfix-for-17999-use-cudart-instead-of-cuda.-18000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50f76f613182bc106cae426f024d14fd28351f5a",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-08-01T13:29:17-07:00",
+  "timestamp": 1596313757,
+  "message": "Hotfix-move-CUDAHOSTCXX-17826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4ff584bc03b054ad77741f8c5db57cb023f62e1",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-12T10:30:57-07:00",
+  "timestamp": 1597253457,
+  "message": "Adding-externals-support-for-CUDA.-18011",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f73141c6af58d3d82f1daf69eb64501e50d452bc",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-12T04:13:57-07:00",
+  "timestamp": 1597230837,
+  "message": "Bugfix-for-17999-use-cudart-instead-of-cuda.-18000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7498336f3d10a2bd866790a7ae98f28c1f715d07",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-08-01T13:29:17-07:00",
+  "timestamp": 1596313757,
+  "message": "Hotfix-move-CUDAHOSTCXX-17826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54bce00d4dd606b20f8b6ad1efad58d2fc0fddeb",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-07-24T17:02:58+02:00",
+  "timestamp": 1595602978,
+  "message": "Ensure-that-the-stubs-directory-does-not-end-up-in-the-rpath-17619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6abd530bdbd426cf866cc5689b3a0162d8f7e78",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-07-13T16:32:28-07:00",
+  "timestamp": 1594683148,
+  "message": "CUDA-11.0.2-17423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7c46d8c57b763798db16908c671bfb13e8aa9f6",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-06-27T13:36:18-07:00",
+  "timestamp": 1593290178,
+  "message": "CUDA-CUDAHOSTCXX-Env-16869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e322b31845b2e56358abe5fd241526b20ae534c",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-06-16T01:57:00-04:00",
+  "timestamp": 1592287020,
+  "message": "CUDA-remove-preexisting-log-file-before-install-17018",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c28e72d2f474a3a739725e906c7cea4b8be8f4d",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2020-02-14T11:13:30-07:00",
+  "timestamp": 1581704010,
+  "message": "cuda-add-libxml2-as-a-dependency-for-newer-versions-14758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d705e96a636f480217a8f64a69fa4296a427b14e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-12-06T23:47:03-08:00",
+  "timestamp": 1575704823,
+  "message": "Spec-Header-Dirs-Only-first-include-13991",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba156dfcd863b856684359dbfe8305ef445b1c71",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-12-04T19:28:10-08:00",
+  "timestamp": 1575516490,
+  "message": "CUDA-Keep-10.1.243-As-Preferred-13983",
+  "repo": "spack/spack"
+},
+{
+  "commit": "484dab6bacb851c15b44e626119d1bb04e100923",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2019-11-27T22:45:07+01:00",
+  "timestamp": 1574891107,
+  "message": "cuda-add-polymorphic-package-versions-13912",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c10b80591fec2cf391c97f8f53040c3429dbdec",
+  "author": "René Widera <r.widera@hzdr.de>",
+  "date": "2019-11-25T20:23:48+01:00",
+  "timestamp": 1574709828,
+  "message": "add-package-cuda-10.2.89-13819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f1762bcc2d2346feb6ab381d8c29d40d21e4bb0",
+  "author": "Janne Blomqvist <blomqvist.janne@gmail.com>",
+  "date": "2019-09-10T20:52:55+03:00",
+  "timestamp": 1568137975,
+  "message": "cuda-New-version-10.1.243-12777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72ad072422b900d070dc2073e837a439bdf54707",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-27T10:36:07-07:00",
+  "timestamp": 1566927367,
+  "message": "cuda-add-conflict-with-macOS-Mojave-12570",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bc15b2d9a061b37e55434edec6ae3954e95032b",
+  "author": "Tim Fuller <tjfulle@sandia.gov>",
+  "date": "2019-07-12T18:46:47-06:00",
+  "timestamp": 1562978807,
+  "message": "find_libraries-searches-lib-and-lib64-before-prefix-11958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16530f84be04b8466769b9b74fe920d67006b988",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-06-12T17:07:47-07:00",
+  "timestamp": 1560384467,
+  "message": "Update-remaining-packages-to-use-Stage.source_path-11662",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c54f23d405bf468e348ebba7e6ded48dc9a8ff9b",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-05-15T04:59:12+09:00",
+  "timestamp": 1557863952,
+  "message": "CUDA-package-exclude-compat-libs-11449",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dd9a321a402a69415709bd0a320e06e892a4b42",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-12-13T00:05:13-07:00",
+  "timestamp": 1544684713,
+  "message": "Add-CUDA_HOME-variable-to-cuda-module-file.-10088",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2155163a37950b8c6ee982268cde62a2aaace3ec",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-09-27T13:33:53-07:00",
+  "timestamp": 1538080433,
+  "message": "Added-Cuda-10-9310",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd72312940267e9ec6c8105d74a208521a7075b0",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-05-22T12:45:47+02:00",
+  "timestamp": 1526985947,
+  "message": "CUDA-9.2-8238",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "836bf65250fafbb14bc0710fdc93f1fe0208c58a",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-13T14:43:40+01:00",
+  "timestamp": 1513172620,
+  "message": "CUDA-9.1-6663",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48e4efc2a415c0ec3b2ccaa02dce417f331c6789",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-10-02T18:47:32+02:00",
+  "timestamp": 1506962852,
+  "message": "CUDA-9.0.176-5562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00fb0dd6c65657b4f7f4b85f8f2335a196158914",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2017-04-06T15:12:54+01:00",
+  "timestamp": 1491487974,
+  "message": "Openmpi-cuda-support-3725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "093ffdfa45bdbdddab6be5597c6b04d4bee106a7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-11T13:42:02-05:00",
+  "timestamp": 1489257722,
+  "message": "cuda-Allow-using-unknown-compilers-3416",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0203545eb82a295e67fd1451a806551dbc56a0f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-20T17:41:31-06:00",
+  "timestamp": 1487634091,
+  "message": "Update-CUDA-docstring-no-longer-need-to-download-manually-3191",
+  "repo": "spack/spack"
+},
+{
+  "commit": "864670c0abc959e94685e45202742656733b5006",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-02-04T10:07:54+08:00",
+  "timestamp": 1486174074,
+  "message": "Retrive-CUDA-installers-from-Internet.-3012",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c4d2627ff4e348969ca710d2a9d69b10db48096",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-01-15T11:35:53+01:00",
+  "timestamp": 1484476553,
+  "message": "Packages-Add-CUDA8-2823",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7806fded3e7e90aeb0d864ab76545cc57fbe2b03",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-04T13:47:25-05:00",
+  "timestamp": 1475606845,
+  "message": "Update-documentation-URL-after-switch-to-readthedocs-1901",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0902ad8d8a8c629eb921b8701332385d622bc12",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-31T11:04:29-05:00",
+  "timestamp": 1459440269,
+  "message": "Change-variant-defaults-and-add-comment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9519f3d988d4f83cd3edf9bbdd90080559ba9549",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-30T11:46:58-05:00",
+  "timestamp": 1459356418,
+  "message": "Fix-MPI-CUDA-bug",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ddba5f7edd97c8c17781368edc5b9a0db74417d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-29T14:47:16-05:00",
+  "timestamp": 1459280836,
+  "message": "Add-CUDA-and-HOOMD-blue-packages",
+  "repo": "spack/spack"
+}]

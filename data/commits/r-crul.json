@@ -1,0 +1,40 @@
+[{
+  "commit": "a7316a24ca8419f452be5412f3e1d05f50c44ca3",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-15T03:05:17-06:00",
+  "timestamp": 1610701517,
+  "message": "add-version-1.0.0-to-r-crul-20870",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cdd8da7251e3f16d6501aac421b11d6685a5282d",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-05-15T15:51:11-05:00",
+  "timestamp": 1557953471,
+  "message": "r-crul-new-package-at-0.7.4-11459",
+  "repo": "spack/spack"
+}]

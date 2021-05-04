@@ -1,0 +1,1080 @@
+[{
+  "commit": "0ecce5797eacb5a1f7d64279cf892e80ebcd3ec0",
+  "author": "lpoirel <louis.poirel@gmail.com>",
+  "date": "2021-04-08T16:50:58+02:00",
+  "timestamp": 1617893458,
+  "message": "petsc-forward-metis-to-mumps-21291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6242f102fbab160cbc157abd4943cb2cddad2099",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-03-31T18:04:23-05:00",
+  "timestamp": 1617231863,
+  "message": "petsc-3.15.0-py-petsc4py-3.15.0-22688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a87aa49fbf1a4c9c3d2e5a645e0d630e59ceb4b3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-26T19:17:37-06:00",
+  "timestamp": 1614388657,
+  "message": "petsc-petsc4py-slepc-switch-default-git-branch-from-master-to-main-22001",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c01065ee7361b66cb8735a29e75c876d6b4228df",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-08T13:05:52-06:00",
+  "timestamp": 1612811152,
+  "message": "petsc-update-to-version-3.14.4-and-petsc4py-to-3.14.1-21544",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd505e226916444e2d184f6342fa1d8be48cad0d",
+  "author": "lpoirel <lpoirel@users.noreply.github.com>",
+  "date": "2021-01-25T08:41:29+01:00",
+  "timestamp": 1611560489,
+  "message": "petsc-forward-variant-int64-to-parmetis-21245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88cafacd09a2c9ec7244d00f229771ef5e6a483f",
+  "author": "lpoirel <lpoirel@users.noreply.github.com>",
+  "date": "2021-01-24T19:09:35+01:00",
+  "timestamp": 1611511775,
+  "message": "petsc-add-a-mkl-pardiso-variant-21219",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23181d24a2db34108d6f6c8f88695cb3ede1daab",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-01-20T21:11:23+01:00",
+  "timestamp": 1611173483,
+  "message": "PETSc-Add-a-new-ptscotch-variant.-20699",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "757b74aeff8f1ea87cd60154aa5527fcc7ebcf9d",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-12T11:15:29-06:00",
+  "timestamp": 1605201329,
+  "message": "xsdk-0.6.0-19846",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b02910e9cbc351d9ddd78ebba98bda5bdb9c058",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-04T12:27:11-06:00",
+  "timestamp": 1604514431,
+  "message": "petsc-add-version-3.14.1-19730",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b33157a459bce18ff7ec559f74c90ce8be13a3c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-03T12:01:14-06:00",
+  "timestamp": 1604426474,
+  "message": "petsc-3.14-update-superlu-dist-dependency-keep-it-open-ended-for-both-petsc-and-superlu-dist-future-versions-19686",
+  "repo": "spack/spack"
+},
+{
+  "commit": "569eb866fc7f42da0018b73ac7b4bc7a5dbc76ff",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-10-02T14:02:23-05:00",
+  "timestamp": 1601665343,
+  "message": "Add-hypre-2.20.0-petsc-3.14.0-and-3.13.6-3.13.5-19105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b562154423c4cbfb073cf8eee140c38ac7990cb1",
+  "author": "lpoirel <lpoirel@users.noreply.github.com>",
+  "date": "2020-08-25T14:07:59+02:00",
+  "timestamp": 1598357279,
+  "message": "petsc-new-version-add-support-for-mumps-int64-18170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25a0d89b58c977b4882da09b865b3e58191f5a71",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-08-12T13:42:03-07:00",
+  "timestamp": 1597264923,
+  "message": "petsc-add-explicit-build-dependency-diffutils-17979",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1920d125e851847a43dc2af70a8d1a5d839c84f1",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-08-10T15:41:35-05:00",
+  "timestamp": 1597092095,
+  "message": "petsc-update-hypre-dependency-wrt-2.18.2-2.19.0-API-change-17973",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61735f3847e32dd390deb242486affadafcc2c75",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-08-09T06:19:59-05:00",
+  "timestamp": 1596971999,
+  "message": "petsc-added-v3.13.2-v3.13.3-v3.13.4-17957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "023a057f2013b7ce849cc9a32bb2a171c3a3a1ca",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-08-08T11:07:51-05:00",
+  "timestamp": 1596902871,
+  "message": "Add-variants-to-petsc-17218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1bd7774035c626d777220f279a152c01b71ceea",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-05-31T12:13:10-07:00",
+  "timestamp": 1590952390,
+  "message": "petsc-fix-conditional-activation-of-parmetis-16533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ec8d928fac615835f015e3b86fc67cbfa866159",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-05-30T21:10:34-05:00",
+  "timestamp": 1590891034,
+  "message": "petsc-3.13-update-superlu-dist-dependency-as-superlu-dist-6.3.1-has-API-change-16849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eff8e1d20bf1c957546f696cf2fcb0b385e51807",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-05-05T13:43:00-05:00",
+  "timestamp": 1588704180,
+  "message": "minor-16467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2df39ea3a083486ae6b62d095213da009a0f9e9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-04-30T10:40:25-05:00",
+  "timestamp": 1588261225,
+  "message": "petsc-switch-hdf5-spec-from-with-hdf5-dir-to-with-hdf5-lib-16376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4aed5daeba171ebc84ade61522808cc45e45a8b8",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2020-04-28T16:52:39+01:00",
+  "timestamp": 1588089159,
+  "message": "adjust-petsc-to-build-cuda-only-when-requested-explicitly-16275",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a18f8b1d7ff1811d3fdf69ffb7aec76120791e9",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-04-14T16:44:09-05:00",
+  "timestamp": 1586900649,
+  "message": "fix-typo-16043",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a96b7427971591e24011fd73ddf498331bbc6ab6",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-03-30T19:50:29-05:00",
+  "timestamp": 1585615829,
+  "message": "Balay-petsc-3.13.0-15767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b583b0e112b538530360cb7137f4776999c9b49c",
+  "author": "Kai Germaschewski <kai.germaschewski@unh.edu>",
+  "date": "2020-03-19T12:42:19-04:00",
+  "timestamp": 1584636139,
+  "message": "petsc-fix-hdf5-15572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a51d540f1de670c817133a47360316782617457",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-03-18T17:04:38-05:00",
+  "timestamp": 1584569078,
+  "message": "petsc-3.7-fix-dependency-of-superlu-dist-5.1.3-15551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d8cd446c5c7cba12b82bf1f297e86bfa9104156",
+  "author": "Hector <10837193+he-b@users.noreply.github.com>",
+  "date": "2020-03-10T20:41:00-05:00",
+  "timestamp": 1583890860,
+  "message": "Add-valgrind-variant-to-petsc-15427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7b9592eb9f30e6857f8f0ae257a948ef4aed5eb",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-01-03T13:35:54-06:00",
+  "timestamp": 1578080154,
+  "message": "petsc-add-version-3.12.3-14374",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da883f22701408b42fe465d71627f3ca5c5c2e2f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-11-22T20:35:16-06:00",
+  "timestamp": 1574476516,
+  "message": "petsc-add-version-3.12.2-13859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25d63aa44c240ef22c57bbcbec47ff1d247f6a46",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-23T09:29:28-05:00",
+  "timestamp": 1571840968,
+  "message": "petsc-add-version-3.12.1-and-variant-batch-13390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c70f9bffe2c417c41769cf533824bb45970be326",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-09-30T13:18:11-05:00",
+  "timestamp": 1569867491,
+  "message": "petsc-slepc-add-new-versions-3.12.0-12979",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e9365036f81391abce15f47186e58ae31aadfd6",
+  "author": "Jaroslav Hron <jaroslav.hron@gmail.com>",
+  "date": "2019-09-28T20:39:45+02:00",
+  "timestamp": 1569695985,
+  "message": "correct-with-xxx-lib-options-12964",
+  "repo": "spack/spack"
+},
+{
+  "commit": "892a552495bf66403932c81489954df8b19a33b0",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-22T12:40:47-05:00",
+  "timestamp": 1566495647,
+  "message": "petsc-update-url-to-gitlab-12506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85372ae1020dfea10decd1b0c97c2bba5abf4837",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-06-27T00:02:03-05:00",
+  "timestamp": 1561611723,
+  "message": "petsc-add-version-3.11.3-11857",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b57c3b8e57fc2161daec9a8ff760d9fdbfe26dc",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-05-28T15:23:00-05:00",
+  "timestamp": 1559074980,
+  "message": "petsc-add-version-3.11.2-11572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1eb01e7be547e25dc6c8116413dd59f6b2caed6c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-19T13:44:05-05:00",
+  "timestamp": 1555699445,
+  "message": "petsc-fix-suitesparse-configure-options.-11188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "832a1ddbaad08b0716d33a6cd78f7a48457ee9c3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-12T09:46:23-05:00",
+  "timestamp": 1555080383,
+  "message": "petsc-add-fftw-variant-11178",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1eab6e3c865836d209db4621d0cd44bc8663656b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-12T09:45:43-05:00",
+  "timestamp": 1555080343,
+  "message": "petsc-add-version-3.11.1-11179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4946e1d0a2ff5c43baa9941b07feaff9be50c467",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-31T12:20:15-05:00",
+  "timestamp": 1554052815,
+  "message": "petsc-update-superlu-dist-dependency-11068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03d39ed34cfab7008232678c8dd2ba5103a569e6",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-29T11:54:23-05:00",
+  "timestamp": 1553878463,
+  "message": "petsc-add-versions-3.10.5-3.11.0-11058",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64acce557d0d507b7ccf2dd81e3e281d3f23314b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-24T16:38:40+01:00",
+  "timestamp": 1553441920,
+  "message": "petsc-workaround-xcode-stub-out-of-sync-issue-10999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d20e938dae1a25b4e4088cad481f16f90ef2b12",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-02-28T11:07:04-06:00",
+  "timestamp": 1551373624,
+  "message": "petsc-add-knl-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c11f598e0bfd4bb25c196f3725cbf2db6bd259fd",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-02-26T20:41:33-06:00",
+  "timestamp": 1551235293,
+  "message": "petsc-add-version-3.10.4-10724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8684b318c8b39ceff958ffc778da07fdaaa07a8",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-02-07T09:09:23-06:00",
+  "timestamp": 1549552163,
+  "message": "petsc-petscvariables-is-used-from-user-makefiles-so-it-should-not-have-spack-compilers-listed-10365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ad1b2a2c8437d90a1853ce9855b13d654989a55",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-02-07T09:05:43-06:00",
+  "timestamp": 1549551943,
+  "message": "petsc-xsdk-0.2.0-fix-sowing-dependency-10535",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d071c6d34109893e8e89f16d305b9565968678bf",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-01-26T09:28:20-06:00",
+  "timestamp": 1548516500,
+  "message": "petsc-configure-works-with-python3-in-current-petsc-develop-and-will-work-in-future-releases-3.11-10380",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ca674a574c6bd55e22496c7bd44ea7d10083fa1",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-01-09T17:36:29-06:00",
+  "timestamp": 1547076989,
+  "message": "petsc-fix-petsc-debug-to-not-reset-COPTFLAGS-i.e-use-configure-defaults-g-10296",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fad4ecc90bf3c1369b01b3d22bf0bd7d018e2083",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-12-22T10:40:08-06:00",
+  "timestamp": 1545496808,
+  "message": "petsc-3.10.3-syncs-with-superlu-dist-6.1.-10166",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1e562f333b288449fc0449ef041895d6d8db278",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-12-19T10:46:02-06:00",
+  "timestamp": 1545237962,
+  "message": "PETSc-add-version-3.10.3-10154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "808c2ea5ce223948dd4123bb7b3c6748f4a016ca",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-12-04T06:32:30-06:00",
+  "timestamp": 1543926750,
+  "message": "petsc-when-petsc-is-built-with-fortran-default-in-spack-its-best-to-use-hdf5-fortran-9986",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c45080398c250c788887943d843d80222944e18b",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-11-17T21:35:37-06:00",
+  "timestamp": 1542512137,
+  "message": "Add-x-variant-to-petsc.-9830",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ee8a1055ba95c6495b2f8ad6e192496a2060e52",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-09T13:14:41-05:00",
+  "timestamp": 1539108881,
+  "message": "petsc-add-petsc-3.10.2-9467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "846e2c7ca92adabe697fb84c86df59ba8f68e455",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-03T08:19:43-05:00",
+  "timestamp": 1538572783,
+  "message": "PETSc-configure-use-CFLAGS-FFLAGS-CXXFLAGS-from-spack-9383",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ac648407e5302f6ae16ccf33c0f8c1b44d8f797",
+  "author": "Serban Maerean <serban@us.ibm.com>",
+  "date": "2018-09-28T13:46:21-04:00",
+  "timestamp": 1538156781,
+  "message": "Add-PETSc-3.10.1-to-PETSc-s-spackage-file-9382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c4a057fe4108e0e1bfcceb7245b6cb9e67a7540",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-09-24T23:57:38-05:00",
+  "timestamp": 1537851458,
+  "message": "petsc-add-new-versions-3.9.4-and-3.10.0-9319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62977662e93bd8b29f34d5baa1a0d851147085a6",
+  "author": "Ricardo Silva <ricardo.d.silva@gmail.com>",
+  "date": "2018-09-12T20:18:41+02:00",
+  "timestamp": 1536776321,
+  "message": "petsc-fix-compilation-with-intel-9198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0f8b7130f49f17f269824b585f7c913c5df6a0f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-07-02T15:48:13-05:00",
+  "timestamp": 1530564493,
+  "message": "petsc-add-in-latest-release-3.9.3.-8627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df45b6f56db3dde44b80ee433bfdb1de7e921b31",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-24T21:22:14+05:30",
+  "timestamp": 1529855534,
+  "message": "Balay-petsc-remove-boost-dependency-8508",
+  "repo": "spack/spack"
+},
+{
+  "commit": "484e54d78e59231acfe35e737936462c49bb15ff",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-14T20:42:12+02:00",
+  "timestamp": 1529001732,
+  "message": "petsc-add-3.9.1-and-3.9.2-8479",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d14ec7436d655063f253410ce62d8382de70f2b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-13T19:13:09+05:30",
+  "timestamp": 1528897389,
+  "message": "petsc-master-is-a-branch-not-a-tag-so-fix-it-accordingly.-8457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0598f70de2b3e78b5f81af96a272c637a54f4d74",
+  "author": "Serban Maerean <serban@us.ibm.com>",
+  "date": "2018-05-15T02:53:05-04:00",
+  "timestamp": 1526367185,
+  "message": "patch-petsc-test-cases-for-XL-compiler-8091",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c4522ecbd8601c46158c2498adb6168f5476754",
+  "author": "David Wootton <38671868+dwootton-ny@users.noreply.github.com>",
+  "date": "2018-05-10T13:49:18-04:00",
+  "timestamp": 1525974558,
+  "message": "petsc-specify-number-of-processors-used-for-test-case-8015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb5ef39ad2a1e23874374b4a45c57939358c027a",
+  "author": "Ce Qin <qince168@gmail.com>",
+  "date": "2018-05-09T01:44:38+08:00",
+  "timestamp": 1525801478,
+  "message": "Fix-superlu-dist-with-PETSc-3.9.0-8048",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7da156879328c7b25758db359d2235af9d245e3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-24T14:10:46+02:00",
+  "timestamp": 1524571846,
+  "message": "petsc-and-slepc-add-3.9.0-hypre-add-2.14-needed-by-petsc-7877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "388bb2ab3ee7f0406822d2c277b0f54b9aa0694f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-03-28T00:41:17+02:00",
+  "timestamp": 1522190477,
+  "message": "petsc-add-3.8.4-7616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec162e69b27707f37ab979c2064edfe0c6ad9099",
+  "author": "Jed Brown <jed@jedbrown.org>",
+  "date": "2018-02-09T14:11:03-07:00",
+  "timestamp": 1518210663,
+  "message": "petsc-use-spack-built-python-for-configure-7176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d304ad585e86c29863c4eb01e1fc34a3331b22e",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2018-02-09T06:29:10-05:00",
+  "timestamp": 1518175750,
+  "message": "fix-petsc-int64-metis-dependencies-7195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a69cfd5f78d7e33ddb708e057b8068110fffec88",
+  "author": "Paschalis Korosoglou <pkoro@grid.auth.gr>",
+  "date": "2017-12-17T04:37:35+02:00",
+  "timestamp": 1513478255,
+  "message": "Add-petsc-version-3.8.3-6688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61dbd3182d6c48f9c32ad67360cf32e9d248d937",
+  "author": "Paschalis Korosoglou <pkoro@grid.auth.gr>",
+  "date": "2017-12-17T04:37:20+02:00",
+  "timestamp": 1513478240,
+  "message": "Add-clanguage-variant-for-petsc-6689",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd92e4257bd2c56daa8e8dab6062b366f04355f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-11T08:16:03-06:00",
+  "timestamp": 1510409763,
+  "message": "petsc-update-to-version-3.8.2-6244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b07379831f9f641aa45295b058f8c43d3f506f0",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-09T13:34:59-06:00",
+  "timestamp": 1510256099,
+  "message": "petsc-when-hdf5-depends-on-zlib-petsc-hdf5-should-also-be-configur-6189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "436ebc4490be4d3cc7a0e4369a8c4fc27386cf2b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-06T14:52:10-06:00",
+  "timestamp": 1510001530,
+  "message": "petsc-update-petsc-dependency-on-superlu-dist-6159",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d34d0d6cbc893df41730d944653b1e12bddcab71",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-05T11:24:42-06:00",
+  "timestamp": 1509902682,
+  "message": "petsc-update-to-version-3.8.1-6150",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31813ef2c7edd15ce9653d330e3faf46f283380c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-24T19:57:14+02:00",
+  "timestamp": 1508867834,
+  "message": "slepc-and-petsc-version-updates-5863",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6c16de6de54c4f3a1a3f972f2236f1b2675fb3d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-16T09:53:55+02:00",
+  "timestamp": 1508140435,
+  "message": "petsc-a-temporary-workaround-for-concretizer-bug-in-all-packages-which-depend-on-SLEPc-5755",
+  "repo": "spack/spack"
+},
+{
+  "commit": "59163f97509692c5328d65cf89d27d7ffbcf0da3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-10-12T16:09:47-05:00",
+  "timestamp": 1507842587,
+  "message": "petsc-add-in-maintainers-5729",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98c2184bd3948a8babeb081240da606fa1caffa5",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-10-12T13:46:00-05:00",
+  "timestamp": 1507833960,
+  "message": "petsc-update-to-latest-3.8-version-and-include-3.7.7-5723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "182554520f68a742f3c2fb15f7121e1faf583aaa",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2017-07-02T08:09:05-05:00",
+  "timestamp": 1499000945,
+  "message": "PETSc-requires-metis-build-with-compatible-numerical-precision-4654",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0d7768b90674ad200509a7ce71e8f3adb97604e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T23:35:05+02:00",
+  "timestamp": 1495920905,
+  "message": "Petsc-and-Slepc-add-new-versions-4378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af77f811f29b4a297dfa2eccb553bd43995071ce",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-25T23:23:59+02:00",
+  "timestamp": 1495747439,
+  "message": "petsc-fix-scalapack-error-4341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d04ae9a2b4c19e45c99f3af3c6d6a2599486ee05",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2017-04-25T18:09:30-05:00",
+  "timestamp": 1493161770,
+  "message": "xsdk-version-0.2.0-3928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bccc73c6c9c9e64fea4ffc72bf81b69543cdf331",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-05T21:55:28+02:00",
+  "timestamp": 1491422128,
+  "message": "petsc-trilinos-fix-Scalapack-via-MKL-3702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "782882c2a99815736bfd6ade56695fac499e4d67",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-29T22:24:18+03:00",
+  "timestamp": 1490815458,
+  "message": "petsc-a-workaround-for-macOS-Clang-8.1.0-and-XCode-8.3-3615",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8365dbd959f0c8346017c64298fa1cac06122609",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-16T11:23:07+01:00",
+  "timestamp": 1484562187,
+  "message": "petsc-add-64bit-variant-2655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12edc4e3699929eee37321ec0608b7c220a583db",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-15T04:34:48-06:00",
+  "timestamp": 1484476488,
+  "message": "Add-latest-version-of-PETSc-2783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0195371e886e93110816209b118e994a497805c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T19:38:53-06:00",
+  "timestamp": 1483839533,
+  "message": "Unset-PETSC_DIR-during-installation-2768",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fab9af708117d5c681d2a5f4f752c10568ecd714",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-13T10:32:42+01:00",
+  "timestamp": 1481621562,
+  "message": "slepc-petsc-fix-python-dependency-2560",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a1e191b728e98306146448ae80efcc84c772a28",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-12-10T18:22:36-06:00",
+  "timestamp": 1481415756,
+  "message": "Implementation-of-spack-file-for-Pflotran-2444",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d0ea423fbf08fb6cbbe5e4ec5dca993833bc397",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-09T17:43:38+01:00",
+  "timestamp": 1481301818,
+  "message": "petsc-explicitly-disable-X11-2533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d56d4f1f916a3b4690ae6301c9d45343696247f",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-11-29T09:28:09-06:00",
+  "timestamp": 1480433289,
+  "message": "add-support-for-installing-the-development-master-version-of-PETSc-2431",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e59ade030117e29205ffe65ecf1331b5f6f3e34",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-18T17:09:18+02:00",
+  "timestamp": 1476803358,
+  "message": "petsc-minor-fixes.-2036",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d89e5e32b120fc36317240eacdb4fbb55e6425c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-14T17:25:22+02:00",
+  "timestamp": 1476458722,
+  "message": "Package-petsc-slepc-new-versions-2019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88af9f783d956ecc05f494db8539c66f66ebfb26",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-26T13:38:02-04:00",
+  "timestamp": 1474911482,
+  "message": "Make-PETSc-build-on-Darwin-1835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00bac8f2941ebbbe86fe56808ad2791454ba7d38",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T13:05:57-04:00",
+  "timestamp": 1474391157,
+  "message": "PETSc-Explicitly-point-to-cpp-when-configuring-1807",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e482994a1505bf7b8e506872c8ac205fce68b217",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-09T08:12:34+02:00",
+  "timestamp": 1468044754,
+  "message": "petsc-add-lm-when-building-example",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c096bb332a7710a0618049f0e2df1800771bd3f9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T22:45:43+02:00",
+  "timestamp": 1467837943,
+  "message": "petsc-fix-unit-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f4b0e9bda8a7f1cdc16b5f9af6887aa4cb342d3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-30T08:22:01+02:00",
+  "timestamp": 1467267721,
+  "message": "petsc-fix-flake8-and-mpi-case-in-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37728afadae43ccf3b5aa47e314b61d517e26c3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-30T00:19:50+02:00",
+  "timestamp": 1467238790,
+  "message": "petsc-run-a-test",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6390acc660cfa1a402cd89ee9c2f7688ea1d6229",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-15T18:32:42+02:00",
+  "timestamp": 1466008362,
+  "message": "flake8-fixes-for-petsc",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ceb8fea78dfa19526eb258eaacf5c4c8373a093",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-14T15:56:21+02:00",
+  "timestamp": 1465912581,
+  "message": "petsc-add-3.6.4-and-3.7.2-specify-superlu-dist-version-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b909da759d7b6d0443a97c13ba1c97118acd3e7a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-30T19:26:03+02:00",
+  "timestamp": 1459358763,
+  "message": "petsc-remove-no-longer-needed-Qunused-arguments-hack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09e77812b67d92094bea8dae54617e3e02ebaa61",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-28T17:49:20+02:00",
+  "timestamp": 1459180160,
+  "message": "fix-installation-of-superlu_dist-headers-and-add-it-as-a-dependency-to-petsc-add-a-variant-to-hypre-to-disable-internal-superlu",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5eefca43e75d2df1c2f859d199f7bb37e7142993",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-28T14:35:01+02:00",
+  "timestamp": 1459168501,
+  "message": "petsc-extend-variants-by-mumps-complex-and-debug",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27f337aa11104a6e625db6e40f8d9414954123ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T11:44:38+01:00",
+  "timestamp": 1458643478,
+  "message": "petsc-set-PETSC_DIR-in-dependent_env",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b283bfaffa5509915d91392878203bba8a8d2cb",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-21T07:48:17+01:00",
+  "timestamp": 1458542897,
+  "message": "fix-petsc-on-osx",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45ef496dd553e023903b8b4d5bcace59c56eb486",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-09T11:26:37-08:00",
+  "timestamp": 1457551597,
+  "message": "Add-some-descriptive-language-to-a-list-comprehension",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43c277dc617020d7aaa1e292e01e79d0840999e",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-09T10:55:50-08:00",
+  "timestamp": 1457549750,
+  "message": "Merge-citibeth-and-alalazo-s-petsc-fixes-from-515-and-517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f01d1c4385f05dd7bda7efb3a9e7f2c8008e177a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-09T14:36:37+01:00",
+  "timestamp": 1457530597,
+  "message": "petsc-added-variants-and-logic-to-build-various-flavors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c67b922185ebf5b7686d5b4958e2b31b8f0f1469",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-09T00:34:08-05:00",
+  "timestamp": 1457501648,
+  "message": "Added-shared-library-capability",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6ad37557f337a3d78cd4f63b0a420c7f8b712af",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-06-06T17:41:15-07:00",
+  "timestamp": 1433637675,
+  "message": "fix-up-Saravan-s-petsc-install",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd34f4b119243d42b64e4ca2c358cf561fde9a14",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-05-27T17:39:17-07:00",
+  "timestamp": 1432773557,
+  "message": "Added-more-FASTMath-packages",
+  "repo": "spack/spack"
+}]

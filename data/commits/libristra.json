@@ -1,0 +1,8 @@
+[{
+  "commit": "bba41f16d401c6b09404b4ce2332162329635e9f",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2021-03-20T03:38:13-06:00",
+  "timestamp": 1616233093,
+  "message": "libristra-add-new-package-22343",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,408 @@
+[{
+  "commit": "159d3b3381ce1e391be13fb6be384fcf186f1ee6",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2021-04-27T23:12:01-04:00",
+  "timestamp": 1619579521,
+  "message": "tau-Use-compiler-name-instead-of-basename-23247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "303e506f2ba232e72ec3254a2e1eed8d8ee8c2bc",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2021-04-27T10:36:17-07:00",
+  "timestamp": 1619544977,
+  "message": "Add-plugins-to-binutils-dependency-23272",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5d1cb09ad17a0224e6aa4de682299c1e30b0d19",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2021-02-02T15:21:30-08:00",
+  "timestamp": 1612308090,
+  "message": "Updated-TAU-v2.30.1.-21453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b81bbfb6e9691036fc284f034e749a3b9361bf5a",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2020-11-17T19:09:24-08:00",
+  "timestamp": 1605668964,
+  "message": "Added-level_zero-rocm-opencl-flags-and-sha256-for-TAU-v2.30.-19962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa9ad0a3da3dc5851155119287cfe4763cadfbeb",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-10-20T14:25:52-07:00",
+  "timestamp": 1603229152,
+  "message": "tau-unwind-patch-only-patch-2.29-not-2.29.1-19409",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92bbc2e789a8361cab99b13a22ea4cdde0ea96f5",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2020-10-19T14:25:58-07:00",
+  "timestamp": 1603142758,
+  "message": "Added-tau-version-2.29.1-hash-19329",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f128e7de54a29ca422e43e0f24145f95638724c5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-28T10:56:59+02:00",
+  "timestamp": 1595926619,
+  "message": "Removed-references-to-BlueGene-Q-in-Spack-builtin-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b64ec7fba4c512f6abcfc51b7b2c5c92907bbeda",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-06-04T06:58:33-07:00",
+  "timestamp": 1591279113,
+  "message": "pass-hwloc-to-configure-via-useropt-use-lib-or-lib64-as-appropriate-for-libunwind-16941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc145b2b3f87da8276e4c2e0665e9830de3d0322",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2020-05-22T19:40:28-07:00",
+  "timestamp": 1590201628,
+  "message": "TAU-remove-nls-constraint-on-binutils-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "999c8e3a672c91cee4ed6688a38307a4b06bdee5",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2020-04-15T14:07:57-07:00",
+  "timestamp": 1586984877,
+  "message": "Added-maintainers-16078",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8edd352c22cce715840a4e2421b419701bcf78d9",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-14T13:33:33-05:00",
+  "timestamp": 1586889213,
+  "message": "tau-remove-deprecated-variants-16041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97dcf7b8ee0c1e8e69613b9181759952a83edd63",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-11T19:44:26-05:00",
+  "timestamp": 1586652266,
+  "message": "tau-added-new-variants-16005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f8ff722a9767538d3edddacb2bd8ee6acc9d1a5",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-03-20T11:44:03-07:00",
+  "timestamp": 1584729843,
+  "message": "tau-add-dependency-on-hwloc-15589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "304f0e9ef1f0e811225d4cf5cce957d4431bb734",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2020-03-17T08:38:53-07:00",
+  "timestamp": 1584459533,
+  "message": "Corrected-compiler-filtering-for-TAU-makefiles-15342",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c92847a30c945612658a617bf70d33f794736390",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-03-16T17:47:24-07:00",
+  "timestamp": 1584406044,
+  "message": "cap-binutils-version-2.33.1-due-to-build-failures-with-2.34-15504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebd248b27e47370bb597619c11488e5b2367a1c9",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2020-02-26T15:14:09-08:00",
+  "timestamp": 1582758849,
+  "message": "SQLite-shouldn-t-be-enabled-by-default-for-TAU-package-15228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21afb13be6ceb35dde871478f555eb4033abaa49",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2020-02-24T20:33:05-08:00",
+  "timestamp": 1582605185,
+  "message": "Adding-ADIOS2-and-SQLite3-output-support-to-TAU.-Also-fixing-MPI-include-and-library-paths.-15189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30d487509b1a106b43bfe4faf02ddd3355466ab1",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2020-02-17T15:19:48-08:00",
+  "timestamp": 1581981588,
+  "message": "Added-new-default-tau-version-2.29.-Added-explicit-zlib-build-requir-15010",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4c28182dcd27639eaa5233334427fd416d9e674",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2019-09-27T17:16:44-07:00",
+  "timestamp": 1569629804,
+  "message": "Tau-package-turn-off-unsupported-variants-by-default-on-OSX-12890",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35221c127eb47e7ddcdcbb793e9db0f6bd1ccfc0",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2019-09-07T20:44:40-07:00",
+  "timestamp": 1567914280,
+  "message": "Updating-TAU-package.-Fixing-compiler-specification-for-OSX-12720",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1a9edbc7c5792320d67fa1ab95e9a575aa81594",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2019-08-23T14:41:28-07:00",
+  "timestamp": 1566596488,
+  "message": "tau-package-add-version-2.28.2-12524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9dd61f53134ad2ffd6225847daefdf10e1acbf16",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2019-08-02T13:14:43-07:00",
+  "timestamp": 1564776883,
+  "message": "Fixed-arch-setting-variants.-Activate-cray-arch-automatically.-11203",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f21073d231b1da00eedc99ec3c6702e01b6c9886",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2019-07-05T19:08:43-07:00",
+  "timestamp": 1562378923,
+  "message": "tau-add-conflicts-for-libelf-libdwarf-variants-11944",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5a2d7698d17346e4a7ac34e0ae4c79b5090d8c7",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2019-05-31T08:01:19-07:00",
+  "timestamp": 1559314879,
+  "message": "Package-tau-tau-2.28.1-update-11591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d12ff6e16bf0414143c984d0ba936884dee9229",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2019-01-23T22:40:58-06:00",
+  "timestamp": 1548304858,
+  "message": "Update-ecp-st-tau-pdt-8192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98f11b9defd876e36b692f3780471a23521d43d2",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2018-06-18T00:21:00+02:00",
+  "timestamp": 1529274060,
+  "message": "Add-new-versions-for-TAU-and-PDT-package-8497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba58a9f30d9b15c006e22a96d1153f0d3496285d",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-11-08T16:18:14+01:00",
+  "timestamp": 1478618294,
+  "message": "fix-tau-installation-issue-2269",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b706da1109e5bf71f3f7ffd56598677ebb9c3dad",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-11-02T21:05:47+01:00",
+  "timestamp": 1478117147,
+  "message": "Set-TAU_MAKEFILE-env-variable-2210",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e301d623329d3f484316643c6a50dc3df4806dab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-08-20T11:46:59-07:00",
+  "timestamp": 1408560419,
+  "message": "Remove-development-TAU-version-from-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa3b19000db9ed6f3d6cf31895aeee4ac0d4e633",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-08-11T22:47:13-07:00",
+  "timestamp": 1407822433,
+  "message": "update-tau-tarball",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6127b0baa69fa469cf9a02dcd5dc78f674b746b3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-08-06T21:58:59-07:00",
+  "timestamp": 1407387539,
+  "message": "new-prototype-TAU-tarball-from-Kevin",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90cd0c7efa9cc6b1e58530bede25deeaaaf9f52e",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-31T13:26:55-07:00",
+  "timestamp": 1406838415,
+  "message": "Add-Kevin-s-experimental-TAU-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "295ffd8c506821ed079d2151fb21cd27979d7387",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-08T01:56:32-07:00",
+  "timestamp": 1404809792,
+  "message": "Adding-dotkit-support-to-TAU",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05516389441e6818ff3ee22bb4e51d50b3bb5cd4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-02T23:22:38-07:00",
+  "timestamp": 1404368558,
+  "message": "Add-TAU-package-and-routines-to-filter-files-fix-sed-calls",
+  "repo": "spack/spack"
+}]

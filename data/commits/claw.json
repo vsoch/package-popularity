@@ -1,0 +1,128 @@
+[{
+  "commit": "5d88f439f34108b9b474dd495139e9c0b60c7336",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-04-16T17:11:57+02:00",
+  "timestamp": 1618585917,
+  "message": "claw-bugfix-for-Cray-compiler-23027",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05ebe52643b166c59cae099883f496b9b9dd2fb6",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-04-14T23:49:48+02:00",
+  "timestamp": 1618436988,
+  "message": "claw-package-support-for-cce11-22986",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb48b29375ef6242d87fa18ecb03705772a8d86b",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-03-30T20:33:31+02:00",
+  "timestamp": 1617129211,
+  "message": "claw-support-for-gcc10-22618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cff3048099ebe0db1b078d46e0a9de63913af06",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-09-15T17:04:59+02:00",
+  "timestamp": 1600182299,
+  "message": "CLAW-update-the-package-18673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42dec9eb128309112bff1c4aabdbc9dc090c9210",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2020-07-29T22:43:14-04:00",
+  "timestamp": 1596076994,
+  "message": "CLAW-Add-version-2.0.2-17733",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83bea039cf9e225759464a6b6be4e2675e3874e0",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2019-09-19T18:27:22+02:00",
+  "timestamp": 1568910442,
+  "message": "CLAW-Compiler-added-version-2.0.1-12878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "edae707b9cfc0da1445877516fc0e77f5f25a3c7",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2019-08-23T17:30:39+02:00",
+  "timestamp": 1566574239,
+  "message": "Add-version-2.0-12545",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4d8b1ee6071478ea0221a368eea56f48ab5225f",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2019-06-17T16:03:26+02:00",
+  "timestamp": 1560780206,
+  "message": "Add-version-1.2.2-and-1.2.3-to-the-package-11748",
+  "repo": "spack/spack"
+},
+{
+  "commit": "548e6736c41ca11a2c07f2ce6104ab3eff7f3517",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2019-02-06T15:51:52+01:00",
+  "timestamp": 1549464712,
+  "message": "Update-CLAW-package-with-version-1.2.1-10528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1388f6e907c7e6d80859dd816eb6fe30ab1de2ff",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2018-11-13T16:49:08+01:00",
+  "timestamp": 1542124148,
+  "message": "Add-new-version-1.2.0-to-the-package-9837",
+  "repo": "spack/spack"
+},
+{
+  "commit": "768111c36541316b56ba3209f1833161b032f926",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2018-11-07T15:24:24+01:00",
+  "timestamp": 1541600664,
+  "message": "Use-the-raw-compiler-path-for-the-preprocessing-pass-in-CLAW-driver-9748",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a97e9cb28254fc66b189a1f96fd748e8bc647317",
+  "author": "Valentin Clement (バレンタイン クレメン) <clementval@gmail.com>",
+  "date": "2018-10-03T17:17:13+02:00",
+  "timestamp": 1538579833,
+  "message": "CLAW-Compiler-Add-Spack-Package-9405",
+  "repo": "spack/spack"
+}]

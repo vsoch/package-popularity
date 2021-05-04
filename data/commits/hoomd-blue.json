@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e54a42cc977b6889a1e0e1a4e768e851aa6a7d6",
+  "author": "snehring <snehring@users.noreply.github.com>",
+  "date": "2018-10-29T15:46:35-05:00",
+  "timestamp": 1540845995,
+  "message": "hoomd-blue-fixing-issue-during-build-with-newer-cmakes-9543",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e948a54d8e44ca5b20d4c41c8c6f2344fde32f0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:17:01-05:00",
+  "timestamp": 1532485021,
+  "message": "All-git-URLs-end-in-.git",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31417bf66c3f1a3590d39e5c9892d07252094aa7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:08:43-05:00",
+  "timestamp": 1532484523,
+  "message": "Replace-git-git-with-explicit-branch-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "732432df500f2e356f38f3e538fbb788be7374cb",
+  "author": "Brock Palen <brockp@umich.edu>",
+  "date": "2018-03-08T03:35:59-05:00",
+  "timestamp": 1520498159,
+  "message": "hoomd-blue-version-bump-and-compiler-updated-7021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36b8ea2f928651a53f29c0dae158f70597207173",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-09T12:28:39-05:00",
+  "timestamp": 1497029319,
+  "message": "Add-default-list_url-for-GitLab-BitBucket-and-CRAN-4439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f51af42bc61295d41fe74b2d5beecedafa1d2379",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-19T23:24:32-05:00",
+  "timestamp": 1492662272,
+  "message": "Add-latest-version-of-HOOMD-blue-3889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0902ad8d8a8c629eb921b8701332385d622bc12",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-31T11:04:29-05:00",
+  "timestamp": 1459440269,
+  "message": "Change-variant-defaults-and-add-comment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9519f3d988d4f83cd3edf9bbdd90080559ba9549",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-30T11:46:58-05:00",
+  "timestamp": 1459356418,
+  "message": "Fix-MPI-CUDA-bug",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ddba5f7edd97c8c17781368edc5b9a0db74417d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-29T14:47:16-05:00",
+  "timestamp": 1459280836,
+  "message": "Add-CUDA-and-HOOMD-blue-packages",
+  "repo": "spack/spack"
+}]

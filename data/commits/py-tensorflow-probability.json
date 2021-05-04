@@ -1,0 +1,16 @@
+[{
+  "commit": "16adb5dd8f2847822528bc771c8c2cfc4eb947b4",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-08T10:58:08-05:00",
+  "timestamp": 1615219088,
+  "message": "py-tensorflow-probability-run-install-from-correct-working-dir-22175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0b5dcca3c0e5f4a99b5253f39dc7f72ef4782ae",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-07T21:23:49-05:00",
+  "timestamp": 1615170229,
+  "message": "py-tensorflow-probability-new-package-22165",
+  "repo": "spack/spack"
+}]

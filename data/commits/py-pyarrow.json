@@ -1,0 +1,112 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6672278e68755dd035eedc5feee96bce1c3cf978",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-12-11T17:37:36+09:00",
+  "timestamp": 1607675856,
+  "message": "py-pyarrow-fix-build-for-aarch64-20335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6f19eeed2e0142d923827131afa4a5170f9eeb9",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-10-22T16:19:16-04:00",
+  "timestamp": 1603397956,
+  "message": "py-pyarrow-cuda-and-orc-support-19445",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44c7826892db9646b557ce25a9691f773b9633bd",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-09-18T11:28:28-04:00",
+  "timestamp": 1600442908,
+  "message": "py-pyarrow-added-variant-cuda-18716",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33ec8cd86a98b15e143ae69c471c2fb1ceaef6bc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-09T07:31:28-05:00",
+  "timestamp": 1596976288,
+  "message": "py-azureml-sdk-add-v1.11.0-and-deps-17939",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3b9dbcbfbfabdb0c06ef1d1ab44a980109fa9d0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-05T15:43:09-05:00",
+  "timestamp": 1586119389,
+  "message": "package-urls-pypi.org-pypi.io-15880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0616c6ada1fc25e5f387b1b8540872e45099676e",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2019-11-07T18:52:29+01:00",
+  "timestamp": 1573149149,
+  "message": "py-arrow-new-versions-13561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fc4489ee1724db89536ce85d23313cff3de2290",
+  "author": "Matthias Wolf <m+git@sushinara.net>",
+  "date": "2019-04-03T02:00:04+02:00",
+  "timestamp": 1554249604,
+  "message": "py-arrow-and-arrow-add-version-0.12.1-11004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f56f6d4e38fdf88b0aa552f231d6fc5abf63c3ad",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T07:01:41+01:00",
+  "timestamp": 1542088901,
+  "message": "Fix-pkg-config-dependencies-9738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8767167c79b506af4f72e13b6dfdf49f0fb178b4",
+  "author": "Matthias Wolf <m+git@sushinara.net>",
+  "date": "2018-10-24T12:53:32+02:00",
+  "timestamp": 1540378412,
+  "message": "py-pyarrow-new-package-9416",
+  "repo": "spack/spack"
+}]

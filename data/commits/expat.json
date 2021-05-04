@@ -1,0 +1,208 @@
+[{
+  "commit": "12224930552272d0d6686a606eca6be6c91dc8d4",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-15T13:49:31+02:00",
+  "timestamp": 1618487371,
+  "message": "Update-versions-of-several-dependencies-of-Spack-22990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd07decd27b88748c7c9e99fc165c57c463649ce",
+  "author": "Martin Oberzalek <62324958+moberza@users.noreply.github.com>",
+  "date": "2020-11-24T03:46:14+01:00",
+  "timestamp": 1606185974,
+  "message": "Also-build-static-library-20016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4476573956c184ee0119c6aa158cb7f8a8521d1",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-07T03:51:04+01:00",
+  "timestamp": 1604717464,
+  "message": "expat-add-2.2.10-19791",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc190f397aaa8162e00f59c5ef5563ac8f9980d2",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-16T06:11:33+01:00",
+  "timestamp": 1581829893,
+  "message": "Add-new-version-of-expat-14948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0543005b264553bda28dedc1c0914bb1aab6e2e",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-10-16T05:59:51-07:00",
+  "timestamp": 1571230791,
+  "message": "expat-don-t-pick-up-external-docbook-13228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e925dbcefe727529e9d8f4c90cf135fffc5c07fc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:10:48-05:00",
+  "timestamp": 1570727448,
+  "message": "Add-expat-2.2.9-13085",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99f678035a279cf85a32a4fdbd98a117b9c1832f",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-17T21:04:57-04:00",
+  "timestamp": 1526605497,
+  "message": "libexpat-Fix-for-older-systems-move-to-GitHub-8135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0d3d33b58eb14e3da2980db43db98b0cbd3e967",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-08-25T03:18:06+02:00",
+  "timestamp": 1503623886,
+  "message": "dealii-add-nanoflann-sundials-and-adol-c-plus-fixes-on-macOS-5175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f24398cde6902ae7871d7bd1992a0e1a08c47ab0",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-08-03T12:57:58-07:00",
+  "timestamp": 1501790278,
+  "message": "Add-package-for-libbsd-add-variant-to-expat-for-libbsd-4945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0aaab9bc8c361089c032c28f6a11b55fab06a020",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-31T12:36:18-05:00",
+  "timestamp": 1501522578,
+  "message": "Add-latest-version-of-expat-4930",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68baac0549e816dce68ebab40c701b92f5f46dec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T20:07:00-06:00",
+  "timestamp": 1483841220,
+  "message": "Various-updates-to-the-NCO-package-and-dependencies-2639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eace068788956fbceb240f41949af54fa62db82c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T15:21:23-05:00",
+  "timestamp": 1472070083,
+  "message": "Use-self.run_tests-for-make-check",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58d770406062de9f72bc470c30f5b0ac4b841438",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-29T16:49:46-05:00",
+  "timestamp": 1469828986,
+  "message": "Overhaul-of-compression-libraries",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e414c5fdfbc91e5934ee59233475f8f862e2e0ce",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:31:18-05:00",
+  "timestamp": 1456803078,
+  "message": "Added-missing-cmake-dependencies",
+  "repo": "spack/spack"
+}]

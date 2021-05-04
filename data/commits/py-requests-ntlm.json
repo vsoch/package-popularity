@@ -1,0 +1,8 @@
+[{
+  "commit": "77a211dc468fc76bf6cdde9344d1b156719a7477",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-04-07T15:53:58-05:00",
+  "timestamp": 1617828838,
+  "message": "py-requests-ntlm-add-new-package-22842",
+  "repo": "spack/spack"
+}]

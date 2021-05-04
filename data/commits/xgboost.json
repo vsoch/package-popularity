@@ -1,0 +1,56 @@
+[{
+  "commit": "2b201ba401c933258978f4df2867bc67358fbc65",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-24T21:42:17-06:00",
+  "timestamp": 1614224537,
+  "message": "Overhaul-xgboost-packages-21661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5dc4a722ec9c2eda64a774e327c7b0e6dd13d75",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2020-03-04T18:19:03-08:00",
+  "timestamp": 1583374743,
+  "message": "xgboost-add-version-0.90-15321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70c5088a4c91f4313cd9390e54044502eaea5991",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-12-30T08:15:08-08:00",
+  "timestamp": 1546186508,
+  "message": "xgboost-make-sure-libxgboost.so-is-provided-under-prefix-lib-10208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c451733f9a75277112cf25c15b60eed830ef1c5d",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-12-27T00:42:44-06:00",
+  "timestamp": 1545892964,
+  "message": "xgboost-new-package-at-0.81-9854",
+  "repo": "spack/spack"
+}]

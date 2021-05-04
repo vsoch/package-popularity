@@ -1,0 +1,8 @@
+[{
+  "commit": "56af6ac79f1a7596aab2804c457e052a7e628589",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-23T10:20:04+01:00",
+  "timestamp": 1614072004,
+  "message": "octave-signal-new-package-at-v1.4.1-21872",
+  "repo": "spack/spack"
+}]

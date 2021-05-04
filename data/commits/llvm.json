@@ -1,0 +1,1080 @@
+[{
+  "commit": "4cca69f4ed7956f4748a13452adf88b25ebbcc2a",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-17T00:15:18+02:00",
+  "timestamp": 1618611318,
+  "message": "llvm-new-version-12.0.0-23033",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1ec5154dbcadf4023d8e9dc78edad60c1121cdf",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-16T20:48:32+02:00",
+  "timestamp": 1618598912,
+  "message": "LLVM-needs-ld-gold-with-plugin-support-22988",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14c7a138938af05d09f7b2bb76ed887ffeccd811",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2021-03-28T12:06:46-05:00",
+  "timestamp": 1616951206,
+  "message": "Flang-default-is-False.-Include-a-warning-to-deter-people-from-using-it.-22524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9188498a844ed4c65495ee101526bbe406fe3689",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-26T23:49:32+01:00",
+  "timestamp": 1616798972,
+  "message": "llvm-new-version-22540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6997991ad2ba58f2c70515a36e985a7c70fc1b2f",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-03-24T15:43:20-06:00",
+  "timestamp": 1616622200,
+  "message": "Llvm-7-intel-patch-22516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12cad38aefc87531e717f4b5f9bf8186d8d593d6",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2021-03-17T00:22:10+01:00",
+  "timestamp": 1615936930,
+  "message": "llvm-enable-ncurses-patch-for-building-on-SUSE-in-11.0.1-22319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1dc4ba3700c6e56b417a8c497d45e25e417e644",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-01T06:32:36-08:00",
+  "timestamp": 1612189956,
+  "message": "llvm-master-branch-is-now-main-branch-21411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0594ba3026ca03259f0b5f72569a7c6e5f60462",
+  "author": "Ye Luo <xw111luoye@gmail.com>",
+  "date": "2021-01-06T12:17:20-06:00",
+  "timestamp": 1609957040,
+  "message": "Remove-hard-coded-standard-C-library-selection-and-add-more-releases-in-llvm-package-19933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "865d38afa7e26ac1afce35d62d607a265976d8b0",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-02-09T15:26:49-07:00",
+  "timestamp": 1612909609,
+  "message": "ParaView-LLVM-add-shared-intel-to-solve-intel-linking-failures-18195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b58499d7a92468300cb39f73d9b2dc5a7d60c02",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-01T06:32:36-08:00",
+  "timestamp": 1612189956,
+  "message": "llvm-master-branch-is-now-main-branch-21411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82ada16668984121e9993c606f09f35962746a38",
+  "author": "Nicholas Sly <nicholas.sly@gmail.com>",
+  "date": "2021-01-22T16:39:44-07:00",
+  "timestamp": 1611358784,
+  "message": "Add-flang-variant-to-llvm-package.-21229",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58d5b73ba4111ee1abd9d668086b2b2aa17fcf16",
+  "author": "Thomas Green <tomgreen66@hotmail.com>",
+  "date": "2021-01-15T08:22:58+00:00",
+  "timestamp": 1610698978,
+  "message": "Improve-gcc-detection-in-llvm.-20189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "844d98f727289cb6055c9e97d1756106a5075968",
+  "author": "Ye Luo <xw111luoye@gmail.com>",
+  "date": "2021-01-06T12:17:20-06:00",
+  "timestamp": 1609957040,
+  "message": "Remove-hard-coded-standard-C-library-selection-and-add-more-releases-in-llvm-package-19933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "860825ee14ab54c8b5ec1a1da0950387a6debd2a",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-12-26T10:47:37-05:00",
+  "timestamp": 1608997657,
+  "message": "llvm-provide-fix-for-python-dependencies-20356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80624213f41e53efdff3b353c6ecf32ec2419739",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-11-30T07:47:00-05:00",
+  "timestamp": 1606740420,
+  "message": "llvm-conflict-for-CMake-breaking-change-when-treating-ASM-files-as-C-20105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b7a5e53a628e67e5d728a87f41b3b2612877522",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-19T11:06:45+01:00",
+  "timestamp": 1605780405,
+  "message": "clang-llvm-fix-version-detection-19978",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd54cb4c7a245abb6d5be2570a8fc4ceffdf22f4",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-19T10:34:13+01:00",
+  "timestamp": 1605778453,
+  "message": "llvm-add-missing-pkgconfig-dependency-19982",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a7ae2c27fabeaeecf928337d7b990e069b5e2e",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-11-16T14:10:20-08:00",
+  "timestamp": 1605564620,
+  "message": "llvm-add-variant-llvm_dylib-LLVM_BUILD_LLVM_DYLIB-Bool-19701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acc075d79d009bfa1e9b1a67a4a559c9fa9772e3",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-11-02T14:39:21+01:00",
+  "timestamp": 1604324361,
+  "message": "llvm-fix-lldb-build-with-external-ncurses-on-openSUSE-19627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a6c5ff5410746c27baa3cf893c08583eb54de78",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-10-16T23:02:57-05:00",
+  "timestamp": 1602907377,
+  "message": "Add-LLVM-11.0.0-19309",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecf4829de7b9683a680176e9dff85ba11c0f03d9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-08-13T16:03:09+02:00",
+  "timestamp": 1597327389,
+  "message": "llvm-added-external-detection-capabilities-17989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f128e7de54a29ca422e43e0f24145f95638724c5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-28T10:56:59+02:00",
+  "timestamp": 1595926619,
+  "message": "Removed-references-to-BlueGene-Q-in-Spack-builtin-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c015b8538d616ebf451746fe500de99e3847c36d",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-08-09T14:04:53-05:00",
+  "timestamp": 1596999893,
+  "message": "LLVM-minor-cleanup-17905",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7ae244a1476fb99a4ca6027874a65af3c86e23e",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-08-09T04:39:11-07:00",
+  "timestamp": 1596973151,
+  "message": "llvm-added-v10.0.1-17950",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75042c381c9fd1412f0fce99aab9ebd43fd528c8",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-25T21:36:08-07:00",
+  "timestamp": 1587875768,
+  "message": "LLVM-lldb-10.0-Python-Link-Dependency-16299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f285fdd053b14b6a05ea1a48add80fa79b4cefb",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-04-22T09:49:07-05:00",
+  "timestamp": 1587566947,
+  "message": "fix-code-signing-on-macOS-15592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebd86bd1eb0ea09b3568b7cc1901c0ce9a5ece57",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-04-17T15:18:27-05:00",
+  "timestamp": 1587154707,
+  "message": "LLVM-libomptarget-fixes-16104",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd2e6ee50f25a7fa091e494fcca90430a2fde97d",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2020-04-14T23:30:45-04:00",
+  "timestamp": 1586921445,
+  "message": "Apply-same-patch-to-version-10.-15963",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46bcbac7197e96cc6ddf5ebbec8255eda6a88c46",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-04-07T17:02:38-05:00",
+  "timestamp": 1586296958,
+  "message": "Make-use-of-Spack-s-builtin-CUDA-build-system.-15924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ee9fd46bc41759e1c8e70b70d538a458edf8413",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-04-04T11:12:21-05:00",
+  "timestamp": 1586016741,
+  "message": "LLVM-support-for-mlir-15859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "917c0a0efd4258b76fe62f66233a9cca3186c5d4",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-04-01T12:28:36-05:00",
+  "timestamp": 1585762116,
+  "message": "Minor-LLVM-libomptarget-fixes-15788",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3e1b2bd58d02d43c2dce65b8e0cfc89791486f1",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2020-03-28T13:20:06-07:00",
+  "timestamp": 1585426806,
+  "message": "llvm-libomptarget-support-14060",
+  "repo": "spack/spack"
+},
+{
+  "commit": "629c69d383fc723ea1c6a4554d224cf367e66cfb",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-22T14:09:22-05:00",
+  "timestamp": 1582398562,
+  "message": "Automatically-run-LLDB-codesign-script-on-mac-15169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e3a1653a5772f6b4d119b0778e662ea3177026",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-20T13:00:48-05:00",
+  "timestamp": 1582221648,
+  "message": "Mark-binutils-related-conflicts-15075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f6f81269637e691bc1c96433a8c04ba8dec5674",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-05T20:37:08-06:00",
+  "timestamp": 1580956628,
+  "message": "Update-llvm-adjust-dependency-specs-and-conflicts-14561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fd335d6549bf731ec36c9b5079bc29328a9c853",
+  "author": "Brian Homerding <homerdin@gmail.com>",
+  "date": "2020-01-25T12:26:11-06:00",
+  "timestamp": 1579976771,
+  "message": "Removing-flang-variant-from-llvm-package-14600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f7a58b142cf30ffdc8bff074742d4f658ab3e2f",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-12-11T15:03:57-05:00",
+  "timestamp": 1576094637,
+  "message": "Fix-constexpr-for-llvm-9.0-14095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7a03d07b60a04b1d88823765694133b6d2bb8a5",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2019-12-11T10:51:45-07:00",
+  "timestamp": 1576086705,
+  "message": "llvm-fix-for-building-llvm-using-Cray-PE-12734",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d523dd6890148af1cf18a04c312738d8c2dec26",
+  "author": "Galen Shipman <gshipman@lanl.gov>",
+  "date": "2019-12-06T11:38:58-07:00",
+  "timestamp": 1575657538,
+  "message": "Add-patch-to-fix-issue-building-current-llvm-develop-master-on-power9-13986",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e20bd86e4438760e24c9db66649732af852113e",
+  "author": "Brian Homerding <homerdin@gmail.com>",
+  "date": "2019-12-06T12:01:30-06:00",
+  "timestamp": 1575655290,
+  "message": "Convert-llvm-Spackage-to-use-the-monorepo-11392",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae6229dee20da04b2120dc97cdfae800c136e42a",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-11-07T18:05:16-07:00",
+  "timestamp": 1573175116,
+  "message": "llvm-fix-PythonString-GetString-for-python-3.7-13631",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed898255572a7b00bc2378f33f28ea519d7fd05c",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-11-03T15:47:41-07:00",
+  "timestamp": 1572821261,
+  "message": "constexpr_longdouble.patch-should-be-applied-to-v6-too-13548",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea6e279bbc4c5973d1030013f1c8b21b15fc745b",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2019-10-28T03:59:13+01:00",
+  "timestamp": 1572231553,
+  "message": "LLVM-code-signing-on-OSX-link-to-the-offical-documentation-13428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e366f6ba3996f815be01fc8ef92ad4ef5e134c67",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2019-10-04T22:31:43+02:00",
+  "timestamp": 1570221103,
+  "message": "llvm-update-link-to-the-document-explaining-codesign-13047",
+  "repo": "spack/spack"
+},
+{
+  "commit": "437236781ddaf40e8725d96866b4e402db1a03f8",
+  "author": "Felix Thaler <felix.thaler@nummi.ch>",
+  "date": "2019-10-04T16:56:12+00:00",
+  "timestamp": 1570208172,
+  "message": "LLVM-9.0.0-13050",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6cae978b8018f87d1129cbb7a33f0f27d9c497b",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-09-25T18:41:02-05:00",
+  "timestamp": 1569454862,
+  "message": "llvm-mesa-update-target-comparison-semantics-12914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39ad0efb9a70321b3bffc429febd4d05123a6ae9",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-08-16T15:27:35-04:00",
+  "timestamp": 1565983655,
+  "message": "Solve-compilation-error-on-summit.-12305",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52a737affe8d58c3017fe5803e51c3cd6bda5a8b",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-11T13:40:12-04:00",
+  "timestamp": 1565545212,
+  "message": "Use-correct-GCC-installation-when-installing-clang-with-GCC-12381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e02dc258bd6e9f4d4e604f21c482bf2005ab662",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-07-29T13:23:15-06:00",
+  "timestamp": 1564428195,
+  "message": "LLVM-package-add-optional-libomp_tsan-support-11793",
+  "repo": "spack/spack"
+},
+{
+  "commit": "441401bb8bed5cccc48ff259d72b9717c6e5d635",
+  "author": "Dr Owain Kenway <o.kenway@ucl.ac.uk>",
+  "date": "2019-07-01T01:04:29+01:00",
+  "timestamp": 1561939469,
+  "message": "llvm-don-t-build-CppBackend-for-flang-versions-of-llvm-11841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2de78ab00ba5b72a2f3ee2a41d7a8b6f28bf7ca",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-28T15:59:19+02:00",
+  "timestamp": 1561730359,
+  "message": "fenics-llvm-Fix-package-names-being-overriden-11879",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4ce4e5c2c3ae83d24965ed95b3d6cf6aa94b9cf",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-04-29T10:39:13-04:00",
+  "timestamp": 1556548753,
+  "message": "llvm-Adjust-default-supported-targets",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f44443ed3a2b99a6a17a6c8d230be886842ae90e",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-02T16:21:06-04:00",
+  "timestamp": 1556828466,
+  "message": "llvm-depend-on-python-only-when-python-11348",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e64ee7e1beb65de703c5c0e9047f557dfef4695d",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2019-04-18T16:58:41+02:00",
+  "timestamp": 1555599521,
+  "message": "Prevent-building-llvm-8-with-an-incompatilble-gcc-11220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e37246461163aabefd269d9b5ac29f0ff77bdf24",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-04-17T07:31:42-07:00",
+  "timestamp": 1555511502,
+  "message": "Add-llvm-8.0.0-11197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf03edb51b2c5e46501ed43d97d63f32264edefe",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2019-03-25T20:43:18-04:00",
+  "timestamp": 1553560998,
+  "message": "LLVM-package-disable-CUDA-10858",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6535eae5c7cab445bc22d871dc403f8760c302be",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-01-28T17:32:30-06:00",
+  "timestamp": 1548718350,
+  "message": "llvm-various-updates-10427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1d651e80f51aed7e42211016517563dfbba0c65",
+  "author": "Gary Klimowicz <gklimowicz@pobox.com>",
+  "date": "2018-12-31T09:50:04-08:00",
+  "timestamp": 1546278604,
+  "message": "flang-llvm-pgmath-Add-release-for-2018-09-21-10224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7bb03c7a3209a6dacdf8bb7370e35fb05894b22",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-10-25T18:05:26-07:00",
+  "timestamp": 1540515926,
+  "message": "LLVM-add-older-version-and-gcc-constraint-9614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38111dc68ecbe8052b61f04e5dd591488bdfacbd",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-10-18T13:22:56-07:00",
+  "timestamp": 1539894176,
+  "message": "llvm-rename-trunk-version-to-develop-9320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc895083b9b14fe24d3055c71902767c26f89bb",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-09-20T08:21:42-07:00",
+  "timestamp": 1537456902,
+  "message": "Added-llvm-7.0.0-9296",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb39d0c729348fff8cb2ff17aeaaae89af297012",
+  "author": "Tin Huynh <tinlun123@gmail.com>",
+  "date": "2018-08-03T17:35:09-07:00",
+  "timestamp": 1533342909,
+  "message": "Package-flang-Updated-to-use-own-version-of-llvm-8766",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3494c6e403b05c4c2f097d996671c63e3ca8a0b2",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2018-07-27T08:47:18+10:00",
+  "timestamp": 1532645238,
+  "message": "Updated-llvm-to-version-6.0.1.-The-previous-6.0.0-had-an-incorrectly-8801",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79669ac6474943dc4f6f27e847fbd04515f43bb1",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2018-05-11T12:32:26-07:00",
+  "timestamp": 1526067146,
+  "message": "llvm-replace-when-with-internal-check-in-run_before-8092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dfc0278e7c828a96ac6592869edd2d8fb99695b",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-05-09T06:04:06-07:00",
+  "timestamp": 1525871046,
+  "message": "llvm-lldb-plaform-darwin-check-for-lldb_codesign-certificate-7012",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be3f08d0dee19e41f595b7145b9021700d3f9972",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2018-03-22T13:42:41-07:00",
+  "timestamp": 1521751361,
+  "message": "llvm-python-lldb-depends-on-py-six-for-versions-5-and-up-7056",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f76c2124a92128f26e66aa0897171da88b1e2e0",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2018-03-13T03:34:19-07:00",
+  "timestamp": 1520937259,
+  "message": "llvm-6.0.0-released-as-stable-7459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3683ab87b5a3927f31e0d0337b314c2a3e515782",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-02-26T19:33:40+01:00",
+  "timestamp": 1519670020,
+  "message": "llvm-package-update-python-dependency-7100",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8157f978b09b71af7b38ea480eb965e5e2bd7282",
+  "author": "Mike Pozulp <mmpozulp@email.wm.edu>",
+  "date": "2018-02-23T19:50:23-08:00",
+  "timestamp": 1519444223,
+  "message": "llvm-and-llvm-lld-package-updates-7313",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d84e7eb5c2847c029f0c5bb020eab169293c1cd",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-20T12:09:31-08:00",
+  "timestamp": 1516478971,
+  "message": "llvm-add-version-5.0.1-6957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "937f68c3598e1f07f8154126bebc28e25263ab89",
+  "author": "Andrey Prokopenko <andrey.prok@gmail.com>",
+  "date": "2017-12-22T01:32:10-05:00",
+  "timestamp": 1513924330,
+  "message": "clang-flang-update-CC-CXX-environment-in-installation-module-6737",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a812294e0f4223aa9192c69128803f97e0f554f",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2017-10-31T19:34:33-05:00",
+  "timestamp": 1509496473,
+  "message": "Preinstall-some-llvm-shared-libraries-so-tblgen-will-work.-5988",
+  "repo": "spack/spack"
+},
+{
+  "commit": "306f536138884a4c433010a29ee5c2cbe7d31621",
+  "author": "Johann Klähn <github@web.jklaehn.de>",
+  "date": "2017-10-26T01:46:03+02:00",
+  "timestamp": 1508975163,
+  "message": "Add-option-to-install-clang-python-bindings-to-llvm-5774",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89b0a09de02e7381f44b65b5f60c6f51bd26ccbf",
+  "author": "Ondřej Čertík <ondrej@certik.us>",
+  "date": "2017-10-25T16:19:32-06:00",
+  "timestamp": 1508969972,
+  "message": "Make-clang-use-libc-by-default-5943",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c67de48e87b8301be10a2b89549eaabbed1a1da",
+  "author": "Johann Klähn <github@web.jklaehn.de>",
+  "date": "2017-10-15T21:04:40+02:00",
+  "timestamp": 1508094280,
+  "message": "Update-llvm-to-version-5.0.0-5773",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6168b7fda85dcb8688102ff77d956d22146f0023",
+  "author": "Andrey Prokopenko <andrey.prok@gmail.com>",
+  "date": "2017-09-24T04:24:36-04:00",
+  "timestamp": 1506241476,
+  "message": "llvm-patch-lldb-for-gcc-7-5239",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dec6b609d8a093586eb10fe3023eac273cdd0dad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-09-02T14:51:27+02:00",
+  "timestamp": 1504356687,
+  "message": "Updated-llvm-to-version-4.0.1-Fixed-indentation-of-dict-literal-5272",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5342ecf364e633960e84ca021ef44f1274e9938c",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2017-09-01T10:32:04-07:00",
+  "timestamp": 1504287124,
+  "message": "Set-default-cmake-build_type-to-Release-for-llvm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f962aba6ce85ba001bbe20f6f849478fdb9370c5",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2017-07-19T20:12:00-07:00",
+  "timestamp": 1500520320,
+  "message": "Allow-packages-to-control-handling-of-compiler-flags-4421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a04fdca520ac3226375cd62fc61e201929234de",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T18:38:07-05:00",
+  "timestamp": 1492817887,
+  "message": "Convert-LLVM-to-CMakePackage-update-cmake-dependency-version-3940",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f86ed1e34dc90bade8127b490a4b8823d2af6514",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2017-04-21T17:29:42+01:00",
+  "timestamp": 1492792182,
+  "message": "Fix-for-llvm-4.0.0-on-centos-3904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6777ddf743e1bfa215c3448cb6744f4274f71e4",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2017-04-07T20:15:14+02:00",
+  "timestamp": 1491588914,
+  "message": "Update-LLVM-to-version-4.0.0-3683",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e7045e0ca2ee188ac6ed52a59a38e90aa24a6e7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-22T12:01:10-04:00",
+  "timestamp": 1490198470,
+  "message": "llvm-Install-utilities-into-libexec-3516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75c6c9f1ee047ae1db6fe28a4bb49ac6a94ee20c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-20T21:46:29-04:00",
+  "timestamp": 1490060789,
+  "message": "llvm-Don-t-copy-prefix-bin-into-prefix-during-install-3460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccb07dc25efefce017fc40aec3713c3ac8f30199",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-02-04T15:42:22-08:00",
+  "timestamp": 1486251742,
+  "message": "added-archer-OpenMP-race-detector-and-its-deps-3030",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95c04f3ab17f77c9e81b68db3e8317a2d9fbf116",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2017-02-03T14:04:36-08:00",
+  "timestamp": 1486159476,
+  "message": "llvm-add-3.9.1-only-download-necessary-resources-3015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "621a4d637de554d9a137bc17a15668db8f11b7b2",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-10-02T19:50:42-06:00",
+  "timestamp": 1475459442,
+  "message": "Provide-newer-versions-of-llvm-3.8.1-3.9.0-1765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea446c0f0ea0dc905ea66ad6a902cbb4713f920a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-20T11:26:25+02:00",
+  "timestamp": 1474363585,
+  "message": "lmod-added-support-for-the-creation-of-hierarchical-lua-module-files-1723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76dfaa71a7f59d8c94c415819c57cb191a0e4a4a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T01:47:20-07:00",
+  "timestamp": 1466066840,
+  "message": "fix-up-packages-for-new-architecture",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00de72272d2ac4fd949c43cdaa9487defc7875c8",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-22T11:14:46-07:00",
+  "timestamp": 1463940886,
+  "message": "rust-compiler-builder-package-new-llvm-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7569204a53076f763cc713123b5e92551f647d7f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-21T16:18:02+01:00",
+  "timestamp": 1458573482,
+  "message": "llvm-does-not-support-python-3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fcaf5b9031c3d55b152844b97cd432078340f4b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-21T14:47:05+01:00",
+  "timestamp": 1458568025,
+  "message": "llvm-update-to-3.8.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7183db1b7df3bce7e5f174ce38a50476c2e3b218",
+  "author": "Scott Pakin <pakin@lanl.gov>",
+  "date": "2016-03-03T11:30:57-07:00",
+  "timestamp": 1457029857,
+  "message": "Added-LLVM-3.7.1-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "976ae91dccd36d1feb6d0d20cd1ef5b3470c4c39",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-24T14:11:57+01:00",
+  "timestamp": 1456319517,
+  "message": "llvm-removed-duplicate-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c8dd6c3c86400ac82b061ce45f58b543526bfff",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-02-20T17:18:49-08:00",
+  "timestamp": 1456017529,
+  "message": "llvm-trunk-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07bb6fef01bfe48aa22c39e53b75e4c779ac0c2e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-01-28T10:58:56+01:00",
+  "timestamp": 1453975136,
+  "message": "resource-directive-now-works-with-all-the-fetch-strategies-available",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fe626ec7cd8b8a2bceb9e73dd9597d9f99813cf",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-11-26T17:53:33+01:00",
+  "timestamp": 1448556813,
+  "message": "resource-directive-sketch-of-implementation-clang-llvm-use-case",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3913c10afb12a24ce48b65584de0663cfa66794a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-26T16:58:40+01:00",
+  "timestamp": 1445875120,
+  "message": "clang-updated-versions-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b22a4f4f883b6e79360d3ec487f2e97279126a0",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-26T15:45:23+01:00",
+  "timestamp": 1445870723,
+  "message": "llvm-updated-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e5aa4b0f5c2b1fba3a81abb465298de93009532",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-18T10:58:10-08:00",
+  "timestamp": 1424285890,
+  "message": "llvm-clang-version-bump",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e878075aceace1439e85b1d75770a7a6f248566",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-08T16:09:13-08:00",
+  "timestamp": 1423440553,
+  "message": "mesa-8.0.5-working",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9165a000a3b0ac68692d8ad58bb41d85276cec61",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-09-18T23:22:03-07:00",
+  "timestamp": 1411107723,
+  "message": "Better-C-11-support-remove-non-standalone-llvm-compiler-rt",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c55041e9d47cba97fc461c088c4b935b3355e340",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-08-01T08:33:00-07:00",
+  "timestamp": 1406907180,
+  "message": "Partial-commit-of-more-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8738a3a88c48fd9ed2a9c6182e71e94e6e2d5c3f",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2014-07-31T15:37:35-07:00",
+  "timestamp": 1406846255,
+  "message": "Added-LLVM-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5c565891ff20c87b3583aaacc29fd37357f723b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-26T14:04:09-07:00",
+  "timestamp": 1382821449,
+  "message": "First-cut-concretization-works-with-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "558cf7e40689fc18eca47bc80d34da555b5d27d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-17T14:46:00-07:00",
+  "timestamp": 1382046360,
+  "message": "spec-flatten-normalize-validate-package-validate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48b03519456084d0c4ddd8b35567b3b26eb679b7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-02-19T19:26:54-08:00",
+  "timestamp": 1361330814,
+  "message": "Fixed-passing-of-dependence-prefixes-to-cc.-libdwarf-works",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d9d4f3484add175661a65adc9de64ba647ba667",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-02-19T01:20:50-08:00",
+  "timestamp": 1361265650,
+  "message": "rpaths-for-dependencies.-elf-dwarf-cmake-build-on-Linux",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38becacacee43b40d02e33c97f0dc3bda83f42e6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-02-18T23:46:04-08:00",
+  "timestamp": 1361259964,
+  "message": "Dependencies-now-work.-Added-libelf-libdwarf",
+  "repo": "spack/spack"
+}]

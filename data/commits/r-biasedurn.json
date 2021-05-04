@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2b913d709741f9ecb452d3901fbb90ab2768c4a",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-08-10T16:08:31-05:00",
+  "timestamp": 1533935311,
+  "message": "r-biasedurn-new-package-8937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94afb2430c137825125a216a299cb0de62cd03a8",
+  "author": "mcneish1 <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-04-25T18:59:46-07:00",
+  "timestamp": 1524707986,
+  "message": "Additional-r-packages-7892",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "847b24c94c21c742e068eec20464c85591118f8e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-09-16T22:00:32+02:00",
+  "timestamp": 1505592032,
+  "message": "New-Pcakage-numactl-5371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1c7f9c8bd32cbbcdaaed2a6c022031140b6e787",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-05T15:55:55-08:00",
+  "timestamp": 1486338955,
+  "message": "Add-a-package-for-hunspell-3029",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68baac0549e816dce68ebab40c701b92f5f46dec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T20:07:00-06:00",
+  "timestamp": 1483841220,
+  "message": "Various-updates-to-the-NCO-package-and-dependencies-2639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65ff89a0b0f49bfc0bfa0370460c86d8b12f8db7",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-05-16T12:53:24-04:00",
+  "timestamp": 1463417604,
+  "message": "Placate-flake8-demands",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bf9b168a57dab285983485394f7d22d6ec7ea1f",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-05-14T16:19:10-04:00",
+  "timestamp": 1463257150,
+  "message": "netcdf-cxx4-Update-to-latest-released-version-4.3.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae87948a232c17982a7987e5423ac77acdc59194",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-05T23:05:45-05:00",
+  "timestamp": 1457237145,
+  "message": "Fixed-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "648d08eb305e04d95ee702b819923f31fd829955",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T12:05:43-05:00",
+  "timestamp": 1457111143,
+  "message": "Update-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0eb6ef2cd031d1668e1891425bdc6234df0594df",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T11:09:40-05:00",
+  "timestamp": 1457107780,
+  "message": "1.-Removed-fake-MPI-dependency-from-netcdf-cxx4-and-netcdf-fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "976d0240c467b9ff74333fafcd2ac1e896819a80",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-02T18:58:47-05:00",
+  "timestamp": 1456963127,
+  "message": "Removed-FIXMEs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15ae92aae9c8ac521bb5d7ee5f210d265494d87a",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:59:28-05:00",
+  "timestamp": 1456804768,
+  "message": "New-packages-added-blitz-netcdf-cxx4-netcdf-fortran-proj-udunits2",
+  "repo": "spack/spack"
+}]

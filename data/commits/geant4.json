@@ -1,0 +1,280 @@
+[{
+  "commit": "c7306db0617909e099f1c743e83eb2bc1454abdb",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-02T17:57:46+01:00",
+  "timestamp": 1614704266,
+  "message": "geant4-data-Add-version-10.7.1-22044",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0dd628d0d3bb2bb923e774d60c61487849814bdc",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-12-04T18:22:47+00:00",
+  "timestamp": 1607106167,
+  "message": "geant4-geant4-data-versions-10.6.3-and-10.7.0-20250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee5ae14a3b02e4b44f9ea34aec771b9c03212027",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-16T23:12:53+01:00",
+  "timestamp": 1605564773,
+  "message": "xerces-c-add-netaccessor-variant-new-version-19927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2913903e6aa0478ca8de662bac1ddcc6ec88f85a",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-11-10T04:29:21-06:00",
+  "timestamp": 1605004161,
+  "message": "geant4-depends_on-glu-when-opengl-19821",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ea4c2e63f7417fbcf2596ef69624b1eed1685ca",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-06-29T01:09:29-05:00",
+  "timestamp": 1593410969,
+  "message": "geant4-depends-on-qt-5-opengl-when-qt-17264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42e6cb769e7d2f30700ba4529c2061e8fed7fcb5",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-06-12T11:28:05-07:00",
+  "timestamp": 1591986485,
+  "message": "Geant4-Python-fix-module-load-17046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c35ced1465e8a6e65246fa31cf06aec0743bb071",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-05-30T08:13:24+01:00",
+  "timestamp": 1590822804,
+  "message": "geant4-New-version-10.6.2-16868",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b668bde7ec6e6d3156149573c52ad7f93e292af2",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-05-09T20:04:20+02:00",
+  "timestamp": 1589047460,
+  "message": "Fix-dependency-of-geant4-amends-16497-16504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "638784e4c38420df5bf0ac74dc7ce2469bca4549",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-05-07T01:11:40+02:00",
+  "timestamp": 1588806700,
+  "message": "Add-new-version-of-Geant4-16497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77e13849026b9b177c27fcaefd134dd32e4329e4",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-03-31T09:54:31+01:00",
+  "timestamp": 1585644871,
+  "message": "geant4-new-version-10.6-plus-simplifications-15447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2e0ee63830c17493c9d025fa46251b806b0323f",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-03-17T19:31:31+09:00",
+  "timestamp": 1584441091,
+  "message": "geant4-Removed-unnecessary-definition-of-xerces-c.-15513",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec75011a697249d25f05eec89aac6ab07f695de0",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-02-28T15:34:08+00:00",
+  "timestamp": 1582904048,
+  "message": "Add-drbenmorgan-as-maintainer-for-core-HEP-packages-15264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f66f56287dc0221abe5423b49d28cf968c8ed745",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-06T10:40:56+01:00",
+  "timestamp": 1580982056,
+  "message": "geant4-add-missing-dependency-on-geant4-data-14767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94c8bf032255c73721adc823796abe6e2f739499",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-11-29T23:21:51+01:00",
+  "timestamp": 1575066111,
+  "message": "Update-Geant4-version-and-recipe-13840",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4190f302e56818701f687ab484b32dcc52543201",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-07-25T08:58:13-05:00",
+  "timestamp": 1564063093,
+  "message": "geant4-improvements-with-respect-to-building-against-CLHEP.-12124",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f848205e431c929a54ecf221768591906a0ef67",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-01T18:57:33-04:00",
+  "timestamp": 1556751453,
+  "message": "mesa-re-written-to-new-meson-build-system-10482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1f582714c313d21b1f358773bd64261b7c0f77a",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-04-04T13:09:13-05:00",
+  "timestamp": 1554401353,
+  "message": "Set-Geant4-cmake-module-path-environment-variable-in-dependents.-11112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0748a32b2d33292f37e07820262a19bdbb92bdbc",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-02-13T22:51:26-06:00",
+  "timestamp": 1550119886,
+  "message": "Updated-Geant4-and-dependencies-clhep-and-vecgeom-to-use-cxxstd-variant-10518",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ab6539c0e441a08ad886c7936cd70213111c539",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2018-10-09T20:05:49-04:00",
+  "timestamp": 1539129949,
+  "message": "Add-important-variants-to-MOAB-and-Geant4-9409",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8c105a7b1f882f6a25f6c590d31e94a891220e0",
+  "author": "Benedikt Riedel <benedikt.riedel@gmail.com>",
+  "date": "2018-01-23T03:13:08-06:00",
+  "timestamp": 1516698788,
+  "message": "Fix-GEANT4-and-make-more-portable-and-flexible-6956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db42d080f714e1d45b899dcc41b6cf8a341e13f7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-01-10T09:48:15-06:00",
+  "timestamp": 1515599295,
+  "message": "Geant4-fix-qt-dependency-6828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbbcf456e9f8e14509ac0adc62ba0c8711018b5e",
+  "author": "Javier <javiercvilla@gmail.com>",
+  "date": "2017-02-21T02:33:32+01:00",
+  "timestamp": 1487640812,
+  "message": "Updating-package-geant4-3197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec91152a36eaa48527a9adf308a83d93aac34b89",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-09-22T15:34:58-05:00",
+  "timestamp": 1474576498,
+  "message": "a-few-package-used-in-HEP-including-ROOT6",
+  "repo": "spack/spack"
+}]

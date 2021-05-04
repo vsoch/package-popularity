@@ -1,0 +1,272 @@
+[{
+  "commit": "818b416742135090ca051da8c94373b1a4fdf53d",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2021-03-18T22:13:30-04:00",
+  "timestamp": 1616120010,
+  "message": "CCTools-to-version-7.2.4-22384",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c9c5393f1fad00b7e8c77661a02b236db2d0e40",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2021-03-18T03:10:08-04:00",
+  "timestamp": 1616051408,
+  "message": "CCTools-add-v7.2.3-22355",
+  "repo": "spack/spack"
+},
+{
+  "commit": "047bb490cbc411266fbdc9b516362b7cce461b7a",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2021-03-17T06:19:01-04:00",
+  "timestamp": 1615976341,
+  "message": "cctools-add-v7.2.2-22325",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f346db83ac6f7b2d64b81c11c4b017c743cce373",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2021-03-10T16:48:29-05:00",
+  "timestamp": 1615412909,
+  "message": "cctools-add-v7.2.1-22193",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6ca3be63a4f3acc3dfd037188ca43d6aa448e9f",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2020-08-24T20:04:08-04:00",
+  "timestamp": 1598313848,
+  "message": "Update-to-CCTools-7.1.7-18241",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fe07891e3404a53ba57f7831c6b3764a5da961f",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-07-24T09:49:37+09:00",
+  "timestamp": 1595551777,
+  "message": "cctools-package-remove-fstack-protector-all-for-Fujitsu-compiler-17656",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1bb0f8aad511177c05f1b8c35c3e21521beaccf",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2020-05-05T09:24:42-04:00",
+  "timestamp": 1588685082,
+  "message": "cctools-to-7.1.5-16450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "505a511af40509614d662c912264c125abf0d956",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2020-04-27T14:18:44-04:00",
+  "timestamp": 1588011524,
+  "message": "update-cctools-to-version-7.1.3-16324",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0074995ecf2d7226ddcd9e69f343c79ea0a79632",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2020-04-07T18:03:18-04:00",
+  "timestamp": 1586296998,
+  "message": "updates-CCTools-to-version-7.1.2-15923",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cdd78cd1d6b9630377d639a71338209fcfd9419",
+  "author": "Benjamin Tovar <btovar@nd.edu>",
+  "date": "2020-03-18T14:14:45-04:00",
+  "timestamp": 1584555285,
+  "message": "Cctools-7.1.0-15506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87e757ee93274fa2766fefabcaa753beda90c6d4",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-11-26T03:57:09+09:00",
+  "timestamp": 1574708229,
+  "message": "cctools-fix-python-related-error.-13802",
+  "repo": "spack/spack"
+},
+{
+  "commit": "882843974bc5cde5ad5342dbf6a11e59e8af888c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-10-03T16:57:20-07:00",
+  "timestamp": 1570147040,
+  "message": "Update-cctools-to-v7.0.18-13037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e50dbe6f768c89e0af4b13e48e9e2624643210e7",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-09-05T08:45:41+09:00",
+  "timestamp": 1567640741,
+  "message": "cctools-fixed-to-build-on-ARM.-11862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29090a527af34bcc9c5d5414ce8e61ac42d40bb0",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-06-07T09:51:46-07:00",
+  "timestamp": 1496854306,
+  "message": "Bug-cctools-syscall-4440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36d153967b57805170f6caf0477e690fc3010936",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-06-05T09:41:02-07:00",
+  "timestamp": 1496680862,
+  "message": "Add-package-for-cctools-4417",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13fef18244d4e09c9ffe98321ed7eb8808fdb8fc",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-19T04:51:04-07:00",
+  "timestamp": 1492602664,
+  "message": "Ensure-sbin-is-prepended-to-PATH-in-modulefiles-3843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b65380f98c1b80e356b199070794b962f5d7505",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-12T13:27:46-07:00",
+  "timestamp": 1492028866,
+  "message": "Add-package-for-nginx-1.12.0-3810",
+  "repo": "spack/spack"
+},
+{
+  "commit": "163bdfde93a9cbbdc3b5415d0a79cb0f57dc0ebb",
+  "author": "Justin M Wozniak <wozniak@mcs.anl.gov>",
+  "date": "2017-02-17T13:35:45-06:00",
+  "timestamp": 1487360145,
+  "message": "Swift-T-all-packages-3130",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2305f6434ef234a4c3c3359edf5e25822064a793",
+  "author": "Justin M Wozniak <wozniak@mcs.anl.gov>",
+  "date": "2017-02-10T18:03:40-06:00",
+  "timestamp": 1486771420,
+  "message": "New-package.py-for-ExM-C-Utils-and-Turbine-3076",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "664939eeba8d086106e6154a897214d2da7fe09d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-11-28T11:48:34-06:00",
+  "timestamp": 1480355314,
+  "message": "Fix-building-latest-version-of-flex-2401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8de143a99440d708e8e22bd63bcad25c483d8ffa",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2016-10-19T23:29:59-07:00",
+  "timestamp": 1476944999,
+  "message": "Fixes-needed-to-build-gcc-on-Linux-ppc64le-2057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7b918837eab02ebff5af783d06e56ec7f868d9e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-04T15:22:28-06:00",
+  "timestamp": 1457126548,
+  "message": "GNU-m4-depends-on-libsigsegv",
+  "repo": "spack/spack"
+}]

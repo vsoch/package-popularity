@@ -1,0 +1,24 @@
+[{
+  "commit": "1fa16c1b9b08119be429821fbd2f3251458d5063",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-09T03:45:45-05:00",
+  "timestamp": 1615279545,
+  "message": "kicad-add-v5.1.9-22123",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "499ada708e19018c905e2eabb18a9a41efce8240",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-30T04:43:45-05:00",
+  "timestamp": 1606729425,
+  "message": "kicad-new-package-20074",
+  "repo": "spack/spack"
+}]

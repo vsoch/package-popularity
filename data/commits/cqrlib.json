@@ -1,0 +1,8 @@
+[{
+  "commit": "04cff1136b83bd6f7382719da7eda92d665c9945",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-02-17T01:03:48+09:00",
+  "timestamp": 1613491428,
+  "message": "cqrlib-new-package-21532",
+  "repo": "spack/spack"
+}]

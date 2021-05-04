@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6970e0da699fd11c10220b94dc0f6d1723eee9df",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-24T09:37:06+08:00",
+  "timestamp": 1600911426,
+  "message": "Add-new-package-patchutils-18794",
+  "repo": "spack/spack"
+}]

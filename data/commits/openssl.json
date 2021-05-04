@@ -1,0 +1,704 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "feb6f85af7f5aeecb71930368715c30cbc7dbc8f",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-25T12:45:45-04:00",
+  "timestamp": 1616690745,
+  "message": "openssl-new-version-1.1.1k-22545",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dc5022a9d9862b1e58af51371b7c549cd5ce6527",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-02T14:58:59+01:00",
+  "timestamp": 1614693539,
+  "message": "openssl-introduce-docs-to-make-installation-smaller-21962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "151003a469761c1e20034f0d57f391ee382cabbc",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-02-17T12:14:53-05:00",
+  "timestamp": 1613582093,
+  "message": "openssl-1.1.1j-21726",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcf99be939630324275fff44e7fe6bcdfab21a4d",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-01-20T21:42:53-06:00",
+  "timestamp": 1611200573,
+  "message": "openssl-remove-preprocessor-flags-incompatible-with-NVIDIA-HPC-SDK-21180",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1969af2440bf70089c186e5945a276c0f80869c4",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-09T13:52:15+01:00",
+  "timestamp": 1607518335,
+  "message": "openssl-add-1.1.1i-20294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37e51eb2a57da56a8c031e263af40bdbd2e8661f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-12T14:45:45-06:00",
+  "timestamp": 1605213945,
+  "message": "OpenSSL-libs-may-be-in-lib64-directory-19862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "674fb16828f08767235cbefaa1d90832b083f594",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-10-28T16:53:33+01:00",
+  "timestamp": 1603900413,
+  "message": "openssl-Add-version-1.1.1h-19574",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a14648ffd0bfdb447a5aa7f996afee01454cf5e3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T01:40:58-05:00",
+  "timestamp": 1597387258,
+  "message": "external-packages-redirect-stderr-too-18037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "075e9428a175ab17d84019c851731c1176e8fa0b",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-13T02:58:36+02:00",
+  "timestamp": 1597280316,
+  "message": "Make-the-build-stage-of-OpenSSL-parallel-18024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30dc0baa3493076f3eddcdb731763eec42a46044",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-08-11T02:44:51-05:00",
+  "timestamp": 1597131891,
+  "message": "openssl-added-detection-capabilities-16653",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63f09a66624bb07f62e9b09807c4152f84009a19",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-05-19T17:58:04+02:00",
+  "timestamp": 1589903884,
+  "message": "openssl-Be-Explicit-About-perl-Usage-16721",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f07cdd7f7a5254cf2065c0973b0155e81b21bac4",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-23T10:01:23+02:00",
+  "timestamp": 1587628883,
+  "message": "openssl-added-1.1.1g-16247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37c0039eb946ce7149dae106d6ae37207d8fa335",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-01T13:57:19-06:00",
+  "timestamp": 1585771039,
+  "message": "openssl-add-v1.1.1f-15802",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b1b8c3936ba01767b17b20eb54bfacc8376f2c8",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-19T15:34:18+01:00",
+  "timestamp": 1584628458,
+  "message": "openssl-added-v1.1.1e-and-v1.0.2u-15568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db8178d99a355eeb7bd9d664e1d6c4560c50d571",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:09:02-05:00",
+  "timestamp": 1570727342,
+  "message": "Add-latest-openssl-releases-13092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b4e13c0343313a6e26abb49f7db38e6b5cf1343",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-08-08T19:04:54-05:00",
+  "timestamp": 1565309094,
+  "message": "openssl-package-add-versions-including-1.1.1c-12342",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21fb7dadb308682622439afd5e500af9fe3eef15",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-05T16:26:18+01:00",
+  "timestamp": 1551799578,
+  "message": "openssl-Add-1.1.1b-1.1.0j-and-1.0.2r-10779",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec4da14e2c17f1d6bf66ef2fc2b34c8716f08785",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2019-02-18T22:48:01-05:00",
+  "timestamp": 1550548081,
+  "message": "Add-comments-and-version-10592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e38423d1c14ff3fe79b678f42ac043eb0d5f589",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-02-12T01:58:50-06:00",
+  "timestamp": 1549958330,
+  "message": "openssl-add-version-1.1.1a-10562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3477d3375142a30f5714bb5966a6d8bb22c33c06",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2019-01-04T02:02:25+10:00",
+  "timestamp": 1546531345,
+  "message": "openssl-add-location-of-system-certificates-for-SUSE-Linux-10242",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44d1d928e88f85b0d6e9e8cb384e32b8b9bf85b9",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-20T03:46:38+01:00",
+  "timestamp": 1542681998,
+  "message": "openssl-make-1.1.1-the-default-version-9836",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e176f2a2f5cffee81199a348e5f03dbd6d7f81bc",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-10T14:17:12+02:00",
+  "timestamp": 1539173832,
+  "message": "Fix-missing-dependencies-and-glibc-build-failures-9106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c434d7d73c83710410141fce4afe2e6df7efa2",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-09-15T02:07:13+02:00",
+  "timestamp": 1536970033,
+  "message": "Build-Python-3.7-with-external-libffi.-9245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f852634cdaa790bc01010c7a209f77c5f89f1f5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-15T00:54:52-07:00",
+  "timestamp": 1529049292,
+  "message": "openssl-add-new-version-1.0.2o-8486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a48f44bca6fb061e34250a63cce56b77d861f4",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T17:33:59+02:00",
+  "timestamp": 1528385639,
+  "message": "add-commented-test-dependencies-8407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1aed76002ad00da270fd14ed26f653a1d2512424",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-03-26T12:20:55+02:00",
+  "timestamp": 1522059655,
+  "message": "openssl-Add-variant-to-use-system-certificates-6396",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7f0da53f7f93021709365822c2e1d30a9ae570c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-01-04T16:46:24-06:00",
+  "timestamp": 1515105984,
+  "message": "Revert-openssl-Add-perl-dependency-6831",
+  "repo": "spack/spack"
+},
+{
+  "commit": "395ee97f3b1cdd96ae00bdae6d27d3145c50fc5e",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-04T16:51:55+01:00",
+  "timestamp": 1515081115,
+  "message": "openssl-Add-perl-dependency-5188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74938f58d26db29889e59b76c78eb313f605e825",
+  "author": "nshtg <nshtg@users.noreply.github.com>",
+  "date": "2017-12-12T01:26:37+01:00",
+  "timestamp": 1513038397,
+  "message": "openssl-Update-to-1.0.2n-6641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "173236dacfd8d656fcc9b832d43412d0ef2797a8",
+  "author": "nshtg <nshtg@users.noreply.github.com>",
+  "date": "2017-12-08T18:13:58+01:00",
+  "timestamp": 1512753238,
+  "message": "Update-openSSL-to-1.0.2m-1.1.0g-6596",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8bf49b4a104478094e66db2ced1ca73b5a98bf5",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-10-04T18:25:11+02:00",
+  "timestamp": 1507134311,
+  "message": "OpenSSL-Fix-Zlib-5584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "218d55a072fb57583d4e1738989ebeff7d2f6bd8",
+  "author": "Diana Bite <diana.bite@arm.com>",
+  "date": "2017-05-31T12:41:24+01:00",
+  "timestamp": 1496230884,
+  "message": "openssl-Fix-build-on-Aarch64-with-clang.-4404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d995f9a314a154fa5e00ee04bed4b8778c436643",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-07T12:14:02-07:00",
+  "timestamp": 1491592442,
+  "message": "Disable-OpenSSL-test-dependency-until-we-have-proper-support.-3760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7827a0ff674c2e33f81cc6cf8138bceb7bd60b25",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-21T03:21:27+01:00",
+  "timestamp": 1487643687,
+  "message": "Default-to-OpenSSL-1.0-3100",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cb7f3d262b97674f0d77f80ab1dc29c4b6038e0",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-02-17T14:52:08-05:00",
+  "timestamp": 1487361128,
+  "message": "Keep-Curl-Bootstrap-Working-With-http-3113",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2fa7b12546a1d3393b9121f7e8bda4fedebff67",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-17T09:11:54-06:00",
+  "timestamp": 1487344314,
+  "message": "Add-latest-version-of-OpenSSL-3171",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e81fe4fb3a8982932f16c212f2a0732ee1766ea",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-31T16:51:26+01:00",
+  "timestamp": 1485877886,
+  "message": "openssl-add-extra-url-to-download-old-versions-2935",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75763bb8e38f7fbb2b855ace453d0c31ec542427",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-27T13:38:21-06:00",
+  "timestamp": 1485545901,
+  "message": "Make-OpenSSL-tests-optional-2939",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90d47a3eadb5f9b3f90a790c276f8ca5a90c81a1",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-01-24T13:07:13-08:00",
+  "timestamp": 1485292033,
+  "message": "Add-dependency-on-perl-2909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c4fe247faeefa7c74fb295d079cf55b6e6b36e",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-01-20T13:12:09-05:00",
+  "timestamp": 1484935929,
+  "message": "OpenSSL-Update-to-version-1.1.0c-2885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3282eaea8d58af201a0fb734ae545674ef4dec71",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-26T13:37:40-04:00",
+  "timestamp": 1474911460,
+  "message": "Update-OpenSSL-1853",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0ebbc97c9a5da9e6ba2319938b6ef3dc8aca0b3",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-23T11:21:15-04:00",
+  "timestamp": 1474644075,
+  "message": "Update-OpenSSL-1836",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db483e77e4c7071d8ad390859bc470a26686b6c6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-20T12:17:51-05:00",
+  "timestamp": 1474391871,
+  "message": "Remove-url_for_version-as-it-breaks-spack-info-1503",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebde2a101eaef65c1ee5318b3b4c858121c6f837",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:13:14-04:00",
+  "timestamp": 1474362794,
+  "message": "Reorder-versions-in-openssl-1601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2be065418b4620d3ff37e07e4ef9cd526ba4d7a6",
+  "author": "Matt Belhorn <belhornmp@ornl.gov>",
+  "date": "2016-08-04T11:11:45-04:00",
+  "timestamp": 1470323505,
+  "message": "Openssl-package-should-not-require-openssl-https-to-obtain-source",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29278090ebeb6cfbb0644206c68531c7109f2bf8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-24T15:19:27-05:00",
+  "timestamp": 1469391567,
+  "message": "Fix-OpenSSL-url_for_version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8523f75e6c8d6194dcc7884ab7eca37cfa37265b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-07-21T11:07:43-07:00",
+  "timestamp": 1469124463,
+  "message": "Remove-remote-website-pinging-from-OpenSSL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d687e332ad41cd7c84bf0007f8c331e56470da18",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-07-04T22:59:02-07:00",
+  "timestamp": 1467698342,
+  "message": "Fix-compile-bugs-for-gcc-on-Mac-OS-X-with-macports",
+  "repo": "spack/spack"
+},
+{
+  "commit": "861f174f66b908aac2ac2d0245de8ef874cea00f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-07-04T10:03:46+02:00",
+  "timestamp": 1467619426,
+  "message": "qa-fixed-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e8391458c88c4a0ccb630769700d20133657437",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-07-04T09:58:15+02:00",
+  "timestamp": 1467619095,
+  "message": "openssl-changed-tag-for-system-reserved-versions-fixes-1150",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40d25d90629f41114c2e0b86bb659f0f4dec7bb5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T00:56:53-07:00",
+  "timestamp": 1466063813,
+  "message": "Add-libxcb-dependencies.-Fix-up-packages-to-get-py-basemap-and-stat-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d45b2c794763ebdc6f660257c67319a20aa0fcab",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-05-05T15:36:48-07:00",
+  "timestamp": 1462487808,
+  "message": "Fixed-openssl-to-work-with-new-syntax",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3d2d0cd22efef3fa24fce3a92b579d8cc938805",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-03T15:44:23-05:00",
+  "timestamp": 1462308263,
+  "message": "Add-latest-OpenSSL-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d375ddadc4d6f253b21e9c982040757bd5a187d3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-04-04T12:25:13+02:00",
+  "timestamp": 1459765513,
+  "message": "openssl-reads-newer-version-from-ftp-recommended-on-openssl-web-site",
+  "repo": "spack/spack"
+},
+{
+  "commit": "837eff1704d26fb654a964ecea91e268d728fff6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-31T18:07:44+02:00",
+  "timestamp": 1459440464,
+  "message": "openssl-special-treatment-for-external-fixes-647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f6f2d5f51fc3700dce13c6aa035943bbc42f6f7",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-18T14:42:24+01:00",
+  "timestamp": 1458308544,
+  "message": "Revert-openssl-solved-glitch-to-prevent-spack-to-freeze-when-the-network-is-unreachable",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4cf4bf3a0343fc93d6f0c14dd89956fa03b8f738",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-18T11:05:59+01:00",
+  "timestamp": 1458295559,
+  "message": "openssl-solved-glitch-to-prevent-spack-to-freeze-when-the-network-is-unreachable",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a399451e1e32c9a294f5b735237cef93ddbd4131",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-06T23:34:48-05:00",
+  "timestamp": 1457325288,
+  "message": "Update-OpenSSL-to-1.0.2g",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63ae40716908ee8c19d49de83accff482d921331",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-03T16:39:21+01:00",
+  "timestamp": 1457019561,
+  "message": "netlib-lapack-unified-build-with-netlib-blas",
+  "repo": "spack/spack"
+},
+{
+  "commit": "587d356d6ec8820cf04043b3650ac66b82a651b2",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-03T08:58:34+01:00",
+  "timestamp": 1454486314,
+  "message": "openssl-added-logic-to-version-computation.-The-package-now-warns-user-if-he-depends-on-an-old-version-of-the-library",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8d2275c06f05b8ddf2463c5aa110d1f44692038",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-01T10:56:48+01:00",
+  "timestamp": 1454320608,
+  "message": "opencv-reverted-url_for_version-modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e67507478a9f662d7adfa891bcb2c7b830b69f5c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-01T10:55:39+01:00",
+  "timestamp": 1454320539,
+  "message": "opencv-reverted-url_for_version-modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "360abb070a639711f740aa7ef73a84ab76aff14f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-01T08:33:03+01:00",
+  "timestamp": 1454311983,
+  "message": "netcdf-fixed-typo-in-configure-option",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3bf6fed7b3536d3b38a9855c2129956b24a77529",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-01-29T11:29:27-08:00",
+  "timestamp": 1454095767,
+  "message": "updated-openssl-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd547939138c00a45a2252f073ce21d3742d5dd0",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-01-29T11:42:06+01:00",
+  "timestamp": 1454064126,
+  "message": "Cleaning-up",
+  "repo": "spack/spack"
+},
+{
+  "commit": "603f5e69ee43e1249e413c966cde3e02ba10a1a3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-01-28T11:30:28+01:00",
+  "timestamp": 1453977028,
+  "message": "removed-outdated-code-os-detection-will-be-handled-by-platforms-and-openssl-modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52cce2d71081404261e6eaf753ad754430517ed5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-24T00:30:08-08:00",
+  "timestamp": 1448353808,
+  "message": "Revert-WIP-openssl-set-KERNEL_BITS-to-make-.-config-work",
+  "repo": "spack/spack"
+},
+{
+  "commit": "150e43f3fdb99700288ddfda8b42dfb95d476eb7",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-19T17:51:44-05:00",
+  "timestamp": 1447973504,
+  "message": "WIP-openssl-set-KERNEL_BITS-to-make-.-config-work",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc49f9b6576234fbfa2de05df15f1dbb43b4926f",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2015-11-17T18:28:20-05:00",
+  "timestamp": 1447802900,
+  "message": "Update-OpenSSL-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b68d1292d9b415b74abc63e909c44399ae9a97a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-25T20:07:05-07:00",
+  "timestamp": 1406344025,
+  "message": "Add-package-for-openssl-have-postgres-use-it",
+  "repo": "spack/spack"
+}]

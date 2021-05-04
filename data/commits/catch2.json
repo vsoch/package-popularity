@@ -1,0 +1,272 @@
+[{
+  "commit": "90ace2d0ec27b72926220dda3356c340a56e2818",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-03-08T01:20:21-08:00",
+  "timestamp": 1615195221,
+  "message": "catch2-add-v2.13.4-22170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd6b83c81e1ea46d87cc6efaf7c385b687ec7bb4",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-29T14:44:34+01:00",
+  "timestamp": 1606657474,
+  "message": "catch2-add-versions-and-fix-github-branch-20157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e74008bcce2a9677a339f87516e7e5d6c75c8a57",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-06-30T09:59:12-06:00",
+  "timestamp": 1593532752,
+  "message": "Catch2-v2.12.3-17312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "667fee0703799fc78606d0628ff42b0f5a318f2c",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-04-21T17:52:50-06:00",
+  "timestamp": 1587513170,
+  "message": "catch2-2.12.1-16211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a41b9365a9a7d302fc08f5c0e4ca746549cf63c7",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-04-21T09:15:59-06:00",
+  "timestamp": 1587482159,
+  "message": "catch2-added-v2.12-16207",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c8686105ac8ff35f800600d5365c8cff044f02",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-03-26T05:46:39-06:00",
+  "timestamp": 1585223199,
+  "message": "catch2-added-versions-up-to-v2.11.3-15680",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a92543803c3f907151c83bb99e8d2a1a0adfd941",
+  "author": "Tyler Reddy <tyler.je.reddy@gmail.com>",
+  "date": "2020-02-18T22:48:24-07:00",
+  "timestamp": 1582091304,
+  "message": "ENH-add-catch2-CMake-install-15008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c20c153d167837ba82ceb23fe0254e99208829a0",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-07-25T11:33:03-05:00",
+  "timestamp": 1564072383,
+  "message": "catch-more-versions-new-and-older.-12123",
+  "repo": "spack/spack"
+},
+{
+  "commit": "643e7806e0b9935102b20493696cd3b01f5e9628",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-05-28T22:24:19+02:00",
+  "timestamp": 1559075059,
+  "message": "Catch-2.8.0-11570",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4f9501a56fbfacfa85044ab1b431c0ca28b27a8",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-02-18T08:53:33+01:00",
+  "timestamp": 1550476413,
+  "message": "Catch2-v2.6.1-10613",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17cc4f208f758e38550acb851cbe4228b391f219",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-02-04T10:52:47+01:00",
+  "timestamp": 1549273967,
+  "message": "Catch2-v2.6.0-10490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63e75c39726795ac238e8b0f7bf0b8d227c093a4",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-01-02T15:59:36+01:00",
+  "timestamp": 1546441176,
+  "message": "Catch2-v2.5.0-10237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "892ae2043f00dae2cd371f150bee994c3e83e63a",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-12-08T03:13:40+01:00",
+  "timestamp": 1544235220,
+  "message": "Fix-Catch2-Single-Header-10022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e2ff95ec5ce62d7ed4e55168d313322930931d6",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-09-20T15:55:18+02:00",
+  "timestamp": 1537451718,
+  "message": "Catch2-2.3.0-9300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c98b8bde5e7e584e94f97c90605b9e627f07772",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-04-07T10:36:10+02:00",
+  "timestamp": 1523090170,
+  "message": "Catch2-make-install-7668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bac47ece707ad6bc43b8513d7eb4484ef2dab42e",
+  "author": "Nils Deppe <nd357@cornell.edu>",
+  "date": "2018-03-27T18:40:26-04:00",
+  "timestamp": 1522190426,
+  "message": "Add-Catch-v2.2.1-and-v1.12.1-7615",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0adcb610fecb1dc6b9371d71107bea4cb80c225f",
+  "author": "David Pérez-Suárez <dps.helio@gmail.com>",
+  "date": "2018-01-14T21:39:10+00:00",
+  "timestamp": 1515965950,
+  "message": "Updated-catch-to-newer-version-up-to-2.1.0-6933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2310e9dac0659236beaaf5de70301665df148ac7",
+  "author": "Nils Deppe <nd357@cornell.edu>",
+  "date": "2017-05-31T15:11:36-04:00",
+  "timestamp": 1496257896,
+  "message": "Add-Catch-v1.7.1-1.9.4-4406",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7c816386a6781a8c3a53f1529f14e6319046aeb",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2017-02-03T22:20:41+00:00",
+  "timestamp": 1486160441,
+  "message": "Add-new-versions-of-catch-3016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81c1404b9cd071d1433852bd0b05fb168a53f981",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-12-27T08:32:29+00:00",
+  "timestamp": 1482827549,
+  "message": "Adds-catch-cppunit-spdlog-tinyxml-1-and-2-google-benchmark-2627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd5fa128c5d65bc169cec68b4333a67e70dacc4b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-05-12T09:56:59-07:00",
+  "timestamp": 1431449819,
+  "message": "Work-on-SPACK-41-Optional-dependencies-work-for-simple-conditions",
+  "repo": "spack/spack"
+}]

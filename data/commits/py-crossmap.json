@@ -1,0 +1,120 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14894a7b092aca321d69b83dca3ed69bd6f3f5f8",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-06-30T10:28:13-04:00",
+  "timestamp": 1593527293,
+  "message": "py-crossmap-added-version-0.3.9-17233",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abbc47823d57eb932eb17e563cf117883644878b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T21:35:30-07:00",
+  "timestamp": 1587098130,
+  "message": "SourceForge-Mirror-Mixin-16112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46466381b83ee70d590aabe40c4bb1af99509afb",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2019-03-11T15:13:02-05:00",
+  "timestamp": 1552335182,
+  "message": "py-crossmap-new-package-at-0.3.3-10854",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ba4c6200c125a651eeb10b3cde964da8f81ae22",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-16T22:53:18-07:00",
+  "timestamp": 1539755598,
+  "message": "relicense-remove-significant-contributions-from-peetsv",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea6918c1bf42254ed22ec060b0381272e5cb564d",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-08-06T17:43:14-05:00",
+  "timestamp": 1533595394,
+  "message": "py-crossmap-needs-py-setuptools-8898",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d649fda48a8b8353405a8a0197457a891932c708",
+  "author": "peetsv <32349688+peetsv@users.noreply.github.com>",
+  "date": "2018-03-06T09:27:03-08:00",
+  "timestamp": 1520357223,
+  "message": "py-crossmap-adding-new-package-7108",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f45b8b1083e5f628dd31fa4b7b873b6df7119d0e",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-14T05:02:50-07:00",
+  "timestamp": 1457956970,
+  "message": "Add-some-tests-for-packages-with-multiple-virtual-dependencies",
+  "repo": "spack/spack"
+}]

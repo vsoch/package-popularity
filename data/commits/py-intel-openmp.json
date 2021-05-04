@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb60c858a0c959d6ad200324cc34d91e27d74ad3",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-01-25T23:34:10-05:00",
+  "timestamp": 1611635650,
+  "message": "New-package-py-intel-openmp-20748",
+  "repo": "spack/spack"
+}]

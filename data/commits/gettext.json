@@ -1,0 +1,240 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53bf97298ffed36919f556114cd37f09ed169cfe",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-04T22:58:30+02:00",
+  "timestamp": 1599253110,
+  "message": "gettext-Add-0.21-18509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "992068460099c57c9cde1d93fa4ac875fcd62dfd",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:12:26+02:00",
+  "timestamp": 1588277546,
+  "message": "gettext-Add-0.20.2-16402",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9655636ceaeaf931fc515ef8e2c7c0e28772131",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-21T17:48:48+02:00",
+  "timestamp": 1587484128,
+  "message": "gettext-Fix-typo-16206",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c8e15ee18ff11f96a4cbf99a232e90f5b090050",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-20T21:47:04-07:00",
+  "timestamp": 1587444424,
+  "message": "gettext-add-missing-iconv-dependency-16193",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f940e8616cb0347f85faf7fe2c4f90baa6af9490",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:10:19-05:00",
+  "timestamp": 1570727419,
+  "message": "Add-gettext-0.20.1-13086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46027bea13572edd8b7134733581c12a6c847867",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-01T13:22:35-04:00",
+  "timestamp": 1564680155,
+  "message": "Fix-QT4-build-for-mac-10944",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de3ff1a96bccdaeeb3e1639087be036e4d213d53",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-20T04:57:08+01:00",
+  "timestamp": 1553054228,
+  "message": "gettext-fix-dependency-type-of-xz-10935",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8203c4f55b5a411a7864ddeca62f9331d66e77fb",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-26T11:18:14-04:00",
+  "timestamp": 1527347894,
+  "message": "Fix-gettext-Problem-with-libxml2-8132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b182e2334d3f5ffb38a0336f8c4fa91cbdfeea93",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-13T10:52:55+02:00",
+  "timestamp": 1507884775,
+  "message": "gettext-fix-prefix-5749",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18dd9c086031be8338ec832a6b888b5a0352175b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-25T12:10:35-05:00",
+  "timestamp": 1493140235,
+  "message": "Add-patch-to-gettext-to-fix-parallel-make-check-3981",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2e6dea9b37bf83f8e96f3efc7086d1adbe82fcb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-20T13:06:11-05:00",
+  "timestamp": 1492711571,
+  "message": "Gettext-test-suite-fails-when-run-in-parallel-3921",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07397e8ef7486a7d2133b218a0095c53688dc450",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-21T17:40:45-05:00",
+  "timestamp": 1490136045,
+  "message": "Convert-gettext-to-AutotoolsPackage-3510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7fa2c4e2161f34fcdaa355b36b3c63832844b3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-03T21:36:08-07:00",
+  "timestamp": 1470285368,
+  "message": "Fix-1429-Remove-git-dep-from-gettext-break-circular-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e3a5d4e26a8da593dcb5334673c4541ab31baa7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-13T15:51:55-05:00",
+  "timestamp": 1468443115,
+  "message": "Final-fixes-to-get-guile-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e05fdf4a1c5949fbe2958a954a733eceb426b45",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-05T11:12:26-05:00",
+  "timestamp": 1467735146,
+  "message": "Bug-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e53f4328fcb94190bf7c54287aee95df563af01",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-01T16:30:11-05:00",
+  "timestamp": 1467408611,
+  "message": "Add-py-meep-package-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f68e14d3bd90e4a71f6366a328dcc97fc6e8a92",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T19:41:31+01:00",
+  "timestamp": 1458672091,
+  "message": "add-gettext-package",
+  "repo": "spack/spack"
+}]

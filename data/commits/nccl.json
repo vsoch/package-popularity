@@ -1,0 +1,272 @@
+[{
+  "commit": "ce664f6f5f9dfb16bcecf653b59535e4fb7bc88e",
+  "author": "romerojosh <romero.josh@gmail.com>",
+  "date": "2021-04-23T09:57:06-07:00",
+  "timestamp": 1619197026,
+  "message": "Add-NCCL-2.8.4-and-2.9.6.-23219",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bb495ce6f687814b8610239805b6494223c8d15",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-01-06T16:47:25-05:00",
+  "timestamp": 1609969645,
+  "message": "nccl-2.8.3-1-20708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46e7fbe120076439f4f0013b95e6fae8291effc5",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-07-31T13:53:51-07:00",
+  "timestamp": 1596228831,
+  "message": "LBANN-add-versions-update-CUDA-support-and-dependencies-17813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "791267c3dcd539f604a86f381582db5e28439b9f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-24T21:59:32-05:00",
+  "timestamp": 1593053972,
+  "message": "NCCL-add-latest-version-17234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85e089e3fa573e90e966927322257728f5fc7df7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T13:14:36-05:00",
+  "timestamp": 1587147276,
+  "message": "NCCL-add-new-version-16130",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d906658b30cb7ebeb8c977cbc43cbed619f59f3",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-04-06T17:19:55-04:00",
+  "timestamp": 1586207995,
+  "message": "nccl-supports-infiniband-RoCE-since-2.3.5-5-15889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d524abad20c17ddeb1031b803eeefa78928610de",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-02-13T18:10:02-08:00",
+  "timestamp": 1581646202,
+  "message": "Updated-both-cub-and-nccl-versions.-Fixed-a-bug-in-the-cub-download-14852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f075b0cc8a17f956aa412dcd5282d4e1da49c4a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-08-14T12:34:00-05:00",
+  "timestamp": 1565804040,
+  "message": "NCCL-fix-build-on-older-Linux-systems-12415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d4114b0950e35f34de1f58ac949b834c87ac9a2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-08-10T11:53:29-05:00",
+  "timestamp": 1565456009,
+  "message": "Add-NCCL-2.4.8-1-12362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92040a475f4b43f9cb0ab63f813ac10605aeee35",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-05-14T14:20:00-07:00",
+  "timestamp": 1557868800,
+  "message": "LBANN-add-support-for-new-python-front-end-11395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "376ef5f87a2e8c7052f2a69b62b7251f57ed8142",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-12-24T17:27:15-06:00",
+  "timestamp": 1545694035,
+  "message": "Add-latest-version-of-NCCL-10194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e6fb3a64b7e25bb98af15e5b51ec40a5ee8365",
+  "author": "jkelling <j.kelling@hzdr.de>",
+  "date": "2018-10-26T02:57:41+02:00",
+  "timestamp": 1540515461,
+  "message": "package-nccl-Fix-install_targets-for-verison-2.3.5-5-9623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "659d84518597983f884428af100df4a400a202a1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-10-18T11:22:17-07:00",
+  "timestamp": 1539886937,
+  "message": "lbann-add-aluminum-dependency-9523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b19968bacccf65f7b0b104df789472e049eaf23",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2017-04-03T14:08:28+01:00",
+  "timestamp": 1491224908,
+  "message": "add-CUDA_HOME-arg-to-nccl-makefile-3666",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3af971165a4e6a682fb40fcef0e9c68e5c905d8c",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-03-24T17:53:16-07:00",
+  "timestamp": 1490403196,
+  "message": "Added-a-package-for-Nvida-NCCL-3552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be5bb33aaccd75bf9ff4abe1951fa0c14e391f58",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2017-03-24T18:12:57+00:00",
+  "timestamp": 1490379177,
+  "message": "Initial-add-of-dev-package-3533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dff5e76461896639d63e7362511b42a7d77c849",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-03T23:27:14+01:00",
+  "timestamp": 1488580034,
+  "message": "add-package-py-myhdl-3335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0835289e8578452a755ca3fcb0afb62ee885e5a",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-02T20:50:21+01:00",
+  "timestamp": 1488484221,
+  "message": "add-package-py-chardet-3310",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bcc12a3c1a26e4493de0fb9fdaaf27dff862ffb",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-02T19:42:33+01:00",
+  "timestamp": 1488480153,
+  "message": "add-package-py-lazy-3291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37c36cf04ef91eb7ef7382a6b1feda48c00b721f",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-28T20:36:32+01:00",
+  "timestamp": 1488310592,
+  "message": "add-package-py-tqdm-3262",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

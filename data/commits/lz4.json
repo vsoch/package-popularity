@@ -1,0 +1,240 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8899a08263331825612304f8c13eafaf95ec2e3d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-23T15:44:22+01:00",
+  "timestamp": 1616510662,
+  "message": "OpenMPI-require-ssh-run-dependency-22115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3fcfc1cb25884f668466816be08a2a68cee256a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-13T19:50:44-05:00",
+  "timestamp": 1571014244,
+  "message": "Add-lz4-1.9.2-13155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea2a85dbd3cccc362b61fb9ac3c7ae8f339ff274",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-04-17T16:30:23+02:00",
+  "timestamp": 1555511423,
+  "message": "lz4-Add-1.9.0-11207",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8434e7803d2a16ca8057de70b5828d58b7240016",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-26T15:34:25+01:00",
+  "timestamp": 1553610865,
+  "message": "lz4-Add-1.8.3-11013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1db12e15347567ad23fc6bd6d27b0a415e08691",
+  "author": "Ruben Di Battista <rubendibattista@users.noreply.github.com>",
+  "date": "2018-10-18T19:18:05+02:00",
+  "timestamp": 1539883085,
+  "message": "vtk-add-support-for-Xdmf-IO.-9510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a48f44bca6fb061e34250a63cce56b77d861f4",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T17:33:59+02:00",
+  "timestamp": 1528385639,
+  "message": "add-commented-test-dependencies-8407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "59633d5c958883ebf1a738ad1b8cd36480043dbf",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-05-31T13:24:38-07:00",
+  "timestamp": 1527798278,
+  "message": "fix-missing-lrt-for-Centos6-issue-7552-7597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "514f0bf5c546d666f32c02ea652658dcf3b85c8c",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-31T16:12:44-08:00",
+  "timestamp": 1517443964,
+  "message": "lz4-platform-darwin-fix-dylib-name-7112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "804a6c5e1aedc1c72cbd95c7022963f4cabb589c",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-31T04:40:32-08:00",
+  "timestamp": 1517402432,
+  "message": "lz4-1.8.1.2-new-version-7111",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72f2f845e7247530c76926f9ad27bcdbece83c31",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-01-23T19:26:21+01:00",
+  "timestamp": 1485195981,
+  "message": "Update-lz4-to-1.7.5-2878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eace068788956fbceb240f41949af54fa62db82c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T15:21:23-05:00",
+  "timestamp": 1472070083,
+  "message": "Use-self.run_tests-for-make-check",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58d770406062de9f72bc470c30f5b0ac4b841438",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-29T16:49:46-05:00",
+  "timestamp": 1469828986,
+  "message": "Overhaul-of-compression-libraries",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9149b6cb63416af2f952c71db8750450f30cbc1",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:59:01-06:00",
+  "timestamp": 1414295941,
+  "message": "Fixing-errors-in-depends_on-and-updating-version-for-ImageMagick",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,200 @@
+[{
+  "commit": "6d54df1ba4e8ff1d29782ffe2ac358ac10b25bb5",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2021-03-03T18:10:00+01:00",
+  "timestamp": 1614791400,
+  "message": "precice-add-pkgconfig-as-a-build-dependency-22059",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ceab34fc8afce4e9c26342bb75d9c87db17635d",
+  "author": "Gerasimos Chourdakis <chourdak@in.tum.de>",
+  "date": "2021-01-21T16:38:53+01:00",
+  "timestamp": 1611243533,
+  "message": "precice-Add-version-2.2.0-21166",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3107f0367b2c9dbae0b7201f3272111dcde70674",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2020-10-12T13:25:51+02:00",
+  "timestamp": 1602501951,
+  "message": "precice-added-v2.1.1-19264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37fa6fe34363c9ea0852fc93106a665d41fc2da8",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2020-07-23T01:49:36+02:00",
+  "timestamp": 1595461776,
+  "message": "precice-Add-version-2.1.0-17644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e9313a1911bef7135583c794272b76e0fd7bf86",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2020-05-08T19:26:37+02:00",
+  "timestamp": 1588958797,
+  "message": "precice-Fix-conflict-with-boost-1.73.0-16507",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be57c0f6e716425d624eaaa9c56c0ea603eef8f8",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2020-04-03T18:33:47+02:00",
+  "timestamp": 1585931627,
+  "message": "precice-Add-version-2.0.2-15846",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8eda1db50ff67bc370507da25047eb8e848de40b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T13:19:41-06:00",
+  "timestamp": 1583349581,
+  "message": "precice-Add-version-2.0.1-15318",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e8b6c40b316358b01eec3e84c45bc7aab6071b64",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2020-02-11T10:06:03+01:00",
+  "timestamp": 1581411963,
+  "message": "precice-add-version-2.0.0-14842",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1965fa913d8d988a9d0f8c3c2ff63c32077d7e8",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-11-12T18:40:37+01:00",
+  "timestamp": 1573580437,
+  "message": "precice-enable-petsc-by-default-13696",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f7fd4037fe28f4256cda3f2c4da5406df02a22e",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-11-08T17:33:00+01:00",
+  "timestamp": 1573230780,
+  "message": "precice-add-compiler-conflicts-13644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f06d5c12a9fb82f56dd5ce3c57bccedd20d78d7",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-09-13T16:04:50+02:00",
+  "timestamp": 1568383490,
+  "message": "preCICE-added-versions-1.6.0-and-1.6.1-12809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bb08b6ecbbefdfb772125f756ae6d26b949d764",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-08-16T16:00:01+02:00",
+  "timestamp": 1565964001,
+  "message": "preCICE-Fix-Eigen-include-directory-12441",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33bec18cc215e0d2d08a0375cbcb1cf3eb451e6a",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-08-11T19:19:44+02:00",
+  "timestamp": 1565543984,
+  "message": "Add-preCICE-xSDK-support-12356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fe3d6367ea2f793a66033f4e77bf92a1d3e8b74",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-07-08T22:59:08+02:00",
+  "timestamp": 1562619548,
+  "message": "preCICE-package-add-version-1.5.2-11949",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98d21193ff6da7545894bd5980ef98748a512cce",
+  "author": "Gerasimos Chourdakis <chourdak@in.tum.de>",
+  "date": "2019-06-21T13:56:35+02:00",
+  "timestamp": 1561118195,
+  "message": "precice-add-version-1.5.1-11809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b81f821569aa142315b9c652456cc9309c6b5f2",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-05-29T22:41:48+02:00",
+  "timestamp": 1559162508,
+  "message": "precice-add-version-1.5.0-11577",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c951d1cb987b7f80924fa96a175e9b06be8b3077",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-04-26T09:49:12+02:00",
+  "timestamp": 1556264952,
+  "message": "precice-add-version-1.4.1-11276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ef7287a3b1ffa5e15d5b74b2b22e09cf70cb03c",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-04-16T21:38:08+02:00",
+  "timestamp": 1555443488,
+  "message": "precice-package-add-versions-and-dependencies-11176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f946a83c8cb929dd0021d8a5a2a0a1d99ba2e47d",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2018-07-06T14:19:30+02:00",
+  "timestamp": 1530879570,
+  "message": "precice-new-package-issue-8643-8644",
+  "repo": "spack/spack"
+}]

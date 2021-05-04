@@ -1,0 +1,344 @@
+[{
+  "commit": "7dbc4d32db439063eba4859facbc4b4b759cf50c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-01-05T23:36:56-08:00",
+  "timestamp": 1609918616,
+  "message": "update-stat-and-deps-with-bug-fixes-20690",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad87eece17dd7dbdfe39fd9c28ff65d52f1ac6e6",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-10-29T11:11:36+09:00",
+  "timestamp": 1603937496,
+  "message": "launchmon-Fix-for-aarch64-19562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "162f1338d9afcb46b11dbceb6d9bc5f9d329fc9d",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-07-31T14:47:36-07:00",
+  "timestamp": 1564609656,
+  "message": "patch-launchmon-to-fix-char-conversion-error-12219",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5669144d22c9d5fe1143d421888775e520c4e86b",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-27T14:56:43+02:00",
+  "timestamp": 1561640203,
+  "message": "Fix-pkgconfig-dependencies-11864",
+  "repo": "spack/spack"
+},
+{
+  "commit": "894d01e482d973e3da30f943e17ba2b5d7b599a8",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-06-21T04:47:42-07:00",
+  "timestamp": 1561117662,
+  "message": "converting-to-launchmon-to-autotools-package-11794",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "604b75c1f9d53e0f094a22d1167558aa4df566af",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-03-09T10:36:32-08:00",
+  "timestamp": 1489084592,
+  "message": "created-elf-virtual-package-and-updated-dependent-packages-3317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3df208efc0a6a7c7ee74e8a21dcfd999dcc1aa53",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-09T21:16:39-07:00",
+  "timestamp": 1470802599,
+  "message": "stat-and-dependences-package-updates",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bca69f27281d3bb707bcba41b4f332ab3988509",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-24T14:54:09-07:00",
+  "timestamp": 1464126849,
+  "message": "updated-launchmon-url-and-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67ea7ce0ab2b89b19d73ea60285ba30bccebf4fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-01-18T00:36:06-08:00",
+  "timestamp": 1453106166,
+  "message": "Fix-LaunchMon-on-newer-gcc-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e37523428a0c29c10626bbc8f75b0582aeb4c9c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-07-08T11:25:41-07:00",
+  "timestamp": 1436379941,
+  "message": "for-LaunchMON-added-latest-git-commit-and-dependences",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddfc2766889671a48e680d70f5461416faac5836",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-07-02T15:14:30-07:00",
+  "timestamp": 1435875270,
+  "message": "removed-workaround",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36a87f5bf9884978ba1f672322d9b7f663cf4f58",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T03:07:54-07:00",
+  "timestamp": 1412762874,
+  "message": "Update-documentation-to-add-an-auto-generated-list-of-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f092572672d0770f3d9c6c258a921ab1dd1fd395",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-05-01T23:01:19-07:00",
+  "timestamp": 1399010479,
+  "message": "Add-Dong-s-1.0.1-release-URL-to-the-launchmon-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "554f554dc2f1199b2e4803cafb3ab80094557e69",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-04-15T15:40:03-07:00",
+  "timestamp": 1397601603,
+  "message": "Starting-to-get-launchmon-working",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "759d33ac5baa97b5fdac7929c60728c15b5f24b5",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2014-03-14T12:04:27-07:00",
+  "timestamp": 1394823867,
+  "message": "fixes-for-launchmon-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb9c5a19cf7ba9f5aea754a3d00fabde89ed6d02",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2014-03-13T16:38:34-07:00",
+  "timestamp": 1394753914,
+  "message": "Add-build-fix-patch-to-launchmon",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d655b5407a2b57503d0f008fb1fd369b6e55713",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-13T16:09:42-07:00",
+  "timestamp": 1394752182,
+  "message": "Add-force_url-option-to-launchmon-for-unversioned-URL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d96844e5768db120854bdae36cd223198824ccc",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2014-03-13T15:50:33-07:00",
+  "timestamp": 1394751033,
+  "message": "Add-launchmon-package-to-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93e288859adc8e14ab9f7fde9d842f185f0d4954",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-06T14:14:57+01:00",
+  "timestamp": 1389014097,
+  "message": "Simpler-prefix-args",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0b82d291f4d8449a0ab856768b019b591514ea9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-04T14:44:16-08:00",
+  "timestamp": 1388875456,
+  "message": "Change-deps-on-mpich-to-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

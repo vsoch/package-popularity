@@ -1,0 +1,184 @@
+[{
+  "commit": "5461411f212e60ff900a8c3ad99b11b5c0849270",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-04-20T09:49:13-07:00",
+  "timestamp": 1618937353,
+  "message": "Set-the-minimum-version-of-NCCL-for-aluminum-23135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a8fad8474eb41ec7da07ec2e9790b4d3557d937",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-03-12T09:43:13-08:00",
+  "timestamp": 1615570993,
+  "message": "LBANN-software-stack-new-versions-and-dependencies-22234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9246af112470cd83369158d883fcbf6b52b42ee",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-22T14:35:58-08:00",
+  "timestamp": 1614033358,
+  "message": "Adding-support-for-ROCm-for-the-LBANN-software-stack.-21716",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23e22ae623225f94e4f4ff339198ffc0ed0b7baf",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-19T00:32:17-08:00",
+  "timestamp": 1613723537,
+  "message": "Updates-to-the-LBANN-software-stack-21733",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3a078c7dadfeef263ff5cbc9f27ebca57c0b8f5",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-01-21T08:49:53-08:00",
+  "timestamp": 1611247793,
+  "message": "Add-support-for-building-with-an-FFT-layer-in-LBANN.-Updated-the-21184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55ec18a580a8dff078e1467604c4eb4fa3faba6b",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-14T16:59:12-08:00",
+  "timestamp": 1605401952,
+  "message": "Bugfixes-for-lbann-sw-stack-19903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9cd0f00607f6e58c6f037757701856eeb73b0607",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-07T12:09:00-08:00",
+  "timestamp": 1604779740,
+  "message": "Added-code-to-help-DiHydrogen-find-cuDNN-and-CUB-19783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f041876470ec9f9a1c38b05f080785955582098f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-05T16:01:49-08:00",
+  "timestamp": 1604620909,
+  "message": "Added-CUB-dependency-to-Aluminum-19737",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16c8cdaef7cc5a685018ca36598770f4fea42bfa",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-11-05T14:28:27-08:00",
+  "timestamp": 1604615307,
+  "message": "LBANN-update-HWLOC-versions-19683",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dea225fcefd33266438e1c9d403d6139a45215c",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-10-30T12:51:10-07:00",
+  "timestamp": 1604087470,
+  "message": "Update-lbann-version-and-simplify-installation-19579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54dc871524613c00b2d8209ddbdee0519ce36472",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-08-04T10:52:59-07:00",
+  "timestamp": 1596563579,
+  "message": "Renamed-the-aluminum-variant-for-thhe-intra-node-RMA-functions.-17861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46e7fbe120076439f4f0013b95e6fae8291effc5",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-07-31T13:53:51-07:00",
+  "timestamp": 1596228831,
+  "message": "LBANN-add-versions-update-CUDA-support-and-dependencies-17813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "490508d324dac62210077162a6b351c327ee7c66",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2020-02-10T12:13:47-08:00",
+  "timestamp": 1581365627,
+  "message": "Hydrogen-update-dependency-on-aluminum-14760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f069b571d7b0c71aed8c81f898f1b9cecdfd686",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-11-20T19:04:01-07:00",
+  "timestamp": 1574301841,
+  "message": "Updated-versions-numbers-for-Aluminum-and-Hydrogen.-13814",
+  "repo": "spack/spack"
+},
+{
+  "commit": "406a242847a5bd14f10d7c24a85cc1dfc850245f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-02-13T11:19:15-08:00",
+  "timestamp": 1550085555,
+  "message": "Update-lbann-sw-stack-dependencies-10579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dc12ca5c769f56aca4e7fdf768d3c8454fdc51f7",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-02-12T00:05:32-08:00",
+  "timestamp": 1549958732,
+  "message": "lbann-updated-versions-10568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9102cd579030e885a6d296742bfca9caa7fa23c2",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2019-01-10T17:10:11-08:00",
+  "timestamp": 1547169011,
+  "message": "Updating-LBANN-and-related-packages-10305",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abd575f2733d28d5b87730abfdf273ac6667198b",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-12-10T15:12:43-08:00",
+  "timestamp": 1544483563,
+  "message": "Update-LBANN-generator-and-bug-fix-9906",
+  "repo": "spack/spack"
+},
+{
+  "commit": "659d84518597983f884428af100df4a400a202a1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-10-18T11:22:17-07:00",
+  "timestamp": 1539886937,
+  "message": "lbann-add-aluminum-dependency-9523",
+  "repo": "spack/spack"
+}]

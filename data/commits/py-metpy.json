@@ -1,0 +1,8 @@
+[{
+  "commit": "a6396d61908342beb4d773cbeed4466cc8c90be1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-26T12:51:16-06:00",
+  "timestamp": 1614365476,
+  "message": "py-metpy-add-new-package-21971",
+  "repo": "spack/spack"
+}]

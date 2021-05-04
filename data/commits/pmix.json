@@ -1,0 +1,152 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "881c4e87dfcf3f9871bc19aae425626a52da0d9f",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-12-02T13:36:30-05:00",
+  "timestamp": 1606934190,
+  "message": "pmix-openpmix-added-v3.2.1-and-v3.1.5-20087",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31791f269b16e2f4c2b6e442fc4890dab1998279",
+  "author": "Rob Latham <robl@mcs.anl.gov>",
+  "date": "2020-06-09T16:16:38-05:00",
+  "timestamp": 1591737398,
+  "message": "teach-spack-how-to-build-pmix-from-git-16973",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1662c3581bb8e07a4a59841b31354877b24ed7c9",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-02T22:09:33-04:00",
+  "timestamp": 1585879773,
+  "message": "pmix-add-option-for-toggling-pmi-backwards-compatibility-15838",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25e50a994357737dd04ee53afc82b69ab367a55f",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-25T01:01:24-05:00",
+  "timestamp": 1585116084,
+  "message": "pmix-add-version-2.2.3-15668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3120e063593ca3efae6443baa70127a4180b348a",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-07-18T19:59:02+01:00",
+  "timestamp": 1563476342,
+  "message": "added-version-3.1.3-of-PMIx-12055",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b1fb7d9ff35d0264eea8bf62568a1c0575b72fc",
+  "author": "Ralph Castain <rhc@pmix.org>",
+  "date": "2019-01-26T12:25:18-08:00",
+  "timestamp": 1548534318,
+  "message": "Update-the-PMIx-package-10442",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "531c29bd8b09964a41b65cd0576380c7694ed888",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2018-10-19T19:28:19-06:00",
+  "timestamp": 1539998899,
+  "message": "PMIX-replace-md5-hash-with-sha256-for-recent-versions-9585",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5185b18cc99f6222da993cedb54ef3a53824d24",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2018-10-15T19:21:02-06:00",
+  "timestamp": 1539652862,
+  "message": "pmix-package-add-new-versions-9532",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efbc2307426d6544a4b64c7d995084c6c382036c",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2018-05-11T20:58:29-06:00",
+  "timestamp": 1526093909,
+  "message": "pmix-add-1.2.5-and-2.0.3-bug-fix-releases-8097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5d9a44e1767a66fede811ddd7c0cdbaeb253c76",
+  "author": "Ross Miller <rgmiller@ornl.gov>",
+  "date": "2018-04-23T15:09:52-04:00",
+  "timestamp": 1524510592,
+  "message": "7851-pmix-aarch64-7852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87043679ae60ec54ef9fd61eca865817a46b1b39",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2018-02-14T17:26:49-07:00",
+  "timestamp": 1518654409,
+  "message": "pmix-add-2.1.0-and-more-7191",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a646ec1fff6e627d2b9241ad602a11cf31a0fef9",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2017-09-22T11:27:28-06:00",
+  "timestamp": 1506101248,
+  "message": "PMIx-add-PMIx-package-to-Spack-5426",
+  "repo": "spack/spack"
+}]

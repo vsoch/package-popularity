@@ -1,0 +1,88 @@
+[{
+  "commit": "b43ed76fa703cedb0adf00cc79ed91e8a8d2af74",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2021-04-28T21:17:09+09:00",
+  "timestamp": 1619612229,
+  "message": "nest-depend-on-py-scipy-when-python-23306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "010e5761d6631eae102d1eec87e5e74a0e16ed82",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2021-04-23T06:35:00+09:00",
+  "timestamp": 1619127300,
+  "message": "NEST-package-add-version-master-fix-python-23211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9bcf99358e0b35f41646c7b3dae6b4fa70556994",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2020-12-10T21:43:16+09:00",
+  "timestamp": 1607604196,
+  "message": "Add-a-new-NEST-version-2.20.0.-20316",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d46dcd6f015e79bd4b10c53d84da378f5db3da0",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-04-24T11:09:49+09:00",
+  "timestamp": 1556071789,
+  "message": "nest-change-cmake_options-to-args.-11273",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24c75d39e44eb8f27c000a2edeac3c52b0bd0ed2",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-12T09:57:44+02:00",
+  "timestamp": 1539331064,
+  "message": "codes-dia-nest-fix-pkg-config-dependency-9498",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e0c337fe9398cfd41e247dfc1caf2fb095cabc7",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2018-08-29T19:30:29+02:00",
+  "timestamp": 1535563829,
+  "message": "New-package-NEST-Simulator-9092",
+  "repo": "spack/spack"
+}]

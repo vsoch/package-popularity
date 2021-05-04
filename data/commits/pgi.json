@@ -1,0 +1,264 @@
+[{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e49cac43349db3bb85f5ff534f881a4a4212797",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-07-30T05:16:30+02:00",
+  "timestamp": 1596078990,
+  "message": "pgi-update-to-20.4-17696",
+  "repo": "spack/spack"
+},
+{
+  "commit": "edd60f95c33b29c12d88fdfe380e0fbba68b0fdf",
+  "author": "asmaahassan90 <31959389+asmaahassan90@users.noreply.github.com>",
+  "date": "2020-05-07T15:38:05+02:00",
+  "timestamp": 1588858685,
+  "message": "Add-PGI-version-19.7-and-export-OMPI-variables-16484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b00712fff44a6ef0c09ab09025f2b4efaac5e65",
+  "author": "Melven Roehrig-Zoellner <Melven.Roehrig-Zoellner@DLR.de>",
+  "date": "2020-03-13T19:07:35+01:00",
+  "timestamp": 1584122855,
+  "message": "pgi-add-missing-paths-in-setup_run_environment-15480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60439a5040ed558435455138d72f375ec8b463fa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T13:18:46-06:00",
+  "timestamp": 1583349526,
+  "message": "pgi-19.10-update-version-15330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cbd349cb4c2420e64de138e848cbeaad232ec1d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-12T01:49:54-07:00",
+  "timestamp": 1570870194,
+  "message": "checksums-fix-packages-that-needed-new-download-locations",
+  "repo": "spack/spack"
+},
+{
+  "commit": "feac68d2486bb9d90780a0ec9f6059c413b6a718",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-05-10T12:11:23-06:00",
+  "timestamp": 1557511883,
+  "message": "Add-new-version-of-PGI-compiler.-11417",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bad485a221200643051a424fe7051b5d7ce3dc1e",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-03-05T11:59:47-08:00",
+  "timestamp": 1551815987,
+  "message": "various-package-version-updates-and-build-fixes-10775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9551b34cb5c774e2feec9cf46691105d72b7e8c3",
+  "author": "Nick Forrington <nick.forrington@gmail.com>",
+  "date": "2018-12-04T07:12:20-05:00",
+  "timestamp": 1543925540,
+  "message": "pgi-Add-checksum-for-PGI-18.10-9985",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78d8bd7d403462b85ee66abad0fb31ce9349ad71",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2018-05-03T23:12:17+08:00",
+  "timestamp": 1525360337,
+  "message": "Bump-pgi-to-18.4.-7980",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71f12597a7664d483bbeaae98535222b14b2bfd1",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-11-16T04:02:54+08:00",
+  "timestamp": 1510776174,
+  "message": "Update-pgi-to-17.10-.-6306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94c1651bce82cc1c7052571bf02724c1b2a142bb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-10T08:16:39-05:00",
+  "timestamp": 1494422199,
+  "message": "Add-latest-version-of-PGI-compilers-4186",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90a57cdf8f234dd74e26d7db2d11dd0a18ef3841",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T13:55:00-05:00",
+  "timestamp": 1493492100,
+  "message": "Add-latest-version-of-PGI-compilers-4047",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1ca79ba6c4217744f2804e8392f7f0e3216e8ca",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-09T15:58:17-06:00",
+  "timestamp": 1486677497,
+  "message": "Add-latest-version-of-PGI-3107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "367f46eee2f8e4165216ab65cfc374aaf6f8c10a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-15T04:35:27-06:00",
+  "timestamp": 1484476527,
+  "message": "Add-old-version-of-PGI-2784",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7806fded3e7e90aeb0d864ab76545cc57fbe2b03",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-04T13:47:25-05:00",
+  "timestamp": 1475606845,
+  "message": "Update-documentation-URL-after-switch-to-readthedocs-1901",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fed7ba1dab8db3eeb1fa821f5e0c26e58c2a282d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-25T16:45:02-05:00",
+  "timestamp": 1469483102,
+  "message": "Add-latest-version-of-PGI",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c043275f1b83e54ad00355fdae255aa11a2d03e1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-11T11:46:41-05:00",
+  "timestamp": 1462985201,
+  "message": "Final-flake8-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5879f8207fe005a485c09a3d8802493455ba16ac",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-10T16:40:46-05:00",
+  "timestamp": 1462916446,
+  "message": "Flake8-formatting-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6906911e85f5df504ef0a039ac510822eafc3643",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-05T11:00:55-05:00",
+  "timestamp": 1459872055,
+  "message": "Allow-license-files-to-use-different-symbols-for-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240c0643f214006ecf0321e3466fa3d5db7eb092",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-01T12:23:08-05:00",
+  "timestamp": 1459531388,
+  "message": "Add-NAG-Fortran-compiler-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82ce798f41951741e552086534c60af5e3e3c464",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-16T13:49:33-05:00",
+  "timestamp": 1458154173,
+  "message": "Bug-fix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fb128fb341294f1f3848fbff55d30a6e123f8dd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-16T13:35:55-05:00",
+  "timestamp": 1458153355,
+  "message": "Add-PGI-Compiler-Package",
+  "repo": "spack/spack"
+}]

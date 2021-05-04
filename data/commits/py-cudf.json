@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05cd3c43801dc07c1807695082ada63a37040156",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-10-30T15:36:49-04:00",
+  "timestamp": 1604086609,
+  "message": "New-package-py-cudf-19111",
+  "repo": "spack/spack"
+}]

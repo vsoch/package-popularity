@@ -1,0 +1,64 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c07260d27a2556f4f559c0f0dc24217ef05a3ae",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-05-04T23:57:06+02:00",
+  "timestamp": 1588629426,
+  "message": "ecFlow-added-UI-GUI-flag-with-new-version-16444",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c45153e00fe6c31a58736e781565fe094b5a433",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-04-27T20:19:41+02:00",
+  "timestamp": 1588011581,
+  "message": "ecflow-added-version-4.12.0-16327",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e6285a19bb1e318c9149fcdfd4b084c82933779",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-03-14T20:49:07-05:00",
+  "timestamp": 1552614547,
+  "message": "Ensure-that-every-package-has-a-description-10896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a41571a1b65ca9d02859385d0c52f21706577165",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-12-18T02:23:53+01:00",
+  "timestamp": 1545096233,
+  "message": "Add-variant-to-ecflow-to-choose-whether-to-use-static-boost-libraries.-9933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c61250e2ef3bf46b6f96b4666b6837213106a3df",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-11-18T17:13:31+01:00",
+  "timestamp": 1542557611,
+  "message": "New-package-ecFlow-a-work-flow-manager.-9867",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0eeed1f7f75b8844c1c748248ba62fc76afb80e9",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-08-29T11:53:57+08:00",
+  "timestamp": 1598673237,
+  "message": "Add-new-package-iniparser-18318",
+  "repo": "spack/spack"
+}]

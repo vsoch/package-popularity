@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d00e8394f8bf5ccfa90e2ecbc7ca6bb3c57dfd32",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-10-27T23:37:34+01:00",
+  "timestamp": 1603838254,
+  "message": "concretizer-handle-conflicts-with-compiler-ranges-correctly",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19ff3c0f67f89e842716a0c3e16996db8f471c8a",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2020-02-04T11:04:59+01:00",
+  "timestamp": 1580810699,
+  "message": "akantu-new-package-at-v3.0.0-14685",
+  "repo": "spack/spack"
+}]

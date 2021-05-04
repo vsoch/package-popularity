@@ -1,0 +1,344 @@
+[{
+  "commit": "c1cf643780a4b8a681de0baa4c4dacc8b0268b28",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-04-05T22:06:01-07:00",
+  "timestamp": 1617685561,
+  "message": "libfabric-add-v1.12.1-22790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a059aad172cb29bd3618552566dc35cd35de4ac",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T14:01:19+02:00",
+  "timestamp": 1617278479,
+  "message": "libfabric-add-1.12.0-22694",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52058ad5a749ffaf1e6621e0566387d70082533a",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-02-04T18:36:57-06:00",
+  "timestamp": 1612485417,
+  "message": "New-versions-of-libfabric-1.11.1-1.11.2-21496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76f3d84a1b29e85e9a089046a057ef8fc92f5f35",
+  "author": "Luke Dalessandro <ldalessa@uw.edu>",
+  "date": "2020-08-18T23:26:22-07:00",
+  "timestamp": 1597818382,
+  "message": "libfabric-added-v1.10.0-v1.10.1-and-v1.11.0.-18161",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bcc41018ff792a26e70f44b4b77722d5d9f042f",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-03-18T20:04:01-05:00",
+  "timestamp": 1584579841,
+  "message": "Split-Fabtest-libfabric-15557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12940f344850805d37279111ec799eb838f31f0c",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-03-11T20:51:35+01:00",
+  "timestamp": 1583956295,
+  "message": "libfabric-1.9.1-Add-fabtests-15440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21634e805ef61b4e503f25a681003a9ef19e68c0",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-03-10T12:09:46-04:00",
+  "timestamp": 1583856586,
+  "message": "libfabric-added-v1.9.1-15405",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1973d1c53eecaa08664417aab8655bb4b16c4e5c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T19:11:54-06:00",
+  "timestamp": 1583370714,
+  "message": "libfabric-default-1.8.1-15337",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2fa4c1e4b20a36a2a1787d69271c1b09544614e",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-28T12:26:48-05:00",
+  "timestamp": 1582910808,
+  "message": "Add-new-version-of-libfabric-that-builds-on-macOS-15254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66c3f89b7859e9acd6811e2271f6b5e34099517d",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-02-20T05:59:16+01:00",
+  "timestamp": 1582174756,
+  "message": "libfabric-Always-install-fabtests-15081",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f4c90378ac7f0984bc63fa8cdf467c433528f9c",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-01-31T21:01:58+01:00",
+  "timestamp": 1580500918,
+  "message": "libfabric-1.9.0-Fix-C-header-usage-14703",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a76ef717bdb2a93d49d56616205ea9fa2548433f",
+  "author": "Rob Latham <robl@mcs.anl.gov>",
+  "date": "2020-01-13T20:47:48-06:00",
+  "timestamp": 1578970068,
+  "message": "Support-for-more-libfabric-providers-14453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88680febc92eca5d09f639eaea45657beddcdfe4",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-12-03T09:32:53-07:00",
+  "timestamp": 1575390773,
+  "message": "bump-libfabric-to-1.9.0-13964",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d93cacfa5cc3bc01104185a1aea9382a2afd228d",
+  "author": "Rob Latham <robl@mcs.anl.gov>",
+  "date": "2019-10-09T21:24:17-06:00",
+  "timestamp": 1570677857,
+  "message": "libfabric-new-upstream-release-1.8.1-13053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a707c5bd2b5dd0380fe8546b4f67ca993f520b4a",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-08-22T20:02:57-04:00",
+  "timestamp": 1566518577,
+  "message": "libfabric-package-add-kdreg-variant-off-by-default-12521",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8095e26ffa238803d4cc30df4a642922bdbaed91",
+  "author": "Jimmie Lin <jimmie.lin@gmail.com>",
+  "date": "2019-07-23T06:28:46+08:00",
+  "timestamp": 1563834526,
+  "message": "Add-EFA-fabric-to-libfabric",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a4d37d6d69e57e598ccbfb500864efd38775097",
+  "author": "Phil Carns <carns@mcs.anl.gov>",
+  "date": "2019-07-11T16:43:38-04:00",
+  "timestamp": 1562877818,
+  "message": "libfabric-package-add-support-for-tcp-provider-11965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "902dcfd1940059dd641771adca3f2fe15b87ad20",
+  "author": "shanedsnyder <ssnyder@mcs.anl.gov>",
+  "date": "2019-07-03T19:30:25-05:00",
+  "timestamp": 1562200225,
+  "message": "libfabric-package-add-version-1.8.0-11918",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8dc3853922ee74938c0ee15cd40bc0290b558fa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-04-20T17:03:18-05:00",
+  "timestamp": 1555797798,
+  "message": "Mercury-package-add-version-1.0.1-and-update-dependencies-10906",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ac576923fed3e3854c9c62cc624e6937998ab68",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-04-10T01:38:15+02:00",
+  "timestamp": 1554853095,
+  "message": "libfabric-Add-1.7.1-11141",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1db5a3e0a3715f1206ac29d16350c77253addb9c",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-20T04:52:50+01:00",
+  "timestamp": 1553053970,
+  "message": "libfabric-add-1.6.2-10918",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43e6114db757d269f19d19461939463e476241f0",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-01-14T15:21:33-08:00",
+  "timestamp": 1547508093,
+  "message": "Added-latest-version-of-libfabric-10343",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66971f6ac8a0086c53dfb09280ac31a01aac420d",
+  "author": "Sam Gutiérrez <samuelkgutierrez@users.noreply.github.com>",
+  "date": "2018-08-22T13:21:30-06:00",
+  "timestamp": 1534965690,
+  "message": "libfabric-Add-develop-version-option.-9074",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9fdb610f29d28b10ebed23b914f0a135504a68f",
+  "author": "Sam Gutiérrez <samuelkgutierrez@users.noreply.github.com>",
+  "date": "2018-08-21T13:14:17-06:00",
+  "timestamp": 1534878857,
+  "message": "Add-1.6.1-release.-9042",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7120e59c6aef520ebeb3dca2d8985dce8d203693",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-04-25T10:35:36-05:00",
+  "timestamp": 1524670536,
+  "message": "Libfabric-updating-fabrics-adding-deps-7838",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef253f9db4b742f2ce0d97d99cce9d3140b9b9c9",
+  "author": "Raghu Raja <rajachan@users.noreply.github.com>",
+  "date": "2018-04-13T01:09:54-06:00",
+  "timestamp": 1523603394,
+  "message": "libfabric-added-v1.6.0-and-v1.5.3-7742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "770100765f0ebd6943780c6cddb1dfea970dcdd6",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-01-31T05:02:21-08:00",
+  "timestamp": 1517403741,
+  "message": "Added-v1.4.2-to-libfabric-package-7053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49a9d63be74e3e5ee4dc1b91aa4004b7f78953d3",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-08-23T15:47:28-07:00",
+  "timestamp": 1503528448,
+  "message": "Added-options-to-libfabrics-5191",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94af7ccb77e3c57eb12a017480e1ee9800d5d521",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-08-17T15:31:31-05:00",
+  "timestamp": 1503001891,
+  "message": "new-package-libfabric-5146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33fb7bbd1b59e6d935271134f9115a7d484fb8ac",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-26T10:49:52+02:00",
+  "timestamp": 1477471792,
+  "message": "add-a-unit-test-for-conretization-with-develop-version-2064",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

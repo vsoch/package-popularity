@@ -1,0 +1,32 @@
+[{
+  "commit": "a989521052f456e653b09955a22d4ffea7cf0c7a",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-06T21:00:32+02:00",
+  "timestamp": 1617735632,
+  "message": "Squashfuse-Enable-or-disable-static-and-shared-libs-and-allow-min-size-builds-too-useful-for-appimages-22669",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c89fa98b16ee4d6be8c8a75eb506d3ae260500c2",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-02T01:45:01+02:00",
+  "timestamp": 1617320701,
+  "message": "Fix-pkgconfig-dependencies-22702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa6e30c6a77e06a029f3e196166a83c5bd869e7b",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-31T10:17:35+02:00",
+  "timestamp": 1617178655,
+  "message": "squashfuse-add-v0.1.104-and-variants-22605",
+  "repo": "spack/spack"
+},
+{
+  "commit": "995c978f5202420ce9ecb4970bf791021079e4ea",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-26T11:23:46+01:00",
+  "timestamp": 1616754226,
+  "message": "SquashFUSE-add-new-package-add-libfuse-detection-22511",
+  "repo": "spack/spack"
+}]

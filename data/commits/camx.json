@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13b3578d2f9d296475da8dffe097b8ae68516422",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-07-24T23:39:40+09:00",
+  "timestamp": 1595601580,
+  "message": "camx-change-compile-option-for-aarch64-17653",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "862b3b00df2d6c4b55ea1380995cf676de07a35b",
+  "author": "Pariksheet Nanda <pariksheet.nanda@uconn.edu>",
+  "date": "2019-08-15T20:07:23-04:00",
+  "timestamp": 1565914043,
+  "message": "camx-add-version-6.50-12437",
+  "repo": "spack/spack"
+}]

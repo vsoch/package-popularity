@@ -1,0 +1,8 @@
+[{
+  "commit": "d3a9824ea2f7675e9e0008b5d914f02e63e19d85",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-03-30T20:54:12+02:00",
+  "timestamp": 1617130452,
+  "message": "libLBFGS-Add-new-package.-22639",
+  "repo": "spack/spack"
+}]

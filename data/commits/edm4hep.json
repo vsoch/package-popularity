@@ -1,0 +1,32 @@
+[{
+  "commit": "598e4e77a72130427783d359eae29a3db6c2a67b",
+  "author": "Valentin Volkl <valentin.volkl@cern.ch>",
+  "date": "2021-03-28T15:07:32+02:00",
+  "timestamp": 1616936852,
+  "message": "edm4hep-add-version-0.3.1-22600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8035a52f7b8e3e8dd8cb02b4fbf32613d0cf260e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-12-07T18:58:10+01:00",
+  "timestamp": 1607363890,
+  "message": "edm4hep-added-package-at-v0.3-updated-podio-at-v0.13-20241",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5b89b422d9cebb83aea269f46b865ba1ba88b13",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-11-13T19:43:43+01:00",
+  "timestamp": 1605293023,
+  "message": "Add-sio-and-add-it-as-possible-dependency-for-podio-19875",
+  "repo": "spack/spack"
+}]

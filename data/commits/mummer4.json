@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43202f433cf82216bb0058293dbe0e37e713635",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-12-01T10:42:15-06:00",
+  "timestamp": 1606840935,
+  "message": "mummer4-add-4.0.0rc1-20183",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5604c8d91aab3ce3191dd766e1bd79d661dac238",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-06-02T22:09:39-05:00",
+  "timestamp": 1591153779,
+  "message": "mummer4-new-package-at-4.0.0-beta2-16907",
+  "repo": "spack/spack"
+}]

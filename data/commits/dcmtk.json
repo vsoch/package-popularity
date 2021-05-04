@@ -1,0 +1,48 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45a67fa0f37ade10c440bab3f1034aa1e975e01b",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-07-31T12:18:55+09:00",
+  "timestamp": 1596165535,
+  "message": "dcmtk-fixed-type-error-17758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff09fd5a8510602579eda8613dc6905c78ee2c7d",
+  "author": "Phil Tooley <32297355+ptooley@users.noreply.github.com>",
+  "date": "2018-11-13T06:08:29+00:00",
+  "timestamp": 1542089309,
+  "message": "New-package-dcmtk-9716",
+  "repo": "spack/spack"
+}]

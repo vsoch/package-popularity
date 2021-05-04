@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae3f3887a65e4e9e90f279d24cc35263ab1e729a",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-09-02T10:03:47+09:00",
+  "timestamp": 1599008627,
+  "message": "ccs-qcd-Change-compile-option-for-aarch64-17516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fefd998509365c8219d688f8c528b97eb58b2145",
+  "author": "Hironori-Yamaji <52182908+Hironori-Yamaji@users.noreply.github.com>",
+  "date": "2019-09-10T21:19:09+09:00",
+  "timestamp": 1568117949,
+  "message": "ccs-qcd-disable-parallel-builds-12775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ea27cabd6391d90b6f7f3780611ceca6dca1e22",
+  "author": "Hironori-Yamaji <52182908+Hironori-Yamaji@users.noreply.github.com>",
+  "date": "2019-09-03T23:15:34+09:00",
+  "timestamp": 1567520134,
+  "message": "ccs-qcd-new-package-12681",
+  "repo": "spack/spack"
+}]

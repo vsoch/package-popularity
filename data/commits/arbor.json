@@ -1,0 +1,40 @@
+[{
+  "commit": "8e3ac8577f16ceef66dc3b55b3f82f7bde897b3b",
+  "author": "Sebastian Schmitt <sebastian.schmitt@kip.uni-heidelberg.de>",
+  "date": "2021-02-18T16:02:09+01:00",
+  "timestamp": 1613660529,
+  "message": "Arbor-rely-on-spack-s-compiler-wrapper-to-set-architecture-21758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc9baac720d23b526ec91218cd15514c26f802d2",
+  "author": "Sebastian Schmitt <sebastian.schmitt@kip.uni-heidelberg.de>",
+  "date": "2021-02-16T10:30:20+01:00",
+  "timestamp": 1613467820,
+  "message": "Update-package-for-Arbor-0.5-21565",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48093350c65ad1d0edc2a8eb237b380d2af64f4c",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-11-12T01:50:32+09:00",
+  "timestamp": 1605113432,
+  "message": "arbor-Add-version-0.4-19839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27b9727926139ae2cfde6d3cdcdf5746ed28e03d",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2020-08-22T21:42:46+02:00",
+  "timestamp": 1598125366,
+  "message": "Add-new-package-arbor-11914",
+  "repo": "spack/spack"
+}]

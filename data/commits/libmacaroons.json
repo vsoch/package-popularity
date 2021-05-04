@@ -1,0 +1,8 @@
+[{
+  "commit": "4e185d48d118d3678e5eff507f085acf1930bb98",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-09T16:32:35+08:00",
+  "timestamp": 1615278755,
+  "message": "libmacaroons-new-package-at-v0.3.0-22142",
+  "repo": "spack/spack"
+}]

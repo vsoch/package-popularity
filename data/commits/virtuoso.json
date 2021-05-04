@@ -1,0 +1,8 @@
+[{
+  "commit": "60e64bac0a3cadccd0f35b5c8e8770b4edf0afff",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-03-02T17:50:49+09:00",
+  "timestamp": 1614675049,
+  "message": "virtuoso-add-new-package-21793",
+  "repo": "spack/spack"
+}]

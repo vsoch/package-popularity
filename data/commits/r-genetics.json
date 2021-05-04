@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e04a9031b0493845bf40fe046eceab412f14d91e",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-01-06T16:20:34-06:00",
+  "timestamp": 1578349234,
+  "message": "r-genetics-new-package-at-1.3.8.1.2-14403",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,304 @@
+[{
+  "commit": "982d3abcfd9c94e206f05fa32fe6436df0f40bc1",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-04-12T09:10:52-07:00",
+  "timestamp": 1618243852,
+  "message": "openPMD-api-0.13.3-22910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46905bb4458fe6cca124f3e24261d70041aaf0f1",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-26T01:29:52-08:00",
+  "timestamp": 1614331792,
+  "message": "openPMD-api-use-cmake-helpers-21973",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8ba71993c58d42d11ad38356d1a06a53de86662",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-02T14:25:18-08:00",
+  "timestamp": 1612304718,
+  "message": "openPMD-api-0.13.2-21450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53b70451fd4eaa31a76f5d99339ec1501ef552f8",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-01-11T00:55:26-08:00",
+  "timestamp": 1610355326,
+  "message": "openPMD-api-added-v0.13.1-20761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3fb8e55d586f6ac16a1a64675e3ffab315a98e9",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-01-04T07:29:46-08:00",
+  "timestamp": 1609774186,
+  "message": "openPMD-api-0.13.0-20648",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64273da2ccd3ea12683951c6e9f0693a3343d64e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-09-07T23:18:21-07:00",
+  "timestamp": 1599545901,
+  "message": "openPMD-api-added-v0.12.0-18560",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3aa225cd5cc14b1e108fc75b128759ad4d6bb1eb",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-03-25T03:57:00-07:00",
+  "timestamp": 1585133820,
+  "message": "openPMD-api-added-v0.11.1-15659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "958f26073efe340d5418e97d01ef82e9a3fbd166",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-03-18T08:47:01-05:00",
+  "timestamp": 1584539221,
+  "message": "openPMD-api-HDF5-1.12.0-Support-15530",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c40915db05dc66b2de9e8670c73df5cac5086c9f",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-03-06T02:20:31-08:00",
+  "timestamp": 1583490031,
+  "message": "openPMD-api-0.11.0-15371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a92543803c3f907151c83bb99e8d2a1a0adfd941",
+  "author": "Tyler Reddy <tyler.je.reddy@gmail.com>",
+  "date": "2020-02-18T22:48:24-07:00",
+  "timestamp": 1582091304,
+  "message": "ENH-add-catch2-CMake-install-15008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b2c534e73bb8b6945c133adf0ec4983eb90d897",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-02-12T01:02:01-08:00",
+  "timestamp": 1581498121,
+  "message": "openPMD-api-Build-Env-Fix-Dev-14904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b6106524adaef29917edb033b0734411d8e0d40",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-01-28T13:01:15-08:00",
+  "timestamp": 1580245275,
+  "message": "openPMD-api-With-ADIOS2-by-Default-14643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0fce56d5b491a9888ad55ed7251892f128af1ac",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-01-23T17:35:45-08:00",
+  "timestamp": 1579829745,
+  "message": "openPMD-api-adios_config-to-run-env-14610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "910df8cb4e05e990f308f90154fa3b1b3f24741b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-01-22T15:49:27-08:00",
+  "timestamp": 1579736967,
+  "message": "openPMD-api-Default-adios1-14599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d435630db2f50eb88536f66cdfd917d6bf0c912",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-01-13T18:24:01-08:00",
+  "timestamp": 1578968641,
+  "message": "openPMD-api-Depends-on-ADIOS-2.5.0-14489",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "249c1d9d81ee30679ae4a6ebdac2dbe6f40b507d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-12-22T08:01:28-08:00",
+  "timestamp": 1577030488,
+  "message": "openPMD-api-0.10.3-14265",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5db646d7686e682e7686ff2b8f44a13c42bfd990",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-12-17T16:16:26-08:00",
+  "timestamp": 1576628186,
+  "message": "openPMD-api-0.10.2-14201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15bb5da99f8242ccf5e3270645ca98828bd9104a",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-12-07T08:02:53-08:00",
+  "timestamp": 1575734573,
+  "message": "openPMD-api-0.10.1-14018",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f27fc45d7dd016b5c764a808d6ffce413d54bb",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-11-17T11:35:40-08:00",
+  "timestamp": 1574019340,
+  "message": "openPMD-api-0.10.0-13750",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1ee069d1b308841bf0e8af035e8042289468855",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-11-08T09:00:10-08:00",
+  "timestamp": 1573232410,
+  "message": "openPMD-api-JSON-Always-On-13641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24c052de39d84c6e29026d4a4211843410b7ad2c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-08-23T17:26:54-07:00",
+  "timestamp": 1566606414,
+  "message": "openPMD-api-package-require-newer-nlohmann-json-12546",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3457dffdcad54a2f7d95aa7bf3215fd6e94d910d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-08-05T14:02:23-05:00",
+  "timestamp": 1565031743,
+  "message": "openPMD-api-pre-load-depend-libs-12279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46f03074eff3e6eca25d6553afad3dd5989faf9e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-08-02T08:31:29-05:00",
+  "timestamp": 1564752689,
+  "message": "openPMD-api-Increase-ADIOS2-Minimum-12169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b57ba6289c5a6029de2f565cdbae541b362e1a8d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-06-16T17:47:55+02:00",
+  "timestamp": 1560700075,
+  "message": "openPMD-api-pybind11-2.3.0-11744",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd6d3f6b8cd671b7b4cf637276fe9258ed12aee2",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-03-13T01:58:44+01:00",
+  "timestamp": 1552438724,
+  "message": "openPMD-api-shared-variant-10847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "899c83c21562632a6f9157a9a5b04be16a2b93b5",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-02-18T08:54:27+01:00",
+  "timestamp": 1550476467,
+  "message": "openPMD-api-mpi4py-support-10616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89a493522c783587fad140560efd30f00a596b25",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-01-15T16:28:13+01:00",
+  "timestamp": 1547566093,
+  "message": "openPMD-api-Dependency-Update-10314",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e2ff95ec5ce62d7ed4e55168d313322930931d6",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-09-20T15:55:18+02:00",
+  "timestamp": 1537451718,
+  "message": "Catch2-2.3.0-9300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "901d76ef534140a578998e08bbe6f73c0e755b13",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-09-06T10:41:45+02:00",
+  "timestamp": 1536223305,
+  "message": "openPMD-api-py-numpy-1.15-9178",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b309ea6ac4a65ecf8db3ac70399a828f2c6d5ab",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-06-20T18:24:41+02:00",
+  "timestamp": 1529511881,
+  "message": "openPMD-api-update-dependencies-8528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93791beb2385e8b8d1ccac9ba5c05250001c67dd",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-06-07T15:12:18+02:00",
+  "timestamp": 1528377138,
+  "message": "openPMD-api-Update-Dependencies-8330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26e9b3b74dc7de0561aafe16ff11547e2e28303c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-04-19T16:04:07+02:00",
+  "timestamp": 1524146647,
+  "message": "openPMD-api-7765",
+  "repo": "spack/spack"
+}]

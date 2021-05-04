@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d48b18650034d28d522ec9fbda272279ff91c5c3",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-10-19T17:42:48+08:00",
+  "timestamp": 1603100568,
+  "message": "py-coapthon3-added-new-package-at-v1.0.1-18990",
+  "repo": "spack/spack"
+}]

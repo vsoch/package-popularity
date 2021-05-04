@@ -1,0 +1,88 @@
+[{
+  "commit": "2a7322c43af42f808197bc34c7b2d436b661beff",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2021-04-19T12:25:43-07:00",
+  "timestamp": 1618860343,
+  "message": "increment-preferred-version-23077",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd8fd189c7d19bc0367b6006fc05e95425cab56a",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-10-03T19:59:17-07:00",
+  "timestamp": 1601780357,
+  "message": "package-qgis-add-new-versions-19014",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ce5718922b4299e720924dbab61e18405d381bb",
+  "author": "Elizabeth Fischer <eafischer2@alaska.edu>",
+  "date": "2020-08-22T14:22:57-04:00",
+  "timestamp": 1598120577,
+  "message": "qgis-Updates-for-proj-6-16172",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a8e9f265e5fbd6399f0cffd9494b500885ad192",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-06-28T11:30:58-07:00",
+  "timestamp": 1593369058,
+  "message": "package-qgis-add-new-versions-17284",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd5d477db9ca4625993556894e1af7d7e40ae087",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-21T15:02:45+02:00",
+  "timestamp": 1587474165,
+  "message": "qgis-Fix-pkgconfig-dependency-16188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6f5604927aeb7cc2fd96d8e441b22bb706d990d",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-03-27T19:36:33-07:00",
+  "timestamp": 1585362993,
+  "message": "Package-qgis-add-versions-3.10.4-3.12.1-15720",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b397af5d9cfa685d2a41ede488e027561035087c",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-03-27T09:42:58-07:00",
+  "timestamp": 1585327378,
+  "message": "Package-qscintilla-python-bindings-via-extend-path-15599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3bcb5b3a590331b2d1bbdf19fc2d1ca27618357a",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-03-18T11:19:46-07:00",
+  "timestamp": 1584555586,
+  "message": "package-QGIS-fix-cmake-FindPyqt.py-15455",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fc43b3b0efcf9bb5820097fcef95e09ec2f5a99",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-02-29T20:56:41-08:00",
+  "timestamp": 1583038601,
+  "message": "QGIS-fix-typos-15279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7150bd62249689e4929136824f02270700e37cce",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-02-29T16:52:43-08:00",
+  "timestamp": 1583023963,
+  "message": "New-package-QGIS-12388",
+  "repo": "spack/spack"
+}]

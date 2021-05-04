@@ -1,0 +1,296 @@
+[{
+  "commit": "0c8df39fce496a64ac85de1fc40ca215a3e654be",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2021-03-15T04:38:55-06:00",
+  "timestamp": 1615804735,
+  "message": "votca-add-v2021-22282",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8af010ce5d53bd35b5f9eabba78efdc611aa8c94",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2021-01-13T07:07:53-07:00",
+  "timestamp": 1610546873,
+  "message": "votca-add-v1.6.4-20822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e117e087eb18871e1a86715c027d3cd2fa649870",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-12-09T15:06:54-07:00",
+  "timestamp": 1607551614,
+  "message": "votca-add-v1.6.3-20308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adc98ae409ccdae6b3861583956a51382ae6e86a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-08-22T11:38:41-06:00",
+  "timestamp": 1598117921,
+  "message": "votca-add-v1.6.2-18218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90285c7d6105d6ec1d77d207338ba4eea54cc212",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-07-07T12:27:10-06:00",
+  "timestamp": 1594146430,
+  "message": "votca-tools-fix-build-with-mkl-17414",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e91d7988e5ef9b582fd7dcf37eed2eb9f9d1e11a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-06-22T00:36:01-06:00",
+  "timestamp": 1592807761,
+  "message": "votca-added-v1.6.1-17186",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9615ac42cf06349137a2bf68495187f7525084a1",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-28T05:08:00-06:00",
+  "timestamp": 1588072080,
+  "message": "votca-fix-stable-deps-16339",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcbf0545c7bb653f346fbec9dab27b829f4cf1a8",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-27T19:43:34-06:00",
+  "timestamp": 1588038214,
+  "message": "votca-add-stable-version-16336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca86e56572335e726a3351910b23b69cdfd24c36",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-20T20:30:43-06:00",
+  "timestamp": 1587436243,
+  "message": "votca-remove-rc-versions-16197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d008dc37b07b2d4bf27d8f1041d54f344d70a22",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-18T09:16:48-06:00",
+  "timestamp": 1587223008,
+  "message": "votca-add-v1.6-16139",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78a9f73874b55f566fcea8832309769a99dfc73a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-10T13:36:28-06:00",
+  "timestamp": 1586547388,
+  "message": "votca-tools-add-mkl-support-15997",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e597e8a7a9a5536b481efa161ec8828e2b3e9d3",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-10T13:36:09-06:00",
+  "timestamp": 1586547369,
+  "message": "votca-add-v1.6_rc2-15999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "969bc948b551f7395dd06db5f9d406b0006d14d2",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-12-07T09:04:15-07:00",
+  "timestamp": 1575734655,
+  "message": "votca-add-v1.6_rc1-14017",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b23d2efd99c43600f6ae3b67db6dfd7921eea516",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-11-21T16:09:03-07:00",
+  "timestamp": 1574377743,
+  "message": "votca-add-v1.5.1-13822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "514cf0c1f4d0c7c33bb138f061507638891f1533",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-02-04T12:57:19-07:00",
+  "timestamp": 1549310239,
+  "message": "votca-add-v1.5-10495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e4909cad8dbc243f1dc3f3c2926f282e8d9f15f",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-07-21T17:45:01-04:00",
+  "timestamp": 1532209501,
+  "message": "votca-add-more-deps-8771",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0d05d23a18b5848603c603c5aed2c6a3535ff58",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-07-19T12:06:16-04:00",
+  "timestamp": 1532016376,
+  "message": "votca-update-dependencies-8757",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f502de47252ec8388339e2e72321779c57581d9a",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-11T14:28:53-06:00",
+  "timestamp": 1505161733,
+  "message": "added-votca-1.4.1-modules-5276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3bfb79824b0640ef179e3cbec334fb0decf941f",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-06T21:04:51-06:00",
+  "timestamp": 1491534291,
+  "message": "Add-Votca-packages-3748",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbbcf456e9f8e14509ac0adc62ba0c8711018b5e",
+  "author": "Javier <javiercvilla@gmail.com>",
+  "date": "2017-02-21T02:33:32+01:00",
+  "timestamp": 1487640812,
+  "message": "Updating-package-geant4-3197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2f29b855b2af712890584287cf9d61b5b136aba",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-01-15T18:07:44-07:00",
+  "timestamp": 1484528864,
+  "message": "Updating-BoxLib-with-the-ability-to-build-again.-2813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f29fc5822be81d7bc1776160b4159a6c3a44c831",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-06-06T16:16:11-07:00",
+  "timestamp": 1433632571,
+  "message": "Working-boxlib-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd34f4b119243d42b64e4ca2c358cf561fde9a14",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-05-27T17:39:17-07:00",
+  "timestamp": 1432773557,
+  "message": "Added-more-FASTMath-packages",
+  "repo": "spack/spack"
+}]

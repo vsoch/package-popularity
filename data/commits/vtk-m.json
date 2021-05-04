@@ -1,0 +1,272 @@
+[{
+  "commit": "e020f343de3e0bda70db263bc5d1577b938cc252",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2021-04-13T14:14:15-04:00",
+  "timestamp": 1618337655,
+  "message": "VTKM-change-preferred-version-22950",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1f5f9bf5b1b5bd9c9f0669c190b06880cd2baab",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2021-04-08T04:45:05-04:00",
+  "timestamp": 1617871505,
+  "message": "vtkm-add-v1.6.0-rc1-make-v1.5.1-preferred-22855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "513d3bac04f031608622ea654ddf27b584da9610",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-03-26T13:47:46-07:00",
+  "timestamp": 1616791666,
+  "message": "update-ascent-and-friends-for-the-ascent-0.7.0-release-22428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa01123bbae9c747d4f76c7251a6609762a0cfb2",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-20T00:47:55-08:00",
+  "timestamp": 1613810875,
+  "message": "VTK-m-fixed-inconsistencies-in-directives-21820",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf3a873a42728d0ff4c90232c6a446574db7bc25",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9499dc4a7ed5037d4ee87385b621ed3910ac3969",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2020-12-07T04:16:44-05:00",
+  "timestamp": 1607332604,
+  "message": "VTK-m-update-to-specify-correct-requirements-to-kokkos-20097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f4c2b49e38ceecb895b4ad6885ceea377a9737",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "039d4a81bed856ab8030b072f8740af0ce01acf2",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2020-12-07T04:16:44-05:00",
+  "timestamp": 1607332604,
+  "message": "VTK-m-update-to-specify-correct-requirements-to-kokkos-20097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0bbf5454c96c4ae4baad503851c43d235c12acd",
+  "author": "Jieyang Chen <cjy7117@gmail.com>",
+  "date": "2020-12-01T18:59:44-05:00",
+  "timestamp": 1606867184,
+  "message": "Add-smoke-test-to-VTK-m-package-19816",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a7a6d472b241c2ecf5e888b844b84b26547537b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-30T07:55:44-06:00",
+  "timestamp": 1606744544,
+  "message": "CMake-should-be-a-build-dependency-20160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "823a3fa646489789834804480e55f8d0b1b12542",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2020-11-04T13:25:17-05:00",
+  "timestamp": 1604514317,
+  "message": "Added-HIP-support-to-VTK-m-package-19523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86ec698a3352f59f3821c86a999af4b9baf3a38c",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2020-07-20T18:32:56-07:00",
+  "timestamp": 1595295176,
+  "message": "Bugfix-Do-not-raise-InstallError-for-ascent_ver-17578",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2d8d8acbd22792e40cb734bb6d04ce333548dd1",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-07-13T14:56:45-07:00",
+  "timestamp": 1594677405,
+  "message": "update-vtk-m-with-pinned-version-for-ascent-and-related-packages-17498",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4166c97a8263f0314836963a049b8adf3fdf2c05",
+  "author": "Vicente Adolfo Bolea Sanchez <vicente.bolea@gmail.com>",
+  "date": "2020-04-22T19:54:55-04:00",
+  "timestamp": 1587599695,
+  "message": "vtk-m-update-Vtk-m-pkg-to-its-latest-version-v1.5.1-16192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "919a5421b7db637e1de63b50b5b1e7a923fbc87a",
+  "author": "Matt Larsen <mclarsen@users.noreply.github.com>",
+  "date": "2019-12-09T09:18:51-08:00",
+  "timestamp": 1575911931,
+  "message": "fix-incorrect-gpu-arch-map-for-vtk-m-package-14057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b85a6ca1460b02714eec376031073c9697ded75",
+  "author": "Matt Larsen <mclarsen@users.noreply.github.com>",
+  "date": "2019-11-26T10:19:36-08:00",
+  "timestamp": 1574792376,
+  "message": "silence-vtkm-logging-until-it-does-not-report-false-positives-to-std-cerr-13845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3c1547dbaee2f9cc08b60b4cab244c5d8fe5f79",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-11-17T12:36:14-07:00",
+  "timestamp": 1574019374,
+  "message": "update-to-add-ascent-0.5.0-release-13709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d60c3ec10b2aa755f1eceda8c97da9b9fe495f8",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2019-10-31T12:04:19-04:00",
+  "timestamp": 1572537859,
+  "message": "VTK-m-Add-support-for-the-1.5-release-13514",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1cdf8bd57054ac4e56b022cacdf66c1b3d55c69",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2019-10-04T15:12:58-04:00",
+  "timestamp": 1570216378,
+  "message": "Update-the-VTK-m-package-with-better-defaults-and-cuda-corrections-12850",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7ffccfc97066431193fad8bcd70eb9ce053a105",
+  "author": "Kenneth Moreland <kmorel@sandia.gov>",
+  "date": "2019-05-29T09:10:12-06:00",
+  "timestamp": 1559142612,
+  "message": "vtkm-fix-the-directory-cmake-looks-for-the-source-code-11576",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3a8ed7234c8290e87bbc80af48f35674bcea56c",
+  "author": "HAOCHENG LIU <30446009+HaochengLIU@users.noreply.github.com>",
+  "date": "2019-03-06T21:34:49-05:00",
+  "timestamp": 1551926089,
+  "message": "vtk-m-package-turn-off-mpi-support-by-default-10755",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9350db5665638a451cb23d33e441c3356f4a831f",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-01-12T17:43:39-08:00",
+  "timestamp": 1547343819,
+  "message": "update-alpine-ascent-and-friends-10320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce485731bb3f5bca17226c8822a27d0ee1edfad1",
+  "author": "HAOCHENG LIU <30446009+HaochengLIU@users.noreply.github.com>",
+  "date": "2018-12-04T14:53:17-05:00",
+  "timestamp": 1543953197,
+  "message": "Remove-openmp-version-guard-in-vtkm-and-add-precision-options-10005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66a62d82c42ecc1ebf671a602a1adde4bbb1ca8e",
+  "author": "HAOCHENG LIU <30446009+HaochengLIU@users.noreply.github.com>",
+  "date": "2018-11-30T22:48:22-05:00",
+  "timestamp": 1543636102,
+  "message": "Bump-vtkm-to-version-1.3-and-add-new-features-9968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f35f00b6e2e5e8d9f58ca8d899c84ca9da71fb8",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-04-26T23:40:11+02:00",
+  "timestamp": 1524778811,
+  "message": "Use-GitLab-s-API-endpoint-for-fetching-a-git-snapshot.-7881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b079e1dbd56670514a312fbad4dd8e62f1e9ddcd",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-11-10T17:00:47-08:00",
+  "timestamp": 1510362047,
+  "message": "add-alpine-ascent-6224",
+  "repo": "spack/spack"
+}]

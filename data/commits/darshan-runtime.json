@@ -1,0 +1,160 @@
+[{
+  "commit": "c801b0cb4086e92bcd2fb612c1bd98356d7fe850",
+  "author": "shanedsnyder <ssnyder@mcs.anl.gov>",
+  "date": "2021-04-13T14:44:42-05:00",
+  "timestamp": 1618343082,
+  "message": "add-darshan-3.3.0-pre1-pre-release-22942",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c61d6d45f5236013ce405c401b3f064df27da48",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2020-07-27T16:30:29-05:00",
+  "timestamp": 1595885429,
+  "message": "Update-darshan-package-with-mpi-variant-17717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "748be57790832e73c78f59e43126ba22c1de78a2",
+  "author": "shanedsnyder <ssnyder@mcs.anl.gov>",
+  "date": "2020-06-03T20:05:46-05:00",
+  "timestamp": 1591232746,
+  "message": "update-darshan-runtime-darshan-util-versions-16934",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f256ed953f611c37e0030f2e5c70155c28b1297",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-25T21:00:15-05:00",
+  "timestamp": 1585188015,
+  "message": "darshan-util-and-darshan-runtime-add-version-3.1.8-15681",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fde1b2088ab5c78be4681ebc122268871deb30ca",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-05T15:00:52-06:00",
+  "timestamp": 1583442052,
+  "message": "update-maintainers-for-bmi-darshan-and-margo-15356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2825d0ad47534faec365e62b2cfa2618074ceb1",
+  "author": "Francois Budin <francois.budin@kitware.com>",
+  "date": "2019-04-30T20:42:32-04:00",
+  "timestamp": 1556671352,
+  "message": "Darshan-3.1.7-and-develop-versions-fpr-darshan-runtime-and-darshan-util-11269",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1856f31293a23d34e0a779ca608b2ae6d9c73a9",
+  "author": "carns <carns@users.noreply.github.com>",
+  "date": "2018-04-06T17:49:07-04:00",
+  "timestamp": 1523051347,
+  "message": "Darshan-3.1.6-7686",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9daafc32f127b0ce22dba40cbdfc8c139c2acf58",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-10-04T23:40:35+02:00",
+  "timestamp": 1475617235,
+  "message": "Packages-for-Darshan-I-O-performance-characterization-tool-from-ANL-1900",
+  "repo": "spack/spack"
+}]

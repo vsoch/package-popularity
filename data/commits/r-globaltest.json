@@ -1,0 +1,8 @@
+[{
+  "commit": "6cf91449d476e8bcc2ebc1c407188ea614590053",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-20T04:34:13-05:00",
+  "timestamp": 1618911253,
+  "message": "r-globaltest-new-package-23098",
+  "repo": "spack/spack"
+}]

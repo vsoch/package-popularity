@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "236796577dc46c8a1697766e79cba0bd3c0ceb3e",
+  "author": "Martin Aumüller <aumuell@reserv.at>",
+  "date": "2020-11-23T11:11:51+01:00",
+  "timestamp": 1606126311,
+  "message": "botan-added-v2.17.0-v2.17.1-and-v2.17.2-20037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5ff28522a942ad87f457ff323fe64828889cb33",
+  "author": "Martin Aumüller <aumuell@reserv.at>",
+  "date": "2020-10-20T02:51:15+02:00",
+  "timestamp": 1603155075,
+  "message": "Add-new-package-botan-19362",
+  "repo": "spack/spack"
+}]

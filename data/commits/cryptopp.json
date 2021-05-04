@@ -1,0 +1,160 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "044985af80f1310b16898a5c693c0bb4b49cdc27",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-04-23T00:38:10-07:00",
+  "timestamp": 1587627490,
+  "message": "cryptopp-added-shared-variant-and-sse-detection-16213",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a3552274f6c67439a7da58832fbb3535bf4d966",
+  "author": "Thomas Stitt <tomstit@gmail.com>",
+  "date": "2018-10-31T20:23:44-07:00",
+  "timestamp": 1541042624,
+  "message": "xeus-new-package-9682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6bf9f6656716d76f573167ef9a1220ac9ca9be77",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-21T11:52:25-05:00",
+  "timestamp": 1526921545,
+  "message": "Add-cryptopp-7.0.0-8224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52158d9316aabd9c02a719825928607cb5204377",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-21T09:49:36-05:00",
+  "timestamp": 1477061376,
+  "message": "Add-new-Version-property-to-handle-joined-version-numbers-2062",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bf724b1d3c92073543e8e3e72cfbf788531d401",
+  "author": "Cecilia W. Castillo <ceciliac@rzmerl162.llnl.gov>",
+  "date": "2016-05-06T14:14:13-07:00",
+  "timestamp": 1462569253,
+  "message": "add-support-for-crypto-version-5.6.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "474db2085e223b8226a6ae799232bb2fede3efde",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-03-22T15:55:54-07:00",
+  "timestamp": 1458687354,
+  "message": "Simplified-the-url_for_version-function-for-the-Crypto-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1728a0c3e60d55d1181f14ef5a677b1652a0680b",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-03-22T12:33:11-07:00",
+  "timestamp": 1458675191,
+  "message": "Updated-the-crypto-package-to-use-an-improved-URL-formation-scheme-inspired-by-changes-made-to-the-Silo-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db50f52bbc47ef6dbe2e26c54ce828c0e6076e96",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-02-16T11:40:00-08:00",
+  "timestamp": 1455651600,
+  "message": "Adding-the-Crypto-package-installation-files",
+  "repo": "spack/spack"
+}]

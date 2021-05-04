@@ -1,0 +1,232 @@
+[{
+  "commit": "cbb64156cbe2bb9f0b990a5723bbe4633b4e90b5",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-03-20T03:43:19-05:00",
+  "timestamp": 1616229799,
+  "message": "bowtie2-fix-python-interpreter-line-22417",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9afaaa3c25fc14afede2c818e78bcf7bcaac7ff3",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2020-12-04T00:59:59-08:00",
+  "timestamp": 1607072399,
+  "message": "bowtie2-fix-installation-prefix-20205",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87adda1bad543ed5137485151597a60c983c677c",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-11-30T22:19:47+09:00",
+  "timestamp": 1606742387,
+  "message": "bowtie2-change-to-MakefilePackage-and-add-simde-dependency.-20166",
+  "repo": "spack/spack"
+},
+{
+  "commit": "429f49a1e4ab1fcd1f93048c0ebe46afe1905b22",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-10-28T10:09:05+09:00",
+  "timestamp": 1603847345,
+  "message": "bowtie2-Add-version-2.4.2-19537",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5243f97c3b70bcfbf937a7e87882e3c1f8f41c8b",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-07-29T18:15:33-04:00",
+  "timestamp": 1596060933,
+  "message": "bowtie2-added-version-2.4.1-17748",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94c2e7e7b4a291d94daeff88fc6a8cc51893f127",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-29T06:47:56-06:00",
+  "timestamp": 1582980476,
+  "message": "Set-http-in-homepage-for-a-few-packages-15275",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4288dac35bebffe4f576f448389a382f053b17b5",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-07-12T12:04:22+09:00",
+  "timestamp": 1562900662,
+  "message": "bowtie2-Add-version-2.5.3.1-and-fix-to-build-on-ARM-11974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3618d405b10db33a26c0a187068a38594a5ef90c",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-03-19T07:14:25-07:00",
+  "timestamp": 1553004865,
+  "message": "added-checksum-for-new-bowtie2-version-10930",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea7879bce5a05d4ffd6858831142f25aa20caf21",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2018-03-06T11:48:48-06:00",
+  "timestamp": 1520358528,
+  "message": "bowtie2-Add-version-2.3.4.1-7252",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6bc45a04a676ab74df471e46c2c136dd1be107c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-10-29T14:40:00-07:00",
+  "timestamp": 1509313200,
+  "message": "Add-bowtie2-2.3.0-fix-dependencies-and-sbangs-5834",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "529a2ae5fa19da4323ec714405be81d6fed005b0",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-28T12:47:43-07:00",
+  "timestamp": 1493408863,
+  "message": "Depend-on-readline-remove-hardcoded-ltermcap-4042",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9385659aa1d692f2fce9b38d90156e332b2bf48f",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-03-28T19:35:46-07:00",
+  "timestamp": 1490754946,
+  "message": "bowtie2-add-support-for-version-2.3.1-3599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13eb461ec31520c75d6d604038e455468d061a61",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-09-24T11:21:54-07:00",
+  "timestamp": 1443118914,
+  "message": "Adding-bowtie2-package-along-with-patch",
+  "repo": "spack/spack"
+}]

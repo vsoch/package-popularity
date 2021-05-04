@@ -1,0 +1,8 @@
+[{
+  "commit": "ddf022d308791d7aee9042d4a69339d905dac114",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2021-01-26T06:33:23+09:00",
+  "timestamp": 1611610403,
+  "message": "Itensor-Add-new-package-20689",
+  "repo": "spack/spack"
+}]

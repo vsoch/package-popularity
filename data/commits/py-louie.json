@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c835b931091eecbf4b74f2c48be9086d8f78ea00",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-06-07T05:02:15+08:00",
+  "timestamp": 1591477335,
+  "message": "Add-new-package-py-louie-16983",
+  "repo": "spack/spack"
+}]

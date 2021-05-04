@@ -1,0 +1,48 @@
+[{
+  "commit": "7fd8b775ad6319583d2e976f2e22b6a0f0a257e5",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-02-08T15:38:09-05:00",
+  "timestamp": 1612816689,
+  "message": "py-tensorboard-add-new-versions-21545",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f0984e5e168555bbb23f3ea1892d42622f88478",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-23T21:56:33-05:00",
+  "timestamp": 1606186593,
+  "message": "py-tensorboard-force-use-of-spack-s-python-force-build-of-ijar-20059",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0df70e217ff5f602f1fd3e3c06a6ac3fd6783d02",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-10-19T14:15:49-04:00",
+  "timestamp": 1603131349,
+  "message": "A-collection-of-tensorflow-fixes-and-updates-19371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26a754c023b72de6507b13540703d4a6a98385f4",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-04-06T20:21:16-04:00",
+  "timestamp": 1586218876,
+  "message": "new-package-py-tensorboard-plugin-wit-15898",
+  "repo": "spack/spack"
+}]

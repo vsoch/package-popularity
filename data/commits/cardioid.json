@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d9f2bf4ed89823b4f6c515b7f4e2994bf58c3a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T17:31:00-05:00",
+  "timestamp": 1599172260,
+  "message": "depends_on-cannot-handle-sigil-18220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acfa2ea0188129fd1e683fe8e146256b1a695d5c",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-08-05T09:19:22-07:00",
+  "timestamp": 1596644362,
+  "message": "remove-hypre-variant-from-mfem-and-all-references-to-it-17885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9874448716abe1e6331291dad057aa5c8f7d416",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-05-14T18:16:55-07:00",
+  "timestamp": 1589505415,
+  "message": "Fixing-the-build-directory-for-cardioid.-16640",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a55fc5b9631d08d6fb767137d0419b77d7318832",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2019-02-08T02:17:26-08:00",
+  "timestamp": 1549621046,
+  "message": "Adding-a-package-for-cardioid.-10448",
+  "repo": "spack/spack"
+}]

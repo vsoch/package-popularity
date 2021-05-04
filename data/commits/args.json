@@ -1,0 +1,8 @@
+[{
+  "commit": "17e51b2989887bb618224a915c4d1479fcde52e9",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-20T22:14:40+08:00",
+  "timestamp": 1616249680,
+  "message": "args-add-new-package-at-v6.2.3-22132",
+  "repo": "spack/spack"
+}]

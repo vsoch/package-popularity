@@ -1,0 +1,248 @@
+[{
+  "commit": "9d42381d38fff23e9ef2c2d4de5a48efe937eb7a",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-03-29T19:25:56-07:00",
+  "timestamp": 1617071156,
+  "message": "Bugfixes-in-LBANN-software-stack-identified-by-clingo-22554",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8a3a650fa736cb27fe2e63f493f7d23e742b16c",
+  "author": "Corey McNeish <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-06-07T16:08:23-07:00",
+  "timestamp": 1528412903,
+  "message": "Fix-hydrogen-develop-build-8262",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3034b53e3ca10da5d13417bb4344dd771ac03a7",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-31T12:10:42-07:00",
+  "timestamp": 1517425842,
+  "message": "Adding-support-for-the-Accelerate-library-on-OS-X-7068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06758fe5cbcbf631959ffc459ccaf372345231cf",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-31T10:38:53-07:00",
+  "timestamp": 1517420333,
+  "message": "LBANN-OS-X-7105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cd03e0f36618188b1a11808df689c58ea8a1422",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-26T11:38:37-07:00",
+  "timestamp": 1516991917,
+  "message": "new-package-essl-6335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a62e1a0451d81241e730d0e93dcb113d31041ebf",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2018-01-23T18:05:54-07:00",
+  "timestamp": 1516755954,
+  "message": "Lbann-update-6987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86b7b84ddf2c9b31f0b1511e5fc79a66d294d580",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-11-01T17:25:28-07:00",
+  "timestamp": 1509582328,
+  "message": "LBANN-flags-and-OpenCV-variant-5951",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f84de52a08719d1bdc3f75d9f02a5a897264e22",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-23T22:27:42+02:00",
+  "timestamp": 1506198462,
+  "message": "blas_lapack-add-multithreading-variant-consistent-in-all-implementations.-5340",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8dd7fa03ea903bdbc36b5ba13837892c84589bee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-11T22:27:20+02:00",
+  "timestamp": 1505161640,
+  "message": "elemental-fix-broken-Config.cmake-5331",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01a9a048ad2c03fe61d5684f6e8618bdf681aa61",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-06T12:04:32+02:00",
+  "timestamp": 1504692272,
+  "message": "elemental-fix-hardcode-libgfortran-use-develop-and-explicitly-specify-MPI-compilers-5263",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71c5b19464d1c0ad615af9509e8bb624dada7ec2",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-08-11T06:29:24-07:00",
+  "timestamp": 1502458164,
+  "message": "Elemental-fix-5067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ca7c7700895032d7ec9fe728146e3ac0dbd0a64",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-08-07T11:41:13-07:00",
+  "timestamp": 1502131273,
+  "message": "Elemental-cublas-4889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc747d6b6f30238ed6f4ecec291ca0d223710057",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-16T12:23:26-05:00",
+  "timestamp": 1492363406,
+  "message": "Remove-redundant-cmake-dependencies-3860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "808e9b46493495dff64d9964631faa929bbe4ebd",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-04-10T19:02:32-07:00",
+  "timestamp": 1491876152,
+  "message": "Added-a-package-for-the-MDAnalysis-toolkit.-3576",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acf95c92a667e0861b3a55451717744ffffcd5b7",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-03-08T12:32:26-08:00",
+  "timestamp": 1489005146,
+  "message": "Fixes-the-Elemental-and-LBANN-packages-to-conform-to-the-new-syntax-3382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2d70a45fbc2ee07160c3ee750dbffe9d4fd5b1b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-04T11:23:57-06:00",
+  "timestamp": 1488648237,
+  "message": "Allow-find_libraries-to-accept-lists-or-strings-3363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a36ed7fb9b93163358b8e5f63ad0f702f2410b6e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-04T16:42:02+01:00",
+  "timestamp": 1488642122,
+  "message": "fix-blas-lapack-usage-after-PR-1875-3365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "56952aaf1f1eace70c4a21d82c54f90bfb176cae",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-02-13T11:57:46-08:00",
+  "timestamp": 1487015866,
+  "message": "LBANN-3049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffd582b2f647f208e9de7b8919aa46b60f186d1f",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-02-06T00:04:41-08:00",
+  "timestamp": 1486368281,
+  "message": "Elemental-2991",
+  "repo": "spack/spack"
+}]

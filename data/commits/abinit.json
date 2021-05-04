@@ -1,0 +1,192 @@
+[{
+  "commit": "020c60649ec170dc66a22978f27b94e8fadd9ae2",
+  "author": "m-shunji <76516098+m-shunji@users.noreply.github.com>",
+  "date": "2021-03-19T21:27:31+09:00",
+  "timestamp": 1616156851,
+  "message": "abinit-fix-detection-of-Fujitsu-compiler-22239",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55c1e76408fb9609e339b3f601fcf7e03564fa6a",
+  "author": "m-shunji <76516098+m-shunji@users.noreply.github.com>",
+  "date": "2021-03-10T17:58:38+09:00",
+  "timestamp": 1615366718,
+  "message": "abinit-updated-patch-for-Fujitsu-compilers-22009",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6feb697b621ee033d8aa6ef8c5896c6fd1ae8137",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2021-02-01T23:03:03+09:00",
+  "timestamp": 1612188183,
+  "message": "abinit-fix-build-with-Fujitsu-compilers-21213",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2957f76cb156234bcd5eed3bffae604c5f7fb0e8",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2021-01-22T01:46:12+09:00",
+  "timestamp": 1611247572,
+  "message": "abinit-add-version-8.10.2.-21188",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f24188d19cf94dfa705e0899828a6e9b4501fb9",
+  "author": "downloadico <download@carc.unm.edu>",
+  "date": "2020-07-16T14:57:42-06:00",
+  "timestamp": 1594933062,
+  "message": "Abinit-wannier90-fix-17417",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bbe0a1f743b513344afae20c09eec000492d45e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-02-04T15:29:21+01:00",
+  "timestamp": 1580826561,
+  "message": "abinit-fix-dependency-on-fftw-14739",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd97f5c491ca3943e7b990382c3aa9befca14551",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-10-11T07:55:15+02:00",
+  "timestamp": 1570773315,
+  "message": "Fixed-constraints-in-recipes-for-packages-that-depends-on-fftw-13125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff6c00e9ba2c2b3ebef6131be5a6713c3d4e9c8d",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-08-29T16:59:26-04:00",
+  "timestamp": 1567112366,
+  "message": "ABINIT-package-add-version-8.10.3-12615",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2be65a86189d63f8742f3065a385a904c429e45b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-28T15:11:43+02:00",
+  "timestamp": 1527513103,
+  "message": "abinit-added-version-8.8.2-8294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40ab8fe31f04215c2552031c421813d6e455e67c",
+  "author": "Ondřej Čertík <ondrej@certik.us>",
+  "date": "2018-01-20T09:20:00-07:00",
+  "timestamp": 1516465200,
+  "message": "Add-Abinit-8.6.3-6959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10c395b2f510eb9ce1036222d30ef99d9aa26212",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-07T11:18:34+02:00",
+  "timestamp": 1491556714,
+  "message": "Abinit-a-few-modernizations-for-the-package-and-its-dependencies-3699",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c5024232c48faa320a266298b656a148bee1aa1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-02-17T20:46:58+01:00",
+  "timestamp": 1487360818,
+  "message": "abinit-fix-compilation-on-macOS-disable-internal-netcdf-3157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "949766d92eade0919a2fe2bdb95de21e7f990d91",
+  "author": "gmatteo <gmatteo@gmail.com>",
+  "date": "2016-10-12T00:22:46+02:00",
+  "timestamp": 1476224566,
+  "message": "Abinit-Added-package-s-1995",
+  "repo": "spack/spack"
+}]

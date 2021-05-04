@@ -1,0 +1,24 @@
+[{
+  "commit": "9049829c8eeb5d14fc5059ba37c47ebab2a6a82e",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-01-11T04:29:55-05:00",
+  "timestamp": 1610357395,
+  "message": "asdf-cxx-correct-swig-dependency-details-20752",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f3ae864a5afb40f5a6ee175867fbd544850432d",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-01-27T08:50:18-05:00",
+  "timestamp": 1580133018,
+  "message": "asdf-cxx-new-package-14637",
+  "repo": "spack/spack"
+}]

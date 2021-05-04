@@ -1,0 +1,8 @@
+[{
+  "commit": "4a7c4e66674e6639974dc55c856337ea7ed81a1d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-05T19:22:49+01:00",
+  "timestamp": 1609870969,
+  "message": "Add-cray-fftw-20654",
+  "repo": "spack/spack"
+}]

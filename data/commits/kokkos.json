@@ -1,0 +1,392 @@
+[{
+  "commit": "364b359c6830e6b46b822c4a716cac284fada363",
+  "author": "Jan Ciesko <jan.ciesko@gmail.com>",
+  "date": "2021-03-22T12:51:59-06:00",
+  "timestamp": 1616439119,
+  "message": "Add-Kokkos-smoke-test-support-22071",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1abb5cbc84ee74de6c055f600e8987559c82947",
+  "author": "Scot Halverson <scothalverson@gmail.com>",
+  "date": "2021-03-20T05:54:48-06:00",
+  "timestamp": 1616241288,
+  "message": "kokkos-add-ampere80-cuda-arch-22397",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a52beca2cfc7d13e5cb5b9407f25a681efd401c5",
+  "author": "David Poliakoff <poliakoff1@llnl.gov>",
+  "date": "2021-03-08T11:13:07-07:00",
+  "timestamp": 1615227187,
+  "message": "Tuning-variant-for-Kokkos-packages-22176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36ae5ac6ef902b608a2f3c4857094790d3ec4186",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-03-01T14:54:14-08:00",
+  "timestamp": 1614639254,
+  "message": "kokkos-package-cuda-requires-wrapper-when-compiler-is-not-clang-21941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf3a873a42728d0ff4c90232c6a446574db7bc25",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd8d14f7c52ced867e687932a0f1a53fb6b8d33b",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2021-01-25T13:19:54-08:00",
+  "timestamp": 1611609594,
+  "message": "Kokkos-package-rocm-support-21157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c04bebc32857290d5dc2d6fd902307d56252843",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2021-01-06T16:08:07-05:00",
+  "timestamp": 1609967287,
+  "message": "Update-kokkos-amd-gpu-archs-and-required-C-level-20096",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f4c2b49e38ceecb895b4ad6885ceea377a9737",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a99cc0fac09a9908d4605bfb7d52289a9e0944c6",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-12T08:55:37-06:00",
+  "timestamp": 1605192937,
+  "message": "kokkos-add-graviton-to-spack_micro_arch_map-19869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "496d83a26a9f90662f64a90979e4d703d1677d82",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-09-28T18:24:18+02:00",
+  "timestamp": 1601310258,
+  "message": "Kokkos-nvcc-wrapper-3.2.00-19023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afa907f549e7f9c4bf3295c1edcbd1d2632de035",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-08-25T14:26:43-06:00",
+  "timestamp": 1598387203,
+  "message": "kokkos-add-v3.2.00-18274",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efb456cb0a84c771cae3c7f0f36f8d300f767253",
+  "author": "Julien Loiseau <jloiseau@lanl.gov>",
+  "date": "2020-07-29T19:40:12-06:00",
+  "timestamp": 1596073212,
+  "message": "Adding-pic-support-for-Kokkos-17751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c009a3226a6afc0dfa031722d30fff0dd0bd487",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-05-11T11:33:34-06:00",
+  "timestamp": 1589218414,
+  "message": "Map-the-spack-skylake-arch-to-Kokkos-BDW-rather-than-SKX-16583",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbdd2908774c7fc221c85fbeaa7b4d79709b9039",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-05-05T15:31:13-06:00",
+  "timestamp": 1588714273,
+  "message": "kokkos-add-v3.1.01-16470",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfb307b8e7661c96874b86c9a13dbcc45ac20aa4",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-30T10:29:08-06:00",
+  "timestamp": 1588264148,
+  "message": "lammps-fix-build-with-kokkos-16390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f005ec016b29097d92b99a4366feef95a5d7bf23",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-30T09:09:13-06:00",
+  "timestamp": 1588259353,
+  "message": "kokkos-fix-typos-16388",
+  "repo": "spack/spack"
+},
+{
+  "commit": "598c233f78d23329c0cc6c7bc86b7117dca7bacd",
+  "author": "Jeremy <jjwilke@users.noreply.github.com>",
+  "date": "2020-04-30T07:13:47-07:00",
+  "timestamp": 1588256027,
+  "message": "Update-kokkos-for-new-3.x-build-systems-16358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3ffb122748c0309f57b10a5cd69314d96129b91",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2020-04-28T12:11:50-04:00",
+  "timestamp": 1588090310,
+  "message": "kokkos-add-versions-3.0.00-and-3.1.00-16354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7906d650787ce785d1d49875f746647547227f2",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2020-04-22T12:11:55-04:00",
+  "timestamp": 1587571915,
+  "message": "kokkos-generate_makefile-calls-cmake-16237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a334007808e70c45c71a420ff1f71d8f8b0db3e2",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-10-31T11:46:05-06:00",
+  "timestamp": 1572543965,
+  "message": "kokkos-turn-host_values-into-a-property-13518",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce5333c1fd248ad078f3712774c57a94143b17bd",
+  "author": "Andrey Prokopenko <prokopenkoav@ornl.gov>",
+  "date": "2019-10-15T05:14:37-04:00",
+  "timestamp": 1571130877,
+  "message": "kokkos-add-cxxstd-variant-13142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "118e20a087bed3e23263b3c8f7a8801a6d0c4b1e",
+  "author": "Teodor Nikolov <teodor.nikolov22@gmail.com>",
+  "date": "2019-08-20T13:07:11+02:00",
+  "timestamp": 1566299231,
+  "message": "Add-Kokkos-2.9.0-12466",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8675f44d455cece14e6b561383167542f395d2ab",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2019-05-16T18:35:23-06:00",
+  "timestamp": 1558053323,
+  "message": "Kokkos-package-add-debug-variant-11469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e044100447e1da0f6e9bedc57e29ab9c2d23670",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2019-04-08T02:58:35-04:00",
+  "timestamp": 1554706715,
+  "message": "kokkos-update-cuda-conflict-11110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e6da47b4ed5108936e1a20624b296e34b4a94af",
+  "author": "Andrew Gaspar <andrew.gaspar@outlook.com>",
+  "date": "2019-03-26T13:31:48-06:00",
+  "timestamp": 1553628708,
+  "message": "Kokkos-package-pthreads-feature-and-new-kokkos-versions-10943",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70bdcd703add93ae8d647ce1e60a22fa7c765ab1",
+  "author": "Jonas Lippuner <jlippuner@lanl.gov>",
+  "date": "2018-10-26T19:13:48-06:00",
+  "timestamp": 1540602828,
+  "message": "kokkos-add-pic-option-9643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "922c1a56520e3f376f4ce7a40324a5c452bc0f82",
+  "author": "Geoff Womeldorff <womeld@lanl.gov>",
+  "date": "2018-10-01T17:36:55-06:00",
+  "timestamp": 1538437015,
+  "message": "kokkos-bugfix-for-case-wherein-kokkos-backends-enabled-in-spack-but-not-parsed-correctly-9396",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57236fa2ce136ded8f9fdaaa36fbd8f46ab98666",
+  "author": "Geoff Womeldorff <womeld@lanl.gov>",
+  "date": "2018-10-01T10:24:43-06:00",
+  "timestamp": 1538411083,
+  "message": "kokkos-add-serial-backend-explicitly.-add-kokkos-options-and-kokkos-cuda-options.-9276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a72f240f9509d287988ae494c308e9fa9f5ef439",
+  "author": "Geoff Womeldorff <womeld@lanl.gov>",
+  "date": "2018-06-23T11:12:12-06:00",
+  "timestamp": 1529773932,
+  "message": "kokkos-add-support-for-version-2.7.00-of-kokkos-8521",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fdb2d6f493ccc67c7b21cfdfffd8655e0cdb0540",
+  "author": "Geoff Womeldorff <womeld@lanl.gov>",
+  "date": "2018-05-24T09:53:58-06:00",
+  "timestamp": 1527177238,
+  "message": "kokkos-update-kokkos-spackage-to-add-current-host-gpu-architectures.-8226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28901c8104b195ee93517d17c630946740b97905",
+  "author": "Robert Pavel <rspavel@gmail.com>",
+  "date": "2018-04-25T09:50:58-06:00",
+  "timestamp": 1524671458,
+  "message": "Added-OpenMP-Variant-for-Kokkos-7902",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a759fcf33ed6159e8a2fe4cd7efdffbc5c540046",
+  "author": "Robert Pavel <rspavel@gmail.com>",
+  "date": "2018-04-02T18:22:46-06:00",
+  "timestamp": 1522714966,
+  "message": "Current-versions-of-kokkos-conflict-with-hwloc-2.x-7654",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3378a0d3bc84056bdc2f39738583fb679850665",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2017-04-26T15:33:00+01:00",
+  "timestamp": 1493217180,
+  "message": "add-kokkos-package-3997",
+  "repo": "spack/spack"
+},
+{
+  "commit": "243d516bf029287158903e88985442d8581d0adf",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2016-08-23T08:18:26-07:00",
+  "timestamp": 1471965506,
+  "message": "Ensure-RAJA-builds-out-of-source",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "179d308fe06c30b184f37ae91c5bcf1fc77bb536",
+  "author": "David Poliakoff <poliakoff1@llnl.gov>",
+  "date": "2016-05-02T14:32:57-07:00",
+  "timestamp": 1462224777,
+  "message": "Added-a-package-for-the-RAJA-system",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,128 @@
+[{
+  "commit": "c11af21da24bcf4ee36814738064987ed2b07917",
+  "author": "Simon Frasch <simon.frasch@cscs.ch>",
+  "date": "2021-04-13T13:35:37+02:00",
+  "timestamp": 1618313737,
+  "message": "spfft-add-version-1.0.2-22958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b9bd92511cec9c8e3bb49d412f1f8de49257ad7",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-13T11:58:19+02:00",
+  "timestamp": 1618307899,
+  "message": "SIRIUS-and-SpFFT-versions-need-ROCm-4.1-22957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d051ef5b3e83d5f8433e80839db61aaf185dd55",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-22T18:23:04+01:00",
+  "timestamp": 1614014584,
+  "message": "Fix-typo-21859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10baa48d95ff35de8a53853f547a7c2be48eb15d",
+  "author": "Simon Frasch <simon.frasch@cscs.ch>",
+  "date": "2021-01-21T15:23:01+01:00",
+  "timestamp": 1611238981,
+  "message": "spfft-add-version-1.0.1-21193",
+  "repo": "spack/spack"
+},
+{
+  "commit": "034debeba56583d4bb63f47b99b306df2cb392c9",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-19T16:57:12+01:00",
+  "timestamp": 1611071832,
+  "message": "Always-set-cmake-args-because-defaults-change-across-versions-21146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e91ff86882e8f09b43393ade4926cf28c8341587",
+  "author": "Simon Frasch <simon.frasch@cscs.ch>",
+  "date": "2021-01-18T23:33:18+01:00",
+  "timestamp": 1611009198,
+  "message": "spfft-add-version-1.0.0-20959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddd2aa0ffc7ad7aecff55b39c7cb23dfc05d0dae",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-03T13:43:16-05:00",
+  "timestamp": 1604428996,
+  "message": "sirius-spfft-fix-defaults-for-amdgpu_target-to-be-str-not-tuple-19660",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc9821c431088d40a263dd2277569281dab8ca5",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-09-10T17:00:31+02:00",
+  "timestamp": 1599750031,
+  "message": "update-CP2K-pkg-for-8-18607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25d27a38de73977d650bacb5d92862ec8fddb813",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-18T11:53:27+02:00",
+  "timestamp": 1597744407,
+  "message": "SpFFT-added-v0.9.13-18139",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f582ebbaa0b6ccc3406e8afec279dc7079d6751c",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-18T04:05:26+02:00",
+  "timestamp": 1597716326,
+  "message": "Add-master-and-develop-for-spfft-18105",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd82cff737baabba9dd8c36e97cb5258114caccf",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-17T00:23:04+02:00",
+  "timestamp": 1597616584,
+  "message": "Make-spfft-build-with-rocm-18068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e199f3f245f7bdebba8e2b0a3fcc2d4161102281",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-03T02:42:07+02:00",
+  "timestamp": 1596415327,
+  "message": "Add-new-versions-of-spfft-17841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "465577847df42353cb02ad64e51cf58776b8d727",
+  "author": "Simon Pintarelli <1237199+simonpintarelli@users.noreply.github.com>",
+  "date": "2020-01-13T14:45:36+01:00",
+  "timestamp": 1578923136,
+  "message": "SIRIUS-SpFFT-updated-package-recipes-and-versions-14469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aad8ea172c404b533ab011e60c0e878cc48883f1",
+  "author": "Simon Pintarelli <1237199+simonpintarelli@users.noreply.github.com>",
+  "date": "2019-10-29T04:57:07+01:00",
+  "timestamp": 1572321427,
+  "message": "Add-SpFFT-sparse-3D-FFT-library-13458",
+  "repo": "spack/spack"
+}]

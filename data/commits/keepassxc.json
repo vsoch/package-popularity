@@ -1,0 +1,8 @@
+[{
+  "commit": "25fb753cd2f69d06b12d8e4949c29d9de3dd321a",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-03-03T03:37:18+01:00",
+  "timestamp": 1614739038,
+  "message": "New-Package-keepassxc-21878",
+  "repo": "spack/spack"
+}]

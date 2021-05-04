@@ -1,0 +1,424 @@
+[{
+  "commit": "9a453b2e7418aa5d307ed99d65d8bf9e8570955a",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-31T16:52:04+05:30",
+  "timestamp": 1617189724,
+  "message": "adding-AOCC-support-for-CP2K-7.1-22641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3305a39c5504453d0e6bf524e3920074eaedf81d",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2021-03-19T21:52:07+01:00",
+  "timestamp": 1616187127,
+  "message": "CP2K-update-libxc-dep-SIRIUS-update-spla-dep-for-7-22249",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9eb5c8f8434f61c66a6f4d57a0acf0fd376fd375",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-02-08T15:33:56+05:30",
+  "timestamp": 1612778636,
+  "message": "cp2k-added-support-for-AMD-toolchain-21371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54435587170720f996c52313c0c4b2df804df170",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2021-01-13T09:39:35+01:00",
+  "timestamp": 1610527175,
+  "message": "cp2k-add-v8.1-20829",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d7babe95513d46f212c446258875c844ecb481f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-12T18:01:32+01:00",
+  "timestamp": 1610470892,
+  "message": "dbcsr-cp2k-fix-cuda-arch-conflicts-in-asp-concretizer-20784",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d2c09e19e730783334bcec3112a3f7518fc544d",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-12-25T00:12:34+01:00",
+  "timestamp": 1608851554,
+  "message": "Add-libvori-and-support-for-libvori-and-spglib-in-CP2K-20508",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dcf3d8332abf7b2ed3f37da6810e5a4f48142cf2",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-06T21:58:38-05:00",
+  "timestamp": 1604717918,
+  "message": "cp2k-fix-lmax-variant-to-use-tuple-19780",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f921bcbe0b01f63acfc692f9b6cc6751ffc1fbd1",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-10-26T16:32:15+01:00",
+  "timestamp": 1603726335,
+  "message": "cp2k-libxc-libint-fix-builds-with-intel-resp.-intel-parallel-studio-mkl-19522",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d5c0656787de659f65aecbb2c5b3ee8c8108450",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-09-16T17:41:46+02:00",
+  "timestamp": 1600270906,
+  "message": "libvdwxc-unbreak-concretization-request-fftw-api-18688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc9821c431088d40a263dd2277569281dab8ca5",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-09-10T17:00:31+02:00",
+  "timestamp": 1599750031,
+  "message": "update-CP2K-pkg-for-8-18607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0a1a7e9aa1cfd36a521653e10901831f5afd136",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-09-01T00:27:23+09:00",
+  "timestamp": 1598887643,
+  "message": "cp2k-Add-depend-on-libxc-4.3.4.-18346",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2cd728e03058196cd8f4f503a5f54eb3418e464",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-08-01T05:17:31+08:00",
+  "timestamp": 1596230251,
+  "message": "cp2k-support-for-aarch64-17786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec1237479ee8786c808db722ecb0378136cd22d3",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-07-21T18:13:59+02:00",
+  "timestamp": 1595348039,
+  "message": "cp2k-make-libint-optional-17618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f824b598ca0a25c2a49457e45555732e1b5edcd",
+  "author": "Fabien Bruneval <bruneval@users.noreply.github.com>",
+  "date": "2020-06-30T04:24:25+02:00",
+  "timestamp": 1593483865,
+  "message": "cp2k-variant-tuning-lmax-was-broken-17266",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3115b5c75886fc657209176cf55f6381f13a9ced",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-04-28T02:42:33+02:00",
+  "timestamp": 1588034553,
+  "message": "CP2K-arch-file-improvements-and-blas-dependency-simplification-16074",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f917f7149e0d7482d56c5cd1a00823b0829b2eef",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-04-14T20:33:49+02:00",
+  "timestamp": 1586889229,
+  "message": "cp2k-add-version-7.1-16037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3690bc44bd41e64d93d0aec418b68d51b01727ae",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-12-22T16:19:12-06:00",
+  "timestamp": 1577053152,
+  "message": "Set-full-xiar-path-when-building-cp2k-with-intel-compiler-14268",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0a5c184a5dc76f0a85650e9f42cce94251d9791a",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-10-29T14:08:58+01:00",
+  "timestamp": 1572354538,
+  "message": "CP2K-drop-json-fortran-dependency-and-add-support-for-the-Nvidia-V100-13468",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d99b92febdd709ac741551752262b0aff896efa0",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-10-02T21:31:19+02:00",
+  "timestamp": 1570044679,
+  "message": "libint-cp2k-2-stage-build-with-tune-and-fortran-variants-12475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31e5318c240e12d59b01972cbaf92680ef4be6bd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:02:08+02:00",
+  "timestamp": 1569484928,
+  "message": "Removed-references-to-march-mtune-mcpu-native-12948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95fec7adfcfc7c027dc69ff30eb8a20c7c917696",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-08-13T19:59:08+02:00",
+  "timestamp": 1565719148,
+  "message": "CP2K-SIRIUS-add-support-for-building-with-CUDA-fix-CP2K-build-with-MKL-11418",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92c4567404f1ee8476277e65d5e70a63f96e428a",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-05-09T15:08:51+02:00",
+  "timestamp": 1557407331,
+  "message": "elpa-override-headers-prop-for-common-include-dir-localization",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f87722b74d298d521cb6327ad89f6f8d15902909",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-05-03T16:30:07+02:00",
+  "timestamp": 1556893807,
+  "message": "packages-cp2k-require-libxsmm-1.11",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b3e43cc64b9c297e4c209919b9aeb09ecf9e6ae",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-04-26T10:27:11+02:00",
+  "timestamp": 1556267231,
+  "message": "packages-cp2k-build-with-ggdb-with-GNU-for-backtraces",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f343d6fc6847b234e67a40e8ec1d3f7fd77ef310",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-04-24T16:27:52+02:00",
+  "timestamp": 1556116072,
+  "message": "packages-cp2k-add-support-for-sirius",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2786ec0640ae762f91b3c9234d78c3c7d52a620",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-04-30T21:52:13+02:00",
+  "timestamp": 1556653933,
+  "message": "CP2K-package-add-versions-and-tests-adjust-optimization-flags-11263",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3dd95bd6241444184f763f4543b7ba864cdc1cb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-02-14T07:11:20+01:00",
+  "timestamp": 1550124680,
+  "message": "cp2k-is-now-a-MakefilePackage-10570",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84bc1d6654760e7a58d15cff15b98baf51adb483",
+  "author": "Tiziano Müller <tm@dev-zero.ch>",
+  "date": "2018-11-20T18:23:01+01:00",
+  "timestamp": 1542734581,
+  "message": "CP2K-related-fixes-and-update-9308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "697f3ea71d8c0fefbfe3e814a1a1c74f388b74f0",
+  "author": "baip <baip@users.noreply.github.com>",
+  "date": "2017-11-15T17:49:08-06:00",
+  "timestamp": 1510789748,
+  "message": "cp2k-add-dependency-on-smm-and-libxc-new-version-5.1-6194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "087b3885f934b5fc1449a32eeb26241efb436e0b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-23T18:14:01+02:00",
+  "timestamp": 1498234441,
+  "message": "cp2k-added-missing-macros-to-the-makefile-88-4589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "306f158c733801cda6eacf74e3349b510cf90867",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-05T18:24:04+02:00",
+  "timestamp": 1494001444,
+  "message": "cp2k-fixed-compilation-issues-for-intel-stack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9c0348891c4bd5eca3621a3d3d3f1eaec75d9ae",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-30T16:46:05+02:00",
+  "timestamp": 1490885165,
+  "message": "cp2k-update-to-4.1-update-of-dependencies-3561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2d70a45fbc2ee07160c3ee750dbffe9d4fd5b1b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-04T11:23:57-06:00",
+  "timestamp": 1488648237,
+  "message": "Allow-find_libraries-to-accept-lists-or-strings-3363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50fcade81b6e14b38ecd2f6bc53299f15e7e3c84",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-10-03T17:25:36+02:00",
+  "timestamp": 1475508336,
+  "message": "cp2k-added-support-for-libint-fixed-compilation-issues-on-elpa-1889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3254d2f8f9d3b26f9afbfa73d6fb66dffafdaadd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T09:53:06+02:00",
+  "timestamp": 1474444386,
+  "message": "cp2k-added-dependencies-1724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497bbb3ae319f0bad23e7e6122560d541a32f1f3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-03T17:13:47+02:00",
+  "timestamp": 1472915627,
+  "message": "added-package-pexsi-1550",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d17d90b2923e7593268d69614f9ae4266bae08f",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-08-15T10:45:19-04:00",
+  "timestamp": 1471272319,
+  "message": "packages-mark-builddeps-as-type-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15d9fb187916d94d4a11ed4654cbbb3c978001c4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-08-04T09:42:02+02:00",
+  "timestamp": 1470296522,
+  "message": "plumed-adding-dependents",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec09dfe5d13531a8d2f78ded5e03b0615f51e59c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-07-30T11:00:47+02:00",
+  "timestamp": 1469869247,
+  "message": "cp2k-added-package",
+  "repo": "spack/spack"
+}]

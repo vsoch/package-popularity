@@ -1,0 +1,16 @@
+[{
+  "commit": "6e18188d438f64c9edcaac66b9155ef155a38135",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-02-15T18:26:21+09:00",
+  "timestamp": 1613381181,
+  "message": "fujitsu-fftw-Add-version-1.0.0-21664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03f6717c3883b12705a3f3598eb49ce02cecb16c",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-01-15T03:34:12+09:00",
+  "timestamp": 1610649252,
+  "message": "fujitsu-fftw-Add-new-package-20824",
+  "repo": "spack/spack"
+}]

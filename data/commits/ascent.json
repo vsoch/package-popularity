@@ -1,0 +1,224 @@
+[{
+  "commit": "2dbaf23fcac5c11d5e4e412369a7af39444c90ca",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-04-02T12:16:27-07:00",
+  "timestamp": 1617390987,
+  "message": "Ascent-CUDA-shared-22760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "513d3bac04f031608622ea654ddf27b584da9610",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-03-26T13:47:46-07:00",
+  "timestamp": 1616791666,
+  "message": "update-ascent-and-friends-for-the-ascent-0.7.0-release-22428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "474e616a5be74390bcff96888c9b6cc2bfcfba85",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2021-03-12T14:37:43-05:00",
+  "timestamp": 1615577863,
+  "message": "ascent-Relax-CMake-version-constraints-22253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e15a3438a8311d1be596a949f08cf30584c57d48",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-10T10:14:16-08:00",
+  "timestamp": 1612980856,
+  "message": "ascent-add-version-v0.6.0-21573",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bab18523402d610a7cddd7e7c59c95fe4cfe5ff6",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-07-18T06:53:48-07:00",
+  "timestamp": 1595080428,
+  "message": "update-ascent-package-with-recent-ver-dep-logic-and-dray-support-17502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6bf0b01c43ba60a1e61cc77ebc37ccce6d51b05",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-06-25T18:14:57-07:00",
+  "timestamp": 1593134097,
+  "message": "Ascent-Conduit-python-default-17230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3c1547dbaee2f9cc08b60b4cab244c5d8fe5f79",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-11-17T12:36:14-07:00",
+  "timestamp": 1574019374,
+  "message": "update-to-add-ascent-0.5.0-release-13709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b3f546ba459735ea91c73494b1fd5a93653917e",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-10-28T15:32:16-07:00",
+  "timestamp": 1572301936,
+  "message": "update-conduit-for-0.5.0-release-13455",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cdf4ba81e5bf14736e5ad736d4ee1785a4040b13",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-17T10:59:35-04:00",
+  "timestamp": 1560783575,
+  "message": "Remove-version-from-py-mpi4py.-11587",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9350db5665638a451cb23d33e441c3356f4a831f",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-01-12T17:43:39-08:00",
+  "timestamp": 1547343819,
+  "message": "update-alpine-ascent-and-friends-10320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4ba199fc1d16c28ee1400da12f3c070404f8cdc",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2018-02-12T10:20:46-08:00",
+  "timestamp": 1518459646,
+  "message": "updates-to-conduit-and-ascent-packages-7040",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95a384f05107cc80e0da7d5e7a5b75380ebf76f3",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-12-08T13:43:12-08:00",
+  "timestamp": 1512769392,
+  "message": "updates-to-conduit-and-ascent-packages-new-PR-6584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b079e1dbd56670514a312fbad4dd8e62f1e9ddcd",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-11-10T17:00:47-08:00",
+  "timestamp": 1510362047,
+  "message": "add-alpine-ascent-6224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1348fd56483572e7c8336928e24e835d6f6a76db",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-09-25T11:25:40-07:00",
+  "timestamp": 1506363940,
+  "message": "update-for-conduit-0.3.0-release-5421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e39ba88e9c2f4c9409771982e0b12e25d97c359a",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-01-06T12:33:51-08:00",
+  "timestamp": 1483734831,
+  "message": "add-conduit-0.2.1-release-2766",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eaa24b08fd032db60b11d3480ea4bbc13cd90f92",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2017-01-04T10:20:08-08:00",
+  "timestamp": 1483554008,
+  "message": "add-package-for-conduit-2670",
+  "repo": "spack/spack"
+}]

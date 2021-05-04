@@ -1,0 +1,176 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6127a6faf635822742337b68d6df239c2e476bc3",
+  "author": "Levi Baber <baber@iastate.edu>",
+  "date": "2020-08-17T20:58:50-05:00",
+  "timestamp": 1597715930,
+  "message": "canu-new-version-18112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e1e3ac8c32c375873ceb09e5b8ef0e215642d69",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-08-04T12:05:37+08:00",
+  "timestamp": 1596513937,
+  "message": "canu-fix-depends-issue-using-java-instead-of-jdk-17599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1599dce2aeda294ae803444beeddca7d8a6d06d0",
+  "author": "Eric Martin <erimar77@users.noreply.github.com>",
+  "date": "2019-03-22T05:27:36-05:00",
+  "timestamp": 1553250456,
+  "message": "canu-Add-versions-1.8-and-1.7-10978",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1b17e820728f0e282f7bac880986da9c24daebe",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-11-08T03:28:10-06:00",
+  "timestamp": 1541669290,
+  "message": "canu-use-built-in-makefile-install-9726",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8fcc4d23089d548ab5ba425d57dc3cfcad37d37",
+  "author": "DDevHan <danhan@iastate.edu>",
+  "date": "2018-10-05T10:56:03-05:00",
+  "timestamp": 1538754963,
+  "message": "Canu-Updated-to-lastest-version-1.7.1-9413",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7876ab54f58b4bbc7969ad00dd7a6a46813d7c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-14T05:10:42+01:00",
+  "timestamp": 1515903042,
+  "message": "Do-not-construct-path-to-perl-command-manually-6927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "687904c7144418597ed04dfc793961ae347816a4",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-08-03T09:32:44-07:00",
+  "timestamp": 1501777964,
+  "message": "New-package-for-canu-4937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73cae8d9c4c568f50fee2829d87b31c0361ce792",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-23T13:52:28-04:00",
+  "timestamp": 1471974748,
+  "message": "Implement-review-requests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c0728ea86b21505c9880ee63054cc3696b974b",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-06-19T13:47:26-04:00",
+  "timestamp": 1466358446,
+  "message": "New-package-polymake",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ac6ffb3ef8aee18b5b559df691b6d81d5a00d35",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-23T00:05:23-08:00",
+  "timestamp": 1422000323,
+  "message": "Add-extra-gcc-dependencies",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e0376bb3b68ee871ff27ac52a7d701c36f8739b",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-12-25T14:34:30+09:00",
+  "timestamp": 1608874470,
+  "message": "openipmi-fix-dependency-and-add-version-2.0.29-20276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a381b44b75cc156b5f48507f5b42680de1299dd3",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-10-23T15:24:05+08:00",
+  "timestamp": 1603437845,
+  "message": "openipmi-added-new-package-at-v2.0.28-18790",
+  "repo": "spack/spack"
+}]

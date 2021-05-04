@@ -1,0 +1,8 @@
+[{
+  "commit": "a2a29f8789c6df1eb6094d8f1d6e6e7fabd519a9",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-03-25T11:13:44-07:00",
+  "timestamp": 1616696024,
+  "message": "zstr-new-package-update-lbann-dependency-22309",
+  "repo": "spack/spack"
+}]

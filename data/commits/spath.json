@@ -1,0 +1,32 @@
+[{
+  "commit": "19c2ad818561a34f156b66428401d12fb7f54add",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-04-28T03:52:45-07:00",
+  "timestamp": 1619607165,
+  "message": "spath-zlib-is-a-link-dependency-23303",
+  "repo": "spack/spack"
+},
+{
+  "commit": "846cf954f01ab5e78e9ff767d42e51a6b1959ab0",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2021-03-29T19:02:33-07:00",
+  "timestamp": 1617069753,
+  "message": "spath-new-releases-22625",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9debb7e1b6e565320a9d9095acaf8253e2473d39",
+  "author": "Elsa Gonsiorowski, PhD <gonsie@me.com>",
+  "date": "2020-03-10T13:27:41-07:00",
+  "timestamp": 1583872061,
+  "message": "SCR-build-with-components-14931",
+  "repo": "spack/spack"
+}]

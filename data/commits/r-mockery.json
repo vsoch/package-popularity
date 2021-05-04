@@ -1,0 +1,8 @@
+[{
+  "commit": "e9c399110e7fdc45ed02873adc759cf64bec2513",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-07T03:51:53+08:00",
+  "timestamp": 1615060313,
+  "message": "Add-new-package-r-mockery-22125",
+  "repo": "spack/spack"
+}]

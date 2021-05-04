@@ -1,0 +1,88 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "978e85d66993fa350f7dc8560f4ebc308c2f14d0",
+  "author": "tcojean <terry.cojean@kit.edu>",
+  "date": "2020-11-12T21:42:34+01:00",
+  "timestamp": 1605213754,
+  "message": "Add-smoke-tests-to-Ginkgo.-19888",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a691e75af30a0b7d9a300c9fb70b12231a85f6d0",
+  "author": "tcojean <terry.cojean@kit.edu>",
+  "date": "2020-10-11T04:08:58+02:00",
+  "timestamp": 1602382138,
+  "message": "Ginkgo-new-version-and-HIP-support-18842",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae2a867a7ffc25c9d2143e489a2de995ba663bec",
+  "author": "tcojean <terry.cojean@kit.edu>",
+  "date": "2020-07-08T15:42:56+02:00",
+  "timestamp": 1594215776,
+  "message": "Ginkgo-new-versions-17413",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff307aa86c36c2d2f1a377bce69f567c7e416c27",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-11-07T18:51:20-06:00",
+  "timestamp": 1573174280,
+  "message": "Balay-ginkgo-1.1.0-13632",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47aa08081ae6628d53904fe7ae48d4a508fdd789",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-04T20:36:04-05:00",
+  "timestamp": 1564968964,
+  "message": "ginkgo-add-maintainers-12273",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ee260d3e351932dd07ccd423bf4332d5f10ef07",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-02T18:54:15-05:00",
+  "timestamp": 1564790055,
+  "message": "ginkgo-fix-branch-commit-for-1.0.0.-Also-add-variant-develtools-12248",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c4849f775a06a16e25a24478069ab14d272e3f",
+  "author": "tcojean <35342290+tcojean@users.noreply.github.com>",
+  "date": "2019-05-02T01:25:39+02:00",
+  "timestamp": 1556753139,
+  "message": "Ginkgo-package-update-to-release-1.0.0-11312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d971c4493d881755f227e8979eb2df27f75f2ef",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-22T10:58:48+01:00",
+  "timestamp": 1553248728,
+  "message": "add-ginkgo-package-use-it-in-dealii-along-with-symengine-10917",
+  "repo": "spack/spack"
+}]

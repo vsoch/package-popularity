@@ -1,0 +1,8 @@
+[{
+  "commit": "aa79689c78104339e41b6d25218e84186a38dc10",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-20T20:17:59+08:00",
+  "timestamp": 1616242679,
+  "message": "libmbim-add-new-package-22143",
+  "repo": "spack/spack"
+}]

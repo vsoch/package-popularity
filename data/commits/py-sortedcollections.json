@@ -1,0 +1,8 @@
+[{
+  "commit": "3455647011c58de38676c256ffa1782a573374a5",
+  "author": "Bryan Herman <bryan.herman@unnpp.gov>",
+  "date": "2021-01-26T17:17:12+00:00",
+  "timestamp": 1611681432,
+  "message": "added-package-py-sortedcollections",
+  "repo": "spack/spack"
+}]

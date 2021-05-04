@@ -1,0 +1,208 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "374f1a62e2b388fcac60aa25b3c5c5f8b18871cf",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-06-05T19:25:42-06:00",
+  "timestamp": 1591406742,
+  "message": "py-flake8-add-version-2.8.2-16959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbb04ece4322cee0b85e780d21c2dc894d18b6f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-26T12:11:07-05:00",
+  "timestamp": 1564161067,
+  "message": "Add-flake8-3.7.8-12141",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fed84058d6c5b2af96c9fdafe680851e05d5888",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-07T19:50:30+01:00",
+  "timestamp": 1551984630,
+  "message": "py-flake8-Add-missing-dependencies-for-3.7.7-10796",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06dcf72f142cf2637a3044aae7c5bff429a9e7b4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-11-26T02:11:16-06:00",
+  "timestamp": 1543219876,
+  "message": "Uncomment-dependencies-previously-disallowed-by-concretizer-9942",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98cdd616ca8541fadd9282dc60157679d77e1fd5",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-10-03T19:33:22-07:00",
+  "timestamp": 1538620402,
+  "message": "py-flake8-enum34-not-required-for-python-3.4-and-up-9415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a48f44bca6fb061e34250a63cce56b77d861f4",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T17:33:59+02:00",
+  "timestamp": 1528385639,
+  "message": "add-commented-test-dependencies-8407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6a7979cfde451d15cf4d85abd5d87f2fab6b0d1",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-01-14T05:07:46+01:00",
+  "timestamp": 1515902866,
+  "message": "Update-py-flake8-to-3.5.0-6918",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c02e7e9f4e018f9a47aec9f604df21bfe1ab4fa",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-12-08T18:22:52+01:00",
+  "timestamp": 1512753772,
+  "message": "add-restriction-to-py-setuptools-dependency-on-py-flake8-6589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13b61913dad415f4598d01dec03a27a77c8f38b6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-09-25T12:46:47-07:00",
+  "timestamp": 1506368807,
+  "message": "patch-py-mccabe-and-py-flake8-to-not-require-pytest-runner-for-install-5427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5e5e4ed1aef6ade3ddef34c4ad7a57988fd8d74",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-05T12:00:31-05:00",
+  "timestamp": 1475686831,
+  "message": "Add-missing-dependencies-for-Flake8-1883",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5a19b57f7965f24413e789924086cf4bcb126d8",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-05-11T16:32:49-06:00",
+  "timestamp": 1463005969,
+  "message": "Clean-up-formatting",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,168 @@
+[{
+  "commit": "802f5afac0fef4d33a754f685e15d59f2ea07544",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2021-03-31T16:17:27+01:00",
+  "timestamp": 1617203847,
+  "message": "hpl-FIX-intel-oneapi-mkl-22674",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68ab6b252a832721ee2ad0aaae285c65659e1a25",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-01T11:07:08-05:00",
+  "timestamp": 1604246828,
+  "message": "hpl-fix-conflict-directive-missing-19656",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1983d7395ca51e7ef87bd9a79614b2f760cd994",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2020-05-06T21:36:29+01:00",
+  "timestamp": 1588797389,
+  "message": "blis-FIX-threads-option-HPL-enable-opemp-variant-for-2.3-16476",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6592b4d46df32d32fa6fa8756120a58a9e6d419c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-06-15T15:46:59-05:00",
+  "timestamp": 1560631619,
+  "message": "Fix-latest-HPL-for-MKL-use-11712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eaa340eba71a06772de3e5b286990aa380538a71",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-01-15T14:41:33-08:00",
+  "timestamp": 1547592093,
+  "message": "Added-hpl-2.3-10345",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5250e8ee8966b1e7c8be2f13277bc785d5af8e73",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T12:11:29-05:00",
+  "timestamp": 1492794689,
+  "message": "Fix-HPL-build-convert-to-MakefilePackage-3777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "564e7f5e5bba55d3f4f96916c054d3c3d01a35cf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-31T09:32:24-05:00",
+  "timestamp": 1464705144,
+  "message": "Don-t-build-in-parallel",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f16228d811e4be68f4e4704ff3c2eaee86c936d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-17T13:36:38-05:00",
+  "timestamp": 1463510198,
+  "message": "Add-more-install-directories",
+  "repo": "spack/spack"
+},
+{
+  "commit": "631cbdbda89a1a227dcb0277478195a950984240",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-17T13:22:00-05:00",
+  "timestamp": 1463509320,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b9b18f03c7654271b865e4a3a0117124331aa0c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-17T13:14:59-05:00",
+  "timestamp": 1463508899,
+  "message": "Add-HPL-benchmark-package",
+  "repo": "spack/spack"
+}]

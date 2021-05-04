@@ -1,0 +1,64 @@
+[{
+  "commit": "24f4a39d0ec29d0334fa2152f0226cfab3b99632",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2021-04-12T13:46:10-07:00",
+  "timestamp": 1618260370,
+  "message": "ROCm-relase-4.1.0-Bump-up-version-of-rocm-validation-suite-22946",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4acf74091d6d6e2e9914bf9380ffde1cfb1ca4f",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-05T04:32:03+05:30",
+  "timestamp": 1609801323,
+  "message": "bump-up-rocm-math-libs-recipes-for-rocm-4.0.0-release-20651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1b9a00a13fc942e0b54a9c766cff96e7b1eb743",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T17:10:54+05:30",
+  "timestamp": 1606995654,
+  "message": "bumpup-the-version-for-rocm-3.10.0-release-20227",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b08744566d28697db363a87a24671f81528e3dc1",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-11-13T22:29:18+05:30",
+  "timestamp": 1605286758,
+  "message": "bump-up-version-for-3.9.0-19894",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5558bc2b50a13b7b51ac69cfd26142d2769ae684",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-30T15:27:40-07:00",
+  "timestamp": 1601504860,
+  "message": "rocm-3.8.0-updates-for-hipblas-rocsolver-miopen-hip-rocalution-rocmvalidationsuite-19031",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ec3c4d35ed5b0ba9681cc5ee4ceec2e0503b282",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-24T08:49:46-07:00",
+  "timestamp": 1600962586,
+  "message": "renaming-of-Rocclr-rocgdb-to-hip-rocclr-and-rocm-gdb-fix-build-error-for-rocm-opencl-18900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bad9f2bc2844b84b188b5be9fef360bc6848c608",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-09-15T11:16:41-07:00",
+  "timestamp": 1600193801,
+  "message": "AMD-ROCmValidationSuite-recipe-for-3.5.0-and-3.7.0-18678",
+  "repo": "spack/spack"
+}]

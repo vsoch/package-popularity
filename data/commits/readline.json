@@ -1,0 +1,240 @@
+[{
+  "commit": "212d33ecdad2b38977af7a045136045b21e7c4f5",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-16T17:37:10-05:00",
+  "timestamp": 1618612630,
+  "message": "Update-readline-package-for-NVIDIA-compilers-23019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7d7cbfacf3822c4c33b62b24316d0f266ba3516",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T06:36:40+02:00",
+  "timestamp": 1617251800,
+  "message": "readline-add-8.1-22698",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d5ddb1fc626367d1abcc43bc614abd9f72450dd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-19T16:32:42-05:00",
+  "timestamp": 1600551162,
+  "message": "readline-simplify-linking-to-ncurses-18801",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96364235e3358c2c49ed416e432ac125683280bb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-09T03:12:46-05:00",
+  "timestamp": 1599639166,
+  "message": "readline-fix-build-with-ncurses-termlib-18524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e39dc7174feb2c9c49b6b89a897348bd47ea253",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-11T14:09:44-05:00",
+  "timestamp": 1591902584,
+  "message": "readline-fix-linking-to-ncurses",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efbd8c15552ac00cde6caa3ec7d615e02130c59b",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:12:38+02:00",
+  "timestamp": 1588277558,
+  "message": "readline-Fix-homepage-16403",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0cf69804378f636f9784a5b4593d234157282737",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:07:48-05:00",
+  "timestamp": 1570727268,
+  "message": "Add-readline-8.0-13095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0217747d0f1edda29902a4b37f32c3603d47d8a",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2017-04-14T19:17:45+02:00",
+  "timestamp": 1492190265,
+  "message": "Readline-package-Add-ncurses-library-directory-to-link-line.-3802",
+  "repo": "spack/spack"
+},
+{
+  "commit": "745e2ce52ffb33a8da9856e64c4571303f274163",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-05T16:03:11-05:00",
+  "timestamp": 1491426191,
+  "message": "Fixes-needed-to-build-htop-3691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "606c5fbc5f737bf823033bfa66ae7aa08ea479ff",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-03-21T16:24:13-07:00",
+  "timestamp": 1490138653,
+  "message": "patch-readline-to-fix-ipython-seg-fault-3512",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72890f4840563c0ec31037e55abd1f0796026cfe",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T20:36:24-05:00",
+  "timestamp": 1489628184,
+  "message": "Add-latest-version-of-readline-3452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "380a2b23e66fe0acfd16f9e72499c7bd42597eaf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-06T15:57:03-05:00",
+  "timestamp": 1459976223,
+  "message": "Add-bash-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c8c41da98a01d595b8ef77175e2c717accf02d7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-03T00:15:05-08:00",
+  "timestamp": 1415002505,
+  "message": "Working-Python-2.7.8-ncurses-readline",
+  "repo": "spack/spack"
+}]

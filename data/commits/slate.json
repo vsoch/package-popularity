@@ -1,0 +1,88 @@
+[{
+  "commit": "c2925a1704f111c32a3fdcc22a4e5cf26ffde987",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-03-05T01:11:16-08:00",
+  "timestamp": 1614935476,
+  "message": "SLATE-Default-cuda-22110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bed9a1990893178c45bd0e89133187ff0ce52bd",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-10-29T11:13:02-04:00",
+  "timestamp": 1603984382,
+  "message": "SLATE-package-New-versions-of-slate-blaspp-and-lapackpp-with-CMake-build-support-19587",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9cd2ab48abdbb1df910e7249da65b7809a38cb44",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-10-19T13:16:10-04:00",
+  "timestamp": 1603127770,
+  "message": "Slate-package-resolves-missing-header-issue-19032",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b051df83ffb214983d8b5592214997ca5521e91",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-07-30T05:21:49-04:00",
+  "timestamp": 1596100909,
+  "message": "slate-package-resolve-issues-with-cuda-version-and-fortran-compiler-name-17759",
+  "repo": "spack/spack"
+},
+{
+  "commit": "844312f2135169b9e329710e178177df0553e412",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-06-19T12:10:03-04:00",
+  "timestamp": 1592583003,
+  "message": "Updated-slate-package-to-use-new-git-repo.-Added-maintainer.-17165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ea220db8389a08fc09ca1dd38e566d076261e36",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-02-18T15:26:31-08:00",
+  "timestamp": 1582068391,
+  "message": "slate-needs-mercurial-for-build-15055",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b64a286820c66b0eb90818e4049deb87bc994cdf",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2019-05-06T13:52:40-04:00",
+  "timestamp": 1557165160,
+  "message": "SLATE-package-fix-variant-header-errors-11353",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9630d732d62d4c37afa6ff2d8423cc7a11b66cdb",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2019-01-30T20:59:26-05:00",
+  "timestamp": 1548899966,
+  "message": "New-package-SLATE-10434",
+  "repo": "spack/spack"
+}]

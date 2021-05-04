@@ -1,0 +1,8 @@
+[{
+  "commit": "a4e67c35de2dcee944c220ad687e24fd9136114f",
+  "author": "Harsh Bhatia <bhatia4@llnl.gov>",
+  "date": "2021-01-26T09:29:56-08:00",
+  "timestamp": 1611682196,
+  "message": "added-flask-cors",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,432 @@
+[{
+  "commit": "47c13bc6ca0f245b739c632ea61c86b27939665f",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-04-06T11:15:29+02:00",
+  "timestamp": 1617700529,
+  "message": "cdo-help-libtool-to-find-the-correct-paths-to-libraries-22670",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ca24a208a37326a62166a19c8f92810da233be2",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-02-19T15:36:38+01:00",
+  "timestamp": 1613745398,
+  "message": "cdo-switch-to-fftw-api-21803",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cc2d916380adbeea94ac9a9511e3b1e03cf0278",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-02-16T16:25:17+01:00",
+  "timestamp": 1613489117,
+  "message": "cdo-update-PROJ-dependency-constraints-21700",
+  "repo": "spack/spack"
+},
+{
+  "commit": "258bfff1da747157aa35b2a8400ce66eb149c520",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2021-01-27T11:32:49+01:00",
+  "timestamp": 1611743569,
+  "message": "cdo-add-v1.9.10-21315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a8dba48dad0d133eb7435df6ab318c3722a8d6e",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2020-11-12T18:29:57+01:00",
+  "timestamp": 1605202197,
+  "message": "new-release-cdo-1.9.9-19876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e18c5316bd766130e0b7170104425269d8d10f92",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-05-22T19:27:13+02:00",
+  "timestamp": 1590168433,
+  "message": "cdo-fix-url-for-version-1.9.8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3eb19b142fdf653ac5acf698a2467f1b73995185",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2019-11-11T19:52:06+01:00",
+  "timestamp": 1573498326,
+  "message": "new-CDO-release-1.9.8-13674",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95bc67744593e59f1a11ccb4133e7e89ac044ed8",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-11-06T18:13:21+01:00",
+  "timestamp": 1573060401,
+  "message": "cdo-Fix-with_or_without-calls-13614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75adb54d51367ec0cc97a25b888b972d583f451b",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-27T02:36:42+02:00",
+  "timestamp": 1561595802,
+  "message": "cdo-Remove-obsolete-patch-11854",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea3e1521fe3bcb260fdea439208f0dd47d3ff062",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-18T13:22:22-05:00",
+  "timestamp": 1560882142,
+  "message": "Add-CDO-1.9.7.1-11758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e90b4ce6fbdbb43a6f1bbbd5107776d582a8b46e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-05-17T02:53:38+02:00",
+  "timestamp": 1558054418,
+  "message": "CDO-package-Fix-build-with-gcc-9-11464",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba70d6e706bc34aa363c5d567c7129845a3c53c9",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2019-02-23T00:38:35+00:00",
+  "timestamp": 1550882315,
+  "message": "cdo-package-add-version-1.9.6-10654",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ec8e4146fad941bb8730f52e83bd30a89fb949f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-12-07T01:04:50+01:00",
+  "timestamp": 1544141090,
+  "message": "cdo-fix-URLs-10025",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87c2214b021a500ac5abedd25437b465b5d1bec7",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2018-08-23T15:27:35+00:00",
+  "timestamp": 1535038055,
+  "message": "add-cdo-releases-1.9.4-and-1.9.5-9079",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "819ceb4f6dc0bd6a3b68df28f54f19ca0ad368ae",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-02-16T13:39:56+01:00",
+  "timestamp": 1518784796,
+  "message": "Package-cdo-new-versions.-7250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "576ef5e2b34b5524bcfd2cf86a695632bb7b8e5a",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-12-17T03:48:56+01:00",
+  "timestamp": 1513478936,
+  "message": "Package-cdo-get-rid-of-unnecessary-dependency-on-MPI-C-library.-6632",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7a855ba576dbf0b619ca6605033327511646bec",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-11-08T21:55:57+01:00",
+  "timestamp": 1510174557,
+  "message": "Missing-dependency-for-cdo-.-6175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b92ddd72dd0370613e4bac81cc47e890a99a3d65",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-10-25T13:24:19+02:00",
+  "timestamp": 1508930659,
+  "message": "Update-for-cdo-.-5947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e55efdf8edb2a5a88a3af34d0d2fd0c12e59b9f4",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-08-22T08:42:55+02:00",
+  "timestamp": 1503384175,
+  "message": "Updates-for-package-cdo-.-5179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9aa374978762ea0b3f0880aff2166224bf57e135",
+  "author": "Stas Sergienko <ssergien@anl.gov>",
+  "date": "2017-07-24T15:50:44-05:00",
+  "timestamp": 1500929444,
+  "message": "added-new-version-of-cdo-4877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e4b0eb34a66927ca92df79dedc68d35c9fbd4ae",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-01T22:08:47+02:00",
+  "timestamp": 1493669327,
+  "message": "Multi-valued-variants-2386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d981ebd50fe9b24826fae565f133494d2e49242",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-04T17:29:22+01:00",
+  "timestamp": 1475598562,
+  "message": "A-set-of-tools-used-in-climate-modeling-and-numerical-weather-prediction.-1317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00b3aa77aec2490a4967bd0a080373316fbb7061",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-09-27T16:56:04+02:00",
+  "timestamp": 1474988164,
+  "message": "Update-cdo-to-1.7.2-1858",
+  "repo": "spack/spack"
+},
+{
+  "commit": "079d063c6d94be84974f1ddd6eb880e902c95b4a",
+  "author": "Robert D. French <frenchrd@ornl.gov>",
+  "date": "2016-08-28T20:43:54-04:00",
+  "timestamp": 1472431434,
+  "message": "Variant-for-building-cdo-without-mpi-1638",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4434f482c08c90011ba489b65ce7f75be35fb5bb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-07-20T09:48:54-07:00",
+  "timestamp": 1469033334,
+  "message": "remove-FIXMEs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b0fb476ab917e68370b61cf77eff8fdedb79e09",
+  "author": "Robert D. French <frenchrd@ornl.gov>",
+  "date": "2016-07-19T15:57:55-07:00",
+  "timestamp": 1468969075,
+  "message": "Draft-CDO",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77cd474a2d129bf0df932a09e1e50ae05c6f7eff",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-20T20:10:44-05:00",
+  "timestamp": 1466471444,
+  "message": "Make-all-packages-lowercase",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d3965c7a6276ca328a7ff86f5084bb51806dfd3",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-12T22:03:24-05:00",
+  "timestamp": 1465787004,
+  "message": "New-package-unixODBC",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b1ef64e31a56877f6859820ca7a79dd51f6fe84",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-30T09:33:00-06:00",
+  "timestamp": 1459351980,
+  "message": "Provide-basic-instructions-for-providing-subversion-w-o-additional-language-bindings",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ec450912dc71915205857da75bb418ffc3d0904",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-21T21:14:03-06:00",
+  "timestamp": 1458616443,
+  "message": "Provide-subversion-and-required-packages-apr-and-apr-util",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f2feac92c966a298a1a9fc1702dbc531e645424",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-06T11:05:58+01:00",
+  "timestamp": 1389002758,
+  "message": "Remove-install-methods-from-mock-packages-not-needed",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7088cdf25f8b53d49613525c5dbb6a081b67ca37",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-22T17:55:58-08:00",
+  "timestamp": 1387763758,
+  "message": "Fix-for-SPACK-13-and-satisfies-now-handles-deps",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0c029c347cc15109f8cace38a2883f35e75b500",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-08T19:26:29-08:00",
+  "timestamp": 1386559589,
+  "message": "Fixes-for-virtual-packages",
+  "repo": "spack/spack"
+}]

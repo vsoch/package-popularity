@@ -1,0 +1,160 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4b83daa48a5d6fcf03e298dc6351b54a46a5b2c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-10-12T19:13:20+02:00",
+  "timestamp": 1602522800,
+  "message": "concretizer-added-logic-for-preferred-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d49bdac8597b96c9ddeecb26eb5334f6365071c9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-10-01T14:46:49-05:00",
+  "timestamp": 1601581609,
+  "message": "PLASMA-added-v20.9.20-19106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bbdb033e5fb398d53246beffd173602606e68306",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-09-07T20:04:20-04:00",
+  "timestamp": 1567901060,
+  "message": "Add-patches-to-work-around-CMake-versions-12744",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7026a058b63f5a3109691e2c3871ee77c08f756",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-08-07T01:08:59-04:00",
+  "timestamp": 1565154539,
+  "message": "Version-19.8.1-of-PLASMA-12299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5560d5b601b1ac5851966c4244c7e3c2246c91a0",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-04T20:37:46-05:00",
+  "timestamp": 1564969066,
+  "message": "Add-version-19.8.0-of-PLASMA-12275",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8375b5b5711f80d872afff5d858e877660b9deca",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2018-11-28T17:59:05-05:00",
+  "timestamp": 1543445945,
+  "message": "Add-PLASMA-version-18.11.0-and-Lua-variant-9689",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31bed8f8f2ddfb77a8fba98c965aff8dd4442505",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-22T20:00:39-05:00",
+  "timestamp": 1540256439,
+  "message": "plasma-add-18.10.0-and-fix-URL-9608",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01913fb34db4f7568286b89d48dadf6a56be4d33",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2018-10-22T14:26:23-04:00",
+  "timestamp": 1540232783,
+  "message": "PLASMA-add-version-18.9.0-w-CMake-9489",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6140375e9433cd4a5bf53d8efec6ac5eee658f3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-24T18:38:44+05:30",
+  "timestamp": 1529845724,
+  "message": "xsdk-update-xsdk-develop-to-use-plasma-develop-8555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23bedc276c0608650ecf4f1b253a72bdf91342da",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-27T13:38:10-06:00",
+  "timestamp": 1511811490,
+  "message": "plasma-extract-plasma-changes-from-xsdk-0.3.0-6280",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5449884b2ecd84f61287923aaffa867d07cbf026",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-10-23T16:51:11+02:00",
+  "timestamp": 1508770271,
+  "message": "Fix-bare-except-to-placate-errors-in-new-flake8-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b5410b87b613cea4c44153fcd440a9ab8cca746",
+  "author": "Piotr Luszczek <luszczek@eecs.utk.edu>",
+  "date": "2017-10-08T19:59:41-04:00",
+  "timestamp": 1507507181,
+  "message": "Add-PLASMA-package-5540",
+  "repo": "spack/spack"
+}]

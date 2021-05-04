@@ -1,0 +1,120 @@
+[{
+  "commit": "6df1b509fa32964e05d0cde5a55ae4a1281aa91c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-06T01:35:51-05:00",
+  "timestamp": 1617690951,
+  "message": "repeatmasker-update-and-fix-package-22785",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "726a662c2c2fe3e366005f188b4c2fa41bb3f0dc",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-01-15T11:31:51-06:00",
+  "timestamp": 1579109511,
+  "message": "Change-encoding-for-scripts-in-repeatmasker-14358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d82f8cd405c13d2fe4cfd4221669f1c3a5b023cb",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-06-18T13:11:00-05:00",
+  "timestamp": 1560881460,
+  "message": "repeatmasker-perl-and-HMMER-dependency-fixes-11660",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6d34076dc4d384608dca0f0724e4ab851aaba6d",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-05-14T15:16:32-05:00",
+  "timestamp": 1557864992,
+  "message": "repeatmasker-add-4.0.9-refactor-interactive-config-11385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec6de8326e1884307dc167395b128645397596ba",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2019-02-07T16:53:30-06:00",
+  "timestamp": 1549580010,
+  "message": "repeatmasker-package-add-variant-for-cross_match-engine-10534",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c2dc8f528081b699cc6d6fec2da344424fa1e22",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-05-25T18:22:25-05:00",
+  "timestamp": 1527290545,
+  "message": "repeatmasker-fix-bin-location-and-dependency-8286",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7876ab54f58b4bbc7969ad00dd7a6a46813d7c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-14T05:10:42+01:00",
+  "timestamp": 1515903042,
+  "message": "Do-not-construct-path-to-perl-command-manually-6927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bae192d5c6e40d3d90c3873d3d9cc78b971f6c5",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-11-06T18:27:42-06:00",
+  "timestamp": 1510014462,
+  "message": "repeatmasker-new-package-6108",
+  "repo": "spack/spack"
+}]

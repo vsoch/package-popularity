@@ -1,0 +1,472 @@
+[{
+  "commit": "cac8646e1c84f3e6a69680ee8a2a42835645fa46",
+  "author": "Thomas Gruber <Thomas.Roehl@fau.de>",
+  "date": "2021-04-06T10:59:38+02:00",
+  "timestamp": 1617699578,
+  "message": "likwid-add-v5.1.1-22672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fd4719291c7ecd4bfd01154757cffca560ce12e",
+  "author": "Thomas Gruber <Thomas.Roehl@fau.de>",
+  "date": "2020-12-14T10:20:07+01:00",
+  "timestamp": 1607937607,
+  "message": "likwid-Add-variant-for-Nvidia-GPU-profiling-feature-20337",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4609a126baa383ce8057253dacd6ac4fc415ac72",
+  "author": "Thomas Gruber <Thomas.Roehl@googlemail.com>",
+  "date": "2020-11-21T00:02:08+01:00",
+  "timestamp": 1605913328,
+  "message": "Add-new-release-5.1.0-and-change-homepage-20022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f45e8ac70bd7535d7886648ee9d327d039d970d3",
+  "author": "Thomas Gruber <Thomas.Roehl@googlemail.com>",
+  "date": "2020-10-15T15:20:04+02:00",
+  "timestamp": 1602768004,
+  "message": "LIKWID-added-v5.0.2-new-depends_on-clauses-and-a-patch-for-Lua-19164",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e41c3ad1fc5cda3981348a430e46e58ec862c8bb",
+  "author": "Severin Strobl <github@severin-strobl.de>",
+  "date": "2020-09-16T17:16:08+02:00",
+  "timestamp": 1600269368,
+  "message": "Likwid-versions-5.0.0-depend-on-Lua-5.2.-18675",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc0a1283c41daf2388186128eacb77c2918acd3f",
+  "author": "carlabguillen <carla.guillen@lrz.de>",
+  "date": "2020-08-05T23:31:49+02:00",
+  "timestamp": 1596663109,
+  "message": "Variant-with-fortran-for-likwid-package-17889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d913ddab7faf9d38447b6cfb62a3fd0133f2632",
+  "author": "David Pape <davidpape1995@gmail.com>",
+  "date": "2020-05-25T13:10:12+02:00",
+  "timestamp": 1590405012,
+  "message": "likwid-fixed-failing-build-on-powerpc-16797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90e15cae16f9bb50f0b34580e11210522ec2c52f",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-15T13:23:57+02:00",
+  "timestamp": 1589541837,
+  "message": "likwid-fix-build-with-gcc-10-16641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e916a9424ca6195e0685071f3bf3a8f532cb22fe",
+  "author": "Thomas Gruber <Thomas.Roehl@googlemail.com>",
+  "date": "2020-03-12T14:44:43+01:00",
+  "timestamp": 1584020683,
+  "message": "likwid-add-compiler-selection-for-ARM-and-POWER-architecture-14183",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48f8f0ec58bd80a25b8e278fbcc1687ddd5585d9",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-03-10T16:03:14+01:00",
+  "timestamp": 1583852594,
+  "message": "likwid-added-v5.0.1-15421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff64004a7b90c9fea9c48905c8f5f0e979e33d42",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-11-23T03:21:59-05:00",
+  "timestamp": 1574497319,
+  "message": "likwid-added-version-5.0.0-13858",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac76e4692f71a51f7715618cdd0285cf86d05c3f",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-06-28T19:05:38+02:00",
+  "timestamp": 1561741538,
+  "message": "likwid-package-Fix-build-with-version-4.3.4-11878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0337170d34f86963a1aba8628650f41f88760228",
+  "author": "Thomas Gruber <Thomas.Roehl@googlemail.com>",
+  "date": "2019-05-16T13:35:25+02:00",
+  "timestamp": 1558006525,
+  "message": "Likwid-added-versions-4.3.3-and-4.3.4-11479",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a11b252a1b8f2292715ee9eedadafdc59398594b",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-30T10:16:53+02:00",
+  "timestamp": 1556612213,
+  "message": "remove-myself-from-maintainers-of-some-packages-11319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "377e957f3be0489e7ae69a2f1194af15b552cf27",
+  "author": "Thomas Roehl <Thomas.Roehl@googlemail.com>",
+  "date": "2018-08-06T16:21:30+02:00",
+  "timestamp": 1533565290,
+  "message": "LIKWID-Switch-to-perf_event-backend-to-allow-user-installations-but-with-limited-features-8886",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3a9b2ab2b505f1cd17a2a02934dbfd54b3144aa",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2018-06-15T17:14:00+02:00",
+  "timestamp": 1529075640,
+  "message": "Add-newer-likwid-versions-4.3.1-and-4.3.2-8488",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17772fcd43ad083d15c3e0157c2f9ddb237308aa",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-03-06T18:07:37+01:00",
+  "timestamp": 1520356057,
+  "message": "likwid-Fix-build-7244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7876ab54f58b4bbc7969ad00dd7a6a46813d7c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-14T05:10:42+01:00",
+  "timestamp": 1515903042,
+  "message": "Do-not-construct-path-to-perl-command-manually-6927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d257e82806981a5c8e96eb07584c3aa3940a6f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-01-03T02:59:14+01:00",
+  "timestamp": 1514944754,
+  "message": "likwid-add-stable-4.3.0-6761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec5d366bcd833f1796bbfdf504ee63a1fb829de8",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-15T00:41:05+01:00",
+  "timestamp": 1510702865,
+  "message": "likwid-Fix-hash-for-4.3.0-6307",
+  "repo": "spack/spack"
+},
+{
+  "commit": "450f2fa03458318a82c95c4b4a1f0aef7998c80b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-06T19:14:34+01:00",
+  "timestamp": 1509992074,
+  "message": "likwid-Use-external-lua-if-possible-6009",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43e2d2546229f20de8afae4ee5b0d4b586d2f17",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-10-28T20:12:21+02:00",
+  "timestamp": 1509214341,
+  "message": "likwid-Update-checksum-6007",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c13e13a52b02f57229d9520f36c997b7cc477c46",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-14T00:08:49+02:00",
+  "timestamp": 1507932529,
+  "message": "likwid-update-versions-5757",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60f8621704acdfe127c2875f3f44c1518fd57b9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-26T15:27:28+02:00",
+  "timestamp": 1506432448,
+  "message": "Missing-perl-dependencies-5204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f454bbd3d661dd796bef5b1f91d9bf515300bb3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-05T00:23:56+02:00",
+  "timestamp": 1504563836,
+  "message": "Add-davydden-as-a-maintainer-to-a-couple-of-packages-5284",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d855403546861af6688c5c4185b6032249b800d9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-13T19:46:31+01:00",
+  "timestamp": 1481654791,
+  "message": "likwid-remote-root-from-INSTALL_CHOWN-2564",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62dedc80b13ec845875de10495c9009c754eafa5",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-11T20:39:56+01:00",
+  "timestamp": 1481485196,
+  "message": "likwid-add-todo-2531",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ce0ee49a9e7a6f0b904b316ab1fd2d38308a989",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-01T18:51:23+01:00",
+  "timestamp": 1480614683,
+  "message": "likwid-add-new-package-2455",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5563c666758f593b311a2de3e47cf617966a4c25",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2015-09-29T18:18:34-07:00",
+  "timestamp": 1443575914,
+  "message": "update-scr-to-1.1.8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0ce1b81bae627cc9d3e7853683be60b0f47dbed",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T18:42:03-08:00",
+  "timestamp": 1419561723,
+  "message": "Fix-SPINDLE-and-SCR-download-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36a87f5bf9884978ba1f672322d9b7f663cf4f58",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T03:07:54-07:00",
+  "timestamp": 1412762874,
+  "message": "Update-documentation-to-add-an-auto-generated-list-of-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b207c6779b269abfc65b5e2524a56016672c4bd7",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2014-03-13T16:35:45-07:00",
+  "timestamp": 1394753745,
+  "message": "adding-scr",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87fedc7e1e132e52405ee4e0105bb8267ae57c1b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-07T13:51:46-08:00",
+  "timestamp": 1386453106,
+  "message": "Added-support-for-virtual-dependencies-provides",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5c565891ff20c87b3583aaacc29fd37357f723b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-26T14:04:09-07:00",
+  "timestamp": 1382821449,
+  "message": "First-cut-concretization-works-with-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "558cf7e40689fc18eca47bc80d34da555b5d27d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-17T14:46:00-07:00",
+  "timestamp": 1382046360,
+  "message": "spec-flatten-normalize-validate-package-validate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

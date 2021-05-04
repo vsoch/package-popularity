@@ -1,0 +1,248 @@
+[{
+  "commit": "7bfb4a2d7daf5baaa3eb88f1d85edd813ea2aaed",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-02-07T19:09:20+08:00",
+  "timestamp": 1612696160,
+  "message": "gobject-introspection-enable-gobject-option-in-cairo-21404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11fb0e17b0b923c999b060e4c3f4023f201f8c76",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-03T13:29:59-05:00",
+  "timestamp": 1604428199,
+  "message": "py-pygobject-new-version-3.38.0-19709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c2c30a139296d53a7474a6f53e542a05b5e685d",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2020-10-26T14:37:54-05:00",
+  "timestamp": 1603741074,
+  "message": "sbang-put-sbang-in-the-install_tree-11598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b48f70393a20ef65f5e1394226d3829997431c5",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-16T21:51:29+09:00",
+  "timestamp": 1592311889,
+  "message": "gobject-introspection-build-sequentially-when-using-the-Fujitsu-compiler.-17092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01783789a01546622e5534238ced3f6924fc7ff8",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-24T09:44:20-07:00",
+  "timestamp": 1566665060,
+  "message": "gobject-introspection-add-GIR-file-search-path-12564",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1af6b43dc7a219a870308a4fbef98b22aee125a",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-01-31T03:53:08+01:00",
+  "timestamp": 1548903188,
+  "message": "gobject-introspection-add-1.56.1-and-fix-download-10462",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4d276fbe4ec45c7ac4d9315d0f803a223096d18",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-04-08T21:10:05-05:00",
+  "timestamp": 1523239805,
+  "message": "init-factor-paths-out-of-spack-__init__.py-and-into-spack.paths-module",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0b86e5ffea5d11c75ae1946f23aa81ff899220c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-07-25T02:51:17+02:00",
+  "timestamp": 1500943877,
+  "message": "fix-GobjectIntrospection-on-Darwin-4872",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a62bbb6ed89024499d4c6e3fe41bd0a69d94c5ca",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-05-20T00:30:54+02:00",
+  "timestamp": 1495233054,
+  "message": "gobject-introspection-depends-on-pkg-build-4301",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58567a218273885577a373e6aa8284847203e7d4",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-27T09:04:26-07:00",
+  "timestamp": 1493309066,
+  "message": "Adjustments-to-get-gtkplus-to-build-3208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8cfe317c200fbb255a885dff5b76ce5336a17f7",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-20T14:53:33+01:00",
+  "timestamp": 1487598813,
+  "message": "Added-version-1.49.2-to-gobject-introspection-3090",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbd9f1c5a187d445cf92545c1ed46711ba1a4f59",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-10-30T11:50:36-07:00",
+  "timestamp": 1477853436,
+  "message": "updated-gtk-and-gobject-dependences-2126",
+  "repo": "spack/spack"
+},
+{
+  "commit": "749a4e78c73139ab7a884b68a9956a184dd93dfa",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-10T10:12:13-07:00",
+  "timestamp": 1470849133,
+  "message": "gobject-introspection-requires-glib-version-2.48.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd8aab00e4c2ab00938e2d2658989d87b1f871f4",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-28T13:17:06-07:00",
+  "timestamp": 1469737026,
+  "message": "updated-stat-and-added-pygtk-and-dependent-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f3954c1bdc329f2cb09e5e5baa140419222df8f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T20:21:10-07:00",
+  "timestamp": 1466479270,
+  "message": "flake-8-fixes-for-cairo-freetype-and-harfbuzz",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4041f45b6c387ab07c3e9681d5b3423eb31739a2",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-06-20T16:17:07-07:00",
+  "timestamp": 1466464627,
+  "message": "fixed-conflicts-in-python-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

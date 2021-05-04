@@ -1,0 +1,552 @@
+[{
+  "commit": "5a10c6f822a508b394c56493ad5d8e34e992e79a",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T13:44:09+02:00",
+  "timestamp": 1617277449,
+  "message": "glib-add-2.66.8-22691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c805b168d3b95ad98944cee34844fd5f3afad467",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-16T01:29:39+01:00",
+  "timestamp": 1613435379,
+  "message": "glib-add-2.66.7-21691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2084ea6fd3445553e597d469a983b300df8dcce",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-11T16:27:57+01:00",
+  "timestamp": 1613057277,
+  "message": "glib-add-2.66.6-21605",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "168dd6d03adf7fef6a4f23232418066293de5fe5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-14T05:42:51-06:00",
+  "timestamp": 1605354171,
+  "message": "Don-t-use-prefix.lib-in-tcl-tk-glib-etc-19761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "010ad6011eebc9ae721115806a067a50d184b354",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-07T03:49:21+01:00",
+  "timestamp": 1604717361,
+  "message": "glib-add-2.66.2-and-2.64.6-19793",
+  "repo": "spack/spack"
+},
+{
+  "commit": "319c4f2e9e499decb7e2cbb9c21a5ee3be663616",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-06T17:34:47-06:00",
+  "timestamp": 1604705687,
+  "message": "meson-set-STRIP-on-macOS-19677",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2adf531b3d1290261155f10166dc72b03ba5dc8",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-04T23:00:07+02:00",
+  "timestamp": 1599253207,
+  "message": "glib-Add-2.64.5-18505",
+  "repo": "spack/spack"
+},
+{
+  "commit": "319d160ed13ea2a034d22b7b2dafc55efaf93c2e",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-08-18T15:15:19+02:00",
+  "timestamp": 1597756519,
+  "message": "glib-added-v2.64.4-18144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bb94f2913b8657ce098230f33a08be38e1ba05a",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-06-18T00:32:25-04:00",
+  "timestamp": 1592454745,
+  "message": "glib-fix-2.56-build-with-python-2-17144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "995714cba52ff9f9efbd12ce438b23467a21213a",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-25T13:32:42+02:00",
+  "timestamp": 1590406362,
+  "message": "glib-added-v2.64.3-16800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f04b0d99a828b66741caa635170f1b2c244dde2f",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-30T22:12:13+02:00",
+  "timestamp": 1588277533,
+  "message": "glib-Add-2.64.2-16401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a9ce3ac4a3b60c43bc8c5c33418008c2675e7d5",
+  "author": "Elizabeth Fischer <eafischer2@alaska.edu>",
+  "date": "2020-04-20T12:15:38-08:00",
+  "timestamp": 1587413738,
+  "message": "glib-16179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c8bd21dae4739497068990d793fedac9f0c5a20",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-09T05:32:08+02:00",
+  "timestamp": 1586403128,
+  "message": "glib-Add-new-stable-versions-15947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "464ce2795a6790f67ef65bb6f921855b43bd3305",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-10-23T16:30:46+02:00",
+  "timestamp": 1571841046,
+  "message": "glib-Use-correct-python-command-13392",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "214b67066e253a439b6c8ec756cf8583aef7376e",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-08-02T13:18:04-07:00",
+  "timestamp": 1564777084,
+  "message": "glib-fix-glib-dependency-build-fixes-9992-12153",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51cbc278aa7759b4b52c6fd9862564cbe5f4a75c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-12-29T14:01:08-08:00",
+  "timestamp": 1546120868,
+  "message": "Always-build-glib-with-iconv-10219",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f095cee48df29312b3e1a1c341b59e0b8731653",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-12-21T09:33:28-08:00",
+  "timestamp": 1545413608,
+  "message": "Add-libiconv-variant-to-glib-10165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cea4a75d70b5dbfedb081f486b64ba9878b04c9",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-28T10:06:17+01:00",
+  "timestamp": 1543395977,
+  "message": "glib-disable-SELinux-explicitly-9956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05a4d5a0c6e08578965e85ecfd33c5beb0ece520",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T17:52:56+01:00",
+  "timestamp": 1542127976,
+  "message": "glib-add-2.56.3-9754",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a852028b02c7f4b47cdeb496f78552ec9c7a9642",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T17:37:19+01:00",
+  "timestamp": 1542127039,
+  "message": "glib-explicitly-disable-gtk-doc-9771",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6826a7a2d6e34c65447d0fecd77ce1ac4f2c747",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-22T21:21:54+02:00",
+  "timestamp": 1534965714,
+  "message": "glib-Add-2.56.2-9071",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d099eba8c418399643e8980e93e382449719fed1",
+  "author": "Tom Merrick <thomas.merrick@tamucc.edu>",
+  "date": "2018-08-16T10:43:56-05:00",
+  "timestamp": 1534434236,
+  "message": "glib-patch-for-rhel6-centos6-and-sl6-8947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6834301b9b11fc0fb3e82b6ea448a753981340f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-06-20T18:20:04+02:00",
+  "timestamp": 1529511604,
+  "message": "glib-Update-to-2.56.1-8523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b810579facb503007d2cb7dd4a79c237e670c0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-03-23T15:35:09-05:00",
+  "timestamp": 1521837309,
+  "message": "Only-add-python-flag-for-newer-versions-of-glib-7579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2822b2582328836ff4c601705f402de88192f98",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-03-19T06:38:42+01:00",
+  "timestamp": 1521437922,
+  "message": "glib-updated-package-and-fixed-issues-with-dtrace-7493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8b03d1e379c259781995b861fad8aa12c6fbde7",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-13T15:50:06+01:00",
+  "timestamp": 1515855006,
+  "message": "glib-Fix-python-handling-6910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a7525064d4d31bd830835d42d81c5724c2c4b4a",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-10T18:02:07+01:00",
+  "timestamp": 1515603727,
+  "message": "Updated-i3-dependencies.-6885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60f8621704acdfe127c2875f3f44c1518fd57b9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-26T15:27:28+02:00",
+  "timestamp": 1506432448,
+  "message": "Missing-perl-dependencies-5204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f6c166f2fe5f9318da6a423666b9d857a47fa86",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-15T14:17:28-05:00",
+  "timestamp": 1494875848,
+  "message": "Add-missing-dependency-to-glib-package-4253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7864fbfcd32cafc9307a63aad0eb8c628d8e3696",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-15T09:46:19-05:00",
+  "timestamp": 1494859579,
+  "message": "Remove-need-for-autoreconf-in-glib-package-4240",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2aec15a6f9472d735a204efb4c9df4bf46640dd0",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-11T00:52:39+01:00",
+  "timestamp": 1486770759,
+  "message": "Add-version-2.49.7-to-glib-3089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24553c12bbce5fcd5e1a73581a823cdd5fe319f6",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-02-03T17:19:23-08:00",
+  "timestamp": 1486171163,
+  "message": "Flex-and-Glib-builds-are-dependent-on-m4-3022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65c250699f12fac5deb618e7dd719669e2c65497",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-10-25T19:08:32+01:00",
+  "timestamp": 1477418912,
+  "message": "pkg-config-variant-to-use-internal-glib-2104",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a05a6456d5aa69fdc369b99134227a4958b9832e",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-08-25T11:00:58-04:00",
+  "timestamp": 1472137258,
+  "message": "glib-build-on-macos",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3df208efc0a6a7c7ee74e8a21dcfd999dcc1aa53",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-09T21:16:39-07:00",
+  "timestamp": 1470802599,
+  "message": "stat-and-dependences-package-updates",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd8aab00e4c2ab00938e2d2658989d87b1f871f4",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-28T13:17:06-07:00",
+  "timestamp": 1469737026,
+  "message": "updated-stat-and-added-pygtk-and-dependent-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c46a4c0e4c255f3c7969d6681cd8fd7c239ed98",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-08-03T13:26:02-06:00",
+  "timestamp": 1470252362,
+  "message": "Provide-minor-updates-after-code-review",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7d12aa2dc5deea4330d13ed73a804d1ab83adcc",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-08-02T19:05:48-06:00",
+  "timestamp": 1470186348,
+  "message": "One-more-formatting-change-to-make-flake8-happy",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9433e8477657c54e8377b6131e0b3eeb56386c79",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-08-01T22:54:51-06:00",
+  "timestamp": 1470113691,
+  "message": "Formatting-changes-for-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17f0eb51483b13270219e70b0c7e405f191b9d86",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-08-01T22:10:54-06:00",
+  "timestamp": 1470111054,
+  "message": "Provide-correct-download-urls-and-additional-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c80b152208e8f2154db6c658475fe18a9c9f8bc",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-07-29T08:46:31-06:00",
+  "timestamp": 1469803591,
+  "message": "GTK-3-Provide-updates-to-package-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bdf82246f7569ea655544743eecb0d5ecf059626",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-04T11:38:58-04:00",
+  "timestamp": 1459784338,
+  "message": "darwin-explicitly-use-the-when-kwarg",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66aaaa17512dbb2a72333e62f0166557785d4dbf",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-05-29T15:30:09-05:00",
+  "timestamp": 1464553809,
+  "message": "Add-a-comment-regarding-the-reason-for-the-patch",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c16d7c481c700a55a592daed05424250656adb34",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-05-28T23:30:56-05:00",
+  "timestamp": 1464496256,
+  "message": "Get-glib-to-compile-with-gcc-6.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17f696d3b3ee83bcb185f583a465be3aef6c2d5f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-04-29T09:05:54+02:00",
+  "timestamp": 1461913554,
+  "message": "glib-add-missing-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "047f1b9de9befd06c511b4d72a80a8b4c40a018a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-01-18T03:02:21-08:00",
+  "timestamp": 1453114941,
+  "message": "disable-parallel-install-for-glib-found-races",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16f0ece75bdbcbf5c85af532d928227818766077",
+  "author": "Paul Dapolito <pdapolito@hmc.edu>",
+  "date": "2015-11-01T19:55:14-08:00",
+  "timestamp": 1446436514,
+  "message": "added-zlib-dependency-to-glib-package-specification",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

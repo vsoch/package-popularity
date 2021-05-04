@@ -1,0 +1,24 @@
+[{
+  "commit": "a470064a6af43809a2fae95f1326b23fefd8df22",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-24T14:13:11-06:00",
+  "timestamp": 1614197591,
+  "message": "py-azureml-dataset-runtime-add-new-version-21920",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33ec8cd86a98b15e143ae69c471c2fb1ceaef6bc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-09T07:31:28-05:00",
+  "timestamp": 1596976288,
+  "message": "py-azureml-sdk-add-v1.11.0-and-deps-17939",
+  "repo": "spack/spack"
+}]

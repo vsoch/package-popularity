@@ -1,0 +1,688 @@
+[{
+  "commit": "315124e21991c02256fd8e88be24f15444f0a08e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-31T17:01:16-05:00",
+  "timestamp": 1617228076,
+  "message": "py-matplotlib-add-v3.4.1-22680",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5d106c9cef1b214e544cdfe2df446afd51c4598",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-29T03:39:17-05:00",
+  "timestamp": 1617007157,
+  "message": "py-matplotlib-add-v3.4.0-22574",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "824f6ad3f47755901ce8b237f316eeadb161d70e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-08T02:36:35-06:00",
+  "timestamp": 1612773395,
+  "message": "py-matplotlib-clarify-backend-variant-description-21520",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa152462806ae5ca8095185f4eccc0757ad3cc6c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-28T12:09:17-06:00",
+  "timestamp": 1611857357,
+  "message": "py-matplotlib-add-v3.3.4-21378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05f8e080676f192d1530e952b57e2655d606ee40",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T02:03:08-06:00",
+  "timestamp": 1609228988,
+  "message": "PythonPackage-add-pypi-attribute-to-infer-homepage-url-list_url-17587",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fc2a4cd2ab58362b697fc938041c3ebca0269f2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-12T14:50:44-06:00",
+  "timestamp": 1605214244,
+  "message": "py-matplotlib-set-LIBRARY_PATH-to-locate-link-deps-19855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01df55214943130814908a63bfaa3f8822801920",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-17T14:46:20-05:00",
+  "timestamp": 1600371980,
+  "message": "py-matplotlib-add-v3.2.2-18681",
+  "repo": "spack/spack"
+},
+{
+  "commit": "098beee2953e4a0d8907f88f1fd88d5efd57ee42",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:39:35-05:00",
+  "timestamp": 1599154775,
+  "message": "Pillow-SIMD-use-as-default-PIL-provider-18097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2dad0e582544fb6b2013eebfe0ec3acdfa7346ed",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T01:01:37-05:00",
+  "timestamp": 1597384897,
+  "message": "Matplotlib-added-v3.3.1-18061",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f128e7de54a29ca422e43e0f24145f95638724c5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-28T10:56:59+02:00",
+  "timestamp": 1595926619,
+  "message": "Removed-references-to-BlueGene-Q-in-Spack-builtin-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1a2d66804f1699251bbbcb856b949c197921dd0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-24T09:15:50-05:00",
+  "timestamp": 1595600150,
+  "message": "py-matplotlib-fix-freetype-and-qhull-dependencies-17649",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5aa150a988321e844055125b965f96402b818b3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-16T19:31:44-05:00",
+  "timestamp": 1594945904,
+  "message": "py-matplotlib-add-v3.3.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33e6d0f378aa2bd325a15de275844cc68bc491f6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-18T17:24:14-05:00",
+  "timestamp": 1592519054,
+  "message": "py-matplotlib-add-v3.2.2-17160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad50a0218863d958022186a04e6e3a1402b3e9fb",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-06-04T05:26:13+02:00",
+  "timestamp": 1591241173,
+  "message": "Add-matplotlib-3.1.0-16921",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14e2c42bcef0cf1b233b70eda23a75e269ba8d92",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-18T23:58:39-04:00",
+  "timestamp": 1584590319,
+  "message": "py-matplotlib-add-3.2.1-15560",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9edf812745ae2b3867a16c16b29f0c1a54f10a6e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T21:56:00-06:00",
+  "timestamp": 1583380560,
+  "message": "py-matplotlib-add-3.2.0-15349",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e781d8eb7207e2d3e94ea90f60fb87c7819bc7c0",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-18T00:02:17+01:00",
+  "timestamp": 1581980537,
+  "message": "Add-extra-version-of-py-matplotlib-fix-dependency-on-six-15000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74c8f258269e6ee63fad3a6c376afa9217892325",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-02-03T15:07:12-06:00",
+  "timestamp": 1580764032,
+  "message": "Add-new-versions-of-matplotlib-14731",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad5d612925de6635768f63da748ee74efc8f7b18",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-05T00:00:20-06:00",
+  "timestamp": 1575525620,
+  "message": "Add-py-matplotlib-3.1.2-13994",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3c5abb9cca4486f7ec4583006bcc9766c47c9f1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-23T21:23:45-06:00",
+  "timestamp": 1574565825,
+  "message": "py-matplotlib-backend-dependencies-needed-at-runtime-13867",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a6c7f23a0eedbd63963a98451ac5516327c0a22",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-11-14T14:26:44-08:00",
+  "timestamp": 1573770404,
+  "message": "py-matplotlib-only-needs-backports-when-python-2-13712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30cf665d162f08fb6fbe547f2b8279170a389950",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-11T12:57:31-05:00",
+  "timestamp": 1565546251,
+  "message": "Fix-py-matplotlib-build-with-Intel-compiler-12144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68d78c0dbef22fdc6ee31bc0fb14e1902cfdae90",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-01T18:58:06-04:00",
+  "timestamp": 1564700286,
+  "message": "Fix-py-matplotlib-build-12230-12234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70512b8ba29e0d6d9b428130baf96a2208f63910",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-30T17:15:20-05:00",
+  "timestamp": 1564524920,
+  "message": "Add-py-matplotlib-3.1.1-12164",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b1575fa0af81b7d2f6ecf59dcec969d50b5af1d",
+  "author": "Oliver Breitwieser <oliver.breitwieser@kip.uni-heidelberg.de>",
+  "date": "2019-06-20T00:38:04+02:00",
+  "timestamp": 1560983884,
+  "message": "py-matplotlib-Fix-dependencies-in-2.1.0-3.0.0-11787",
+  "repo": "spack/spack"
+},
+{
+  "commit": "639cb1732296f54190db58ec3fbb0500274e4182",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-16T01:40:56-05:00",
+  "timestamp": 1560667256,
+  "message": "Rename-py-dateutil-py-python-dateutil-11717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "676b3b0364d0ffd7f3e5360b50526145f0fecdae",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2018-10-02T15:35:06-07:00",
+  "timestamp": 1538519706,
+  "message": "added-py-matplotlib-version-3.0.0-9335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3bae8f9363a4942b31970f487dff266c05fffd2",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-09-03T20:34:41-05:00",
+  "timestamp": 1536024881,
+  "message": "py-matplotlib-incorporate-8532-w-version-range-9151",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a48f44bca6fb061e34250a63cce56b77d861f4",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T17:33:59+02:00",
+  "timestamp": 1528385639,
+  "message": "add-commented-test-dependencies-8407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc379ab919340b8f629e39bbec9a779decf53ec7",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-04-12T19:53:30+02:00",
+  "timestamp": 1523555610,
+  "message": "fix-dependencies-for-matplotlib-2.2.2-7735",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1391f0db44c8932ed0a1c416304aa40ad3960848",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-03-23T14:40:18+01:00",
+  "timestamp": 1521812418,
+  "message": "add-matplotlib-version-2.2.2-7572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5f51118b8469b1d37ad6c381394e8c497db3be3",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-11T01:15:12+02:00",
+  "timestamp": 1505085312,
+  "message": "Fix-matplotlib-build-issue-with-intel-compiler-5321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e087f2e25ee82ea7fafe2a144991703c5825911",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-23T08:51:45-05:00",
+  "timestamp": 1498225905,
+  "message": "Remove-test-dependencies-from-Python-packages-4572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb451f967cd821fc19ab7cc984f5481aff40c6f3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-17T19:50:50-05:00",
+  "timestamp": 1495068650,
+  "message": "Add-latest-version-of-matplotlib-4279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "378935916a2d49c9afabc5424028894a1b7e3e76",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-04-26T11:53:27-07:00",
+  "timestamp": 1493232807,
+  "message": "matplotlib-and-basemap-require-setuptools-to-run-properly-together-3835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16a7b27a9eac19384db919e3d2567d3ee8e14ea4",
+  "author": "Matthew Krafczyk <krafczyk.matthew@gmail.com>",
+  "date": "2017-04-21T15:56:21-07:00",
+  "timestamp": 1492815381,
+  "message": "more-fixes-for-use-of-setuptools-in-python-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f0c3d81aac5abd09b50136ec62efbf896ea4687",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-02T19:43:13+01:00",
+  "timestamp": 1488480193,
+  "message": "add-version-2.0.0-for-py-matplotlib-3289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc866ae0fe960abf723d5f89c2ae6c6baaa3ce5e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-25T16:57:01+01:00",
+  "timestamp": 1485359821,
+  "message": "build-systems-simpler-clearer-decorators-run_after-run_before-2860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68f79043aace59237ecce6e26b6e23e40880fc30",
+  "author": "Oliver Breitwieser <oliver.breitwieser@gmail.com>",
+  "date": "2016-11-09T16:34:17+01:00",
+  "timestamp": 1478705657,
+  "message": "Add-1.5.3-for-py-matplotlib-and-moved-to-pypi.io-2271",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b27f4e3aebf6c1ecbefffc22a9a27a4fe9ce0ab3",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-10-12T17:55:38-04:00",
+  "timestamp": 1476309338,
+  "message": "py-matplotlib-Add-variants-for-optional-dependencies.-2008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f147d645272bc96e57c707f39a80b64d1e637fb1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-11T11:01:57-05:00",
+  "timestamp": 1470931317,
+  "message": "Rebase-messed-up-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1363b05e93dc5ba48cdfe73d2f9ad4c2cc68b08a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-09T17:10:30-05:00",
+  "timestamp": 1470780630,
+  "message": "Add-test-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a0824df09dfe5d8ff0b34a35ee93be81fc75380",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-03T12:35:09-05:00",
+  "timestamp": 1470245709,
+  "message": "Update-matplotlibrc-filtering-for-GUI-backends",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b83ea30e7f09a686568ae09ae3b8c1cf7086de8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T13:48:16-05:00",
+  "timestamp": 1470163696,
+  "message": "Re-add-ipython-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f56de639721e24348fc889209036b22836232669",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T12:02:06-05:00",
+  "timestamp": 1470157326,
+  "message": "Fix-cycler-dependencies-update-qhull-version-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b8a3ad8ad0ec5139f2fa83d67cfee98a709eacc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T11:21:23-05:00",
+  "timestamp": 1470154883,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa6a6df640558d93add9cbfd4f94ba6a2c80fc54",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T11:19:44-05:00",
+  "timestamp": 1470154784,
+  "message": "Undo-changes-to-GUI-framework",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e905ce16c90c98acba98fe30a1d568244c70ea1c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T15:13:01-05:00",
+  "timestamp": 1465589581,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11e595089d14423025c5c46eedb568616181e19f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T09:25:53-05:00",
+  "timestamp": 1465568753,
+  "message": "Matplotlib-overhaul",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77965ce5bf601cd60e712430eddb99a843f58a3c",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-10T09:44:25-05:00",
+  "timestamp": 1457621065,
+  "message": "py-matplotlib-require-py-setuptools-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfc0efa8edc3ccdb8e8c4b0504c5fe77e298a9fd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-26T12:32:14-05:00",
+  "timestamp": 1461691934,
+  "message": "Put-f2py-of-py-numpy-in-python-ignore-list.-827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c409d6b9238199370512ff8a8d30c6b2ff67769",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-08T12:03:05-04:00",
+  "timestamp": 1460131385,
+  "message": "py-matplotlib-depend-on-pkg-config",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f3b353f5f95c21641d4bee274393879e3a068c3c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-03-30T11:17:24-05:00",
+  "timestamp": 1459354644,
+  "message": "Add-bin-f2py-to-ignore-so-activation-works",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d40897404ba9b751cf8fe18152e30eec1afc12c1",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-16T17:02:21-05:00",
+  "timestamp": 1447711341,
+  "message": "py-matplotlib-make-the-gui-and-ipython-support-optional",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b0a9c059bc854d94e2160efbe9bd3fa401af0f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:39:01-07:00",
+  "timestamp": 1433173141,
+  "message": "updated-Python-extension-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57f331e2acf75c5bf4c464d0df888fd882295a68",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-17T00:22:18-08:00",
+  "timestamp": 1424161338,
+  "message": "Ignore-conflicting-nose-tests-in-py-nose-and-py-matplotlib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8aa3afcfde9cebd34fdb534141c258c214ae4132",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-15T23:04:20-08:00",
+  "timestamp": 1424070260,
+  "message": "Python-package-cleanup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25af341954fa7c9a88943fe24cad88275ee00795",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-09T02:54:49-08:00",
+  "timestamp": 1423479289,
+  "message": "Python-package-improvements",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48f1ff87f836f214e72e1d02f47eac4678f0292a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-23T13:53:36-08:00",
+  "timestamp": 1422050016,
+  "message": "added-more-Python-modules",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc3f74df263eb92a99e5477f4ce04972eb76994",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-22T11:50:01-08:00",
+  "timestamp": 1421956201,
+  "message": "added-more-Python-modules",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fa489b7f2dab452929729e300f189f8c50b817c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-20T09:39:21-08:00",
+  "timestamp": 1421775561,
+  "message": "added-several-modules",
+  "repo": "spack/spack"
+}]

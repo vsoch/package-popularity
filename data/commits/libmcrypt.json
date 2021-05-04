@@ -1,0 +1,8 @@
+[{
+  "commit": "e0f810956ce5cc244357b9be22191b52e00c60af",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-04-08T22:48:47+08:00",
+  "timestamp": 1617893327,
+  "message": "libmcrypt-new-package-22144",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,272 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58babe81e160eb3e6dbd75c66ec9796dd9486e81",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-11-28T20:10:25-05:00",
+  "timestamp": 1606612225,
+  "message": "Qt-add-options-to-disable-docs-and-gui-20078",
+  "repo": "spack/spack"
+},
+{
+  "commit": "460bd695a33f1812563fea280948e8dc0b6310c5",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2020-10-05T22:26:32-07:00",
+  "timestamp": 1601961992,
+  "message": "VisIt-package-improve-info-message-19159",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d55541919d2a78cd7435d4db870f5e63fbf0dcc3",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-07-15T00:01:05-07:00",
+  "timestamp": 1594796465,
+  "message": "visit-package-update-add-glu-as-a-linux-dep-17537",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8671ac6a1aa4cb40e31b8b1e08f0986ab23df15c",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-05-09T10:28:33-07:00",
+  "timestamp": 1589045313,
+  "message": "update-visit-package-with-3.1.1-release-and-add-comments-16498",
+  "repo": "spack/spack"
+},
+{
+  "commit": "914f380bb69cd38432a9f189a2805bc6deb3559d",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2020-04-24T19:25:48-07:00",
+  "timestamp": 1587781548,
+  "message": "Improved-the-accuracy-of-the-dependencies-for-the-visit-package.-16297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d01a8f7cd69dd26797da3c637829943fa4efd910",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-11-09T13:47:04-05:00",
+  "timestamp": 1573325224,
+  "message": "Fix-visit-13652",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b400d503216cbc6b56f5f7231a9ed288d43fb96",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-15T11:13:45-04:00",
+  "timestamp": 1565882025,
+  "message": "Update-VisIt-to-version-3.0.1-and-fix-on-mac-12396",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13e5c3fbe23e3f57503064bf2c3d7c0a3713101a",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-27T03:01:39+01:00",
+  "timestamp": 1540605699,
+  "message": "VisIt-build-vtk-without-mpi-support-9649",
+  "repo": "spack/spack"
+},
+{
+  "commit": "534b71bdf10ce5331a08ed70a00e86a21b56df19",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-25T22:53:29+01:00",
+  "timestamp": 1540504409,
+  "message": "Package-VisIt-updated-visit-package-9433",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "227b58bb67c19b342c4f26ce4903ebc429708735",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-21T07:16:23-08:00",
+  "timestamp": 1516547783,
+  "message": "Visit-2.13.0-6947",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b80252451782ed2606ee340f1de233a84d634685",
+  "author": "John Roberts <roberts.johneric@gmail.com>",
+  "date": "2017-06-13T18:17:51-05:00",
+  "timestamp": 1497395871,
+  "message": "visit-Added-VisIt-version-2.12.2-4495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e8058ad41930017c1a95cdb1620145144cf00ff",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-01-16T04:21:52-07:00",
+  "timestamp": 1484565712,
+  "message": "Specify-Python-location-in-VisIt-in-a-more-uniform-fashion.-2803",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c82985cb5e280981a1064855f1577c9a22ac5700",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-28T17:59:21-07:00",
+  "timestamp": 1477702761,
+  "message": "Update-and-Clean-Up-the-Visit-and-VTK-Packages-2167",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bddb15ef4c42d249990c5e26a45d898e9b3982d0",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:15:58-04:00",
+  "timestamp": 1474362958,
+  "message": "Make-VisIt-build-again-1762",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45e77e7739e3e96b776eb0691daa5cfaaa9e26ce",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-05-04T22:49:47-04:00",
+  "timestamp": 1462416587,
+  "message": "Correctly-extend-std_cmake_args",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1785de0f3152a7d853425f07c236faf60eb91e0e",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-05-04T22:08:01-04:00",
+  "timestamp": 1462414081,
+  "message": "remove-hdf5-which-is-silo-actually-a-silo-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32f7b06a36e99e2fbfc56147b3c4803fa2946838",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-05-04T18:14:38-04:00",
+  "timestamp": 1462400078,
+  "message": "Add-version-2.10.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "071548a62f8dd13d09915c1ed985063e6e372d74",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-04-05T23:16:57-04:00",
+  "timestamp": 1459912617,
+  "message": "Building-VisIt-with-silo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e05830eb1078778eddcd702a9a50fd3d2b775d5",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-03-31T14:55:35-04:00",
+  "timestamp": 1459450535,
+  "message": "Constrain-to-vtk6.1-qt4.8.6-and-opengl1-rendering-backend",
+  "repo": "spack/spack"
+},
+{
+  "commit": "872f049b30cef3395900f57cd98575b8cacfbb36",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-03-29T22:27:16-04:00",
+  "timestamp": 1459304836,
+  "message": "create-visit-package",
+  "repo": "spack/spack"
+}]

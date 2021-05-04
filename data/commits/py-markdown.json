@@ -1,0 +1,160 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b66c2965627b1b79cb26da2c97cdf3547a990947",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-07-01T19:52:41-05:00",
+  "timestamp": 1562028761,
+  "message": "py-markdown-package-update-dependency-version-range-11908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1efaaad344cd6caffaad9d892be3bb3c8aba1110",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2019-05-26T20:45:01-05:00",
+  "timestamp": 1558921501,
+  "message": "py-markdown-new-version-11548",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49aed4584be35ecb6dc724d06f8d9216f7552bab",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-09-14T17:51:20-05:00",
+  "timestamp": 1536965480,
+  "message": "py-markdown-fix-url-and-hashes-9235",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b92908ab4012888cdd1a802cc8db6a547a87a12",
+  "author": "Paul Hopkins <paul.hopkins@ligo.org>",
+  "date": "2017-04-03T10:23:10+01:00",
+  "timestamp": 1491211390,
+  "message": "Fix-setuptools-handling-in-Python-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0de7b5504e52ccd47c6e20908f2c0968d80571d4",
+  "author": "Chris MacMackin <cmacmackin@gmail.com>",
+  "date": "2016-12-18T20:23:31-04:00",
+  "timestamp": 1482107011,
+  "message": "py-markdown-Add-new-package-for-python-markdown.-2611",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5e5e4ed1aef6ade3ddef34c4ad7a57988fd8d74",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-05T12:00:31-05:00",
+  "timestamp": 1475686831,
+  "message": "Add-missing-dependencies-for-Flake8-1883",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29635b7bbd9fd506e38f1987bd845587f6158ac3",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-18T14:04:39-07:00",
+  "timestamp": 1463605479,
+  "message": "initial-docs-for-find-and-flake8-cleanup",
+  "repo": "spack/spack"
+}]

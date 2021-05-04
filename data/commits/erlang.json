@@ -1,0 +1,48 @@
+[{
+  "commit": "83c46748e6b781f47d3942d32142e2669df12d26",
+  "author": "Hang Yan <iyanhang@gmail.com>",
+  "date": "2021-05-03T03:56:27+08:00",
+  "timestamp": 1619985387,
+  "message": "erlang-add-new-packages-23362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e12dc33032d01e0a949e226c8195d34ec58cd0f",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-07-30T10:30:04+09:00",
+  "timestamp": 1596072604,
+  "message": "elang-add-depends_on-ncurses-type-link-17761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92e24950e5cbe28a3b241b13e2dc5363c7b994d7",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-06-04T22:49:46-07:00",
+  "timestamp": 1591336186,
+  "message": "add-erlang-version-23.0-16961",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bb76cf5e83c800d191ff3fc0f16b3d3a1c7fdad",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-01-18T03:03:08+08:00",
+  "timestamp": 1579287788,
+  "message": "add-new-package-erlang-14548",
+  "repo": "spack/spack"
+}]

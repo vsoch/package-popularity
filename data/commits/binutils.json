@@ -1,0 +1,504 @@
+[{
+  "commit": "94f894b1b27219403f98cc6869e3e3deb7de296e",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-28T13:51:26+02:00",
+  "timestamp": 1619610686,
+  "message": "binutils-default-to-plugins-23309",
+  "repo": "spack/spack"
+},
+{
+  "commit": "173954e568303c2675b60778b5944abce65dabea",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-20T09:27:12+02:00",
+  "timestamp": 1618903632,
+  "message": "binutils-drop-overly-strict-conflicts-for-assembler-linker-23122",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f47464df41e5c48ce5287923397b87ff6e67d0b",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-19T11:55:39+02:00",
+  "timestamp": 1618826139,
+  "message": "binutils-add-option-for-assembler-constrain-as-and-ld-variants-23065",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7d392c49a4a8c8a1a599d41b07759990707f98c",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-13T16:31:44+02:00",
+  "timestamp": 1618324304,
+  "message": "Fix-issue-where-binutils-builds-ld-with-ld-22959",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14c1d58b5a908725d4c3f186ebf2195fd1dd2e48",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-03-01T10:53:55-06:00",
+  "timestamp": 1614617635,
+  "message": "binutils-add-versions-2.35.2-and-2.36.1-22019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "472c365b58ed13caee77650841bca741f7ee7db4",
+  "author": "fodinabor <5982050+fodinabor@users.noreply.github.com>",
+  "date": "2020-11-13T19:55:58+01:00",
+  "timestamp": 1605293758,
+  "message": "binutils-Fix-checksum-for-2.35.1-19901",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e9d584e1a360b0276ad613fe62124ab6d18609",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-11-12T19:05:24-06:00",
+  "timestamp": 1605229524,
+  "message": "binutils-add-version-2.35.1-19827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9befc43708534ddaa80820468a57012bd1a62ca5",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-08-28T11:31:43-07:00",
+  "timestamp": 1598639503,
+  "message": "binutils-add-build-dep-diffutils-provides-cmp-18361",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7d156af055a601e73276de4650963543087e3ec",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-08-26T09:54:33-07:00",
+  "timestamp": 1598460873,
+  "message": "binutils-add-version-2.35-18291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "154504da7177616abc7d23f2b54eac035e286a4a",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-15T13:13:04+02:00",
+  "timestamp": 1589541184,
+  "message": "binutils-fix-build-with-gcc-10-16661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cbc26cfa6a3d23148e2ce62d6c80accf7fa3ca6",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-29T23:05:11-05:00",
+  "timestamp": 1585541111,
+  "message": "Add-additional-configuration-options-for-binutils-15753",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e01817cb1571f0cbf0b8810adb7e4cd84f208176",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-12T01:34:24+01:00",
+  "timestamp": 1583973264,
+  "message": "binutils-Add-missing-texinfo-dependency-15444",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da677b3cb801cca408f73b46d188d2be0689a09b",
+  "author": "Mathias Anselmann <mathias.anselmann@posteo.de>",
+  "date": "2020-03-10T10:15:31+01:00",
+  "timestamp": 1583831731,
+  "message": "update-binutils-to-2.34-15401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e3a1653a5772f6b4d119b0778e662ea3177026",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-20T13:00:48-05:00",
+  "timestamp": 1582221648,
+  "message": "Mark-binutils-related-conflicts-15075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5053dfa2599a90a8b5bf69c9391fa3b8e38a7bbb",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-01-22T17:24:21-06:00",
+  "timestamp": 1579735461,
+  "message": "binutils-libiberty-add-version-2.33.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7849dbb52902028cfbb3e07cdf441bf66e1edcd4",
+  "author": "viniciusvgp <viniciusvgp@gmail.com>",
+  "date": "2019-09-09T13:05:04-03:00",
+  "timestamp": 1568045104,
+  "message": "binutils-fix-undefined-symbol-libintl_dgettext-12770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e203068125232a6328e1fce21d0d325c58e38858",
+  "author": "angel-devicente <angelv@iac.es>",
+  "date": "2019-08-09T05:56:41+01:00",
+  "timestamp": 1565326601,
+  "message": "Added-checksum-for-binutils-2.32-12350",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36919ba8592e752724c19900132fde38760d2506",
+  "author": "Brian Homerding <homerdin@gmail.com>",
+  "date": "2019-07-15T23:42:02-05:00",
+  "timestamp": 1563252122,
+  "message": "binutils-Adding-Clang-to-narrowing-conversion-error-workaround-12029",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68ad4caf30b0c213c1f00d23a1b3ea375d265644",
+  "author": "Hironori-Yamaji <52182908+Hironori-Yamaji@users.noreply.github.com>",
+  "date": "2019-07-16T00:50:26+09:00",
+  "timestamp": 1563205826,
+  "message": "binutils-added-Wno-narrowing-to-CXXFLAGS-when-using-fj-compiler-via-flag_handler-11922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d12ff6e16bf0414143c984d0ba936884dee9229",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2019-01-23T22:40:58-06:00",
+  "timestamp": 1548304858,
+  "message": "Update-ecp-st-tau-pdt-8192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7c9c2e7bf99cefa6c1add9eada886487d412f8",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-10-18T13:42:32-07:00",
+  "timestamp": 1539895352,
+  "message": "binutils-add-older-version-2.25.1-9579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e860307c31567df9e270673a89a4e4974e4bc11f",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-08-29T22:32:41-05:00",
+  "timestamp": 1535599961,
+  "message": "binutils-add-variant-nls-for-native-language-support-9124",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e8e672972a1d010009f2bdc9ed20bee942be88d3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-16T16:10:08-07:00",
+  "timestamp": 1534461008,
+  "message": "binutils-2.31.1-new-version-9007",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "784234ae8e246680ba77c946c1c348460cd2f145",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-28T06:36:24-08:00",
+  "timestamp": 1517150184,
+  "message": "libtool-binutils-fix-darwin-linking-7073",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dd7baa61db49df86190f5773e1153e4f458125b",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-11T17:06:53+01:00",
+  "timestamp": 1515686813,
+  "message": "Updated-misc-devel-tools.-6897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5b76d24cf44a9b60d53cd807ebbc93034674623",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-08-08T00:03:51+02:00",
+  "timestamp": 1502143431,
+  "message": "Update-openspeedshop-and-cbtf-krell-to-use-latest-binutils-version-fix-4992-4997",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c0c0f3457fff8bb26cf34e101789b45c4d8bec8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-19T23:29:27-05:00",
+  "timestamp": 1492662567,
+  "message": "binutils-should-link-to-Spack-zlib-installation-3914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d31bbe450b365d440b9dd21f60d45cb444f5ad27",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-20T18:07:37-05:00",
+  "timestamp": 1490051257,
+  "message": "Add-latest-version-of-binutils-3500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48640cf2fa9e195f273a04a4e2277aebfaed07f9",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-11T13:38:51-05:00",
+  "timestamp": 1489257531,
+  "message": "binutils-Add-gettext-dependency-3423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5712b524cc1c0c137248023e56204edfb91847d5",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-18T23:02:01+01:00",
+  "timestamp": 1487455321,
+  "message": "Add-binutils-variant-plugins-3083",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfad4a0abc87e65ff9a6fa58aef2a34d7cc7eec8",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:12:40-04:00",
+  "timestamp": 1474362760,
+  "message": "Update-binutils-to-2.27-1598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a1df7e0b22409d0cf9265fbc7952adb442212e2",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-09-14T10:56:08-04:00",
+  "timestamp": 1473864968,
+  "message": "Resolved-issues-of-py-pillow-py-scipy-and-binutils-dependencies.-Resolves-1506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40d25d90629f41114c2e0b86bb659f0f4dec7bb5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T00:56:53-07:00",
+  "timestamp": 1466063813,
+  "message": "Add-libxcb-dependencies.-Fix-up-packages-to-get-py-basemap-and-stat-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ff7cbb9cef11181df46c626c298299321ba43c9",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-12T21:57:03-05:00",
+  "timestamp": 1465786623,
+  "message": "Run-binutils-package.py-through-autopep8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1601cf1b148bf326f84ebaeb142f2951c99fb788",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-12T21:46:11-05:00",
+  "timestamp": 1465785971,
+  "message": "Patch-binutils",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db80c5e97e7fc95b08e4a38cb88ec598c2939e2c",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-05-05T21:11:54-04:00",
+  "timestamp": 1462497114,
+  "message": "Disable-Werror",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01fab24c156e82f2886b464a2474fe3474d5312a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-04-13T14:02:25+02:00",
+  "timestamp": 1460548945,
+  "message": "binutils-depends-on-flex-bison-and-m4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c2996667433e4f69eb25cce2d74a94caeb1646c",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-03-16T12:57:17+01:00",
+  "timestamp": 1458129437,
+  "message": "Change-urls-in-binutils-to-help-spack-checksum-versions-adding-latest-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa9b14aff47864c04f99bd4c83fb10dc6a9c49ad",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-11-06T11:55:20-08:00",
+  "timestamp": 1446839720,
+  "message": "Match-up-with-the-new-binutils-package-file.-It-does-what-OSS-needs-w.r.t.-libiberty",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e6b7795f1cd1e73591c3fba5602220d20d453e6",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-11-06T11:53:53-08:00",
+  "timestamp": 1446839633,
+  "message": "Match-up-with-the-new-binutils-package-file.-It-does-what-OSS-needs-w.r.t.-libiberty",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6a2ab08acd8f4cbedca20ac182329d1090af056",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-11-06T11:47:00-08:00",
+  "timestamp": 1446839220,
+  "message": "Match-up-with-the-new-binutils-package-file.-It-does-what-OSS-needs-w.r.t.-libiberty",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c082abfb6574c1bd2610990aeb799ff6d7c853a0",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2015-10-21T18:32:57-07:00",
+  "timestamp": 1445477577,
+  "message": "Modified-the-binutils-package-to-use-enable-shared.-Required-by-tools-that",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44ba16a391d75f97bab9ebf0a8f1b609b18aba1d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-10-17T17:03:49-07:00",
+  "timestamp": 1445126629,
+  "message": "Add-libiberty-option-to-binutils",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1f127d8eff872cab49db922056df1d21c0514c7",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-07-21T10:15:17-05:00",
+  "timestamp": 1437491717,
+  "message": "Add-changes-for-krell-related-products-to-binutils.-Add-a-patch-that-installs-libiberty_pic.a-which-krell-products-will-favor-use",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89731d4a7df137f4406f2b19c9822ea59510a6e7",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2015-03-30T14:23:02-07:00",
+  "timestamp": 1427750582,
+  "message": "Add-binutils-as-a-gcc-dependency-so-it-doesn-t-use-the-system-linker-assembler",
+  "repo": "spack/spack"
+}]

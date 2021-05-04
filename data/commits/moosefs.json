@@ -1,0 +1,24 @@
+[{
+  "commit": "dc275e1f834d0e29c41236024a20d1a98cb3405f",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-05T18:36:32+09:00",
+  "timestamp": 1614936992,
+  "message": "moosefs-add-with-systemdsystemunitdir-option-22099",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e92f6c70a6ae2f1cc187b19c40dc56ccaf92f6a1",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-01-01T01:45:45+08:00",
+  "timestamp": 1577814345,
+  "message": "add-new-package-moosefs-14305",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,32 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0e4950555bd745d4398bf0241b344fd0fb8a243",
+  "author": "estewart08 <ethan.stewart@amd.com>",
+  "date": "2021-04-22T14:11:39-05:00",
+  "timestamp": 1619118699,
+  "message": "AMD-rocm-openmp-extras-4.1-updates.-22998",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7faa0a9e436ae044343aeee4944c85381890a865",
+  "author": "estewart08 <ethan.stewart@amd.com>",
+  "date": "2021-01-05T22:48:54-06:00",
+  "timestamp": 1609908534,
+  "message": "Rocm-openmp-extras-4.0-version-updates-20692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c55b3bf2d94016a462dedc80303bcba65a40489c",
+  "author": "estewart08 <ethan.stewart@amd.com>",
+  "date": "2021-01-05T13:39:38-06:00",
+  "timestamp": 1609875578,
+  "message": "AMD-ROCm-3.10-Release-Add-new-package-recipe-for-rocm-openmp-extras.-20204",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,520 @@
+[{
+  "commit": "087110bcb013566f6ba392d4c271e891f4b3a2b1",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-04-29T16:43:01+02:00",
+  "timestamp": 1619707381,
+  "message": "Package-mesa-compilation-dependency-on-binutils-plugins-23335",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b510464f04f429492ddbf077f48e89e108adfc3c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-04-28T09:22:00-07:00",
+  "timestamp": 1619626920,
+  "message": "mesa-fix-build-with-upstream-patch-23302",
+  "repo": "spack/spack"
+},
+{
+  "commit": "904867703e06134d8b9767a10b6f5806a188adf9",
+  "author": "kurtsansom <56605142+kurtsansom@users.noreply.github.com>",
+  "date": "2021-03-31T12:25:18-05:00",
+  "timestamp": 1617211518,
+  "message": "fix-modify-for-change-in-meson-options-22678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f053d30518751bac7285ab5d1fe41e1acf68b7f",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-26T23:52:08+01:00",
+  "timestamp": 1616799128,
+  "message": "mesa-new-version-22538",
+  "repo": "spack/spack"
+},
+{
+  "commit": "138417174b69e525b2f34b54d16a8314bcb6414a",
+  "author": "kurtsansom <56605142+kurtsansom@users.noreply.github.com>",
+  "date": "2021-03-24T16:10:12-05:00",
+  "timestamp": 1616620212,
+  "message": "mesa-add-gcc-10.1.0-conflict-22514",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc00944900feadde23ed0fa99420e4b2d9b9ccd9",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-11T05:46:52+01:00",
+  "timestamp": 1613018812,
+  "message": "meson-remove-cmake-dependency-21607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbdc8b65b13418ab38fc68427d3485a9a84b3a71",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-27T09:19:03-05:00",
+  "timestamp": 1611757143,
+  "message": "mesa-add-dependency-on-zlib-21325",
+  "repo": "spack/spack"
+},
+{
+  "commit": "564aebdb1a7ae3294801c9eceed08202fd665fe7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-06T01:56:22-06:00",
+  "timestamp": 1609919782,
+  "message": "Xorg-proto-type-build-link-20685",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18110346c809e43e4a5438b6ff64778cb1683abc",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-01-05T13:04:57-07:00",
+  "timestamp": 1609877097,
+  "message": "Mesa-use-auto-when-llvm-is-built-shared-20683",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0a32e57e51a591e48ff5c02229ee5e108d780ad1",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-12-24T23:53:01-05:00",
+  "timestamp": 1608871981,
+  "message": "mesa-Add-missing-expat-dependency-20459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97aa455f146c84a30551e6f7a36552caf3b66d07",
+  "author": "Ben Bergen <bergen@lanl.gov>",
+  "date": "2020-12-22T10:39:56-07:00",
+  "timestamp": 1608658796,
+  "message": "Patch-meson.build-llvm-config-strategy-20451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8755d577c98d42e1fd983e040733f93591c4ee44",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-12-18T10:58:51-05:00",
+  "timestamp": 1608307131,
+  "message": "mesa-drop-use-of-shared-variant-20453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d79db2de781896e11efbdb7064639f581060c83",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-11-30T17:54:24-05:00",
+  "timestamp": 1606776864,
+  "message": "Fix-Mesa-GLES-conflicts-20184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ada781cc8f90ebaf96fae6bf88f12a55c7c58531",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-11-29T08:37:45-05:00",
+  "timestamp": 1606657065,
+  "message": "mesa-Require-at-least-one-front-end-and-back-end-to-be-selected-20144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaa1afe9ec624fc86259ef817c059a5247770575",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-30T11:16:17-04:00",
+  "timestamp": 1604070977,
+  "message": "mesa-Retire-older-autotools-mesa-as-mesa18-and-create-current-meson-mesa-19528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9241cad299fab2e582c2d57374afcac57ddae5e7",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-20T11:59:50-04:00",
+  "timestamp": 1603209590,
+  "message": "mesa-Restrict-llvm-to-11-19393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd5793b75dfde70aec72322501a6eb0206f0a8c",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2020-07-30T21:04:24-06:00",
+  "timestamp": 1596164664,
+  "message": "backport-Mesa-MR-6053-to-prevent-multiply-defined-symbols-17720",
+  "repo": "spack/spack"
+},
+{
+  "commit": "547c71ad78c9f854525339cf0c8ee951c3860ba4",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-07-23T17:41:48-04:00",
+  "timestamp": 1595540508,
+  "message": "Revert-Add-libglvnd-packages-Add-EGL-support-14572-17682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "573489db710c6fd315170a45d6c609db2e30e5e4",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2020-07-13T11:32:36-04:00",
+  "timestamp": 1594654356,
+  "message": "Add-libglvnd-packages-Add-EGL-support-14572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f3cc19ec7dca204f3c3b75fb838142b567f27e0",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-26T17:07:13-07:00",
+  "timestamp": 1587946033,
+  "message": "qt-fix-macOS-w-AppleClang-mesa-libs-16302",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07a4ac67b83a3323b46b45a5bfcda68ee0908c7e",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-04-16T13:25:28-05:00",
+  "timestamp": 1587061528,
+  "message": "Add-ncurses-termlib-dependency-to-mesa-16038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f7255da71c3bac2ee55d9b172136c6752fe2f4f",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-03-28T03:30:05-07:00",
+  "timestamp": 1585391405,
+  "message": "mesa-re-introduce-the-libs-property-15716",
+  "repo": "spack/spack"
+},
+{
+  "commit": "876305adf0e8b7d90a2cfcb67ac44edd46085719",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2020-01-16T11:21:34-07:00",
+  "timestamp": 1579198894,
+  "message": "mesa-check-aarch64-system-type-as-well-14493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6cae978b8018f87d1129cbb7a33f0f27d9c497b",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-09-25T18:41:02-05:00",
+  "timestamp": 1569454862,
+  "message": "llvm-mesa-update-target-comparison-semantics-12914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a38285be91fdf2050d96b8cfafecd79a3fe82d9",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2019-09-07T21:33:30-06:00",
+  "timestamp": 1567913610,
+  "message": "mesa-disable-use-of-libunwind-for-arm-arch-12735",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4f0726927c74fbbc2b3a51e37f6e5311b20166d",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-03T10:55:36-04:00",
+  "timestamp": 1559573736,
+  "message": "mesa-Revert-updated-meson-build-and-restore-autotools-build-11595",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a34142ed30045003bcde4f09b0b36257d0f0b413",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-20T22:41:41-04:00",
+  "timestamp": 1558406501,
+  "message": "mesa-Patch-missing-gl-symbols-in-OSMesa-11518",
+  "repo": "spack/spack"
+},
+{
+  "commit": "418d9f07dcda2e0c141be0bca4595447fa09c280",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-10T14:25:26-04:00",
+  "timestamp": 1557512726,
+  "message": "mesa-Add-19.0.4-11415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9febea40f53d0ff04615f6f28f620600f5d010e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-05-09T13:56:37+02:00",
+  "timestamp": 1557402997,
+  "message": "mesa-Add-missing-dependencies-11394",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0dc4dc94d27e824ac4fd9d6c7fe7f929587f08c",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-08T18:40:26-04:00",
+  "timestamp": 1557355226,
+  "message": "mesa-Add-19.0.-1-2-3-11401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96a95bb5bf92568da498f19e24a9bcd4e775769c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-05-06T11:37:13-07:00",
+  "timestamp": 1557167833,
+  "message": "Mesa-should-depend_on-glproto-11360",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f848205e431c929a54ecf221768591906a0ef67",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-01T18:57:33-04:00",
+  "timestamp": 1556751453,
+  "message": "mesa-re-written-to-new-meson-build-system-10482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1db12e15347567ad23fc6bd6d27b0a415e08691",
+  "author": "Ruben Di Battista <rubendibattista@users.noreply.github.com>",
+  "date": "2018-10-18T19:18:05+02:00",
+  "timestamp": 1539883085,
+  "message": "vtk-add-support-for-Xdmf-IO.-9510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7699419fc12a087e145c41e00ffdd53b64420771",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2018-10-10T10:07:51-07:00",
+  "timestamp": 1539191271,
+  "message": "new-xdot.py-package-and-necessary-updates-to-GUI-libs-9179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "872e3c76f66b417123a0cbf76d3d2f4a69c804a8",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-04T03:48:42+01:00",
+  "timestamp": 1538621322,
+  "message": "Package-mesa-added-dependency-on-zlib-9424",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79e7359f4de2d16b3d35ca89288d3d5f6256e000",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-07T03:18:05-05:00",
+  "timestamp": 1533629885,
+  "message": "Add-libs-attribute-to-mesa-and-mesa-glu-packages-8904",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3f208e4cbf443976e6557cb2e1adfba2e15c814",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2018-06-27T21:57:55+02:00",
+  "timestamp": 1530129475,
+  "message": "New-version-mesa-18.1.2-8589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "011d4071326c677736980b055bef0e9af761d4db",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2018-03-21T13:53:26-05:00",
+  "timestamp": 1521658406,
+  "message": "Xorg-server-Add-dependencies-and-fix-installation.-7220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2c344152739999c48420c7382cda9855fba7a71",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2018-01-22T11:46:44-07:00",
+  "timestamp": 1516646804,
+  "message": "Update-gl-qt-options-for-vtk-package-6551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc74da5aab95e35a8e9828d0df0595c456634c0e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-01-03T02:58:38+01:00",
+  "timestamp": 1514944718,
+  "message": "mesa-disable-binutils-on-macOS-6763",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c79a0fbbf22f47cca1f3fbec75ed18634ec2eee5",
+  "author": "Simone Bnà <simone.bna@cineca.it>",
+  "date": "2017-11-09T18:16:52+01:00",
+  "timestamp": 1510247812,
+  "message": "mesa-fixed-url-for-version-5818",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f269c391987c2fc7129c92acc0c1c4fede347d1",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-09-19T04:10:54+10:00",
+  "timestamp": 1505758254,
+  "message": "mesa-merge-multiple-branches-into-one-5170",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ea2c7904a75290ce577588ed4539c8c532818f7",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-07-20T20:12:05+01:00",
+  "timestamp": 1500577925,
+  "message": "add-mesa-swrender-variants-gallium-software-off-screen-rendering-4602",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dc8bbcb3a5f710f0ae24b9e4682a5719224a81f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T11:42:20-05:00",
+  "timestamp": 1476204140,
+  "message": "Package-all-of-Xorg-X11-XCB-1740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d017c5080a49bc6c2dee231234f8535198350b16",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-08-07T00:03:14-07:00",
+  "timestamp": 1438930994,
+  "message": "Fixed-py-pandas-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e878075aceace1439e85b1d75770a7a6f248566",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-08T16:09:13-08:00",
+  "timestamp": 1423440553,
+  "message": "mesa-8.0.5-working",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc684a3ebeaa939b9ae87474991e210aab7c3185",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-08T13:34:45-08:00",
+  "timestamp": 1423431285,
+  "message": "older-mesa-for-2.6-kernel-not-workin-yet",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1605e04d444583284a19462206755ecacb219d3b",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-07T22:08:50-08:00",
+  "timestamp": 1423375730,
+  "message": "mesa-and-systemd-systemd-not-working-yet",
+  "repo": "spack/spack"
+}]

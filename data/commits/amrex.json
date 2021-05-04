@@ -1,0 +1,440 @@
+[{
+  "commit": "cb5325930667edfcf426412debadb57490ffc75a",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-04-13T11:18:19-07:00",
+  "timestamp": 1618337899,
+  "message": "amrex-allow-builds-with-clang-and-apple-clang-22967",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ae7e2550175fb6decfc9bc9d4af5c47b881413e",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-04-01T14:11:14-07:00",
+  "timestamp": 1617311474,
+  "message": "amrex-new-version-21.04-22730",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b75b0297068339614fbecaef6fe94a40e970d5c0",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-03-16T16:54:40-07:00",
+  "timestamp": 1615938880,
+  "message": "amrex-add-gcc-8-conflicts-22339",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7595d6703e89b2655874522eedf0a8502d85266",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-03-01T14:46:37-08:00",
+  "timestamp": 1614638797,
+  "message": "amrex-new-version-21.03-22028",
+  "repo": "spack/spack"
+},
+{
+  "commit": "651df702132ce5bd07d35330554068c7c3f270b1",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-03-01T11:45:04-08:00",
+  "timestamp": 1614627904,
+  "message": "amrex-must-use-AMReX_CUDA_ARCH-for-version-20.11-22025",
+  "repo": "spack/spack"
+},
+{
+  "commit": "590457cf7fa82ac09d13e1fd7ae91d39a80cffc9",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-26T13:53:31-08:00",
+  "timestamp": 1614376411,
+  "message": "amrex-use-right-cmake_args-for-develop-depends_on-hypre-for-link-21892",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fd8612f211995323a7ebf82693734975a890a70",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-02-26T13:52:57-08:00",
+  "timestamp": 1614376377,
+  "message": "amrex-hypre-and-petsc-do-not-need-fortran-from-version-20.08-21994",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04a8e5987293ee714c215067a0f9c40cb81c12b2",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-22T10:54:00-08:00",
+  "timestamp": 1614020040,
+  "message": "amrex-add-pic-variant-21849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2294ea0b0e5659239c08dd26b5bb9db152727e8",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-02-02T14:49:51-08:00",
+  "timestamp": 1612306191,
+  "message": "amrex-new-version-21.02-21426",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ed4eb7a9a8681d028d52ea33eac09ab155a53f9",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-01-21T16:16:55-08:00",
+  "timestamp": 1611274615,
+  "message": "amrex-fix-missing-hdf5-dependency-20714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c5602dc4e22ad4aff13a2f82d278496f01f76db",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-01-19T13:17:37-05:00",
+  "timestamp": 1611080257,
+  "message": "amrex-remove-build_type-variant-20938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7762b8acddf62806607adb1c246f7ca5536450b5",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-01-15T01:14:55-08:00",
+  "timestamp": 1610702095,
+  "message": "amrex-add-ROCm-support-20809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6dd85b2b0d80316b9cbcebe7d0e88fc7c0459c3",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-01-13T18:53:57-08:00",
+  "timestamp": 1610592837,
+  "message": "amrex-fix-handling-of-CUDA-arch-20786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d4cbcd93fc2c878800b36ba6da905bac3f8f955",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-01-08T09:44:59-08:00",
+  "timestamp": 1610127899,
+  "message": "amrex-expand-CUDA-support-20740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad29f2148e7836d1cdb5de1515b977030161162a",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2021-01-04T18:41:06-08:00",
+  "timestamp": 1609814466,
+  "message": "amrex-new-version-21.01-20659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d3e4918456fcc737d7541c0561d221510429cea",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-12-04T04:16:35-05:00",
+  "timestamp": 1607073395,
+  "message": "amrex-constrain-cmake-if-using-cuda-11-20237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5deeff89f3d36071218a068e088133915fd81655",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-12-02T10:05:55-08:00",
+  "timestamp": 1606932355,
+  "message": "amrex-added-v20.12-20200",
+  "repo": "spack/spack"
+},
+{
+  "commit": "765b4c5d2fa32cc9824b03d47a4f563fbdc699c2",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-11-07T12:10:08-08:00",
+  "timestamp": 1604779808,
+  "message": "amrex-new-options-names-for-version-20.11-19769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "001f90f411c0f13beb978c27b9ff2546a31777e0",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-11-03T10:33:45-08:00",
+  "timestamp": 1604428425,
+  "message": "amrex-new-version-20.11-19691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4c1cb380beb088393e47ba9caa27a2e5953b4db",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-10-14T22:24:20-04:00",
+  "timestamp": 1602728660,
+  "message": "amrex-Add-CUDA-variant-19306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21c3acf34d3a5889653420b3470aa9cb98fa9491",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-10-01T12:44:36-07:00",
+  "timestamp": 1601581476,
+  "message": "amrex-added-v20.10-19107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5e50b73eff08eda12ca517d1f8adf723050100f",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-09-04T14:13:20-07:00",
+  "timestamp": 1599254000,
+  "message": "amrex-new-version-20.09-18486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c4b6bad43fd45fffb2eb5ead0ce2dcf975b9fe9",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-08-03T21:08:42-07:00",
+  "timestamp": 1596514122,
+  "message": "amrex-new-version-20.08-17856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "509b3c30161512f519978efbf0fbde7aacf2d1ba",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-07-01T23:28:57-07:00",
+  "timestamp": 1593671337,
+  "message": "amrex-added-v20.07-17337",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe74c2218447fc5943fdd8c2f97f5691da3750d1",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-06-01T13:53:49-07:00",
+  "timestamp": 1591044829,
+  "message": "amrex-add-version-20.06-16895",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7552c0c729048d3e02fe582600c3edbe1a4471a",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2020-05-01T18:47:18-07:00",
+  "timestamp": 1588384038,
+  "message": "amrex-New-version-20.05-16427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c69bc9d168c52ab83c6c8cfa39095fa7c27fd5d",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-04-30T15:13:45-05:00",
+  "timestamp": 1588277625,
+  "message": "amrex-repo-went-through-history-rewrite-so-use-updates-sha256sums-16379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8552efe54f55c4db14ec5923ff7b0d3025edfb15",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-04-01T14:41:23-04:00",
+  "timestamp": 1585766483,
+  "message": "amrex-New-version-20.04-15808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "059203b2fdbaec8f7dbf918699c0de170fc48147",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-03-02T17:09:51-05:00",
+  "timestamp": 1583186991,
+  "message": "amrex-New-version-20.03-15294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a5c64ab6ef728ee625cf4d99c30129da370a99f",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-02-21T13:52:19-05:00",
+  "timestamp": 1582311139,
+  "message": "amrex-New-version-20.02-15132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7b27d386239847a18ea744dc42172f56b6a3378",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-01-27T04:07:46-05:00",
+  "timestamp": 1580116066,
+  "message": "amrex-Update-to-version-20.01-14635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "135cf4835f5b646c4aaa0e2eb5552c80fc3a5ce8",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-12-19T04:47:21+09:00",
+  "timestamp": 1576698441,
+  "message": "amrex-Define-module-directry-when-compiling-with-Fujitsu-compiler.-14124",
+  "repo": "spack/spack"
+},
+{
+  "commit": "846daa0404b887a218529834daee326c209e150c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-13T19:57:11-05:00",
+  "timestamp": 1571014631,
+  "message": "amrex-add-version-19.10-13206",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0db3d6ca37eefa4a992080e5c893cae3ade748a5",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-05T17:34:01-05:00",
+  "timestamp": 1565044441,
+  "message": "Balay-amrex-19.08-12287",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d0358733d09935fb4b1c16db24db3c25064e83c",
+  "author": "Cody Balos <cjbalos@gmail.com>",
+  "date": "2019-04-11T08:43:11-07:00",
+  "timestamp": 1554997391,
+  "message": "amrex-add-sundials-variant-11147",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7e984bcf8b57e0ab75fb9b4211f62f44ee4de2f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-24T22:15:49-05:00",
+  "timestamp": 1553483749,
+  "message": "amrex-current-develop-and-future-releases-require-cmake-3.13-or-higher-10953",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62d821d8431f5430484a95927cd5c0a882f808ff",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-17T09:12:49-05:00",
+  "timestamp": 1539785569,
+  "message": "amrex-add-version-18.10.1-9550",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91fbc59f226c9ddf1bc245848e4aadf6ac5c5587",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-11T12:47:21-05:00",
+  "timestamp": 1539280041,
+  "message": "amrex-add-in-new-version-for-xsdk-18.09.1-18.10-9501",
+  "repo": "spack/spack"
+},
+{
+  "commit": "783435c1def87cd2a8012c9ac93aaabb08af9a0e",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-08-14T00:17:17-05:00",
+  "timestamp": 1534223837,
+  "message": "xsdk-add-slepc-and-amrex-and-handle-clang-conflict-wrt-amrex-8932",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61aa1831e3d93a51abf38591d795e5507195c6c5",
+  "author": "mic84 <mrosso@lbl.gov>",
+  "date": "2018-07-26T11:29:03-07:00",
+  "timestamp": 1532629743,
+  "message": "AMReX-update-package.py-8697",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f22bb61acc750ccf11a17979eb98851aed285ce",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-06-21T15:37:10-06:00",
+  "timestamp": 1529617030,
+  "message": "Correcting-position-independent-code-setting-for-boxlib-and-amrex.-8537",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e851d159749ad9eeb7a2acd1b573baa298058897",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-09-28T18:12:02-07:00",
+  "timestamp": 1506647522,
+  "message": "fixing-tag-name-for-development-branch-5496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39cb589510e95fa44ca634b2cdac9a56a34b1809",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-08-11T06:39:48-07:00",
+  "timestamp": 1502458788,
+  "message": "More-variants-for-MFEM-4533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e6e8715e6c3176718660653713ab410250e3c6",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-06-15T03:27:52-07:00",
+  "timestamp": 1497522472,
+  "message": "Adding-initial-AMReX-package-4467",
+  "repo": "spack/spack"
+}]

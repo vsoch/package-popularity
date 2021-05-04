@@ -1,0 +1,264 @@
+[{
+  "commit": "16ee9dc110eb33cc72bedab93f3a953d039db4a5",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2021-01-17T23:28:51-05:00",
+  "timestamp": 1610944131,
+  "message": "sz-version-2.1.11.1-21008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2318d80d2296713ce60f8e7f3ca836487f997cb",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-10-30T15:41:21-04:00",
+  "timestamp": 1604086881,
+  "message": "sz-version-bump-2.1.11-19613",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f83bd360c6541f88102354dd958faeb8fadf1347",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-10-06T21:12:53-04:00",
+  "timestamp": 1602033173,
+  "message": "sz-fix-fetch-url-for-SZ-for-older-releases-19215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87ac0ae3e353160ab49c09df022fc6e0e53e6a24",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-10-06T01:30:16-04:00",
+  "timestamp": 1601962216,
+  "message": "SZ-package-add-switch-for-builtin-profiling-support-19127",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eabfea2e49f6db473401b29ca80966f41a7e7c23",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2020-10-06T00:11:32-05:00",
+  "timestamp": 1601961092,
+  "message": "SZ-package-update-URL-add-2.1.10-19161",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f2f02366a7b759e0718747177e4a8667c330cee",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-08-24T20:05:08-04:00",
+  "timestamp": 1598313908,
+  "message": "sz-version-bump-cmake-bug-fix-add-maintainer-18238",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44ec8cc4e44b9d10be99c28ccb03aea88d8274e7",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-06-04T09:16:11-07:00",
+  "timestamp": 1591287371,
+  "message": "sz-patch-in-ctag-optionality-from-robertu94-sz-3637a87f986c-16953",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8eef2f8124b4c168ad8aa51683ebaf84c7cf85e",
+  "author": "Kai Germaschewski <kai.germaschewski@unh.edu>",
+  "date": "2020-04-17T04:59:42-04:00",
+  "timestamp": 1587113982,
+  "message": "sz-run-make-clean-after-configure-15759",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffb9591dc9b58b55c1f0e3a0e00d6232b0b9f3e0",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2020-02-27T12:25:06-06:00",
+  "timestamp": 1582827906,
+  "message": "release-sz-2.1.8.3-15250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79dcf835b22cfe34b519706781e564d280663c28",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-02-24T08:55:39-05:00",
+  "timestamp": 1582552539,
+  "message": "sz-update-to-version-2.1.8.1-15154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "246799d4ce816e24d59d58e5977d28bd76b15479",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-12-07T03:05:16+09:00",
+  "timestamp": 1575655516,
+  "message": "sz-Change-optimization-flags-for-Fujitsu-compiler-14007",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba87a7f53a4bc57446295833cb0f71e978ccb9fc",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2019-12-03T22:35:46-06:00",
+  "timestamp": 1575434146,
+  "message": "Release-a-new-version-v2.1.8.0-for-SZ-13974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec3ffd9d286991362601176e0be8406039ea2c44",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-02T18:43:59+02:00",
+  "timestamp": 1533228239,
+  "message": "sz-fix-checksum-for-2.0.2.0-8868",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf2c232756a0c44cf5d21a9a4bf6222296fc5f2f",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2018-07-26T17:46:48-05:00",
+  "timestamp": 1532645208,
+  "message": "sz-new-version-2.0.2.0-8786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e161f1034ca44a601bb0759a0291d5bcab48798",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2018-06-06T16:44:47-06:00",
+  "timestamp": 1528325087,
+  "message": "remove-pwrType-from-the-interface-SZ_compress_args-8414",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0b3b258c0f237d369d6882f1d0362cc3f7c534b",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2018-06-06T07:02:03-06:00",
+  "timestamp": 1528290123,
+  "message": "add-1.4.13.4-for-SZ-8375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f73c2759d7ae0884d3b69fa5f3f309321272e9b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-04-18T17:52:13+02:00",
+  "timestamp": 1524066733,
+  "message": "ADIOS-1.13.1-SZ-1.4.12.3-7808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3be81a0b10ffb8dc3af8a0db264a247b8e1312e4",
+  "author": "Sheng Di <disheng222@gmail.com>",
+  "date": "2017-09-27T18:30:43-05:00",
+  "timestamp": 1506555043,
+  "message": "SZ-add-version-1.4.11-5517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5e44504b048c991201d21c673bcaebb00317e88",
+  "author": "Kshitij Mehta <kshitij-v-mehta@users.noreply.github.com>",
+  "date": "2017-08-07T15:34:33-04:00",
+  "timestamp": 1502134473,
+  "message": "Sz-5003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2784f366490493edc67969a9a45775b9704524b",
+  "author": "Bryce Allen <oss@bda.ath.cx>",
+  "date": "2017-02-28T12:57:16-06:00",
+  "timestamp": 1488308236,
+  "message": "add-sz-package-3251",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bdd1069a9ee8ed5ddc5fee5006782543c04002b3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-11-13T13:29:28-07:00",
+  "timestamp": 1479068968,
+  "message": "Add-SC16-tutorial-to-the-Spack-docs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "216d269f1d85b9e3aba43009ceda11035ee57430",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2016-11-12T07:45:50-08:00",
+  "timestamp": 1478965550,
+  "message": "Add-packaging-tutorial-to-docs-2315",
+  "repo": "spack/spack"
+}]

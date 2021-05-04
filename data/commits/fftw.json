@@ -1,0 +1,400 @@
+[{
+  "commit": "92291120cb9855014cdce2a439732bf487a21731",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-04-15T19:30:40+05:30",
+  "timestamp": 1618495240,
+  "message": "Amdfftw-and-fftw-add-variants-and-conflicts-22940",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c86e919cdbdefc302c765e4a7747b2203626e36",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-07T20:23:07+02:00",
+  "timestamp": 1617819787,
+  "message": "FFTW-update-pfftw-patch-for-FFTW-3.3.9-22801",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4dd6ba44f25b468681d0ca9c63a5a6e806b72aa0",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2021-01-04T22:01:42+00:00",
+  "timestamp": 1609797702,
+  "message": "fftw-bump-to-3.3.9-20634",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c214e4dd2d2215d2a668481e8f7c3a1e1fbe0fae",
+  "author": "QuellynSnead <quellyn@lanl.gov>",
+  "date": "2020-12-24T21:33:57-07:00",
+  "timestamp": 1608870837,
+  "message": "fftw-PGI-compiler-has-trouble-with-avx2-avx-512-SIMD-support-20546",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51a9473bf867af3e5f8f024d124c71b5b03384a0",
+  "author": "vijay kallesh <Vijay-teekinavar.Kallesh@amd.com>",
+  "date": "2020-10-31T22:27:17+05:30",
+  "timestamp": 1604163437,
+  "message": "NEW-Added-amdfftw-amdlibflame-and-amdscalapack-recipes-19457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab6e74f6ac648774831809481912122daf98b297",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-08-09T20:47:26+02:00",
+  "timestamp": 1596998846,
+  "message": "FFTW-configure-script-failed-with-Intel-compilers-on-some-systems.-17936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4383825be628e3493da316937995df4fef9ab00",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-10-18T10:36:40-06:00",
+  "timestamp": 1571416600,
+  "message": "fftw-altivec-only-works-for-float-13242",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cd800306d6ce408d35fae4453c66a4d8dfe1f30",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-10-04T05:32:42+02:00",
+  "timestamp": 1570159962,
+  "message": "fftw-simplify-the-recipe-and-make-use-of-specific-targets-12889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34647913be0fcb7d1e204011c6a27321e565346a",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-09-06T03:42:04+09:00",
+  "timestamp": 1567708924,
+  "message": "fftw-change-default-value-of-simd-variant-for-other-than-x86_64-11627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c42528fac2ae3620729b75c196662f97d665f88e",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2019-01-30T22:18:10-05:00",
+  "timestamp": 1548904690,
+  "message": "fftw-fix-include-error-for-2.x-versions-10039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "236b34f3df38d0f44ada307ece354f92a96a6a91",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2018-11-09T10:16:11-06:00",
+  "timestamp": 1541780171,
+  "message": "Introduce-fftw-api-virtual-package-for-Intel-MKL-and-FFTW-9618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab60e2258fb2932dda492a2b23c6241aefa0d021",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-07-17T10:11:19-06:00",
+  "timestamp": 1531843879,
+  "message": "fftw-version-bump-8723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98949bd79b18d1cd33e67314a893e46a2beb4958",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-02-28T20:15:26+01:00",
+  "timestamp": 1519845326,
+  "message": "change-recurse-into-recursive-in-a-few-places-7342",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ea9a4063a441e7a07043aabb24fadcf036359a9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-02-14T03:26:15+01:00",
+  "timestamp": 1518575175,
+  "message": "fftw-package-improved-libs-implementation-7212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d97b540a8c268735f4ac730bcd96c7a366b6ee4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-02-13T11:06:58+01:00",
+  "timestamp": 1518516418,
+  "message": "FFTW-expose-optimization-handles-via-variants-SIMD-FMA-7038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c1fa37e3d3e0819c780ebb56414be5693b45272",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2017-12-14T21:38:33+01:00",
+  "timestamp": 1513283913,
+  "message": "fftw-added-version-3.3.7-6678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "038efc623df52dc4e9fc581fcddf81bb8d7b2f9a",
+  "author": "EmreAtes <ates@bu.edu>",
+  "date": "2017-08-10T18:12:08-07:00",
+  "timestamp": 1502413928,
+  "message": "New-package-qbox-4711",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fe9cb5d1c145cb219c5c7acd39bf0a3142e922b",
+  "author": "serbanmaerean <serban@us.ibm.com>",
+  "date": "2017-06-20T17:47:24-04:00",
+  "timestamp": 1497995244,
+  "message": "FFTW-remove-search-for-IBM-XL-threaded-compiler-when-compiler-is-not-gcc-4187",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95a0e6a5fd66a6b0b54acc226aa5e07bbfca19ed",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-25T15:45:25-05:00",
+  "timestamp": 1493153125,
+  "message": "Add-list_url-for-fftw-3985",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46d0ca9d01c6d6e2a67dacf528b7cc306d5bb815",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T12:15:39-05:00",
+  "timestamp": 1492794939,
+  "message": "Ensure-that-tests-are-optional-3922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a623a146def813c50a4a0721ead80d89e54828b4",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-03-27T20:55:16+08:00",
+  "timestamp": 1490619316,
+  "message": "fftw-Add-3.3.6-pl2-remove-3.3.6-pl1.-3566",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55300d1181cb07f62f9dc7c6cf40bef38e9dffa7",
+  "author": "Michael Kuron <mkuron@users.noreply.github.com>",
+  "date": "2017-03-25T20:27:52+01:00",
+  "timestamp": 1490470072,
+  "message": "pnfft-new-package-2646",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22f3c9de8454b7ba149f6612539136219f8645a7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-20T15:35:08-04:00",
+  "timestamp": 1490038508,
+  "message": "fftw-Update-to-3.3.6-pl1-3495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5aefaa6ffec851f6b6ed704257a4889efd47837a",
+  "author": "Carlos Bederián <zzzoom@gmail.com>",
+  "date": "2017-02-04T04:26:27+02:00",
+  "timestamp": 1486175187,
+  "message": "Add-FFTW-2.1.5-2987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "617786707f8bbc3a45d5f06a47ba764d9b498e4a",
+  "author": "Carlos Bederián <bc@famaf.unc.edu.ar>",
+  "date": "2017-01-30T18:17:36-03:00",
+  "timestamp": 1485811056,
+  "message": "FFTW-Add-SSE2-support-to-x86_64-target",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f2c05b888a410366b9fc8e7d0e92895bcd1cff9",
+  "author": "Michael Kuron <mkuron@users.noreply.github.com>",
+  "date": "2016-11-05T20:19:19+01:00",
+  "timestamp": 1478373559,
+  "message": "Add-PFFT-parallel-FFT-package-2255",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5970b7a00ab3c831ab3cae2307d4b15b486fac9a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:34:20-05:00",
+  "timestamp": 1472052860,
+  "message": "Only-run-tests-if-explicitly-requested",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5903e461204ae284aca133ca810e12b47f53089",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-19T17:06:34-05:00",
+  "timestamp": 1471644394,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0f2c6c48673a9c65a1b0990e88b379d7f9678d2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-19T17:05:14-05:00",
+  "timestamp": 1471644314,
+  "message": "Add-latest-version-of-fftw",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67d64b804f5b08bc9e4493efd25ab549333e550e",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-05-04T23:53:10+02:00",
+  "timestamp": 1462398790,
+  "message": "more-succinctly",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eb463a66e600e7a4d9692610763bfffbe9ac64a",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-05-04T15:05:56+02:00",
+  "timestamp": 1462367156,
+  "message": "only-fail-when-it-is-apples-clang",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83108f815ce09fa95e99e0ef747cf3cee50328b2",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-04-21T09:59:37-05:00",
+  "timestamp": 1461250777,
+  "message": "Error-out-if-openmp-used-with-OS-X-clang",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8c14e1d98fd7d0d3df0bf8693b93081bf4b70fc",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-04-20T09:41:19-05:00",
+  "timestamp": 1461163279,
+  "message": "Make-openmp-variant-false-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a588a1fd84869a593903747372a7a2484b80fd52",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-04-19T13:51:46-05:00",
+  "timestamp": 1461091906,
+  "message": "openmp-needs-to-be-an-option-for-clang-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30c304748213bee3669c75d4384bad146f68dbd7",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-19T12:39:38+01:00",
+  "timestamp": 1455881978,
+  "message": "gromacs-added-package",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,216 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a7a6d472b241c2ecf5e888b844b84b26547537b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-30T07:55:44-06:00",
+  "timestamp": 1606744544,
+  "message": "CMake-should-be-a-build-dependency-20160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0dd7f140b086d43d340f55d362b3e220b35e987a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-09-21T15:09:53-06:00",
+  "timestamp": 1600722593,
+  "message": "nut-fix-install-18848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6083de3baae9bf422ec6aacd6995a796969f1f8f",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-05-14T16:36:31-06:00",
+  "timestamp": 1557873391,
+  "message": "nut-add-v0.1.1-11444",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5445e170899062391c2a92bd731ce6cf555c543a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-05-08T11:34:48-06:00",
+  "timestamp": 1557336888,
+  "message": "nut-fix-nut-build-11393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81f1bd7732551e7a0a6de6f508ec4190425046b3",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-04-02T16:38:03-06:00",
+  "timestamp": 1554244683,
+  "message": "nut-fix-install-11092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17b7f05975b063e0e47f07ee6b1165873b5a8e2f",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-02-21T10:10:14-07:00",
+  "timestamp": 1519233014,
+  "message": "nut-needs-cmake-3.0-7298",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17debcb9b228c319ec9b522d98c7248800f8b082",
+  "author": "Brian Homerding <homerdin@gmail.com>",
+  "date": "2017-11-16T17:30:42-06:00",
+  "timestamp": 1510875042,
+  "message": "NuT-Add-Installation-of-lib-and-demo-app-6341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78c11320d61c752198418f2be4fc18f0a9ef3c89",
+  "author": "jiseung <anna.jiseung@gmail.com>",
+  "date": "2017-07-18T16:37:47-05:00",
+  "timestamp": 1500413867,
+  "message": "new-package-to-be-added-NuT-4760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5f37845d611b3c88fd74a892d5543c629f391ad",
+  "author": "homerdin <homerdin@gmail.com>",
+  "date": "2017-07-14T15:54:31-05:00",
+  "timestamp": 1500065671,
+  "message": "New-Package-Pathfinder-4714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "245eee7a563931e839946cc2282c6b2af21fd1e1",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2017-07-02T06:31:17-07:00",
+  "timestamp": 1499002277,
+  "message": "sabre-4619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c8e65f3d800faea59a9a64994e92f9ae152beba",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-06-22T11:12:37-05:00",
+  "timestamp": 1498147957,
+  "message": "New-package-albert-4568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e12d7aaddab5453bcefabb90cb01aef130d48d15",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-27T15:01:34-04:00",
+  "timestamp": 1469646094,
+  "message": "Add-package-for-seqtk",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9149b6cb63416af2f952c71db8750450f30cbc1",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:59:01-06:00",
+  "timestamp": 1414295941,
+  "message": "Fixing-errors-in-depends_on-and-updating-version-for-ImageMagick",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

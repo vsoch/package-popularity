@@ -1,0 +1,240 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddb6e99a28b8a1f3e17cbeaa4c029057e2a76d6c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T16:45:16-07:00",
+  "timestamp": 1587080716,
+  "message": "libpng-github-download",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "518a7c5bb95b6f2919ff775616f9c3ba97c4a81e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-13T19:51:04-05:00",
+  "timestamp": 1571014264,
+  "message": "Add-libpng-1.6.37-13153",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20a914374e5ee346d9824d95a32546915bb7f1e2",
+  "author": "rice31 <42845593+rice31@users.noreply.github.com>",
+  "date": "2018-08-31T10:26:13-07:00",
+  "timestamp": 1535736373,
+  "message": "libpng-package-add-version-9142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "967194ce267722fedfb83fbb52c42ac41b39cd4b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-03-19T10:40:56-05:00",
+  "timestamp": 1521474056,
+  "message": "Add-latest-version-of-libpng-7516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ad3b1a74749a3358175dbd41b1da7dfa9cb142e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-04T23:29:35+01:00",
+  "timestamp": 1512426575,
+  "message": "libpng-CPPFLAGS-for-I-6563",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ba7359d55a895d678aa63ec6a202b5eeb952410",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-10-09T21:46:10+02:00",
+  "timestamp": 1507578370,
+  "message": "libpng-zlib-flags-more-elegant-5656",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba06eb72d090b8df4f4f1c7c368a87bc52777b47",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-10-03T22:58:28+02:00",
+  "timestamp": 1507064308,
+  "message": "libpng-zlib-path-5581",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d970ef5404bfdbb0fdd15eb00a96652708b32332",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-28T10:53:14-05:00",
+  "timestamp": 1493394794,
+  "message": "Add-a-list_url-for-libpng-4038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af4893f854fccdbc8554bda411c209512cf418bf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-25T16:12:40-05:00",
+  "timestamp": 1493154760,
+  "message": "Add-latest-version-of-libpng-3987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03471469e7f4059ab3a9be9637b64f6b852e6303",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T11:32:10-05:00",
+  "timestamp": 1483547530,
+  "message": "libpng-Upgrade-versions-to-fix-vulnerability.-2723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f713829126f5d5e354402ee38aff97c145e89ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-12T16:20:36-06:00",
+  "timestamp": 1481581236,
+  "message": "Add-missing-bzip2-dependency-to-freetype-2536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0586b388df87f98194052ab9bfb9283ed569e962",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-08T11:02:10-05:00",
+  "timestamp": 1473350530,
+  "message": "Add-latest-version-of-libpng-ncview-depends-on-libpng-1502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cf9ebc62c18414ddafb44bdda2b2487f72a4ec5",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2016-04-13T15:00:45-07:00",
+  "timestamp": 1460584845,
+  "message": "Fix-compile-issues-with-new-libpng-versions-and-qt3-builds-by-using-an-older-version-of-libpng.-In-libpng-make-older-versions-available",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a364ab0d0f5ac226ba9d5a519f2da8ab7a09a846",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-30T17:12:32-06:00",
+  "timestamp": 1459379552,
+  "message": "libpng-depends-on-zlib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "457f2d1d51b2bf008f837bf3ce8ee3cb47d5ba6b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-06T08:37:22-08:00",
+  "timestamp": 1423240642,
+  "message": "Fix-libpng-to-use-a-better-URL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0211adbdb6010b403495644aab619ba8a9bed31e",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-19T14:06:25-08:00",
+  "timestamp": 1421705185,
+  "message": "version-bump-libpng",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

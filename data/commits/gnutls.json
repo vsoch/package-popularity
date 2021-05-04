@@ -1,0 +1,248 @@
+[{
+  "commit": "81e39787592ddb0980a06fc5c9abd07ad73c799d",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-10T04:53:35-05:00",
+  "timestamp": 1615370015,
+  "message": "gnutls-add-v3.6.15-22192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba317b01c3a7391a860c15b9b500455ff5f861ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-02T15:19:22-05:00",
+  "timestamp": 1599077962,
+  "message": "Packages-headers-should-be-lists-18445",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad437bff8f55c1aa2678b5701763b1cc3b843e61",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-08-25T17:00:49-07:00",
+  "timestamp": 1598400049,
+  "message": "GnuTLS-Add-gnutls-specific-headers-property.-7259",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44503777940d81a2ba9d16fdff97e00dab28d0e7",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-07-13T14:27:28-06:00",
+  "timestamp": 1594672048,
+  "message": "gnutls-add-version-3.6.14-17507",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f20c97168db7b8050d73847c4984047eb6d14d4c",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-25T13:08:28-04:00",
+  "timestamp": 1561482508,
+  "message": "gnutls-workaround-guile-build-error-on-macos-11751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfcf3996d811e60362b55005ab0f983c7e9a1c60",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-06-05T10:14:06-07:00",
+  "timestamp": 1559754846,
+  "message": "set-GUILE-env-var-when-building-gnutls-fixes-issue-11601-11607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c9a39538e035cdcc2cb4c942115d21302a40a75",
+  "author": "mathsen <mathias.anselmann@posteo.de>",
+  "date": "2019-05-28T22:23:59+02:00",
+  "timestamp": 1559075039,
+  "message": "GnuTLS-by-default-depends-on-Guile-added-a-guile-variant.-Updated-GnuTLS-to-3.6.8-11571",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47538a21ec9868e8b6a45bde3d816c65ae66f465",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-05-27T09:45:16+08:00",
+  "timestamp": 1558921516,
+  "message": "Add-a-new-version-for-gnutls.-11546",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eae9b0908af0e6bc8582f660a20d02b88a808d94",
+  "author": "Leonhard Reichenbach <Zehvogel@users.noreply.github.com>",
+  "date": "2019-05-15T19:07:31+02:00",
+  "timestamp": 1557940051,
+  "message": "CMake-package-add-dependencies-11257",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b89272ae08b1606144149a17686e29739d286a4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-19T15:13:18-05:00",
+  "timestamp": 1497903198,
+  "message": "Various-updates-to-wget-and-dependencies-4116",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da6faa086a4511643652821c708858d235e6b72e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-30T02:16:56-05:00",
+  "timestamp": 1490858216,
+  "message": "Fix-url-fetching-for-GnuTLS-3631",
+  "repo": "spack/spack"
+},
+{
+  "commit": "754be1b275d3109893008832b2fe5d08f0cb76cd",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-29T10:55:02+02:00",
+  "timestamp": 1490777702,
+  "message": "Add-version-3.5.9-to-package-gnutls-3616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f19cb4193d392b19190853fe560eab37ea4295c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-03-27T08:29:56-07:00",
+  "timestamp": 1490628596,
+  "message": "Bugfix-gnutls-3565",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8edf299dd21cce9f6f297a81a5fb375b3417bf2a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-01T15:00:24-07:00",
+  "timestamp": 1414879224,
+  "message": "gnutls-nettle-wget-dbus",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,152 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa563f0f55bb0c41616502edd3bdbc6fbf16895c",
+  "author": "rvinaybharadwaj <vinayr@lanl.gov>",
+  "date": "2019-06-24T19:41:01-06:00",
+  "timestamp": 1561426861,
+  "message": "Bumping-up-miniVite-to-version-1.1-11828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0ed39f51a99bb31e33e31c21ee601021455448e",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-26T18:48:34-07:00",
+  "timestamp": 1538012914,
+  "message": "miniVite-new-package-9348",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41b35a783e27650428261467f1d53675df2d8f72",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-26T18:47:51-07:00",
+  "timestamp": 1538012871,
+  "message": "fix-build-errors-make-mpi-variant-default-and-add-openmp-variant-9364",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41de79a1b6da68797318e70b9072a528951ebbe1",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-09-18T14:07:37-06:00",
+  "timestamp": 1537301257,
+  "message": "xsbench-added-v18-9269",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e1a96f2629732efc5f5382ef6b4d4459110d615",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-20T00:52:17-06:00",
+  "timestamp": 1508482337,
+  "message": "xsbench-add-v14-5835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfc13dec9f7e757e194350767b8027a0412959e0",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-11T13:39:30-06:00",
+  "timestamp": 1507750770,
+  "message": "Add-a-bundle-package-for-the-ECP-proxy-applications-suite-5689",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b0d2888bbfffefcda7eb1ffa6e46af9bd652858",
+  "author": "pkondamudi <pkondamudi@users.noreply.github.com>",
+  "date": "2017-07-19T17:04:17-05:00",
+  "timestamp": 1500501857,
+  "message": "Package-xsbench-4822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfd56da358f4863af37c3406853169f2a9368833",
+  "author": "pkondamudi <pkondamudi@users.noreply.github.com>",
+  "date": "2017-07-13T22:21:30-05:00",
+  "timestamp": 1500002490,
+  "message": "New-Package-XSBench-4751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "811ea4f465438c285478665fa967c0a12b8c7691",
+  "author": "Andrey Prokopenko <andrey.prok@gmail.com>",
+  "date": "2017-06-23T09:52:57-04:00",
+  "timestamp": 1498225977,
+  "message": "ninja-fortran-a-Fortran-capable-fork-of-ninja-build-tool-4539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbb25bfeed7113cbd6be090df52b97fcc10588e1",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-30T16:17:52-04:00",
+  "timestamp": 1459369072,
+  "message": "ninja-fix-installation-on-OS-X",
+  "repo": "spack/spack"
+}]

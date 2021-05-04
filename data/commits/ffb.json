@@ -1,0 +1,56 @@
+[{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b587bdda397db8207d271e659a2f861d3643529",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-11-30T17:04:14+09:00",
+  "timestamp": 1606723454,
+  "message": "ffb-Fixed-a-recipe-error-when-using-the-Intel-compiler.-20133",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17fa1edf326c91a9231a2b9fafaa1aa4ecd32534",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-06-30T11:26:26+09:00",
+  "timestamp": 1593483986,
+  "message": "Some-files-could-not-be-created-due-to-errors-which-have-been-fixed.-17250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd8971feecbb03ff076e20c47372866533612ea0",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-06-17T12:36:08+09:00",
+  "timestamp": 1592364968,
+  "message": "Modified-for-Fujitsu-compiler.-17124",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01d9063bb1f411b9d57b528119e0b080b3a6e6b2",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-06-16T12:29:35+09:00",
+  "timestamp": 1592278175,
+  "message": "ffb-prevent-the-architecture-to-be-always-x86_64-17093",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c1f1af571bce8b1bc0a89172714cac00e69d66b",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-06-13T04:31:04+09:00",
+  "timestamp": 1591990264,
+  "message": "New-package-FrontFlow-Blue-16901",
+  "repo": "spack/spack"
+}]

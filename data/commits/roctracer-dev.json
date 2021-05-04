@@ -1,0 +1,64 @@
+[{
+  "commit": "c188575cfef6b244d3eaf1eca2a955bb790491f8",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2021-04-07T00:26:01-07:00",
+  "timestamp": 1617780361,
+  "message": "roctracer-dev-add-v4.1.0-22812",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9e6a4d18bee74b80fbaf3b25f219cbde37baf50",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-04T21:46:26+05:30",
+  "timestamp": 1609776986,
+  "message": "Bumpup-version-for-rocm-4.0.0-release-20640",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff4c45289eb239814ed8ff63f1cfb91d037a4a7e",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T00:03:40+05:30",
+  "timestamp": 1606934020,
+  "message": "bump-up-version-for-rocm-3.10.0-release-20214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a680df8453cd07daad40f832b47d756b1e8a7f1b",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-11-18T20:47:10-08:00",
+  "timestamp": 1605761230,
+  "message": "AMD-ROCm-3.9.0-release-Bump-up-version-for-aomp-roctracer-dev-19957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09d0623be924ad72eb63342b733c14431208c323",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-10-07T06:55:29-07:00",
+  "timestamp": 1602078929,
+  "message": "AMD-ROCm-3.8.0-roctracer-dev-19086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d87cbdb524c0fad2100f8fa15b0c76dce432750",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-09-03T02:50:05+02:00",
+  "timestamp": 1599094205,
+  "message": "Add-rocm-3.7.0-libs-18366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad060c7870675ccb82c537fd983fd6bc28f7f4e8",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-12T17:36:35-07:00",
+  "timestamp": 1597278995,
+  "message": "Spack-recipes-for-ROCm-software-components-Phase1-17422",
+  "repo": "spack/spack"
+}]

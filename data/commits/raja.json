@@ -1,0 +1,288 @@
+[{
+  "commit": "a618594c28aed14bbed9fc22a31e72221f1cc85c",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2021-04-30T15:57:44-07:00",
+  "timestamp": 1619823464,
+  "message": "BLT-version-lockdown-23356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571e36787b96ac1d24824218024954c83dea8c8f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c42ce439e44f5a8261fdd9d5e4374a0dc26fa71e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dcc67dad1585f75f49a9a99faf6c7c146afee2b0",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2020-12-16T13:45:57-08:00",
+  "timestamp": 1608155157,
+  "message": "Add-RAJA-v0.13.0-20431",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22e037e304015243bf5f33197fa3780902430ad",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-12-02T17:07:56-08:00",
+  "timestamp": 1606957676,
+  "message": "Add-CARE-package-fixes-for-ROCmPackage-and-subclasses-20070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0baf429889ca22eaf8e7028ecb0061918c03dbd",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b9155239b83cd22074f8db057e9ad28f37f008e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "305d8d9b1bb28ec326427f2de6f11e7c2e55828d",
+  "author": "Ben Corbett <32752943+corbett5@users.noreply.github.com>",
+  "date": "2020-10-29T11:52:10-07:00",
+  "timestamp": 1603997530,
+  "message": "Adds-a-package-for-LvArray-19221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44bacefb27675aaed22d77c768fb18a627e678eb",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2020-10-28T16:54:23-07:00",
+  "timestamp": 1603929263,
+  "message": "RAJA-package-Don-t-set-both-CUDA_ARCH-and-CMAKE_CUDA_FLAGS-19589",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30d24db116456a9fd041b644a8d5a2a31d9bd8dc",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2020-09-22T06:40:16-07:00",
+  "timestamp": 1600782016,
+  "message": "Added-RAJA-v0.12.1-and-Umpire-v4.0.1-18756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3978db91dc4385b492b8dcbc1f2b87326f217b1b",
+  "author": "Adrien Bernede <51493078+adrienbernede@users.noreply.github.com>",
+  "date": "2020-08-07T15:42:07-07:00",
+  "timestamp": 1596840127,
+  "message": "Feature-raja-chai-umpire-update-17665",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e13137f6eabc66b0c3d60acfbe3e5e834742849",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2020-07-13T14:57:25-07:00",
+  "timestamp": 1594677445,
+  "message": "add-share-libs-variant-to-raja-17496",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb028aaf12df15127339fa752108fc860a5c3dbf",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2020-06-15T20:35:23-07:00",
+  "timestamp": 1592278523,
+  "message": "Update-master-to-main-for-RAJA-and-Umpire-17107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cb4ae747d6dba8817f67ae98d78c39883cb2cff",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2020-05-05T08:52:32-07:00",
+  "timestamp": 1588693952,
+  "message": "Add-Axom-spack-package-15432",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69a0fbd2cbb0774f832b8a37a07542ef57991dbf",
+  "author": "Matt Larsen <mclarsen@users.noreply.github.com>",
+  "date": "2020-05-01T01:07:12-07:00",
+  "timestamp": 1588320432,
+  "message": "raja-add-awareness-of-the-cuda-architecture-16377",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abfdabd34ef9fabfbb9968740c90f458f6e35243",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-02-21T10:41:39-08:00",
+  "timestamp": 1582310499,
+  "message": "Updating-raja-versions.-15148",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b767b83a9d742483a9ef788c835aea4357e79c4",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-27T05:00:40-07:00",
+  "timestamp": 1566907240,
+  "message": "raja-openmp-explicitly-disable-OpenMP-in-CMake-12572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ccc695bfb7157fc3f25e157d6c26ef8794dbdb5",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2019-05-16T04:54:52-07:00",
+  "timestamp": 1558007692,
+  "message": "Fix-CMake-versions-dependencies-in-RAJA-package-11440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f3620f7ac469843aba12617b86273f276e04f16",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2019-04-03T11:09:45-07:00",
+  "timestamp": 1554314985,
+  "message": "raja-add-newer-versions-11102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a403a1ca6842d7123e3a3e7cf6d070d6d6747836",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2018-02-12T13:34:54-05:00",
+  "timestamp": 1518460494,
+  "message": "RAJA-package-add-versions-and-CUDA-openmp-support-7201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5e68879db99ff37cbc11bb02443e50e560778d0",
+  "author": "Bill Williams <wwilliam47@gmail.com>",
+  "date": "2017-10-31T16:08:32-05:00",
+  "timestamp": 1509484112,
+  "message": "Fix-spack-build-for-RAJA-master-requires-submodules-6052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "243d516bf029287158903e88985442d8581d0adf",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2016-08-23T08:18:26-07:00",
+  "timestamp": 1471965506,
+  "message": "Ensure-RAJA-builds-out-of-source",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "179d308fe06c30b184f37ae91c5bcf1fc77bb536",
+  "author": "David Poliakoff <poliakoff1@llnl.gov>",
+  "date": "2016-05-02T14:32:57-07:00",
+  "timestamp": 1462224777,
+  "message": "Added-a-package-for-the-RAJA-system",
+  "repo": "spack/spack"
+}]

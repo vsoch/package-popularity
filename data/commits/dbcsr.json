@@ -1,0 +1,80 @@
+[{
+  "commit": "39a429b2a317f4b0efd04d45fd5000b4c2f94a2e",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-04T14:44:59+01:00",
+  "timestamp": 1612446299,
+  "message": "dbcsr-add-opencl-as-a-third-backend-21468",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f1c264148cf4b25d3895d00a7513af74d74528e",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-13T15:54:23+01:00",
+  "timestamp": 1610549663,
+  "message": "dbcsr-added-rocm-support-20835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d7babe95513d46f212c446258875c844ecb481f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-01-12T18:01:32+01:00",
+  "timestamp": 1610470892,
+  "message": "dbcsr-cp2k-fix-cuda-arch-conflicts-in-asp-concretizer-20784",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c5fc6acea7149a0ff263a435d1a9eab49cace2a",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2020-04-16T16:47:31+02:00",
+  "timestamp": 1587048451,
+  "message": "dbcsr-expose-all-options-check-openblas-feats-16034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32884dbc031a69521b4e71dae04507809b4feca3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-11-15T17:10:50+01:00",
+  "timestamp": 1542298250,
+  "message": "dbcsr-minor-fixes-due-to-upstream-changes-9799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20d830f8df5829839d2cc1aa91ed76a710b02f63",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-10-19T23:59:46+02:00",
+  "timestamp": 1539986386,
+  "message": "new-package-dbcsr-9491",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "4d37b384f501f3a8580310dd9886b319c18a90e2",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-03-01T15:33:23-05:00",
+  "timestamp": 1614630803,
+  "message": "py-torch-geometric-new-version-1.6.3-22024",
+  "repo": "spack/spack"
+}]

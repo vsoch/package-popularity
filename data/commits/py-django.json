@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15882d786807ae59bed364af9948de7d6a7680e5",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-23T12:09:06+08:00",
+  "timestamp": 1587614946,
+  "message": "Add-new-package-py-django-16234",
+  "repo": "spack/spack"
+}]

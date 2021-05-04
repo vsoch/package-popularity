@@ -1,0 +1,576 @@
+[{
+  "commit": "e501f79d4345c3be561d48f542e324d546e4c92b",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-27T22:47:59+02:00",
+  "timestamp": 1619556479,
+  "message": "Make-it-possible-to-build-git-without-man-pages-and-native-language-support-23066",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2638ac15e06564ebbb62db01b98128eb8467d23d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-15T13:11:27+02:00",
+  "timestamp": 1618485087,
+  "message": "git-enable-build-without-perl-23005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f91409368ffad043098faa03821ec8159279659",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-13T22:59:31+02:00",
+  "timestamp": 1618347571,
+  "message": "git-add-version-2.31.1-22974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c699d7494fbd0575dc96b31d10280927aaa1398",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-23T17:58:12+01:00",
+  "timestamp": 1616518692,
+  "message": "git-new-version-22479",
+  "repo": "spack/spack"
+},
+{
+  "commit": "457fc4c095c6d06cfdaa6634f81dfd4044cb4eab",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2021-02-03T17:45:53-08:00",
+  "timestamp": 1612403153,
+  "message": "link-gettext-properly-for-git-when-gettext-does-not-provide-libintl-21472",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a2fe8add38e5c088c74bd520f40f7ace27eadce",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-23T15:33:39+00:00",
+  "timestamp": 1611416019,
+  "message": "Fix-git-svn-modules-21169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c500ea80c3ac1b838d9e0700999c5b5b4070ed5a",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-18T17:39:56-05:00",
+  "timestamp": 1611009596,
+  "message": "Add-SVN-extension-to-Git-20939",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f006a54db2b979e1f7bb753f2afbdf8d1604c191",
+  "author": "albestro <9337627+albestro@users.noreply.github.com>",
+  "date": "2020-10-21T17:39:43+02:00",
+  "timestamp": 1603294783,
+  "message": "Update-git-to-2.29.0-19415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9b1f22ba15ecfe290131f97f456fed060162568",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-13T23:42:53-07:00",
+  "timestamp": 1597387373,
+  "message": "External-package-recognition-for-git.-18010",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1398038beead1a1532fc337165e2b6bf9d58c284",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-08-10T13:48:03+02:00",
+  "timestamp": 1597060083,
+  "message": "git-new-version-2.28-17848",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b35b950ee2b767a0fac9ee3afefa62dedeed6cce",
+  "author": "Robert Underwood <robertu94@users.noreply.github.com>",
+  "date": "2020-08-04T10:21:55-07:00",
+  "timestamp": 1596561715,
+  "message": "Add-openssh-runtime-dependency-to-git-17872",
+  "repo": "spack/spack"
+},
+{
+  "commit": "417eb3c5b1705d7fa89bf17cbef11bec8efa852c",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-06-03T11:24:08+02:00",
+  "timestamp": 1591176248,
+  "message": "git-added-v2.27.0-16918",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c7fff60651ce3c129551e1c1657ccc80ee816f8",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-03-30T18:56:40+02:00",
+  "timestamp": 1585587400,
+  "message": "Update-git-version-to-2.26.0-15756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9046deae80472e1318456ca06d5d1db8fb771993",
+  "author": "Alec Thomas <alec@swapoff.org>",
+  "date": "2020-02-14T12:45:09+11:00",
+  "timestamp": 1581644709,
+  "message": "Add-missing-dep-to-git.-14895",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d7e482497e3ee3b4aeb6c495a27cd88d8b2a64c",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-01-28T22:01:25-05:00",
+  "timestamp": 1580266885,
+  "message": "git-add-version-2.25.0-and-fixup-pcre-dependency-14649",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efa45125fbac8f73c11cb16d7f2944f95137b96d",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-06-04T21:09:05-05:00",
+  "timestamp": 1559700545,
+  "message": "Revert-Git-patch-to-make-git-relocatable-with-buildcache.-11596-11625",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30ec13f37584ad2934ecdf5a4e86d93d35b3a76c",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-05-31T15:38:40-05:00",
+  "timestamp": 1559335120,
+  "message": "Git-patch-to-make-git-relocatable-with-buildcache.-11596",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d93504898232e23d3adb3de1d08dcbf09cf62227",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-19T22:49:47-05:00",
+  "timestamp": 1553053787,
+  "message": "git-add-version-2.21.0-10937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "776f99a414ded817e0c71521085514eb243d0cf3",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-12-17T17:36:57-06:00",
+  "timestamp": 1545089817,
+  "message": "git-add-version-2.20.1-10130",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2164181d0a3509c1fe42a44484e6a012036e9580",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-11-27T16:32:22-06:00",
+  "timestamp": 1543357942,
+  "message": "git-add-version-2.19.2-9961",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fdd47b9474d9836dbd3ecda7cf309b8528e9cfe",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-10-25T05:43:22-05:00",
+  "timestamp": 1540464202,
+  "message": "git-add-new-version-2.19.1-9637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae1a9baade6f2ed1be7f54ca0e528754c77f5dce",
+  "author": "Julien Adam <julien.adam.beulin@gmail.com>",
+  "date": "2018-08-13T15:06:19+02:00",
+  "timestamp": 1534165579,
+  "message": "git-v2.18.0-8965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71076bc9c5364532395518781f08094d2acbb80d",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-07-06T12:57:45-07:00",
+  "timestamp": 1530907065,
+  "message": "Fix-digests-for-git-2.17.0-and-git-2.17.1-8652",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7098937c03a8e614561581be339bfa270b413f7b",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2018-07-06T14:16:54+02:00",
+  "timestamp": 1530879414,
+  "message": "switch-git-to-kernel.org-source-and-sha256-8580",
+  "repo": "spack/spack"
+},
+{
+  "commit": "689e0cb24b8681c709aa3122e2b99020edcbc4d9",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-06-09T15:16:36-06:00",
+  "timestamp": 1528578996,
+  "message": "Git-s-gitk-needs-TK-s-wish-to-be-found-in-PATH-8360",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff56d739a03886ee3d49df2ed8b9f1c605bba61e",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-03T03:28:54+02:00",
+  "timestamp": 1527989334,
+  "message": "add-2.17.1-for-git-8316",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50122a585acc254378dbfe6fe1f0461b666ed8fe",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-04-26T14:46:45+02:00",
+  "timestamp": 1524746805,
+  "message": "Added-the-latest-versions-of-a-few-packages-7910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d4fc8760d608957163112259bbb5260cd2fcb87",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-01-10T06:47:38-06:00",
+  "timestamp": 1515588458,
+  "message": "Fix-tests-for-git-package-6869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffa20d217194a0424bbe2f9383bd878238bbffcb",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-01-09T07:40:09-08:00",
+  "timestamp": 1515512409,
+  "message": "WIP-Fix-git-gettext-libintl-handling-builds-on-ubuntu-6859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25aa21a7a7cc6908f0c00fc01743f20723383260",
+  "author": "nshtg <nshtg@users.noreply.github.com>",
+  "date": "2017-12-12T01:26:53+01:00",
+  "timestamp": 1513038413,
+  "message": "git-Update-to-2.15.1-6642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b2a5ca7bf72cdead4a97ffcb2dab2cb4aa10cb8",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-10-06T21:56:14+02:00",
+  "timestamp": 1507319774,
+  "message": "git-luafilesystem-minor-fixes-5635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "315d844ab7e0036d11c5d9344d4999c16f8894cb",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-09-22T16:43:45-07:00",
+  "timestamp": 1506123825,
+  "message": "Update-git-to-2.14.1-requires-pcre-jit-variant-5430",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f962aba6ce85ba001bbe20f6f849478fdb9370c5",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2017-07-19T20:12:00-07:00",
+  "timestamp": 1500520320,
+  "message": "Allow-packages-to-control-handling-of-compiler-flags-4421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5ce7b163954843cf7247e2902535ab837aea320",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-25T00:39:31-05:00",
+  "timestamp": 1498369171,
+  "message": "Allow-arbitrary-Prefix-attributes-4591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1d8cc86f0b1bc3dcf056a1226e08526c8f19579",
+  "author": "Suzanne Parete-Koon <paretekoonst@ornl.gov>",
+  "date": "2017-05-10T15:36:10-04:00",
+  "timestamp": 1494444970,
+  "message": "updating-git-4200",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89ea5bdd61869dc8afc2a0f1b1d7451d35991497",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-29T14:44:55+02:00",
+  "timestamp": 1493469895,
+  "message": "A-few-updates-to-packages-mostly-version-updates-4049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47aa8053e913be5954506bf96816cb0583536ccc",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-11T05:39:03-07:00",
+  "timestamp": 1491914343,
+  "message": "Install-the-shell-completion-scripts-3784",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a36f23fa8c6b21a22999b6d376c276b8211d4b2",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-03-23T15:43:28-07:00",
+  "timestamp": 1490309008,
+  "message": "Add-release-info-for-git-v2.12.1-3532",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c7a7213414fd59527dfc544094e8a31d237b220",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-16T12:50:10-05:00",
+  "timestamp": 1489686610,
+  "message": "Add-latest-version-of-git-convert-to-AutotoolsPackage-3466",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba219404099dc4801b7f640acfc36502364006bc",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-03T15:07:50+01:00",
+  "timestamp": 1488550070,
+  "message": "add-resource-manpages-to-package-git-3299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0929b23d539e447fa07fd148f40de220754c7a61",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-03T14:17:33-08:00",
+  "timestamp": 1486160253,
+  "message": "Update-git-package-to-include-2.11.1-3020",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ddc518417976821e8c00cc33cbaf4f1f4ca4982",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-12-03T16:41:12-08:00",
+  "timestamp": 1480812072,
+  "message": "Update-git-package-to-include-2.11.0-2471",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b22956bab2646ae52e118c5791a58cf46003bef8",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-10-02T21:37:45-04:00",
+  "timestamp": 1475458665,
+  "message": "git-Don-t-link-against-lrt-on-Darwin-1877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "567d67fae2e2c014266c0df249ecd41d76b0cc6a",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-09T15:57:49-04:00",
+  "timestamp": 1473451069,
+  "message": "Add-libiconv-dependency-for-git-1468",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3194f2001b4e9061ab5e23a67a7bb2fa2b050fc1",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-23T15:35:43-04:00",
+  "timestamp": 1471980943,
+  "message": "Update-git-to-2.9.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ebbde0e0100b8a9c077d6cb1e67fe7a6b2ec2ec",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-04T14:14:08-04:00",
+  "timestamp": 1470334448,
+  "message": "Make-configure-use-our-gettext-library",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1de5817b58553461bfb1ffe39146a31f588a6df8",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-03T20:28:54-04:00",
+  "timestamp": 1470270534,
+  "message": "Clean-up-rebase-problems",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f699d7c08e1454aa1e1e1bc29c3de583be4897dc",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-26T11:15:27-04:00",
+  "timestamp": 1469546127,
+  "message": "Whitespace-Gather-the-depends_on-s-together",
+  "repo": "spack/spack"
+},
+{
+  "commit": "152fa33a55550db66f35885dc3da1a38250a1606",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-26T11:13:39-04:00",
+  "timestamp": 1469546019,
+  "message": "Call-configure-with-libpcre-.-to-use-our-pcre",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cf2fd40a8dd1abede6962317418b33385082f93",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-23T16:18:58-04:00",
+  "timestamp": 1469305138,
+  "message": "Enable-depends_on-pcre-also",
+  "repo": "spack/spack"
+},
+{
+  "commit": "653905e3a26ac5a0160982f03aac7fd6c3e8804f",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-22T19:46:36-04:00",
+  "timestamp": 1469231196,
+  "message": "Add-depends_on-perl-to-git-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab885a53972cb9de8f8658c340883f35aef071c5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-26T09:47:45-05:00",
+  "timestamp": 1469544465,
+  "message": "Allow-git-to-depend-on-gettext-now-that-it-works",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e32416430c16a51af673a78fb79d47c68464fa98",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-23T15:18:58-04:00",
+  "timestamp": 1461439138,
+  "message": "Update-git-819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2809fe95db84956b93824402cf4e00d1c437f14e",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-03T12:14:38-04:00",
+  "timestamp": 1459700078,
+  "message": "git-added-comment-about-newly-discovered-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa2a66db6721ef5d7b54b9cede69aa2f1b5b7531",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-16T15:46:59-04:00",
+  "timestamp": 1458157619,
+  "message": "1.-Disabled-git-versions-known-to-have-vulnerabilities",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9dabcc870385de329b9fcb6986d5d6688fa7dca8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-26T00:07:15-08:00",
+  "timestamp": 1419581235,
+  "message": "Git-package",
+  "repo": "spack/spack"
+}]

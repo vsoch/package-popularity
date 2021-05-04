@@ -1,0 +1,512 @@
+[{
+  "commit": "1492461b8e4920d09c9f67af204cc90b24edce47",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-03-09T15:11:49-08:00",
+  "timestamp": 1615331509,
+  "message": "netcdf-c-4.7.3-4.7.4-patch-detection-of-pnetcdf-for-spectrum-mpi-22180",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22a0ca5cf6ea62cb28af8e8db59a55ad3f75c36",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2020-09-02T15:06:45-07:00",
+  "timestamp": 1599084405,
+  "message": "mfem-fix-transitive-hdf5-static-libs-18457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fdb945383471eaaceb98652837ba1a314477d36",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-08-22T23:06:17+02:00",
+  "timestamp": 1598130377,
+  "message": "NetCDF-fix-constraints.-16719",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ade93d09dff94265b85252b57b3b11a3e5d2e9b",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-08-14T00:25:41-06:00",
+  "timestamp": 1597386341,
+  "message": "NETCDF-C-added-v4.7.4-18051",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff44a6d03faaa8f932c861c5b4b2cf6cd0deefe8",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-05-26T02:20:04+02:00",
+  "timestamp": 1590452404,
+  "message": "hdf-new-version-variants-and-refactoring-16469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e63ff1688e79878554a79b8d2132d4141cd1913",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-28T12:15:19-04:00",
+  "timestamp": 1588090519,
+  "message": "netcdf-fortran-add-new-variants-16046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aec3589679022c658c2f554d3da156a31f7dec02",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-04-28T10:43:53-04:00",
+  "timestamp": 1588085033,
+  "message": "netcdf-c-Patch-to-support-hdf-linked-against-libtirpc-15994",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05a80523c84eb2a696441762728bebf6fc2d8404",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-04-09T16:57:07+02:00",
+  "timestamp": 1586444227,
+  "message": "NetCDF-packages-switch-to-the-official-FTP-server.-15641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e49f5f0e57c827a49737c0df18d50ba1a7cd866",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2020-03-27T20:55:04-06:00",
+  "timestamp": 1585364104,
+  "message": "netcdf-c-remove-maxdims-and-maxvars-variant-15524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8da6fcf324637bca329b0ac8c48da76b2730649a",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-12-18T16:09:50-07:00",
+  "timestamp": 1576710590,
+  "message": "NETCDF-C-Add-latest-release-4.7.3-14214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c018bc2c8d46ef0d5629db19205227ec2e4327e",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-11-05T12:56:02-07:00",
+  "timestamp": 1572983762,
+  "message": "netcdf-fix-headers-in-v4.7.2-13600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f22e528f37525ed42e7eb9d4369879956677fef",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-24T15:21:13-05:00",
+  "timestamp": 1571948473,
+  "message": "Add-latest-version-of-NetCDF-libraries-13416",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebc32319f687ee2ee3840c8f92bae650c1a0a6f5",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-05-09T19:23:49+02:00",
+  "timestamp": 1557422629,
+  "message": "netcdf-Fix-build-if-curl-is-not-installed-11387",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74fe12bb4e6ea353a22a6e6e19d1de476dc5fba0",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-05-03T14:31:36-04:00",
+  "timestamp": 1556908296,
+  "message": "NETCDF-add-version-4.7.0-11330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c19df8be5ddb1be2d2acd353809e080ab4bb8ad6",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-03-06T19:20:16-07:00",
+  "timestamp": 1551925216,
+  "message": "NetCDF-package-update-constraints-on-hdf5-mpi-support-10788",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c493b065cf9ccf524e63956d3d46b097b0eaf95",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-03-05T16:33:47-07:00",
+  "timestamp": 1551828827,
+  "message": "NetCDF-package-add-version-4.6.3-and-update-naming-10786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e3b016aa2e4179bb7f792bf0cb7250d54c3f2a6",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2018-12-04T07:03:25-07:00",
+  "timestamp": 1543932205,
+  "message": "NETCDF-Add-new-versions-and-update-url-9970",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7c3fab7445fbeff79fa645a1dad6c44887faaa1",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-11-13T06:54:11+01:00",
+  "timestamp": 1542088451,
+  "message": "Add-pic-variant-to-netcdf-packages-9605",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36ee0cbf883f72e88caaa05441dfbcadba406991",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-12T17:24:59+02:00",
+  "timestamp": 1526138699,
+  "message": "netcdf-added-version-4.6.1-8098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9810f8088ad2511ed02e5d3891bd8ed0742adbc",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-10-25T14:30:58+02:00",
+  "timestamp": 1508934658,
+  "message": "Update-for-netcdf-.-5819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "161dca6d5dc0493477c39feb51d91ca92d367b57",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-10-24T11:09:08+02:00",
+  "timestamp": 1508836148,
+  "message": "Update-for-hdf5-.-5790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e4b0eb34a66927ca92df79dedc68d35c9fbd4ae",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-01T22:08:47+02:00",
+  "timestamp": 1493669327,
+  "message": "Multi-valued-variants-2386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6017a6a6fe13f5fcc59b26e698d8caa0fa181e98",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-21T23:43:27+02:00",
+  "timestamp": 1492811007,
+  "message": "netcdf-fix-missing-CC-mpicc-this-makes-it-work-with-Intel-MPI-3942",
+  "repo": "spack/spack"
+},
+{
+  "commit": "892955cc460ddb9d611246a81cdd463abc1b31c1",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-02-07T21:23:33-05:00",
+  "timestamp": 1486520613,
+  "message": "Add-comments-documenting-problems-in-recent-versions-of-NetCDF.-3058",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fae36b8489af1136ba773d44be108e2114bb11e7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-24T15:06:42-06:00",
+  "timestamp": 1485292002,
+  "message": "Add-latest-version-of-NetCDF-2915",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68baac0549e816dce68ebab40c701b92f5f46dec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T20:07:00-06:00",
+  "timestamp": 1483841220,
+  "message": "Various-updates-to-the-NCO-package-and-dependencies-2639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3088cb171ee5085cb07692c9dbaec36d900e4ee1",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-07T12:34:31-05:00",
+  "timestamp": 1481132071,
+  "message": "netcdf-add-checksum-for-4.3.3.1-version-2509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f0b91edaaaa6a29aa57dbb099a9a444f4e2a46f",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-11-24T16:52:28-05:00",
+  "timestamp": 1480024348,
+  "message": "netcdf-multiple-improvements-2377",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37d125b8902d0dce8509a5af775513d403370fcf",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-11T14:53:02-07:00",
+  "timestamp": 1476222782,
+  "message": "Update-Package-ExodusII-1504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5988b3a2224076438bc13ff51bd13a74c7725573",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T03:36:40-05:00",
+  "timestamp": 1476175000,
+  "message": "More-specific-dependency-versions-wrap-make-check-1962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28537ae7b75f7001fc3c11a530a752093d7bcdc0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-18T14:40:21-05:00",
+  "timestamp": 1471549221,
+  "message": "Workaround-until-variant-forwarding-works-properly",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d12c5455a18e14b77badca5e27743af47339947",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-17T13:03:56-05:00",
+  "timestamp": 1471457036,
+  "message": "Fix-NetCDF-HDF5-dependency-resolution-problems",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69e36c98219cdf3eda9de44c4205c4de0f212fd9",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-07-20T11:25:46-04:00",
+  "timestamp": 1469028346,
+  "message": "Ensure-that-per-4.4.1-NetCDF-doesn-t-use-HDF5-1.10",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94df1b801a70b72f86e4a4a30c5bfeb018a8c5d2",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-07-18T20:11:32-04:00",
+  "timestamp": 1468887092,
+  "message": "Update-NetCDF-to-version-4.4.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eaa45d8a9a8cd26379ea7bd3bcee99cbab08d9e7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-03T13:28:38-05:00",
+  "timestamp": 1462300118,
+  "message": "Remove-hdf5-cxx-constraint-on-netcdf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e111add17f885866e997e7483a0ac32235d9c497",
+  "author": "Vishal Boddu <vishal.boddu@fau.de>",
+  "date": "2016-05-02T14:31:02+02:00",
+  "timestamp": 1462192262,
+  "message": "missing-dependencies-m4-added-for-netcdf-and-autoconf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd67da607e5476b767071dc37af66af6fd492452",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-25T08:32:14+01:00",
+  "timestamp": 1458891134,
+  "message": "make-netcdf-link-against-Spack-s-curl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae87948a232c17982a7987e5423ac77acdc59194",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-05T23:05:45-05:00",
+  "timestamp": 1457237145,
+  "message": "Fixed-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0eb6ef2cd031d1668e1891425bdc6234df0594df",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T11:09:40-05:00",
+  "timestamp": 1457107780,
+  "message": "1.-Removed-fake-MPI-dependency-from-netcdf-cxx4-and-netcdf-fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1bd65550e343c25ffcaf22aadf7a1875b08d853",
+  "author": "Luigi Calori <luigi.calori@gmail.com>",
+  "date": "2016-02-10T15:17:54+01:00",
+  "timestamp": 1455113874,
+  "message": "fix-a-reported-hash-mismatch-on-netcdf-4.4.0-tar-download",
+  "repo": "spack/spack"
+},
+{
+  "commit": "360abb070a639711f740aa7ef73a84ab76aff14f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-01T08:33:03+01:00",
+  "timestamp": 1454311983,
+  "message": "netcdf-fixed-typo-in-configure-option",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b574c4ad5190bad375b9b8b38857222d5e79682a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-01-29T08:57:07+01:00",
+  "timestamp": 1454054227,
+  "message": "trilinos-updated-package-to-meet-changes-in-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6122642b818a6f1cfa999482949fed7154b2dbf0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-27T16:16:33-06:00",
+  "timestamp": 1453932993,
+  "message": "More-NetCDF-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6bb00085f89b6db37a03674ba09714adab1f2f0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-26T12:04:48-06:00",
+  "timestamp": 1453831488,
+  "message": "Extensive-modifications-to-NetCDF-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ec4ae83af7f88110e464fca22a9d1377d74b28e",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-10-15T09:20:16-04:00",
+  "timestamp": 1444915216,
+  "message": "netcdf-link-to-MPI",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14e70ad68959097bcfa4bda38cbafe8d1e71127b",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-02-18T18:05:57-08:00",
+  "timestamp": 1424311557,
+  "message": "Added-netcdf-package-support",
+  "repo": "spack/spack"
+}]

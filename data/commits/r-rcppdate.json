@@ -1,0 +1,8 @@
+[{
+  "commit": "b424dbfead848d2badbda8c60f47ad3f9dd7a77b",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-18T12:54:35-06:00",
+  "timestamp": 1610996075,
+  "message": "new-package-r-rcppdate-21114",
+  "repo": "spack/spack"
+}]

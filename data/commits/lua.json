@@ -1,0 +1,392 @@
+[{
+  "commit": "c2a9b7aa089b8514beba7b277d6a9fb670a352a0",
+  "author": "Vanessasaurus <814322+vsoch@users.noreply.github.com>",
+  "date": "2021-03-22T10:47:56-06:00",
+  "timestamp": 1616431676,
+  "message": "rpm-add-new-package.-22382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc34ab470140d120bf67007b611eb0a41418dc7d",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-08-19T00:23:56-06:00",
+  "timestamp": 1597818236,
+  "message": "lua-specified-better-the-dependency-on-ncurses-needs-termlib-18163",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55f26b0ccb6f53d2a554730c343c6d24a340cc29",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-23T08:30:45+02:00",
+  "timestamp": 1592893845,
+  "message": "lua-fix-linking-to-ncurses-17206",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2b745b3d6daf3ccd8e0517161d169cb5c3ce712",
+  "author": "Muhammad Haseeb <mhase003@fiu.edu>",
+  "date": "2020-06-17T01:55:46-04:00",
+  "timestamp": 1592373346,
+  "message": "lua-requires-ltermcap-when-building-17108",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "153c888432a7920bf8a416d3309a29c8aaa3d38b",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2020-04-07T15:00:53-07:00",
+  "timestamp": 1586296853,
+  "message": "Fix-lua-build-missing-deref-of-self-for-spec-15927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ad717cc9df8799a56d6a126180cbc380f4e57c1",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-04-01T11:31:01-06:00",
+  "timestamp": 1585762261,
+  "message": "Fixed-Remaining-Shared-Objects-in-Static-Lua-15787",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d1e88658dfc8b0d830a15cbff27d4e3cbcee9dc",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-03-30T10:56:23-06:00",
+  "timestamp": 1585587383,
+  "message": "Aded-Option-to-Disable-Shared-Lua-library-Generation-15758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67e45096c833c8be84840e17d8054e3e04f4193c",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2019-12-06T11:04:57-07:00",
+  "timestamp": 1575655497,
+  "message": "Specify-self-for-internal-setup-method-14008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd4521f723f7ac1d901423829ca965aeb00f9de",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-05-24T19:45:53+02:00",
+  "timestamp": 1558719953,
+  "message": "Updated-lmod-to-version-8.1.5-and-associated-dependencies-11552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06ed77bdfa53174e31ca7c8ce25c660aa5c03224",
+  "author": "Thomas Gruber <Thomas.Roehl@googlemail.com>",
+  "date": "2019-05-01T01:41:08+02:00",
+  "timestamp": 1556667668,
+  "message": "Lua-Fix-unresolved-symbols-in-shared-library-by-linking-with-libdl.so-11260",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c2c6c7f7eebc6c2c7fa90cc86807c9693264dd2",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-08-05T11:26:22-07:00",
+  "timestamp": 1533493582,
+  "message": "Add-unzip-runtime-dependency-to-lua-package-8831",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b0983a217f07a956a7e306580fbc806f3b00440",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2018-08-02T13:20:55-07:00",
+  "timestamp": 1533241255,
+  "message": "flux-update-flux-core-package-and-add-a-flux-sched-package-8818",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82aa54151ac0321ea6eeb99e7f3168ba3c5d30a4",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2018-03-09T18:57:46-06:00",
+  "timestamp": 1520643466,
+  "message": "Fix-bug-in-lua-package-instroduced-by-PR-7434-7450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "331f5f27eb51340978c920a4b86ea9dcc625a854",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2018-03-08T22:18:55-06:00",
+  "timestamp": 1520569135,
+  "message": "lua-package-add-lib64-to-LUA_PATH-and-LUA_CPATH-7434",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca73103dac47dc2cdfff51c146205611a72bb401",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-07T01:21:46+01:00",
+  "timestamp": 1510014106,
+  "message": "Introduce-static_to_shared_library-function-6092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d624eac55ac54fd0f44a6d6bb2293d2e78921c2",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-02T00:10:14+01:00",
+  "timestamp": 1509577814,
+  "message": "lua-Build-a-shared-library-6008",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "250ee413e9f37e36e91ccc5ffec8fb294faf1620",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-24T15:02:13-05:00",
+  "timestamp": 1500926533,
+  "message": "Change-Version-formatting-properties-and-functions-to-return-Version-objects-4834",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "745e2ce52ffb33a8da9856e64c4571303f274163",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-05T16:03:11-05:00",
+  "timestamp": 1491426191,
+  "message": "Fixes-needed-to-build-htop-3691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4518ff0150d433230bc314abf68b0b5a51b15423",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T21:28:56-05:00",
+  "timestamp": 1489631336,
+  "message": "Add-latest-version-of-lua-3454",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05c6c40e36b340e9489313eb1538a5d3e0b72c89",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-11-12T21:46:59-07:00",
+  "timestamp": 1479012419,
+  "message": "Force-the-recipe-for-Lua-to-use-the-spack-compiler.-2299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39aef5fc00eb935595235a53ca3568c3e063c371",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-05-31T14:32:35-04:00",
+  "timestamp": 1464719555,
+  "message": "lua-bring-in-run-deps-of-build-and-run-deps",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a1bf31032fca3d61d1ae9209f9c77a4822eb733",
+  "author": "Stephen Herbein <sherbein@udel.edu>",
+  "date": "2016-07-07T18:54:34-07:00",
+  "timestamp": 1467942874,
+  "message": "lua-switch-self.version-2-to-.up_to-2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76dfaa71a7f59d8c94c415819c57cb191a0e4a4a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T01:47:20-07:00",
+  "timestamp": 1466066840,
+  "message": "fix-up-packages-for-new-architecture",
+  "repo": "spack/spack"
+},
+{
+  "commit": "564483936f32abfd5ee79dea6263af4bd6e9bb9d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-08T16:33:49+02:00",
+  "timestamp": 1465396429,
+  "message": "qa-fixed-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4a39457de662376b5f9da300a06e2dff91b1aeb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-08T15:35:15+02:00",
+  "timestamp": 1465392915,
+  "message": "lmod-updated-package-and-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97804279406376273726b231faac4c6342a172fe",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T05:37:04-07:00",
+  "timestamp": 1463402224,
+  "message": "fixing-more-flake8-errors-that-only-appear-on-travis",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52c359bc77d1f790157ab9f74c31edae262d106c",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T03:36:31-07:00",
+  "timestamp": 1463394991,
+  "message": "fix-linking-issue-on-ubuntu",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f50439b990a46cdb06e133f2f11d59271f878c7c",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T17:49:06-07:00",
+  "timestamp": 1463273346,
+  "message": "appeasing-the-great-vengeful-flake8-gods",
+  "repo": "spack/spack"
+},
+{
+  "commit": "21161a60ffdacd96918912953444fab0376faf24",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T17:38:13-07:00",
+  "timestamp": 1463272693,
+  "message": "changes-to-appease-flake8-mostly-for-lua-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5979b13e3f9bcf3e151b494bb2a557aaabedeff",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T16:03:42-07:00",
+  "timestamp": 1463267022,
+  "message": "complete-lua-rework-also-module-path-fix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44f089508b7b3077cad846d2f198013b089dedf0",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-05-05T15:40:22-07:00",
+  "timestamp": 1462488022,
+  "message": "Changed-other-packages-to-fit-new-syntax",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8feaefadcfcae04ccaa204b93502e23158f7a7d4",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-11-13T09:39:00-08:00",
+  "timestamp": 1447436340,
+  "message": "updating-lua-package-to-install-in-correct-order",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7182671f8f63d4071ad7cfae5fec8ffda9c5b901",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-08-03T11:59:52-07:00",
+  "timestamp": 1438628392,
+  "message": "pre-alpha-flux-build-and-requisite-dependencies",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,136 @@
+[{
+  "commit": "252f42f1153c673804ae15376297f1833c074d66",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-04-02T05:27:46+05:30",
+  "timestamp": 1617321466,
+  "message": "Fix-for-static-library-export-issue-in-blis-package-22673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fba3e2bd3c43d1f7fc42fd76b2e3aeda7354739",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-22T22:00:08+05:30",
+  "timestamp": 1616430608,
+  "message": "Spack-recipes-for-AOCL-3.0-22376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "155c3784061dd1207a0c6b99c3e5eec2ec73e5dd",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-22T15:02:44+01:00",
+  "timestamp": 1616421764,
+  "message": "blis-new-version-22449",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4b9febcb2bd4dba8db92614cd8a08718a956d3b",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-10-01T14:47:39-05:00",
+  "timestamp": 1601581659,
+  "message": "blis-added-v0.7.0-19102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1983d7395ca51e7ef87bd9a79614b2f760cd994",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2020-05-06T21:36:29+01:00",
+  "timestamp": 1588797389,
+  "message": "blis-FIX-threads-option-HPL-enable-opemp-variant-for-2.3-16476",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3cb1b8e7ec66e5f076a6ea31e1f713e34e9c282",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-03-19T20:28:18+09:00",
+  "timestamp": 1584617298,
+  "message": "amdblis-blis-fix-spack-info-and-libs-query-15566",
+  "repo": "spack/spack"
+},
+{
+  "commit": "759f6b6d13c909d46f0f6fa56b0e87cb498fcd20",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-02-06T14:58:51+01:00",
+  "timestamp": 1580997531,
+  "message": "Added-optimized-version-of-Blis-for-AMD-14780",
+  "repo": "spack/spack"
+},
+{
+  "commit": "588c87c665d0d43824b9d80602edabe56eb46a51",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-06T17:03:08+08:00",
+  "timestamp": 1580979788,
+  "message": "blis-added-v0.6.1-14766",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53db1eafb9e6c59efba10383d917afdcaf26f718",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-23T18:54:47-05:00",
+  "timestamp": 1569282887,
+  "message": "Fix-installation-permissions-on-BLIS-and-libflame-libs-12919",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbbd3846288fde979b628058900897de54944aa0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-09-18T22:46:34-05:00",
+  "timestamp": 1568864794,
+  "message": "blis-fix-darwin-install-name-12869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e21e10837ff959645731b468b4cb44c8a1ba7e69",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-08-01T09:37:23-05:00",
+  "timestamp": 1564670243,
+  "message": "modified-var-spack-repos-builtin-packages-blis-package.py-12225",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9afd5113bc6c45d5c79e33bb43fb381c3114eaa4",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-07-27T18:32:06-05:00",
+  "timestamp": 1564270326,
+  "message": "Bump-version-for-BLIS-12162",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cde5116bb2aca54e2bdb36ef967f458ec8b0561e",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-08-16T11:26:43-05:00",
+  "timestamp": 1534436803,
+  "message": "Add-blis-package-8925",
+  "repo": "spack/spack"
+}]

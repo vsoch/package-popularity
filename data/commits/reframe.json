@@ -1,0 +1,96 @@
+[{
+  "commit": "99a5bf7892b57dd1c2cb5333c8dbea7319504ea5",
+  "author": "Vasileios Karakasis <karakasis@cscs.ch>",
+  "date": "2021-04-27T21:20:54+02:00",
+  "timestamp": 1619551254,
+  "message": "Add-ReFrame-3.5.3-23265",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58edc361be0aec47bfed24ef310ffa808153c74c",
+  "author": "Vasileios Karakasis <karakasis@cscs.ch>",
+  "date": "2021-04-07T11:06:34+02:00",
+  "timestamp": 1617786394,
+  "message": "ReFrame-add-v3.5.1-and-v3.5.2-22820",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efecb22845a2e010215a424c08d0062134714923",
+  "author": "Vasileios Karakasis <karakasis@cscs.ch>",
+  "date": "2021-03-09T20:12:39+01:00",
+  "timestamp": 1615317159,
+  "message": "ReFrame-3.5.0-recipe-22196",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b1b51e90de380fa9524121f95df989b00eeb6a8",
+  "author": "Vasileios Karakasis <vkarak@gmail.com>",
+  "date": "2021-03-05T14:57:21+01:00",
+  "timestamp": 1614952641,
+  "message": "reframe-add-v3.4.2-and-v3.4.1-enable-autocompletion-22114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd8eac7052a58e7d51a096b8bd562faa406e027b",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2021-02-11T15:35:57+01:00",
+  "timestamp": 1613054157,
+  "message": "Add-sanity-checks-to-reframe-recipe-21622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d8b8553f1ad95f26be2a03fbf94c1fdec257792",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2021-02-08T17:00:12+01:00",
+  "timestamp": 1612800012,
+  "message": "Add-ReFrame-3.4-21540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c8e9b71a7907bea60fe5473acae1318c8f7d679",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-11-30T14:01:19+01:00",
+  "timestamp": 1606741279,
+  "message": "New-versions-of-reframe-singularity-and-slurm-20119",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a078e2ba137a44534f6bcf119c0085023298e810",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2020-09-22T17:19:51+02:00",
+  "timestamp": 1600787991,
+  "message": "ReFrame-added-v3.1-18860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f484380f5ceb86913ed671e1e380df260c82fab",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2020-06-16T13:49:47+02:00",
+  "timestamp": 1592308187,
+  "message": "reframe-fix-package-bugs-with-v3.0-17104",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82f84fb61b5914a3f9d0cff60b8fb1943643cf8a",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2020-06-13T03:38:17+02:00",
+  "timestamp": 1592012297,
+  "message": "Reframe-3.0-17005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78ce1c7ce4dca74acf81f3332237d47cf81cdad2",
+  "author": "victorusu <victorusu@users.noreply.github.com>",
+  "date": "2020-02-12T02:51:26+01:00",
+  "timestamp": 1581472286,
+  "message": "New-package-ReFrame-14737",
+  "repo": "spack/spack"
+}]

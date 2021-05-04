@@ -1,0 +1,72 @@
+[{
+  "commit": "ebbce40a887f665a35374e1086a876ce2ad44dbc",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-03-29T18:49:07-04:00",
+  "timestamp": 1617058147,
+  "message": "bumpup-version-for-hipify-clang-rocm-gdb-api-rocm-gdb-for-rocm-4.1.rel-22622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cdb9b10e27cfd725f24ee1dd881809841563693f",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2021-01-22T09:04:01-08:00",
+  "timestamp": 1611335041,
+  "message": "Bump-up-rocm-version-4.0.0-rocm-gdb-and-mivisionx-21137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff4c45289eb239814ed8ff63f1cfb91d037a4a7e",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T00:03:40+05:30",
+  "timestamp": 1606934020,
+  "message": "bump-up-version-for-rocm-3.10.0-release-20214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3daa7b7b40181b16dbd0ef5e03a63a264f1ddd7f",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-11-05T00:13:40+05:30",
+  "timestamp": 1604515420,
+  "message": "update-rocm-bandwidth-test-rocm-dbgapi-rocprofiler-for-rocm-3.9.0-19724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d45aca3eab7b0b73357775521cd552d072fd2a5",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-10-07T06:54:38-07:00",
+  "timestamp": 1602078878,
+  "message": "AMD-ROCm-rocm-gdb-update-with-its-dependency-package-babeltrace-19142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ec3c4d35ed5b0ba9681cc5ee4ceec2e0503b282",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-24T08:49:46-07:00",
+  "timestamp": 1600962586,
+  "message": "renaming-of-Rocclr-rocgdb-to-hip-rocclr-and-rocm-gdb-fix-build-error-for-rocm-opencl-18900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d73db33005a956eb285a94e6eea4f4fc735c80f0",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-31T02:36:38-07:00",
+  "timestamp": 1598866598,
+  "message": "atmi-rocgdb-rocm-dbgapi-changes-for-rocm3.7-18404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad060c7870675ccb82c537fd983fd6bc28f7f4e8",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-12T17:36:35-07:00",
+  "timestamp": 1597278995,
+  "message": "Spack-recipes-for-ROCm-software-components-Phase1-17422",
+  "repo": "spack/spack"
+}]

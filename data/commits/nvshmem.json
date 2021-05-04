@@ -1,0 +1,16 @@
+[{
+  "commit": "db402ed2e38dc8b70e00a969d9446d7791cd28a6",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-02-03T11:44:53-08:00",
+  "timestamp": 1612381493,
+  "message": "Set-the-variant-to-alway-be-true-since-it-is-requires-cuda.-21358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46153a82010c9048564f7efb50cdbf49f4123d31",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-01-27T00:49:53-08:00",
+  "timestamp": 1611737393,
+  "message": "NVSHMEM-package-21279",
+  "repo": "spack/spack"
+}]

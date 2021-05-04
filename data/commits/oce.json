@@ -1,0 +1,240 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20e4038a726e7b938a6bc5ab196156e0bf0becab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T09:31:21-07:00",
+  "timestamp": 1530117081,
+  "message": "style-make-core-comply-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53517c60b624793e0019c41e6592fe15d4f912d4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-14T20:44:14+02:00",
+  "timestamp": 1529001854,
+  "message": "oce-add-0.18.3-8477",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5b9de2eabaac6fc8da98d1580da9d10b6f3697f8",
+  "author": "Praveen C <cpraveen@gmail.com>",
+  "date": "2017-10-25T14:09:32+05:30",
+  "timestamp": 1508920772,
+  "message": "Glibc-2.26-does-not-provide-xlocale.h-5862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f52295dd8367a1fb1abaf6d71ba9012399435dc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-15T00:39:21+02:00",
+  "timestamp": 1508020761,
+  "message": "oce-add-0.18.2-5767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8c1ce43fa06c01463b524cfab438a9f653327a3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-13T15:49:18+02:00",
+  "timestamp": 1507902558,
+  "message": "trilinos-oce-add-missing-if-before-calling-macOS_version-5743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b53e82348b94105fa1ee01409a27970831de0f7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-12T20:41:57+02:00",
+  "timestamp": 1507833717,
+  "message": "various-fixes-for-macOS-high-sierra-5647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe7bf77afeb11e3656d86e1e39d0c557cc5b7af8",
+  "author": "iulian787 <iulian787@users.noreply.github.com>",
+  "date": "2017-06-16T09:29:59-04:00",
+  "timestamp": 1497619799,
+  "message": "oce-changes-for-cgm-4514",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87ebb0fc157731ac2a52aeb9ce09ad375ad8103d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T23:35:32+02:00",
+  "timestamp": 1495920932,
+  "message": "oce-add-0.18.1-4376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c24dc9072e1e8bddc3dbda09f1b98b51d91fc644",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-26T05:39:40+01:00",
+  "timestamp": 1485405580,
+  "message": "oce-fix-fetching-2921",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c76088906e91af11a343decb5ae532be1d48d896",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-23T22:59:16+01:00",
+  "timestamp": 1485208756,
+  "message": "oce-trilinos-force-rpath-on-Sierra-to-avoid-issues-with-load-commands-size-2855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a040c8c743872329eceb9b7a0550e0c4d8a35331",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-17T23:40:07+01:00",
+  "timestamp": 1484692807,
+  "message": "oce-add-0.18-and-fix-patching-2844",
+  "repo": "spack/spack"
+},
+{
+  "commit": "025b91407993ea924286a52a698adef0f97e12e6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-12T08:10:51+02:00",
+  "timestamp": 1476252651,
+  "message": "oce-fix-for-Sierra-1934",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14cef6eab8a29ac8cb93c6d528b0e62201a7f0d3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T22:51:20+02:00",
+  "timestamp": 1467838280,
+  "message": "oce-flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57eaea2e8c23a2533fa5235e97f1e3ca3f517dab",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T20:34:05+02:00",
+  "timestamp": 1467830045,
+  "message": "oce-add-0.17.2-fix-running-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d0b4a28abf8216ed141dac80a6779f6a51f03f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-31T09:39:37+02:00",
+  "timestamp": 1459409977,
+  "message": "oce-fix-bugs-related-to-NULL-pointers-and-compiler-optimisation",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eca1284c81c3efc5a87b8a174a0974811656b3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T08:59:25+02:00",
+  "timestamp": 1459061965,
+  "message": "metis-parmetis-boost-oce-scalapack-correct-install_name-on-Darwin-via-a-global-function",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d25026b74936f9988cdaf701258c937b3965c106",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T16:26:16+01:00",
+  "timestamp": 1458660376,
+  "message": "add-OCE-package",
+  "repo": "spack/spack"
+}]

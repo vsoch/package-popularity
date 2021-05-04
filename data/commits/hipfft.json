@@ -1,0 +1,16 @@
+[{
+  "commit": "c27c70acd9b03084bfcf2a07cf6270fcf350e75d",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-29T15:24:47-04:00",
+  "timestamp": 1619724287,
+  "message": "rocm-4.1.0-release-add-git-repo-path-modify-hipfft-package-recipe-23119",
+  "repo": "spack/spack"
+},
+{
+  "commit": "181341c8b3a4f301773fe2658107c94bc79b57f3",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2021-04-17T00:00:44-07:00",
+  "timestamp": 1618642844,
+  "message": "AMD-ROCm-4.1-release-Add-new-package-hipfft-23061",
+  "repo": "spack/spack"
+}]

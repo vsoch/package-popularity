@@ -1,0 +1,72 @@
+[{
+  "commit": "bc40c3af91edc5f3a9a25bb8877a41563ea9d053",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-03-08T19:17:55+01:00",
+  "timestamp": 1615227475,
+  "message": "Add-latest-versions-for-lcio-and-sio-22173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a92bb5400e98ae1d4c9ebe00a88c3bad4ae063be",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-01-19T09:20:43+01:00",
+  "timestamp": 1611044443,
+  "message": "lcio-sio-add-sio-dependency-update-versions-and-expose-zlib-version-for-sio-20839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fac02e437c96872a709bb07458429b0b661dc46",
+  "author": "Andre Sailer <andre.philippe.sailer@cern.ch>",
+  "date": "2020-09-23T13:55:01+02:00",
+  "timestamp": 1600862101,
+  "message": "LCIO-added-v2.15.-0123-18841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "138e2ad0a1b34499dfe3fbc04f9347cf2f86ace1",
+  "author": "Andre Sailer <andre.philippe.sailer@cern.ch>",
+  "date": "2020-09-07T17:16:16+02:00",
+  "timestamp": 1599491776,
+  "message": "LCIO-changes-to-install-CPATH-for-python-bindings-18512",
+  "repo": "spack/spack"
+},
+{
+  "commit": "286c3d6cbcd19882ca5b2b1f50f42e298fd9ca20",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-20T16:43:59+02:00",
+  "timestamp": 1597934639,
+  "message": "lcio-set-up-run-time-paths-18109",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e83f639c13031cfb658a77372757952a8ab8f748",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-09T14:54:26+02:00",
+  "timestamp": 1596977666,
+  "message": "HEP-versions-update-17927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be068038048808c206e20b2a4d4ee41e0345f9d9",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-25T00:25:57+02:00",
+  "timestamp": 1595629557,
+  "message": "WHIZARD-package-add-LCIO-dependency-Openloops-support-17658",
+  "repo": "spack/spack"
+}]

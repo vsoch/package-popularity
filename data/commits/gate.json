@@ -1,0 +1,24 @@
+[{
+  "commit": "7c87ebeb9177641e4bfbcf3134ff08b60783e56f",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-07T12:13:05-05:00",
+  "timestamp": 1617815585,
+  "message": "Some-improvements-to-gate-package-22656",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95b9875e959f838752f500aa89329c9241bc6c7c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-10-19T16:07:47-05:00",
+  "timestamp": 1603141667,
+  "message": "New-package-Gate-19377",
+  "repo": "spack/spack"
+}]

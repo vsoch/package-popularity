@@ -1,0 +1,8 @@
+[{
+  "commit": "2741b69791988095ac0349443639141fd647d7dd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-03-22T06:48:06-05:00",
+  "timestamp": 1616413686,
+  "message": "r-s2-new-package-plus-new-dependency-r-wk-22443",
+  "repo": "spack/spack"
+}]

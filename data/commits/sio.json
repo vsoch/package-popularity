@@ -1,0 +1,32 @@
+[{
+  "commit": "bc40c3af91edc5f3a9a25bb8877a41563ea9d053",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-03-08T19:17:55+01:00",
+  "timestamp": 1615227475,
+  "message": "Add-latest-versions-for-lcio-and-sio-22173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a92bb5400e98ae1d4c9ebe00a88c3bad4ae063be",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-01-19T09:20:43+01:00",
+  "timestamp": 1611044443,
+  "message": "lcio-sio-add-sio-dependency-update-versions-and-expose-zlib-version-for-sio-20839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5b89b422d9cebb83aea269f46b865ba1ba88b13",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-11-13T19:43:43+01:00",
+  "timestamp": 1605293023,
+  "message": "Add-sio-and-add-it-as-possible-dependency-for-podio-19875",
+  "repo": "spack/spack"
+}]

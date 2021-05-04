@@ -1,0 +1,72 @@
+[{
+  "commit": "4e6b5282c9213567ada4a82488ba1680b1b1521a",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-01-25T22:29:29+01:00",
+  "timestamp": 1611610169,
+  "message": "Delphes-add-3.4.3pre08-tag-as-version-21221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa66d683e41244b8bf67eaa8dd662ff67bc9c660",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-23T13:16:14+01:00",
+  "timestamp": 1606133774,
+  "message": "delphes-updated-pre-release-version-20011",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9bc5f7751703f2a16f8160d1ab7de2db550d76d",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-10-14T18:55:44+02:00",
+  "timestamp": 1602694544,
+  "message": "delphes-new-version-new-env-var-19304",
+  "repo": "spack/spack"
+},
+{
+  "commit": "022586b11d0078e82d224ff86ea7e965af62148c",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-17T16:20:41+02:00",
+  "timestamp": 1597674041,
+  "message": "delphes-align-env-var-with-lcg-release-18080",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d2b60ac0c17db76c32ca30949e0649788c702cf",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-04T19:11:13+02:00",
+  "timestamp": 1596561073,
+  "message": "delphes-pythia8-variant-and-cleanup-17664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fc963b1f919baa46f5f6f15bb1ca19f2404f600",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-06-22T02:31:57-05:00",
+  "timestamp": 1592811117,
+  "message": "delphes-better-specify-the-dependency-on-root-17175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c2f46aabfc90f0312c2d09dd8495a5f8777cc6a",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-03T18:13:03+02:00",
+  "timestamp": 1588522383,
+  "message": "Add-new-HEP-package-Delphes-16440",
+  "repo": "spack/spack"
+}]

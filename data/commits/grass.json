@@ -1,0 +1,128 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b31f5474b8e5ee3c72938eeb6110e8556c4894d",
+  "author": "Elizabeth Fischer <eafischer2@alaska.edu>",
+  "date": "2020-05-04T13:25:19-08:00",
+  "timestamp": 1588627519,
+  "message": "grass-new-versions-16181",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69a91b5b6b305ffb0d8d2d2ce1a15616ee88bdef",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-11T14:00:38-06:00",
+  "timestamp": 1576094438,
+  "message": "Add-grass-7.8.2-14115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "834a8be933d5ec02177dd0480f110569f13bbdfb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-09T19:41:29-06:00",
+  "timestamp": 1573350089,
+  "message": "Add-grass-7.8.1-13664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4a51084abd891910a83554deda80d0e45f0cc61",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-31T12:48:54-05:00",
+  "timestamp": 1572544134,
+  "message": "Add-GRASS-7.8.0-13026",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb6ec7fb40c14b37e094a860e3625af53f633174",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-08-12T13:45:05-07:00",
+  "timestamp": 1565642705,
+  "message": "Package-grass-fix-iconv-linking-issue-12165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3018c6453747e4d5525d9f9212dbfc49d47fa537",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-17T19:59:12-05:00",
+  "timestamp": 1560819552,
+  "message": "GRASS-GIS-does-not-yet-support-PROJ.6-11762",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd668cb00cf5e90fc78712527239817b8cdb1ed8",
+  "author": "Patrick Schratz <patrick.schratz@gmail.com>",
+  "date": "2019-05-03T03:40:23+02:00",
+  "timestamp": 1556847623,
+  "message": "grass-package-use-url_for_version-add-versions-11324",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce1601142746d5d0e58bfeac48c02af082dd5bf4",
+  "author": "Ricardo Silva <ricardo.d.silva@gmail.com>",
+  "date": "2018-08-15T16:54:08+02:00",
+  "timestamp": 1534344848,
+  "message": "grass-improvement-specify-proj-data-directory-8984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bef60f6d7e990a66a45611e6c15a9163070323bd",
+  "author": "Tom Merrick <thomas.merrick@tamucc.edu>",
+  "date": "2018-06-22T18:03:05-05:00",
+  "timestamp": 1529708585,
+  "message": "Package-grass-8505",
+  "repo": "spack/spack"
+}]

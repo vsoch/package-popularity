@@ -1,0 +1,96 @@
+[{
+  "commit": "a618594c28aed14bbed9fc22a31e72221f1cc85c",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2021-04-30T15:57:44-07:00",
+  "timestamp": 1619823464,
+  "message": "BLT-version-lockdown-23356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e21e26094e8ea8779878f50ad2992a59858a213c",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2021-04-08T13:54:37-07:00",
+  "timestamp": 1617915277,
+  "message": "CARE-and-dependencies-fixed-to-work-with-cuda-22874",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571e36787b96ac1d24824218024954c83dea8c8f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c42ce439e44f5a8261fdd9d5e4374a0dc26fa71e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22e037e304015243bf5f33197fa3780902430ad",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-12-02T17:07:56-08:00",
+  "timestamp": 1606957676,
+  "message": "Add-CARE-package-fixes-for-ROCmPackage-and-subclasses-20070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0baf429889ca22eaf8e7028ecb0061918c03dbd",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b9155239b83cd22074f8db057e9ad28f37f008e",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-11-18T11:52:21-08:00",
+  "timestamp": 1605729141,
+  "message": "hip-support-for-umpire-chai-raja-camp-19715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fb2d5521de3f24f970ebf9cb5384ba43f471564",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-10-30T13:33:54-07:00",
+  "timestamp": 1604090034,
+  "message": "changes-to-support-hip-build-of-camp-19502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "57200f01fd027a9691491e744c458532740efe82",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-27T10:52:28-04:00",
+  "timestamp": 1603810348,
+  "message": "camp-Add-missing-checksum-19543",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f9c621284ce1890e2e37976b567fd1082b701a9",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2020-10-26T14:12:03-07:00",
+  "timestamp": 1603746723,
+  "message": "Add-camp-BLT-dependencies-to-Umpire-19411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "012b4279b6285235a24a7b7b2fe37854a6d5957d",
+  "author": "Danny Taller <66029857+dtaller@users.noreply.github.com>",
+  "date": "2020-10-09T15:25:06-07:00",
+  "timestamp": 1602282306,
+  "message": "camp-new-package-19235",
+  "repo": "spack/spack"
+}]

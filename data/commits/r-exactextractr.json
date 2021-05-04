@@ -1,0 +1,32 @@
+[{
+  "commit": "8108501aca9da82d9c5d77d36cde1e1aea2e6893",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-16T08:17:08-06:00",
+  "timestamp": 1610806628,
+  "message": "add-version-0.5.1-to-r-exactextractr-20946",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab6905d5fa6c3d7380600b768644fdfcc6cffe31",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-06-01T23:01:41+02:00",
+  "timestamp": 1591045301,
+  "message": "r-exactextractr-package-type-fixed-16881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b8082ecf3103d1393792f17565f10917457ac30",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-05-13T19:42:16+02:00",
+  "timestamp": 1589391736,
+  "message": "r-exactextractr-new-package-16626",
+  "repo": "spack/spack"
+}]

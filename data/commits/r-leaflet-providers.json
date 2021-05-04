@@ -1,0 +1,8 @@
+[{
+  "commit": "e316cde70677dbeba939c9d6dbd39fc5d1b8b705",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-17T14:07:15-06:00",
+  "timestamp": 1610914035,
+  "message": "new-package-r-leaflet-providers-21071",
+  "repo": "spack/spack"
+}]

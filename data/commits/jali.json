@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea97b37f60c83ab0ccd0297fc0c3fabf7c37aa9f",
+  "author": "Rao Garimella <rao@lanl.gov>",
+  "date": "2020-09-01T13:18:24-06:00",
+  "timestamp": 1598987904,
+  "message": "Jali-Fix-bugs-in-CMake-section-18447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a8815ea7ae745a43281267233d1762de156e056",
+  "author": "Rao Garimella <rao@lanl.gov>",
+  "date": "2020-07-29T21:12:10-06:00",
+  "timestamp": 1596078730,
+  "message": "update-version-to-1.1.5-17701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d77576d85daba7e456e919ad28edd4593078f4ce",
+  "author": "Rao Garimella <rao@lanl.gov>",
+  "date": "2020-04-22T10:12:28-06:00",
+  "timestamp": 1587571948,
+  "message": "update-Jali-version-and-dependent-MSTK-version-16236",
+  "repo": "spack/spack"
+},
+{
+  "commit": "946a80bd3d1b486ff44044f971d4b256a9cdf7fc",
+  "author": "Rao Garimella <rao@lanl.gov>",
+  "date": "2020-01-15T11:32:17-07:00",
+  "timestamp": 1579113137,
+  "message": "New-package-Jali-unstructured-mesh-infrastructure-for-multiphysics-applications-14498",
+  "repo": "spack/spack"
+}]

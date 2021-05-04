@@ -1,0 +1,248 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ca894bd1ea847d7226c7b4479d26cd645071f4e",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-02T14:02:50-06:00",
+  "timestamp": 1604347370,
+  "message": "pumi-add-version-2.2.5-19680",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bce4bec059da2de069e9c6aa5856ded2e4c7292e",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2020-02-05T20:32:36-05:00",
+  "timestamp": 1580952756,
+  "message": "PUMI-package-add-version-2.2.2-14751",
+  "repo": "spack/spack"
+},
+{
+  "commit": "488e25ea346c8006ada6f0409b4db800129add9c",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2020-01-29T19:29:07-05:00",
+  "timestamp": 1580344147,
+  "message": "pumi-sim-version-check-meshes-via-submodule-ctest-14597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ce9d45aa79433849bd78d41f360f626630002dc",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2019-08-31T15:28:56-04:00",
+  "timestamp": 1567279736,
+  "message": "Add-int64-variant-to-pumi-and-zoltan-12630",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e077532baf2ce214c407cdecfdd025405a085b4d",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2019-08-06T23:09:46-04:00",
+  "timestamp": 1565147386,
+  "message": "pumi-new-version-2.2.1-12282",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a06bf21610830f9d7a282d54137c06c7e393ef94",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2019-02-14T15:36:56-05:00",
+  "timestamp": 1550176616,
+  "message": "new-variant-simmodsuite-for-pumi-8775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "130706d1b8be047d230ac8e064c59ea31086ff5b",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2018-12-08T02:08:58-05:00",
+  "timestamp": 1544252938,
+  "message": "pumi-shared-variant-10057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19207549ad83d4c9c95f4482f0dd635f6f5c0ce1",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2018-10-22T23:21:50-04:00",
+  "timestamp": 1540264910,
+  "message": "pumi-add-version-2.2.0-9606",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbbe4968f035410f03814ba3ccf5930c07429b5c",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2018-10-18T14:42:25-04:00",
+  "timestamp": 1539888145,
+  "message": "add-pumi-version-docstring-9577",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "da011bc7fb9278306ecd44e8cf97bff37f8b0bb7",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2018-06-27T11:03:46-04:00",
+  "timestamp": 1530111826,
+  "message": "pumi-add-fortran-variant-8584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64fb2f22b436cf14e75da11e27430500a675212c",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-05-09T16:26:57-07:00",
+  "timestamp": 1494372417,
+  "message": "Adding-FASTMath-uber-package-and-missing-FASTMath-packages-4120",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2f29b855b2af712890584287cf9d61b5b136aba",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-01-15T18:07:44-07:00",
+  "timestamp": 1484528864,
+  "message": "Updating-BoxLib-with-the-ability-to-build-again.-2813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f29fc5822be81d7bc1776160b4159a6c3a44c831",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-06-06T16:16:11-07:00",
+  "timestamp": 1433632571,
+  "message": "Working-boxlib-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd34f4b119243d42b64e4ca2c358cf561fde9a14",
+  "author": "Saravan Pantham <saravan.pantham@gmail.com>",
+  "date": "2015-05-27T17:39:17-07:00",
+  "timestamp": 1432773557,
+  "message": "Added-more-FASTMath-packages",
+  "repo": "spack/spack"
+}]

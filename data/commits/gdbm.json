@@ -1,0 +1,272 @@
+[{
+  "commit": "5b238ef1c13504e20c0e03cb4c5a6da58587d5d6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-03-26T13:23:47+01:00",
+  "timestamp": 1616761427,
+  "message": "Revert-gdbm-new-version-22505-22568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d56c6299326ee53de6b64a409bb1ca631aeeb7e6",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-26T11:00:44+01:00",
+  "timestamp": 1616752844,
+  "message": "gdbm-new-version-22505",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8899a08263331825612304f8c13eafaf95ec2e3d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-23T15:44:22+01:00",
+  "timestamp": 1616510662,
+  "message": "OpenMPI-require-ssh-run-dependency-22115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3364e5550ffa7f4af1728ae3b97d2be5781041a3",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-02-18T09:39:20-08:00",
+  "timestamp": 1613669960,
+  "message": "patches-to-apply-to-gdbm-and-m4-when-using-oneapi-compiler-21740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09f6bd2a0f41d2d7146e365529916846b7a88c46",
+  "author": "Asher Mancinelli <ashermancinelli@gmail.com>",
+  "date": "2020-12-24T21:07:22-08:00",
+  "timestamp": 1608872842,
+  "message": "adding-cce-to-compilers-that-patch-gdbm-20353",
+  "repo": "spack/spack"
+},
+{
+  "commit": "954a3aab620ae9c07427dd6ba64e620e74fa9beb",
+  "author": "Ghorban M. Tavakoly <58617996+gmt3141@users.noreply.github.com>",
+  "date": "2020-12-02T16:23:29+03:30",
+  "timestamp": 1606913609,
+  "message": "gdbm-fix-link-errors-with-aocc-20206",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fd3676fc0d4188044d340d16d7588e6c267746a",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-10-19T19:49:31-05:00",
+  "timestamp": 1603154971,
+  "message": "gdbm-patch-19380",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d7daf0def6b8c432b5e79d48c96f29faf3d2db9",
+  "author": "Ben Bergen <bergen@lanl.gov>",
+  "date": "2020-04-30T11:16:00-06:00",
+  "timestamp": 1588266960,
+  "message": "Resolves-https-github.com-spack-spack-issues-16394-16395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a5bdd1afd91760a543407b6654081ae7258c211",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:07:24-05:00",
+  "timestamp": 1570727244,
+  "message": "gdbm-https-http-13096",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7f2c819a15ca3029731b93f24048fca0a788e09",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T17:50:30+01:00",
+  "timestamp": 1542127830,
+  "message": "gdbm-add-1.18.1-9757",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68e7fd053e94746c3e02a0a798ab9b6de9cc5114",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-21T17:24:38-04:00",
+  "timestamp": 1526937878,
+  "message": "gdbm-Get-working-on-CentOS5-and-Other-Older-Systems-8134",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd85c1f0c07023284b5b86b2e2fe6d07de631d74",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-04-26T15:44:17+02:00",
+  "timestamp": 1524750257,
+  "message": "Package-gdbm-do-not-set-CC.-7912",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7274eb1f51f2f95695a1efc5b3cd9ac9afafdf6",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-02-13T23:41:50-08:00",
+  "timestamp": 1518594110,
+  "message": "gdbm-fix-lmod-global-name-spack_cc-undefined-7225",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a7525064d4d31bd830835d42d81c5724c2c4b4a",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-10T18:02:07+01:00",
+  "timestamp": 1515603727,
+  "message": "Updated-i3-dependencies.-6885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "882480fad629f9e98f7b6c83b7dc98ac7d836cc3",
+  "author": "Ondřej Čertík <ondrej@certik.us>",
+  "date": "2017-10-24T23:09:41-06:00",
+  "timestamp": 1508908181,
+  "message": "gdbm-pass-in-proper-CPPFLAGS-5893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b2d75a0a6cf23e685d65a7d1c09ecba6c358275",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-07-19T00:22:14+08:00",
+  "timestamp": 1500394934,
+  "message": "Repalce-ftp-with-http-for-gdbm-mesa-glu-and-udunits2.-4798",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68034e4d428776ac3fb3fcfa4ee8a53b4f5714a6",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-05-09T17:18:17-04:00",
+  "timestamp": 1494364697,
+  "message": "gdbm-Declare-readline-dependency-4171",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13911f1b464939c50fb45f6eb3786ab1a8db3035",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-04-19T17:32:00+10:00",
+  "timestamp": 1492587120,
+  "message": "gdbm-GNU-dbm-package-for-manipulating-hashed-databases-3895",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16fb872f8444a29342e285f836b1bd8d2d268a18",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-07T08:43:13-05:00",
+  "timestamp": 1491572593,
+  "message": "Fix-ncurses-support-in-bash-package-3735",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "380a2b23e66fe0acfd16f9e72499c7bd42597eaf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-06T15:57:03-05:00",
+  "timestamp": 1459976223,
+  "message": "Add-bash-package",
+  "repo": "spack/spack"
+}]

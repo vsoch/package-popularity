@@ -1,0 +1,616 @@
+[{
+  "commit": "1a32f4a08c0f1b72c3edbf12f8c902174a7346f0",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-04-15T09:14:24-06:00",
+  "timestamp": 1618499664,
+  "message": "Added-thread-MPI-to-build.-22992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4adb76c4c5a65b808864e39d3fb6702e332fff51",
+  "author": "Maciej Wójcik <w8jcik@gmail.com>",
+  "date": "2021-04-08T18:52:41+02:00",
+  "timestamp": 1617900761,
+  "message": "Gromacs-CUDA-patch-some-version-constraints-22851",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbe210522c3b32bf59f1c7e692c4c0b4116a9803",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-24T16:00:12+01:00",
+  "timestamp": 1616598012,
+  "message": "gromacs-add-v2021.1-22507",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d429265d8b28fda1550e22a58a5d19a080c6d788",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-02-17T10:09:34-06:00",
+  "timestamp": 1613578174,
+  "message": "Bugfix-for-x86_64-skylake-and-other-archs-where-SIMD-features-are-disabled-by-Fall-back-option.-21727",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dea933418956076b25476233c1465e5cb73beb1d",
+  "author": "M. Eric Irrgang <mei2n@virginia.edu>",
+  "date": "2021-02-11T17:52:32+03:00",
+  "timestamp": 1613055152,
+  "message": "Apply-compiler-filters-to-GROMACS-installation.-21621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "944cb5dec6347a3d105049d5d82e82b28ddacb9d",
+  "author": "M. Eric Irrgang <mei2n@virginia.edu>",
+  "date": "2021-02-11T17:16:27+03:00",
+  "timestamp": 1613052987,
+  "message": "Update-GROMACS-package-21617",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9414b11490d95a36b14fab6c08c0e7cdb8b6bc87",
+  "author": "Mark Abraham <Mark.J.Abraham@gmail.com>",
+  "date": "2021-02-07T13:29:53+01:00",
+  "timestamp": 1612700993,
+  "message": "Clarify-GROMACS-relaxed-double-option-21510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d58ed202397a67ab624c4003dfcf765a7eec68a7",
+  "author": "marvinbernhardt <marvinbernhardt@users.noreply.github.com>",
+  "date": "2021-02-07T12:37:56+01:00",
+  "timestamp": 1612697876,
+  "message": "handle-other-architectures-than-Intel-21509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "204e8f4fa4671057b00632b28094125b3492e0d2",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-02-05T04:47:22-06:00",
+  "timestamp": 1612522042,
+  "message": "gromacs-added-v2021-21473",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc006a784775916b337a9d98345a689fc8e7dc28",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-01-25T15:40:55-06:00",
+  "timestamp": 1611610855,
+  "message": "Updated-gromacs-for-2021.rc1.-Updated-GMX_GPU-values-20797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89b9d07efaa7349e8e75f074bb818fd1e08ba422",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2021-01-19T09:26:35+00:00",
+  "timestamp": 1611048395,
+  "message": "gromacs-add-v2020.5-21144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f40d15c848eacc08c1502350d1ef2460771e67b",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-01-06T10:19:48+01:00",
+  "timestamp": 1609924788,
+  "message": "Gromacs-simplify-hwloc-dependency.-20619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dc56a293f7366cf839471c177673e88429b3b84",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2020-12-15T22:14:59+05:30",
+  "timestamp": 1608050699,
+  "message": "gromacs-removed-mentions-of-non-existing-variants-20405",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3252fb05faf7b71f4d101161152a92207bc21c6a",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2020-11-26T20:37:56+05:30",
+  "timestamp": 1606403276,
+  "message": "spack-recipe-for-gromacs-with-aocc-compiler-support-19745",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4a5a06e87c2176077c405d2ddb59e3783ae6518",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-11-01T13:16:59+01:00",
+  "timestamp": 1604233019,
+  "message": "gromacs-simplified-use-of-targets-19646",
+  "repo": "spack/spack"
+},
+{
+  "commit": "458d88eaad3c4e93210915ffa9b3bb64cc52d007",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-10-30T21:02:14+01:00",
+  "timestamp": 1604088134,
+  "message": "Make-archspec-a-vendored-dependency-19600",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4a64e1fbd8c1050b406b4031cbe062fb28ab507",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-10-29T17:08:13+01:00",
+  "timestamp": 1603987693,
+  "message": "Gromacs-Remove-a-dependency-that-could-never-be-enabled.-19599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4cf85ed5f715fc93fe88cabeed08f8dc94fc8e68",
+  "author": "Marty Kandes <mkandes@sdsc.edu>",
+  "date": "2020-10-23T16:58:13-07:00",
+  "timestamp": 1603497493,
+  "message": "Fix-GROMACS-to-require-FFTW-when-using-cuda-19505",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd178ead14a0e1e261e44c8b78c6d8cff3c886f3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-10-21T18:33:51+02:00",
+  "timestamp": 1603298031,
+  "message": "gromacs-fix-SIMD-argument-for-ppc64le-19435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b70597271232e442b9e729b45adaee02bccf8c0",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-10-06T13:52:48-06:00",
+  "timestamp": 1602013968,
+  "message": "gromacs-add-v2020.4-19208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92b8177b7713d830267bda40781e47ca97af6b3d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-09-22T21:11:35+02:00",
+  "timestamp": 1600801895,
+  "message": "gromacs-remove-rdtscp-variant-deduce-the-flag-from-the-target-18868",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2b33b444411872641f27b7a8728cd28d8fb934e",
+  "author": "Gvozden Neskovic <neskovic@gmail.com>",
+  "date": "2020-09-08T14:52:56+02:00",
+  "timestamp": 1599569576,
+  "message": "gromacs-add-zen2-target-SIMD-optimizations-18551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e05321c8fa28ede1a228c47b4f6b2e753124d0a",
+  "author": "Gvozden Neskovic <neskovic@gmail.com>",
+  "date": "2020-09-02T17:07:43+02:00",
+  "timestamp": 1599059263,
+  "message": "gromacs-add-support-for-opencl-build-18461",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1efa09928b540f9350d9b29503f1c5e1a38aa23",
+  "author": "g-mathias <40861554+g-mathias@users.noreply.github.com>",
+  "date": "2020-08-07T15:03:14+02:00",
+  "timestamp": 1596805394,
+  "message": "gromacs-new-version-2020.3-variant-nosuffix-and-mkl-support-17908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "577a88880ed63b832bc2b463cf0c5d5e36acd2c0",
+  "author": "Gilles Gouaillardet <ggouaillardet@users.noreply.github.com>",
+  "date": "2020-06-24T20:47:55+09:00",
+  "timestamp": 1592999275,
+  "message": "gromacs-fix-fftw-and-update-cmake-dependencies-17226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a56e6fce1fb8c6e6f1b1b0f7093dff0922f81a1",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-30T19:01:07-06:00",
+  "timestamp": 1588294867,
+  "message": "gromacs-add-v2020.2-16408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4360a918b1a9cfe9694fd23953f6fb4d9cf025e",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-10T12:36:26-06:00",
+  "timestamp": 1586543786,
+  "message": "gromacs-install-header-files-15996",
+  "repo": "spack/spack"
+},
+{
+  "commit": "774407078728faee465addc48f825a7da330d40a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-03-10T09:08:10-06:00",
+  "timestamp": 1583852890,
+  "message": "gromacs-remove-simd-variants-13636",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f69cc9ec8088daf369a008702c3922dc8dbf951",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-03-09T18:35:54+01:00",
+  "timestamp": 1583775354,
+  "message": "Gromacs-new-version-2020.1-15399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5329308b834ce2cf62a4e09d6f8c7a003bc388a1",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-02-28T13:58:31-07:00",
+  "timestamp": 1582923511,
+  "message": "gromacs-add-v2019.6-15267",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c4479624c73a35672c6d91e76e482cc2a96b5b5",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-01-13T01:45:20-07:00",
+  "timestamp": 1578905120,
+  "message": "gromacs-add-v2020-14477",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19c1312eb43c1b2316b638e6b924e5ea7bcdd8c8",
+  "author": "Gilles Gouaillardet <ggouaillardet@users.noreply.github.com>",
+  "date": "2020-01-03T06:16:22+09:00",
+  "timestamp": 1577999782,
+  "message": "gromacs-depend-on-hwloc-v1-14343",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "643cc95055a8d639e4b6bf321ba3cc50073c5bf6",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-12-23T16:24:03-07:00",
+  "timestamp": 1577143443,
+  "message": "gromacs-add-v2019.5-14285",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72eef17ff965330a69d176359e72f0cc8ca61d58",
+  "author": "Andras Wacha <awacha@users.noreply.github.com>",
+  "date": "2019-12-20T16:49:35+01:00",
+  "timestamp": 1576856975,
+  "message": "Added-hwloc-dependency-to-gromacs-14244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34f0195de8bf9c394ad33ec43b7209f6df790756",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-12-10T11:33:41-07:00",
+  "timestamp": 1576002821,
+  "message": "gromacs-2018.8-fix-checksum-14069",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd04538bb9406c169c1ff7bc02c6e6809c330583",
+  "author": "Hector Martinez-Seara <hseara@gmail.com>",
+  "date": "2019-11-14T19:00:36+01:00",
+  "timestamp": 1573754436,
+  "message": "Adding-final-bug-releases-for-the-gromacs-2016-and-2018-and-Plumed-13715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d35ae7f5f760c7afa2a68dc8dfed1062590d15d",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-11-06T12:24:14-07:00",
+  "timestamp": 1573068254,
+  "message": "gromacs-add-v2019.4-and-others-13617",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5116312ca231ba05666055768a351399aed60a3b",
+  "author": "Ricardo Silva <ricardo.silva@epfl.ch>",
+  "date": "2019-08-14T02:21:59+02:00",
+  "timestamp": 1565742119,
+  "message": "package-gromacs-simd-optimizations-autodetection-for-more-versions-12402",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5849ce04f34c359b8a14780b3239c30073b53f0",
+  "author": "Ricardo Silva <ricardo.silva@epfl.ch>",
+  "date": "2019-08-10T04:38:16+02:00",
+  "timestamp": 1565404696,
+  "message": "gromacs-fix-CPU-optimizations-detection-simd-auto-12354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "544914f34b4f57e51f05f3d3b60d72fedc0a995a",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-07-30T22:07:07+08:00",
+  "timestamp": 1564495627,
+  "message": "gromacs-added-version-4.5.5-12197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43dd6b341849f4a78482c948c7cf867f93ebb838",
+  "author": "Hironori-Yamaji <52182908+Hironori-Yamaji@users.noreply.github.com>",
+  "date": "2019-07-30T06:29:04+09:00",
+  "timestamp": 1564435744,
+  "message": "Gromacs-package-add-openmp-mdrun_only-double_precision-options-12150",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c628ca99cfb82357eab720a8dce33d311eca96bd",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-04-17T11:48:06-06:00",
+  "timestamp": 1555523286,
+  "message": "gromacs-added-2019-patch-releases-11211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a8c4cf071a760e3a86d5bfa7d32d5ab8dcf0629",
+  "author": "fcannini <fcannini@gmail.com>",
+  "date": "2019-03-20T00:54:03-03:00",
+  "timestamp": 1553054043,
+  "message": "gromacs-make-sure-cuda-support-is-disabled-when-cuda-False-10936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7571787a3ac95d612be30817f94eefbe6e492441",
+  "author": "marvinbernhardt <marvinbernhardt@users.noreply.github.com>",
+  "date": "2019-01-09T10:39:05+01:00",
+  "timestamp": 1547026745,
+  "message": "gromacs-added-simd-and-rdtscp-variants-version-2019-9931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78c7a8218c1d6269c0730ef99036d6b5e2f7ce83",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-11-13T09:02:59-07:00",
+  "timestamp": 1542124979,
+  "message": "gromacs-added-2018.-34-9828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4c84b7567bdab483a1d3d0c6a2ea6c1e911ca2f",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2018-08-11T22:21:32+08:00",
+  "timestamp": 1533997292,
+  "message": "Add-version-5.1.5-for-gromacs.-8948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1daedfdbf39eab450653e1b5c83c943d493b001",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2018-08-11T21:37:51+08:00",
+  "timestamp": 1533994671,
+  "message": "Gromacs-conflicts-with-cmake-3.10-.-8956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "391d89a8534afd3fdd06b385542a02d1feae6ee1",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2018-07-11T21:05:39+08:00",
+  "timestamp": 1531314339,
+  "message": "Bump-gromacs-versions.-8676",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fee111741f1fb70ee95e17ac9949a8eb53be2b9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-23T17:13:09+02:00",
+  "timestamp": 1527088389,
+  "message": "gromacs-added-version-2018.1-8251",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "274036bfed92b7ea9cebc3b60940f6ec43c984e2",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-03-06T10:37:45-07:00",
+  "timestamp": 1520357865,
+  "message": "gromacs-add-v2018-7050",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4db3d384ecd7b75ebf92a5ea0f3740c5137a8ab",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-11-02T08:16:21-06:00",
+  "timestamp": 1509632181,
+  "message": "gromacs-add-develop-version-6098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc237792b2d43977fa049456b7d4dfea46e82411",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-16T01:12:02-06:00",
+  "timestamp": 1505545922,
+  "message": "gromacs-added-2016.4-5376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1943589b50808d56be0a3cb43af5138baaf36f8",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-07T09:59:14-06:00",
+  "timestamp": 1491580754,
+  "message": "gromacs-added-5.1.4-and-2016.3-3758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c68295df2c0d45eaf79a882c81bd06b5b663e5a5",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-03-24T20:48:08+08:00",
+  "timestamp": 1490359688,
+  "message": "Add-cuda-support-for-gromacs.-3527",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b27e78cd78dae11f7fa7cc2ba3849cfcff2e1880",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-10-25T16:53:11+02:00",
+  "timestamp": 1477407191,
+  "message": "spack-setup-fixed-regression-after-1186-2117",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0f2c6c48673a9c65a1b0990e88b379d7f9678d2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-19T17:05:14-05:00",
+  "timestamp": 1471644314,
+  "message": "Add-latest-version-of-fftw",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38dcd6bce95f0167f6e22d65f3a8ff982059df15",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-08-09T09:54:24+02:00",
+  "timestamp": 1470729264,
+  "message": "qa-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15d9fb187916d94d4a11ed4654cbbb3c978001c4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-08-04T09:42:02+02:00",
+  "timestamp": 1470296522,
+  "message": "plumed-adding-dependents",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30c304748213bee3669c75d4384bad146f68dbd7",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-19T12:39:38+01:00",
+  "timestamp": 1455881978,
+  "message": "gromacs-added-package",
+  "repo": "spack/spack"
+}]

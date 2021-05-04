@@ -1,0 +1,80 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f836d93da1361dc0dc982a4cbf611e9e05ced0d0",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-04T23:01:30+02:00",
+  "timestamp": 1599253290,
+  "message": "rocksdb-Add-6.11.4-18503",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8635c0d804ee0f143e36b08e99b19e83652d27a3",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-20T23:16:51+02:00",
+  "timestamp": 1587417411,
+  "message": "rocksdb-Add-6.7.3-16189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a48fb69601340a9f9db65be04d5f62a0092eb631",
+  "author": "Olaf Mersmann <olafm@p-value.net>",
+  "date": "2020-01-16T01:50:24+01:00",
+  "timestamp": 1579135824,
+  "message": "Update-RocksDB-to-current-version-14524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31e5318c240e12d59b01972cbaf92680ef4be6bd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:02:08+02:00",
+  "timestamp": 1569484928,
+  "message": "Removed-references-to-march-mtune-mcpu-native-12948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8b12f0cb6ee74f7cffe617e86261b2e11238573",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-07-24T12:33:05+09:00",
+  "timestamp": 1563939185,
+  "message": "rocksdb-Don-t-add-march-native-on-ARM-and-gcc-5.x-or-before.-12108",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d313291c2de7d69c57fd32ba31d05525aa88a7c0",
+  "author": "Omar Awile <omar.awile@gmail.com>",
+  "date": "2018-12-18T00:36:45+01:00",
+  "timestamp": 1545089805,
+  "message": "Added-RocksDB-package-10084",
+  "repo": "spack/spack"
+}]

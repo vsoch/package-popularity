@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d085d53ebcd5808ea5c49d8fd68d8d5d4a589dfe",
+  "author": "Chen Wang <wangvsa@gmail.com>",
+  "date": "2020-11-06T21:11:49-06:00",
+  "timestamp": 1604718709,
+  "message": "New-version-of-Recorder-2.1.6-19760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "680c1b339aa6b314da8463ed96ac325e1fcd103a",
+  "author": "Chen Wang <wangvsa@gmail.com>",
+  "date": "2020-08-27T11:55:04-05:00",
+  "timestamp": 1598547304,
+  "message": "New-version-Recorder-2.1.5-18327",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fc6bdabef70ac812be8ad17eda98beb611d4111",
+  "author": "Chen Wang <wangvsa@163.com>",
+  "date": "2020-08-27T07:47:21-05:00",
+  "timestamp": 1598532441,
+  "message": "Add-a-new-package-Recorder-18297",
+  "repo": "spack/spack"
+}]

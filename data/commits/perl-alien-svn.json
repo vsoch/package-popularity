@@ -1,0 +1,24 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a2fe8add38e5c088c74bd520f40f7ace27eadce",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-23T15:33:39+00:00",
+  "timestamp": 1611416019,
+  "message": "Fix-git-svn-modules-21169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c500ea80c3ac1b838d9e0700999c5b5b4070ed5a",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-18T17:39:56-05:00",
+  "timestamp": 1611009596,
+  "message": "Add-SVN-extension-to-Git-20939",
+  "repo": "spack/spack"
+}]

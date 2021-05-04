@@ -1,0 +1,16 @@
+[{
+  "commit": "9c91aeffa8ee0e514c6ef02fd4e2c9b1d96e94ce",
+  "author": "a-saitoh-fj <63334055+a-saitoh-fj@users.noreply.github.com>",
+  "date": "2021-03-25T09:32:29+09:00",
+  "timestamp": 1616632349,
+  "message": "py-dask-glm-Added-document-build-22293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d1fbddebe6eea3662dd8c6471a92cf21677ae13",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2021-02-22T10:03:05+09:00",
+  "timestamp": 1613955785,
+  "message": "py-dask-glm-Add-new-package.-21828",
+  "repo": "spack/spack"
+}]

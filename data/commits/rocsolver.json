@@ -1,0 +1,64 @@
+[{
+  "commit": "43bdbc8234f7a9b6a16247f82c0dee9c4c031e15",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-07T17:16:56-04:00",
+  "timestamp": 1617830216,
+  "message": "bumpup-version-for-rocm-debug-agent-rocprofiler-rocsolver-for-rocm-4.-22722",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4acf74091d6d6e2e9914bf9380ffde1cfb1ca4f",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-05T04:32:03+05:30",
+  "timestamp": 1609801323,
+  "message": "bump-up-rocm-math-libs-recipes-for-rocm-4.0.0-release-20651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1b9a00a13fc942e0b54a9c766cff96e7b1eb743",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T17:10:54+05:30",
+  "timestamp": 1606995654,
+  "message": "bumpup-the-version-for-rocm-3.10.0-release-20227",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1ca2a43467e45779e04055c0d7df00f518d049f",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-11-11T21:54:25+05:30",
+  "timestamp": 1605111865,
+  "message": "ROCm3.9-recipe-for-rocblas-hipblas-rocsolver-19841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5558bc2b50a13b7b51ac69cfd26142d2769ae684",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-30T15:27:40-07:00",
+  "timestamp": 1601504860,
+  "message": "rocm-3.8.0-updates-for-hipblas-rocsolver-miopen-hip-rocalution-rocmvalidationsuite-19031",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a474d9d67c1e9b17677ba392b01e3f05f7b55f0",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-09-10T15:32:41-07:00",
+  "timestamp": 1599777161,
+  "message": "recipes-changes-for-hipblas-rocprim-rocfft-rocsolver-for-rocm3.7.0-18495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ebe5a5652cbc50aced28f19cdf8a5476fd111e55",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-20T21:55:02+02:00",
+  "timestamp": 1597953302,
+  "message": "Add-rocSPARSE-rocSOLVER-hipSPARSE-and-hipBLAS-18108",
+  "repo": "spack/spack"
+}]

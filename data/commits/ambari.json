@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d1002750e7b60769ef1843ffbcfe6baa09547a3",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-10-20T23:56:05+08:00",
+  "timestamp": 1603209365,
+  "message": "refine-setuptools-version-to-avoid-spec-conflict-19384",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df2cfd26cd03e29b9898fe79c804c78f2d29cbd0",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-23T18:43:12+08:00",
+  "timestamp": 1587638592,
+  "message": "ambari-added-package-at-v2.7.5-16149",
+  "repo": "spack/spack"
+}]

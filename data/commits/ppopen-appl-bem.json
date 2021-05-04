@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "680c0ac06d61e2c1f743622a8a8fea9ffb5b195a",
+  "author": "daichi-nishi <70185009+daichi-nishi@users.noreply.github.com>",
+  "date": "2020-10-23T05:02:41+09:00",
+  "timestamp": 1603396961,
+  "message": "modified-var-spack-repos-builtin-packages-ppopen-appl-bem-package.py-19460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f6f395337988ad8b35d9603a5f54abf38b91e3c",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-04-02T19:08:09+09:00",
+  "timestamp": 1585822089,
+  "message": "ppOpen-APPL-BEM-added-new-package-at-v0.5.0-15819",
+  "repo": "spack/spack"
+}]

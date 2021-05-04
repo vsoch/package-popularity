@@ -1,0 +1,48 @@
+[{
+  "commit": "61e00ac1e1903f0d924ef4691b45f799a9befffc",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-03-02T10:42:05+01:00",
+  "timestamp": 1614678125,
+  "message": "nim-add-v1.4.4-22004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b61607e3c4aeb9b48ed2af912620ebb1c9325f3d",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-02-22T17:30:39+09:00",
+  "timestamp": 1613982639,
+  "message": "nim-add-v1.4.2-deprecated-old-versions-21790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1ce1dd163d498444be978bf18bb4289dde5f1c3",
+  "author": "xfzhao <xfzhao@iastate.edu>",
+  "date": "2019-07-12T19:03:26-05:00",
+  "timestamp": 1562976206,
+  "message": "New-package-Nim-11649",
+  "repo": "spack/spack"
+}]

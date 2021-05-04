@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c52d9dc445ef150136427ca0e88c4cf327324be7",
+  "author": "thelfer <thomas.helfer@cea.fr>",
+  "date": "2020-12-16T10:40:34+01:00",
+  "timestamp": 1608111634,
+  "message": "Added-TFEL-v3.4-and-MGIS-v1.2-20234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff2367259147fc70a20f35ccbd4681e47812a2dc",
+  "author": "thelfer <thomas.helfer@cea.fr>",
+  "date": "2020-01-09T16:32:17+01:00",
+  "timestamp": 1578583937,
+  "message": "new-versions-of-TFEL-and-MGIS-14249",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff9b03edc3312e48ed4e03fca50ea2a0bfbc75b7",
+  "author": "thelfer <thomas.helfer@cea.fr>",
+  "date": "2019-11-13T22:35:09+01:00",
+  "timestamp": 1573680909,
+  "message": "Fix-mgis-package-dependency-on-boost-numpy-13717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b5d7bfa990bcfda8b40a5a11031116906024294",
+  "author": "thelfer <thomas.helfer@cea.fr>",
+  "date": "2019-04-08T09:09:14+02:00",
+  "timestamp": 1554707354,
+  "message": "Add-new-TFEL-versions-3.0.4-3.1.4-and-3.2.1-.-Add-new-MGIS-version-1.0.1-.-11109",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3caad4cd76462fa1ae88fe84f4c6061b0edac5b",
+  "author": "thelfer <thomas.helfer@cea.fr>",
+  "date": "2019-01-08T22:07:47+01:00",
+  "timestamp": 1546981667,
+  "message": "New-package-MGIS-10273",
+  "repo": "spack/spack"
+}]

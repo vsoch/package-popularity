@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b78a010d8d7ba37d7bf0d7b8ba95a7a88f49855",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-09-02T09:03:56-06:00",
+  "timestamp": 1599059036,
+  "message": "Updated-Hugo-package.-18443",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66cec5a151c20bf1ee80f12f1e247596ef9241f9",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2020-04-07T20:27:23-07:00",
+  "timestamp": 1586316443,
+  "message": "Update-hugo-version-and-add-extended-variant-15933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f9fe02309c7fc52197458cd50b8b93926964f76",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-01-16T04:11:15-08:00",
+  "timestamp": 1547640675,
+  "message": "Add-package-for-Hugo-static-website-generator-10358",
+  "repo": "spack/spack"
+}]

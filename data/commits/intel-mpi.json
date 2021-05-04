@@ -1,0 +1,304 @@
+[{
+  "commit": "1ac2cc5081332090d3149ec00943c6376eefcca0",
+  "author": "William Downs <wdowns@g.harvard.edu>",
+  "date": "2021-03-01T14:40:41-05:00",
+  "timestamp": 1614627641,
+  "message": "intel-mpi-add-version-2019.9.304-and-2019.10.317-22017",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ea597c79a45a7ae7b594cbb532fa527815b63c4",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-07-30T05:18:32+02:00",
+  "timestamp": 1596079112,
+  "message": "Intel-packages-new-versions-17692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28549f300d9c69ee7386f7b54fc1330d0e9652bd",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-07-05T18:10:28+02:00",
+  "timestamp": 1593965428,
+  "message": "inel-mpi-fix-for-wrong-structure-name-instroduced-in-ea8a0be4-17382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7717f00dacdaa3ace12b0d4408883361327e2f75",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-05T11:09:24-05:00",
+  "timestamp": 1593965364,
+  "message": "Fix-Intel-MPI-super-invocation-again-17378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb15addad5226fd64a4bfe824669376e270e9db8",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-07-05T18:10:28+02:00",
+  "timestamp": 1593965428,
+  "message": "inel-mpi-fix-for-wrong-structure-name-instroduced-in-ea8a0be4-17382",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9e3e88f637dcaa8e3d7a463c6af03ce77c49ce1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-05T11:09:24-05:00",
+  "timestamp": 1593965364,
+  "message": "Fix-Intel-MPI-super-invocation-again-17378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8e6a9e5358f0b57dc88478e9b61aa1bb959b6ec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-26T14:04:35-05:00",
+  "timestamp": 1593198275,
+  "message": "Fix-super-invocation-in-Intel-packages-17248",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea8a0be465b0329cfb4a6b29e02da0dbb4650f6e",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-12T14:05:12-07:00",
+  "timestamp": 1591995912,
+  "message": "add-compilers-to-mpi-setup_run_environment-methods-forall-mpi-implementations-17015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37e9e450c94a7f5ff94e4267f7b8d10acaf79824",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-04-03T02:39:44+02:00",
+  "timestamp": 1585874384,
+  "message": "Updates-versions-of-Intel-packages-15839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b1958219867f6fd140557caf753280e6d97a3a5",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-02-06T16:20:01+01:00",
+  "timestamp": 1581002401,
+  "message": "update-version-intel-packages-daal-ipp-mkl-dnn-mkl-mpi-parallel-14783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f07131a390746694051d0889d8b3311709c1e6b6",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-11-28T00:04:48+08:00",
+  "timestamp": 1574870688,
+  "message": "Bump-intel-compiler-suite-to-2019u5.-13835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad1ad83664d25057983542be9744eebfce189fed",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-26T16:48:32-06:00",
+  "timestamp": 1574808512,
+  "message": "IntelPackage-setup_env-setup_build_env-13888",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91ef079511bae6d14837d1fc38d5f061843d8b9f",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-06-16T00:19:58-04:00",
+  "timestamp": 1560658798,
+  "message": "intel-add-version-19.0.4-11741",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c81e68030a5a5c0fb62bb2c3ba271441ed33a6a8",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-08T23:50:58+01:00",
+  "timestamp": 1552085458,
+  "message": "intel-add-2019.3-10843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "128af27c2188d5ef947593f15b309c169a4b068e",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-20T08:30:53-07:00",
+  "timestamp": 1542727853,
+  "message": "Add-2019.1-and-2018.4-version-of-the-Intel-performance-libraries.-9899",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79eaa1611823fcbcde3436b7c56c01cede0d32b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-25T04:27:43+02:00",
+  "timestamp": 1537842463,
+  "message": "intel-add-2019.0-9328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a86f22d755887c66b03b62c8be2fa708b79fad0a",
+  "author": "Michael Sternberg <sternberg@anl.gov>",
+  "date": "2018-08-29T23:09:34-05:00",
+  "timestamp": 1535602174,
+  "message": "Intel-prefixes-7469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ba8c0cb58418547d4f9db2336725bf4c4d2e9d9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-20T14:56:53+02:00",
+  "timestamp": 1534769813,
+  "message": "update-Intel-packages-2018.u5-for-TBB-and-2018.u3-for-the-others-8928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adf972e7ff3f91d5febeaeb37a7879760cbe8d80",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-03-23T13:49:59+01:00",
+  "timestamp": 1521809399,
+  "message": "intel-performance-libraries-add-2018.2-7569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb5fd6035aa2d1d497ec614df73377c171080333",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-11-15T21:13:15+01:00",
+  "timestamp": 1510776795,
+  "message": "intel-add-2018.1-6322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "957ded209a64b4d904e21b9a72a76c36d2eb8279",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-29T22:38:10+01:00",
+  "timestamp": 1509313090,
+  "message": "add-updated-2017-versions-of-Intel-packages-5957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05b309a487fecb126cd6f4d057187410260e7a09",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-16T10:10:08+02:00",
+  "timestamp": 1505549408,
+  "message": "add-Intel-2018-libraries-5354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db657d938d38775e4364a6917cc78cb9cdb0b133",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-16T12:21:07-05:00",
+  "timestamp": 1502904067,
+  "message": "Refactor-IntelInstaller-into-IntelPackage-base-class-4300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8919b07cab4118abc003073abec92ba6e255a7c",
+  "author": "Kyle Fernandes, né Jacobs <kylefernandes@users.noreply.github.com>",
+  "date": "2017-06-16T18:18:25+01:00",
+  "timestamp": 1497633505,
+  "message": "Update-intel-packages-4528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f06c23ef42835fd5bac96f35608132bee0dcd6f9",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2017-06-14T20:11:30+02:00",
+  "timestamp": 1497463890,
+  "message": "Adding-package-namd-4321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "306f158c733801cda6eacf74e3349b510cf90867",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-05T18:24:04+02:00",
+  "timestamp": 1494001444,
+  "message": "cp2k-fixed-compilation-issues-for-intel-stack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94a0cca080f1cd27ca5eaa6dc3c470bb541f4b34",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-22T14:30:51+02:00",
+  "timestamp": 1492864251,
+  "message": "add-Intel-mpi-package-and-add-MPI-wrappers-to-Intel-parallel-studio-3905",
+  "repo": "spack/spack"
+}]

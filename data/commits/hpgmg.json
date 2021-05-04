@@ -1,0 +1,144 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31e5318c240e12d59b01972cbaf92680ef4be6bd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-26T10:02:08+02:00",
+  "timestamp": 1569484928,
+  "message": "Removed-references-to-march-mtune-mcpu-native-12948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f716b7ffa5ae56633b136f35b3c7fe3ffbc457d",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-07-30T08:53:59+09:00",
+  "timestamp": 1564444439,
+  "message": "hpgmp-package-Don-t-add-cpu-native-on-ARM-when-using-gcc-5.x-or-before-12034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbcf243d37c69c149fda30a60d4e516b8ba08e2b",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-02-26T06:35:17-07:00",
+  "timestamp": 1519652117,
+  "message": "hpgmg-more-sane-defaults-for-a-proxy-7330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74ffd8b6bece653a2c8f881ad557b1c8484707c0",
+  "author": "Jed Brown <jed@jedbrown.org>",
+  "date": "2018-02-09T20:01:49-07:00",
+  "timestamp": 1518231709,
+  "message": "hpgmg-package-add-debug-option-and-new-version-7175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "969c8b177f0496cb63c5bab2bb0933d0d0247a50",
+  "author": "jiseung <anna.jiseung@gmail.com>",
+  "date": "2017-10-20T19:34:55-05:00",
+  "timestamp": 1508546095,
+  "message": "new-package-hpgmg-4888",
+  "repo": "spack/spack"
+}]

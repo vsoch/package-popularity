@@ -1,0 +1,168 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b114c486f4f2bddfb3471382bc65de53f3bf3a9",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2020-03-11T20:06:18+10:00",
+  "timestamp": 1583921178,
+  "message": "kealib-moved-to-github-added-v1.4.12-15436",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "511f84dd8cb5ec3b1096374a723e017d4dfa6f0f",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-07-26T13:14:46-07:00",
+  "timestamp": 1564172086,
+  "message": "kealib-fix-incorrect-md5sum-for-v1.4.11-12126",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2831184e41aa261240217752cfc42919f89031af",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2019-02-27T10:39:27+10:00",
+  "timestamp": 1551227967,
+  "message": "kealib-package-add-version-1.4.11-10706",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a136d6db2d12be8788c34993c5e6f4edeb00bb3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-19T21:21:06-05:00",
+  "timestamp": 1532053266,
+  "message": "Add-kealib-1.4.10-8769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "795e701ae332b3740604325338c93bfb21f4f39b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-06-28T10:51:30-05:00",
+  "timestamp": 1530201090,
+  "message": "Add-kealib-1.4.9-8597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b477868a5fd4f7d928cf61448492dfde0fa2cbfc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-06-20T13:51:33-05:00",
+  "timestamp": 1529520693,
+  "message": "Add-kealib-1.4.8-8522",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b9980256f83fddbdfed83e861556ee9c75d89f1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-23T18:36:12-05:00",
+  "timestamp": 1527118572,
+  "message": "Add-kealib-1.4.7-8235",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14076c52f13977381b273e433c0e5de82b9fe28c",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-08-11T15:24:40-07:00",
+  "timestamp": 1502490280,
+  "message": "packages-need-to-reference-self.spec-instead-of-spec-5075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7df12f69826448fd9af875e44348b8f8d0ff067",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-05T10:15:18-05:00",
+  "timestamp": 1501946118,
+  "message": "Massive-conversion-from-Package-to-CMakePackage-4975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "540e57f02686bad7125a951d14784e8fcc896e26",
+  "author": "Josh Sixsmith <josh.sixsmith@gmail.com>",
+  "date": "2016-03-25T18:27:02+11:00",
+  "timestamp": 1458890822,
+  "message": "Upload-of-GDAL-kealib-openjpeg-py-tuiview-package-builds",
+  "repo": "spack/spack"
+}]

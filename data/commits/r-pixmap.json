@@ -1,0 +1,16 @@
+[{
+  "commit": "184fb792f5f2e947d5bc12eedd6d0e010ebacacd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-16T08:20:09-06:00",
+  "timestamp": 1610806809,
+  "message": "fix-list_url-for-r-packages-20955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad0c0e81fdd13df865d79704a57d1660cced3421",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-15T03:51:35-06:00",
+  "timestamp": 1610704295,
+  "message": "r-pixmap-added-new-package-20795",
+  "repo": "spack/spack"
+}]

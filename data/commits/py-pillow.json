@@ -1,0 +1,304 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1bfc426b077f2cf3259458176269da4289fbe15",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-10-15T05:13:04-07:00",
+  "timestamp": 1602763984,
+  "message": "Py-Pillow-added-v8.0.0-19320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "098beee2953e4a0d8907f88f1fd88d5efd57ee42",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:39:35-05:00",
+  "timestamp": 1599154775,
+  "message": "Pillow-SIMD-use-as-default-PIL-provider-18097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3a571e5c3e0ba6a7b8d0ca7aace03c9b783e774",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-09T06:43:29-05:00",
+  "timestamp": 1596973409,
+  "message": "PIL-add-py-pillow-7.2.0-17933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c969fffbf03fea7fefeb4923aa630d0cb4740995",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-19T20:35:22+01:00",
+  "timestamp": 1582140922,
+  "message": "Add-extra-version-of-py-pillow-15060",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b072caadeced9ed1eda97825d9242849294f7362",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-01-30T15:42:48-05:00",
+  "timestamp": 1580416968,
+  "message": "fix-py-pillow-build_ext-vs.-install-14666",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed4d544e8fac7b5faa5918d4ed0d9ee9adc7d95e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-29T13:24:44-06:00",
+  "timestamp": 1580325884,
+  "message": "Fix-py-pillow-tests-14670",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7f4d1a02e6d38c655fb74801e27cc021650a554",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-04T22:49:39-06:00",
+  "timestamp": 1578199779,
+  "message": "Overhaul-py-pillow-package-14385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcc9a668bf6d72ffd40280fa37d6bb8ee6bc6d01",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-12-05T12:27:33-05:00",
+  "timestamp": 1575566853,
+  "message": "py-pillow-allow-older-versions-to-build-with-python-3.4-14000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d61743561bc311deb3b47c08d6b0e247c41c925c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-13T19:45:23-05:00",
+  "timestamp": 1571013923,
+  "message": "Add-py-pillow-6.2.0-13175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e18359bd824a67f573be0a51139d22538b2dd35d",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-06-22T17:02:27-06:00",
+  "timestamp": 1529708547,
+  "message": "Updating-py-pillow-with-change-in-checksum-for-version-5.1.0.-8547",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80564fae5df952eb8544272e178d283bac0c0f57",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-05-28T20:15:18-05:00",
+  "timestamp": 1527556518,
+  "message": "py-pillow-update-version-and-fix-jpeg-dependency-8300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afc4f9c3c2d464b2e1e25ace359e230fbc24fd6a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-06T11:45:00-05:00",
+  "timestamp": 1502037900,
+  "message": "Download-from-pypi.io-not-pypi.python.org-4981",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6e3ad4d9058cacca1a01ffefae53bb354a75961",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-06-16T23:43:18+10:00",
+  "timestamp": 1497620598,
+  "message": "py-pillow-ensure-that-RPATH-includes-graphics-libraries-4522",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a954d0976af30df460689fa817599f6c221b252a",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-09-14T16:52:33-04:00",
+  "timestamp": 1473886353,
+  "message": "Put-back-full-length-URL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "595ec7e0345c3b1831efbcd39f8b254e3a5fe396",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-09-14T16:50:17-04:00",
+  "timestamp": 1473886217,
+  "message": "Bug-fix-capturing-which-packages-work-with-which-binutils",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a1df7e0b22409d0cf9265fbc7952adb442212e2",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-09-14T10:56:08-04:00",
+  "timestamp": 1473864968,
+  "message": "Resolved-issues-of-py-pillow-py-scipy-and-binutils-dependencies.-Resolves-1506",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7ffb2c1a4526acf11edbf121770adcb058fc228",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-21T15:21:53-05:00",
+  "timestamp": 1466540513,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2efc67da607f29b9246ad70cb74a4ba5f35f8107",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-21T14:50:33-05:00",
+  "timestamp": 1466538633,
+  "message": "Remove-tk-variant-provide-pil",
+  "repo": "spack/spack"
+},
+{
+  "commit": "652a5eb5924415bd7d8c9d568f33f7dab211d998",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-17T18:09:03-05:00",
+  "timestamp": 1466204943,
+  "message": "Allow-py-pillow-to-link-to-Spack-built-libraries",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14f073d410abb599801fb933e5518fdc43cea7ef",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-03T15:46:53-04:00",
+  "timestamp": 1459712813,
+  "message": "py-pillow-Updated-for-variants-but-still-having-trouble-getting-it-to-use-Spack-supplied-libjpeg",
+  "repo": "spack/spack"
+}]

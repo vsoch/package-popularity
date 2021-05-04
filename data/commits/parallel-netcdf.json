@@ -1,0 +1,264 @@
+[{
+  "commit": "6447ec6ff5007a5cc15882f2bcd661de62a5c619",
+  "author": "Sergei Shudler <shudler1@llnl.gov>",
+  "date": "2021-02-08T11:21:52-08:00",
+  "timestamp": 1612812112,
+  "message": "Smoke-test-for-parallel-netcdf-package-21400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a49c2bcafe69bac2164a7d6bfcffa83e07e090b",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-10-11T03:50:25+02:00",
+  "timestamp": 1602381025,
+  "message": "parallel-netcdf-patch-for-PGI-on-Cray-18972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba04e8b890134081d46681f3589a193095615e13",
+  "author": "MichaelLaufer <70094649+MichaelLaufer@users.noreply.github.com>",
+  "date": "2020-10-11T03:56:51+03:00",
+  "timestamp": 1602377811,
+  "message": "parallel-netcdf-added-burst-buffer-variant-19237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c41f13ef976e2ade652ccb2afbf4624473386f7e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-23T10:18:27+02:00",
+  "timestamp": 1592900307,
+  "message": "parallel-netcdf-add-missing-perl-dependency-17156",
+  "repo": "spack/spack"
+},
+{
+  "commit": "308f016f31fda65c50534ef351cc4f7a6405c03d",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-13T16:44:50+02:00",
+  "timestamp": 1589381090,
+  "message": "parallel-netcdf-fix-build-with-gcc-10-16620",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7118e24664a62f193fb86c2178e02033a219e834",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-03-10T17:29:57+01:00",
+  "timestamp": 1583857797,
+  "message": "Parallel-netcdf-update-package.-15359",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5052ce803d73aac0b8ce84280cb054623f129b87",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-12-18T12:45:19-07:00",
+  "timestamp": 1576698319,
+  "message": "PNETCDF-Update-to-include-latest-release-1.12.1-14213",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ff95dbd85159e4fb167f4c41f90fa334e680d23",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-08-23T16:03:25-06:00",
+  "timestamp": 1566597805,
+  "message": "parallel-netcdf-package-add-version-1.11.2-12502",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5cd593743e8bb19a3d6fe8bfd7b0c20437b108d2",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-05-14T14:15:38-06:00",
+  "timestamp": 1557864938,
+  "message": "PNetCDF-package-enable-option-required-by-NetCDF-11420",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d9d8171bb87784de5820d76ade9100375a31468",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-05-03T14:30:35-04:00",
+  "timestamp": 1556908235,
+  "message": "PARALLEL-NETCDF-add-version-1.11.1-11329",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f40813004dd4c36fc391605c442fb8761db73f2",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2019-01-01T18:55:29-07:00",
+  "timestamp": 1546394129,
+  "message": "PARALLEL-NETCDF-Update-new-version-and-location-10172",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "231888f3e97b72a3983c56958aa6792fd16bf41f",
+  "author": "Greg Sjaardema <gsjaardema@gmail.com>",
+  "date": "2018-12-04T07:31:41-07:00",
+  "timestamp": 1543933901,
+  "message": "PNETCDF-Update-with-current-versions-9982",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5641c1923b3b4c312cb7f7a37000b3666cadcd0d",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-05-18T11:12:43-06:00",
+  "timestamp": 1526663563,
+  "message": "Turning-off-parallel-during-make-install-for-parallel-netcdf.-8186",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b63cc6ad6ca1a908064bd4bc73f53dd9d2fe91e",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-11-22T22:34:21-07:00",
+  "timestamp": 1511415261,
+  "message": "Using-MPI-environment-compiler-variables-for-pnetcdf.-6424",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6681fc1a477d0db98b8835333bfeecfcf5d2b773",
+  "author": "Carlos Bederián <zzzoom@gmail.com>",
+  "date": "2017-02-21T04:19:45+02:00",
+  "timestamp": 1487643585,
+  "message": "parallel-netcdf-use-spack_cc-for-sequential-code-instead-of-system-gcc-3143",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e317f2639c671ae64e7647599f9d6e9be07b744a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-23T17:30:01-06:00",
+  "timestamp": 1485214201,
+  "message": "Add-latest-version-of-PnetCDF-2906",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d24186ea8445bf299bfc1be93af8dc90a033031c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-19T16:26:47-06:00",
+  "timestamp": 1482186407,
+  "message": "Update-PnetCDF-to-AutotoolsPackage-2637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e03e87b79186c21c3db084056363bea4db8dba04",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-15T15:57:54-04:00",
+  "timestamp": 1460750274,
+  "message": "1.-Added-variants-to-choose-language-interfaces.-2.-Now-produces-relocatable-code-fpic-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abe744c5a099fd988ff3fe5eb1d50cca7a633d74",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-12T16:53:45-05:00",
+  "timestamp": 1460498025,
+  "message": "Add-latest-version-of-PnetCDF",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f340315341a125bd01d0c844efc83454e531ca5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-28T15:41:58-06:00",
+  "timestamp": 1454017318,
+  "message": "Add-PnetCDF-and-M4-packages",
+  "repo": "spack/spack"
+}]

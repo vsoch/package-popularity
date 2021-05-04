@@ -1,0 +1,8 @@
+[{
+  "commit": "4d288a802e55ca2c76282de281f140bb923529f7",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-04-09T18:26:58+02:00",
+  "timestamp": 1617985618,
+  "message": "New-Package-STRIPACK-22544",
+  "repo": "spack/spack"
+}]

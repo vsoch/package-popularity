@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f48ac5eb640ab17d4133bcb3b4e2ce02910cbcd",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-24T09:47:19+08:00",
+  "timestamp": 1600912039,
+  "message": "Add-new-package-libkcapi-18777",
+  "repo": "spack/spack"
+}]

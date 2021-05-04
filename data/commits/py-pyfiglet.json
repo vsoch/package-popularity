@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a91dbcfa8cdee131b4c5d510a408a276a4af5f9c",
+  "author": "Andrew-Dunning-NNL <67964561+Andrew-Dunning-NNL@users.noreply.github.com>",
+  "date": "2021-01-13T13:54:40-05:00",
+  "timestamp": 1610564080,
+  "message": "py-pyfiglet-new-recipe-20792",
+  "repo": "spack/spack"
+}]

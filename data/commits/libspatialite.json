@@ -1,0 +1,96 @@
+[{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f2f82d388221c472d0310d5afd90a218f73c359",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2021-01-05T23:16:25-08:00",
+  "timestamp": 1609917385,
+  "message": "libspatialite-added-v5.0.0-20293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c323e49bfa934d7103c2390ba3c313ef3d5bd93",
+  "author": "Elizabeth Fischer <eafischer2@alaska.edu>",
+  "date": "2020-05-04T20:44:54-04:00",
+  "timestamp": 1588639494,
+  "message": "libspatialite-Update-for-proj-6-16173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52894f5c718bb3b4605e2f1dc7ed09ffb9aab18c",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-12-18T20:46:45+01:00",
+  "timestamp": 1576698405,
+  "message": "Fix-pkgconfig-dependencies-14175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5860d89b7aaca7891d76a1b8fec10321c756136",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-09-25T18:48:48-07:00",
+  "timestamp": 1569462528,
+  "message": "libspatialite-package-add-version-3.0.1-and-missing-dependencies-12843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c3137a20368d6f31f8ec1440287dcbcd2bbc388",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-17T22:48:16-05:00",
+  "timestamp": 1560829696,
+  "message": "Restrict-libspatialite-to-proj-5-11752",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3557b6e14903c02bcc0a19b34c8b4c64f3d05ca3",
+  "author": "Neil Flood <neilflood@fastmail.fm>",
+  "date": "2018-11-23T05:54:52+10:00",
+  "timestamp": 1542916492,
+  "message": "libspatialite-new-package-9923",
+  "repo": "spack/spack"
+}]

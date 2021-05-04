@@ -1,0 +1,88 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bead81fab521ab6f77a5217ae9c03248350dc501",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-10-12T17:07:21+02:00",
+  "timestamp": 1602515241,
+  "message": "whizard-Disable-parallel-builds-to-avoid-race-condition-19270",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31772844d8f7ed693ff0d03e0f84a5b6c917d4a6",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-10-11T03:07:43+02:00",
+  "timestamp": 1602378463,
+  "message": "whizard-Add-compiler-constraints-and-minimal-ocaml-version-19231",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1482be8f27ea4c6117f34a2677e0e6a2bd83227",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-10-02T15:15:23+02:00",
+  "timestamp": 1601644523,
+  "message": "whizard-add-version-2.8.5-19125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62128f13513ce095217bd7411cc7dd93a54343d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-29T06:02:45+02:00",
+  "timestamp": 1598673765,
+  "message": "whizard-update-ocaml-dependency-18309",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e83f639c13031cfb658a77372757952a8ab8f748",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-09T14:54:26+02:00",
+  "timestamp": 1596977666,
+  "message": "HEP-versions-update-17927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be068038048808c206e20b2a4d4ee41e0345f9d9",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-25T00:25:57+02:00",
+  "timestamp": 1595629557,
+  "message": "WHIZARD-package-add-LCIO-dependency-Openloops-support-17658",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9385998a8d4b9ce0ff1493c84d5ee27d40a53b9",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-30T17:38:15+02:00",
+  "timestamp": 1593531495,
+  "message": "whizard-Fix-Runtime-Compiler-Paths-17300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36e603c7d6189c63caffc4e4b011f1491d543473",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-23T08:56:23+02:00",
+  "timestamp": 1592895383,
+  "message": "whizard-added-zlib-as-a-dependency-17205",
+  "repo": "spack/spack"
+},
+{
+  "commit": "735416dbf490252d53f5503cb44dd6a9e028034e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-22T20:16:06+02:00",
+  "timestamp": 1592849766,
+  "message": "HEP-generator-update-evtgen-tauola-photos-pythia8-lhapdf-whizard-16880",
+  "repo": "spack/spack"
+}]

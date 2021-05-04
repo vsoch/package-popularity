@@ -1,0 +1,1128 @@
+[{
+  "commit": "3729fcdb4b0c996e96c068d4e3d89dcd200d2e0f",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-05-01T18:56:14-04:00",
+  "timestamp": 1619909774,
+  "message": "gcc-Explicitly-disable-bootstrapping-23360",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20791b58827e405eee58d8c68ed4a24f35948bc6",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-28T14:17:55+02:00",
+  "timestamp": 1619612275,
+  "message": "gcc-add-v11.1.0-23294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b2a26022b9f58f69a2e0c42447b246d3a209886",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-23T17:45:18-04:00",
+  "timestamp": 1619214318,
+  "message": "gcc-package-fix-build-with-nvptx-23165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "730fbae463589816ffec55bc9db75949b8e68688",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-21T22:17:08+02:00",
+  "timestamp": 1619036228,
+  "message": "Disable-multithreaded-version-of-zstd-by-default-23167",
+  "repo": "spack/spack"
+},
+{
+  "commit": "febeca2b0544199580d50d822d982a31c8801995",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-21T18:25:14+02:00",
+  "timestamp": 1619022314,
+  "message": "Fix-GCC-with-zstd-on-CCentOS-7-where-it-doesn-t-consider-the-lib64-directory-23169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e49e74abd2d4d9a8f0df3746404b50987ef0e28",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-17T01:16:08+02:00",
+  "timestamp": 1618614968,
+  "message": "Depend-on-binutils-with-ld-and-plugins-in-GCC-22989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bff713aeb200a38b1c29799ca78006028b33b4e6",
+  "author": "yellowhat <yellowhat46@gmail.com>",
+  "date": "2021-04-13T09:14:43+01:00",
+  "timestamp": 1618301683,
+  "message": "gcc-add-v10.3-22894",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed4a468941334fb9e7e3cbba3e170a2a1204332a",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-03-10T15:52:40+01:00",
+  "timestamp": 1615387960,
+  "message": "gcc-fix-nvptx-conflict-22214",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2c523db1e1fcfd5257f74c873cfc54579bcdce6",
+  "author": "zorun <github@bitsofnetworks.org>",
+  "date": "2020-12-24T20:17:35+01:00",
+  "timestamp": 1608837455,
+  "message": "gcc-Make-ISL-optional-by-adding-a-graphite-variant-20531",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ef33a4cd77311ab0b0b6864d63515c24373fb78",
+  "author": "zorun <github@bitsofnetworks.org>",
+  "date": "2020-12-24T19:39:46+01:00",
+  "timestamp": 1608835186,
+  "message": "gcc-Explicitly-disable-libs-when-they-are-not-required-20532",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98ac13619e0e9183c9e985a4e721f156d0084919",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-11-14T00:07:52-06:00",
+  "timestamp": 1605334072,
+  "message": "gcc-depends_on-diffutils-for-all-versions-19907",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dcf8cf317b7511a377d770780693f1c162c8ec8a",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-10-23T14:37:15+02:00",
+  "timestamp": 1603456635,
+  "message": "gcc-Fix-zstd-patch-version-range-19490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe04f0689641cb414d6680c503067ebb4fa8b3d8",
+  "author": "Thomas Green <tomgreen66@hotmail.com>",
+  "date": "2020-10-23T08:32:05+01:00",
+  "timestamp": 1603438325,
+  "message": "gcc-fix-build-of-gcc-master-by-limiting-the-version-range-of-a-patch-19482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a062517d3dc842c9302d9479c9147f86f40a73c4",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-10-12T21:15:51+02:00",
+  "timestamp": 1602530151,
+  "message": "gcc-Restrict-permitted-cuda-versions-19267",
+  "repo": "spack/spack"
+},
+{
+  "commit": "573ce3fe81b1a11443dc678b3e225e7959943604",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-08-20T17:42:18+02:00",
+  "timestamp": 1597938138,
+  "message": "gcc-fixed-compilation-on-OpenSUSE-18190",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5c3b876e0d44639e01de60cc71ed18dfb18f321",
+  "author": "Marc Mengel <marc.mengel@gmail.com>",
+  "date": "2020-08-20T10:06:22-05:00",
+  "timestamp": 1597935982,
+  "message": "detatch-binutils-usage-from-bootstrap-in-gcc-variants-18116",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a2136670d1a267f4c3dc44d7bd624791ef1f252",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-08-13T21:17:02+02:00",
+  "timestamp": 1597346222,
+  "message": "gcc-improve-detection-functions-17988",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0d490ffbe7268e72b3214764d7b03aee9f65502",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-31T13:07:48+02:00",
+  "timestamp": 1596193668,
+  "message": "Simplify-the-detection-protocol-for-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed4b770e1afe3120986ae6fe81b88bafa62f70dd",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-07-24T15:24:12+02:00",
+  "timestamp": 1595597052,
+  "message": "gcc-added-v10.2.0-17681",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8a83661c2c761c9de5ff30ae82aa79a635e5d64",
+  "author": "cedricchevalier19 <cedric.chevalier@cea.fr>",
+  "date": "2020-07-06T20:02:35+02:00",
+  "timestamp": 1594058555,
+  "message": "Fix-gcc-binutils-compilation.-9024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0275d7e1b31b27c584c17eaf77d1495c2cd222e",
+  "author": "cedricchevalier19 <cedric.chevalier@cea.fr>",
+  "date": "2020-07-06T20:02:35+02:00",
+  "timestamp": 1594058555,
+  "message": "Fix-gcc-binutils-compilation.-9024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc284934490cfbf3bce53c0a0ae3c6997098c47c",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-27T18:51:11-05:00",
+  "timestamp": 1593301871,
+  "message": "make-gcc-build-on-aarch64-17280",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2ae9ffdf5d8e9ff9a5d6eca56f03886d45038d1",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-12T09:57:26+02:00",
+  "timestamp": 1591948646,
+  "message": "gcc-Add-7.5.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46a751081daa76b5a1a9555f066e1aa6629bf17d",
+  "author": "John Jolly <john.jolly@gmail.com>",
+  "date": "2020-06-06T15:14:11-06:00",
+  "timestamp": 1591478051,
+  "message": "gcc-Fix-error-size-of-array-is-negative-16969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15112f9dbad98ae264351dd3dc28341f7f8125d1",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-12T13:56:58+02:00",
+  "timestamp": 1589284618,
+  "message": "gcc-fix-several-issues-16599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03d0a7ee1eada90cd6a9fd493bccf48eab0ea468",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-11T16:22:19+02:00",
+  "timestamp": 1589206939,
+  "message": "gcc-added-v10.1.0-16525",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f3c2ebbfb82cb9d88c32bb0bd301c529d1a0ee0b",
+  "author": "Kai Germaschewski <kai.germaschewski@unh.edu>",
+  "date": "2020-03-28T14:06:17-04:00",
+  "timestamp": 1585418777,
+  "message": "fix-gcc-8.4.0-build-15729",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27e4a4750dcdabb55e23b4600ef63204c4ea1006",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-28T15:10:31+01:00",
+  "timestamp": 1585404631,
+  "message": "Hack-to-select-iconv-implementation-libiconv-vs.-libc-iconv-15437",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96a037adf7910b550784ec92e6c889ac093e3a97",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-03-15T18:43:23-04:00",
+  "timestamp": 1584312203,
+  "message": "gcc-Don-t-apply-macOS-9.2.0-patch-for-9.3.0-15493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14441e00dc1c04df40d361ca46fd63c7446ac2ae",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-13T19:41:19+01:00",
+  "timestamp": 1584124879,
+  "message": "package-Add-fetch_options-variable-15317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9806149145b6b92887649366bf2bea6cb32db994",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-12T22:10:21+01:00",
+  "timestamp": 1584047421,
+  "message": "gcc-Add-9.3.0-15469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc78456547fa99a14b1e40e3d8af75f9cd72966d",
+  "author": "Mathias Anselmann <mathias.anselmann@posteo.de>",
+  "date": "2020-03-10T22:27:07+01:00",
+  "timestamp": 1583875627,
+  "message": "gcc-backporting-fix-for-glibc-2.31-15403",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3be3b2d0e33444ff66bcb8f97e32dc2de20f24ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-04T13:18:02-06:00",
+  "timestamp": 1583349482,
+  "message": "gcc-Add-8.4.0-15323",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09a1f09fd0d93f2ab0e5a238ad0a4d9129651994",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-27T21:56:48-05:00",
+  "timestamp": 1582858608,
+  "message": "Mark-GCC7-and-newer-as-conflicting-with-rhel6-without-binutils-14706",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e3a1653a5772f6b4d119b0778e662ea3177026",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-20T13:00:48-05:00",
+  "timestamp": 1582221648,
+  "message": "Mark-binutils-related-conflicts-15075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2dac7b60a9ac07838c1291ca5038a9c86c16b50e",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-19T13:50:32-05:00",
+  "timestamp": 1582138232,
+  "message": "Fix-gcc-8.3-build-on-macOS-10.14-15089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c8f3f228cb62c88d8e13f45be1ff5e60b3979d5",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-01-04T22:47:06-06:00",
+  "timestamp": 1578199626,
+  "message": "Adjust-constraints-of-gcc-5-14388",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffb4e02a53760dff03cccadd27f1f199c8303a2a",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2019-10-28T16:31:23-06:00",
+  "timestamp": 1572301883,
+  "message": "Fix-gcc-recipe-for-RHEL7.-13460",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fb563f3d9f944f25f3badbf91d53754ef075aaa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-19T12:18:31-05:00",
+  "timestamp": 1571505511,
+  "message": "GCC-fix-build-on-macOS-Catalina-13202",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3575f9b38228c5ddb99759c8c3b73996d644ed78",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-10-01T14:29:01-07:00",
+  "timestamp": 1569965341,
+  "message": "GCC-package-don-t-set-CC-etc.-based-on-bin-dir-if-it-doesn-t-exist-13000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bcb306d4a5fc74fff63ea73369211e95270b911",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-09-30T14:02:32-04:00",
+  "timestamp": 1569866552,
+  "message": "Fix-GCC-environment-variables-for-external-installations-12454",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "384281bf946b057efd97d0c0e8826cc50fec005e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-08-14T02:08:12+02:00",
+  "timestamp": 1565741292,
+  "message": "gcc-Add-9.2.0-12411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cef81363c90d865e4d02d3894b9071340d8f906",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-07-22T23:53:50+02:00",
+  "timestamp": 1563832430,
+  "message": "gcc-support-without-command-line-tools-11040",
+  "repo": "spack/spack"
+},
+{
+  "commit": "220cf08f82845601b3b04552a176a6b2f1007b1e",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-05-09T18:25:29+02:00",
+  "timestamp": 1557419129,
+  "message": "gcc-Add-9.1.0-11386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f242f5f8a99f6fa5bd2739a4f1fdd9b41c44e92e",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-04-17T18:21:40-07:00",
+  "timestamp": 1555550500,
+  "message": "Features-Improve-Spec-format-strings-10556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5758e49c80157f47517f8f593a98c9ce20cda93b",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-06T00:15:57+01:00",
+  "timestamp": 1551827757,
+  "message": "gcc-package-Add-8.3.0-10772",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f5be841d4dfa403978763cc555e35324d68fdd8",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-02-21T14:43:29-07:00",
+  "timestamp": 1550785409,
+  "message": "gcc-package-skip-nvptx_install-for-gcc-nvptx-10672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "040b65876bea73c761aaaf32cf7886fb790f496c",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2019-02-20T20:52:15-06:00",
+  "timestamp": 1550717535,
+  "message": "gcc-add-nvptx-offload-capability-9406",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af8d84197d669c574b63ca8e22f53d02c0e9a777",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-02-20T09:08:42-06:00",
+  "timestamp": 1550675322,
+  "message": "Download-GNU-packages-from-mirrors-Part-2-10555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab8870fd519d524f6796ac66549212e7edb5c2ef",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-12-11T22:54:12-06:00",
+  "timestamp": 1544590452,
+  "message": "gcc-fix-sys_ustat.h-patch-for-gcc-4.8-and-4.9-10081",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0326c0ccf8106a613d684ddb65cc4a991ddf1fa",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-12-08T09:22:28-06:00",
+  "timestamp": 1544282548,
+  "message": "gcc-add-versions-7.4-6.5-10061",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1650e9c0b27d1a56709c4b8a64a9dc13eb188fcf",
+  "author": "James Clark <jameshclrk@users.noreply.github.com>",
+  "date": "2018-12-08T02:06:07+00:00",
+  "timestamp": 1544234767,
+  "message": "gcc-Add-patch-to-build-GCC-with-glibc-2.28-and-later-10046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33b65ecca08cfccebb0c8208b3c2fcf0da35cad8",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-10-30T21:26:41+01:00",
+  "timestamp": 1540931201,
+  "message": "GCC-ISL-and-mpfr-upper-bounds-9513",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d02c4bbd9a0574f67f7c24c79df89a73422df15c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-07-27T15:14:49+02:00",
+  "timestamp": 1532697289,
+  "message": "gcc-Add-8.2.0-8813",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20e4038a726e7b938a6bc5ab196156e0bf0becab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T09:31:21-07:00",
+  "timestamp": 1530117081,
+  "message": "style-make-core-comply-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a1bbc5d84c92cc204fcf24d8674007965f84a60",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-07-04T14:39:07+02:00",
+  "timestamp": 1530707947,
+  "message": "gcc-Fix-build-of-older-versions-with-recent-versions-of-glibc-8510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "486400548358d3539d0b47f67f639e8be6283c6d",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2018-06-23T17:40:42-07:00",
+  "timestamp": 1529800842,
+  "message": "Fix-gcc-5.5.0-on-OS-X-10.13.5-8540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b83be5f2d4c84b17f0761388c3cedb5f2d4926f7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-06T09:28:33-05:00",
+  "timestamp": 1525616913,
+  "message": "macOS-specific-patch-no-longer-applies-to-GCC-8-8029",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fe6d9aceea5fefd8cc9779228c3a0671fed79d5",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-05-04T16:52:03-07:00",
+  "timestamp": 1525477923,
+  "message": "Added-GCC-8.1.0-8026",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69f94f18a3bf4de9a98a25de75984ee9e62093d1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-04-10T11:46:44-05:00",
+  "timestamp": 1523378804,
+  "message": "Fix-GCC-6-7-build-on-APFS-7696",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae589c22f297bf64f1417277c71d600a11222584",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-31T04:41:12-08:00",
+  "timestamp": 1517402472,
+  "message": "gcc-add-version-7.3.0-7097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13dade60dd19ffa95a93c14e3f6d90abf76a60f7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-03T10:19:55+01:00",
+  "timestamp": 1512292795,
+  "message": "gcc-remove-all-variant-5283",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2cf933ec12a1a153da08aeadeff8b8c9483e7df",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-11-23T03:44:55-08:00",
+  "timestamp": 1511437495,
+  "message": "gcc-environment-module-will-set-CC-CXX-FC-F77-and-F90-flags-3954",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed007572658b3a14cec2c15b05db7e9e5a6aa271",
+  "author": "baip <baip@users.noreply.github.com>",
+  "date": "2017-11-08T13:27:08-06:00",
+  "timestamp": 1510169228,
+  "message": "gcc-add-5.5.0-6171",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b53e82348b94105fa1ee01409a27970831de0f7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-12T20:41:57+02:00",
+  "timestamp": 1507833717,
+  "message": "various-fixes-for-macOS-high-sierra-5647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43a634ca809195b81b935a1ddd083797af9b3a8f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-08-15T12:14:07+02:00",
+  "timestamp": 1502792047,
+  "message": "gcc-Add-7.2.0-5098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "392603e90b6c34a0d53ec9276188134e50e59e6b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-07T12:13:31-05:00",
+  "timestamp": 1502126011,
+  "message": "Make-GCC-binutils-variant-default-to-False-4973",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72aa99cb245afa8c0b6a3cf6fb7dcc6b46dd5f03",
+  "author": "Mike DePaulo <mikedep333@users.noreply.github.com>",
+  "date": "2017-07-07T23:17:52-04:00",
+  "timestamp": 1499483872,
+  "message": "GCC-Add-strip-variant-to-reduce-installation-size-4670",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3bd6e3d930a58bb65a4bd4c00d5ac4f7e58d5b5",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-07-05T15:44:07+02:00",
+  "timestamp": 1499262247,
+  "message": "gcc-Add-version-6.4.0-4673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5c6f0412be6e4450ec9f093d87aa7b7e3083c1c",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-06-10T23:16:10+10:00",
+  "timestamp": 1497100570,
+  "message": "gcc-use-isl-0.14-for-gcc-5-4474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "665598af1b9e1418d082e50c77a4f4265bf2419d",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-05-30T21:59:47+02:00",
+  "timestamp": 1496174387,
+  "message": "Fix-missing-gcc-dependency-on-zip-4303",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12ab882eba1631f85f4ebd2acfe1a9c41857ca79",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2017-05-24T17:13:18-07:00",
+  "timestamp": 1495671198,
+  "message": "Fix-issues-parsing-multiple-anonymous-specs-4199",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571a42d6149faf88e5b49fa6d8d9bfa6c2b6c783",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-05-19T19:03:56+02:00",
+  "timestamp": 1495213436,
+  "message": "Fix-gcc-not-finding-zlib-4291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36db5ba9d879a747308f3a29db4737fab49fd915",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-09T18:51:40-05:00",
+  "timestamp": 1494373900,
+  "message": "Fix-newline-character-in-GCC-package-4181",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b866c6395a84eb60fa17029f0e6d0c549b6780a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-08T15:28:28-05:00",
+  "timestamp": 1494275308,
+  "message": "Add-GCC-7-4144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b1f2b8601d719aabd8f512a57bf36f78d0a4fb",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-04-11T14:37:44+02:00",
+  "timestamp": 1491914264,
+  "message": "Fixup-gcc-4.9-0-1-2-build-on-darwin-3789",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b81a50b4e336629c641fd0a158fa5a1a3ea8151b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-04-06T15:12:51+02:00",
+  "timestamp": 1491484371,
+  "message": "Add-zip-package-3715",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fe987949f22f98e9f628f2958ac493fc4246409",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-24T14:56:22-05:00",
+  "timestamp": 1490385382,
+  "message": "Clean-up-the-gcc-package-3511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7b019bf48922225da2f523d1475a780cf6050a5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-03T21:32:44-06:00",
+  "timestamp": 1488598364,
+  "message": "Revert-Make-libgcc_s-relocatable-on-Macos-by-adding-rpath-to-installname-3349",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4afb7a729c2886a25809d2c00d78f99f6e4286fa",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2017-03-02T16:39:05-06:00",
+  "timestamp": 1488494345,
+  "message": "Make-libgcc_s-relocatable-on-Macos-by-adding-rpath-to-installname-1671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33592d0142517d24b50aa58c9681141d528efecd",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-12-26T03:52:58+01:00",
+  "timestamp": 1482720778,
+  "message": "Update-gcc-to-6.3.0-2669",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca5f71328210c292aa5277235476f3ea6160b18a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-11-06T17:31:48-06:00",
+  "timestamp": 1478475108,
+  "message": "Further-restrict-versions-of-GCC-patched-2259",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08300ccffbe9ef25690e35e132b16b358c947bb2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-25T13:06:33-05:00",
+  "timestamp": 1477418793,
+  "message": "Allow-newer-versions-of-GCC-to-compile-older-versions-of-GCC-2107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8de143a99440d708e8e22bd63bcad25c483d8ffa",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2016-10-19T23:29:59-07:00",
+  "timestamp": 1476944999,
+  "message": "Fixes-needed-to-build-gcc-on-Linux-ppc64le-2057",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df79ba0dcfd933789f407caea977541aa8b4d1ff",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-10-02T18:54:43-07:00",
+  "timestamp": 1475459683,
+  "message": "gcc-fix-darwin-dispatch-object.h-header-issue-1518",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b49166f9bfbb65ae4e3a306b31333b73ff25bde",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-22T20:26:54-04:00",
+  "timestamp": 1471912014,
+  "message": "Update-gcc-to-6.2.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4ec99ecb491560336242081142d1753afa94dd7",
+  "author": "Marty McFadden <mcfadden8@llnl.gov>",
+  "date": "2016-08-17T09:28:21-07:00",
+  "timestamp": 1471451301,
+  "message": "Added-piclibs-variant-for-building-PIC-versions-of-libgfortran.a-and-libstdc-.a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4efe0221657f769dae6071f8cf49a54b184bcb09",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-21T15:36:22-04:00",
+  "timestamp": 1469129782,
+  "message": "Update-with-info-about-gcc-5.4.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71d991153928e05af21e6fefabf6ae3cd0fd627b",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-15T10:23:33-07:00",
+  "timestamp": 1463333013,
+  "message": "go-cleanup-adding-hub",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bfa4d7e4f0ef9dc70b0d7d12d38c2ec005de7a5",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T22:42:14-07:00",
+  "timestamp": 1463290934,
+  "message": "removing-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "577657b3f7eec000c172ac4f495a9480cd1d4038",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T22:35:55-07:00",
+  "timestamp": 1463290555,
+  "message": "go-rework",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0816e9554d108498cdb419d71f3bac1375622ad1",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-14T18:06:22-07:00",
+  "timestamp": 1463274382,
+  "message": "adding-go_compiler-providers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88fa9084e2846008238a3136933a16d0ab6b413c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-03T15:58:14-05:00",
+  "timestamp": 1462309094,
+  "message": "Add-latest-version-of-GCC",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccc1b23bea57a9c8a31ab1f4e9b739b54440466b",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-03-28T16:28:29-05:00",
+  "timestamp": 1459200509,
+  "message": "this-allows-gcc4.9.3-to-build-on-OSX10",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8c0edcc818b8f0fb2220993d469381ae072ebe4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-02-14T14:40:25-08:00",
+  "timestamp": 1455489625,
+  "message": "Minor-code-cleanup-for-gcc",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e33cc1ae118b138aadc3c354b622c045dd81009",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-02-12T13:11:45-05:00",
+  "timestamp": 1455300705,
+  "message": "Properly-wrap-all-long-lines",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77c17e1d92ac1c98a5c43247d6582876bc7d14d4",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-02-12T12:51:43-05:00",
+  "timestamp": 1455299503,
+  "message": "Since-my-last-patch-didn-t-get-traction-here-is-a-new-approach-to-building-gcc-on-Darwin",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10848c2e9a7cd3771c469dfd5ddb235f76b229ba",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-01-21T02:40:38-08:00",
+  "timestamp": 1453372838,
+  "message": "Refactor-args-for-Executable.__call__",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e812c35689c4bc202ee33a14ac7680d87746e34a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-23T10:11:38+02:00",
+  "timestamp": 1445587898,
+  "message": "GCC-removed-binutils-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6a44bd8ac40bfb93e51a99d3bfde476937207e1",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-22T15:55:43+02:00",
+  "timestamp": 1445522143,
+  "message": "GCC-removed-dependency-on-libelf.-Removed-isl-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44ba16a391d75f97bab9ebf0a8f1b609b18aba1d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-10-17T17:03:49-07:00",
+  "timestamp": 1445126629,
+  "message": "Add-libiberty-option-to-binutils",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17de9a37f1d064e18ff61145196b1cb77ae8b64b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-06T18:20:48+02:00",
+  "timestamp": 1444148448,
+  "message": "gcc-fixed-spec-file",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d44571257a6cf4c236d1aad489f8e6202acbb631",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-06T15:57:17+02:00",
+  "timestamp": 1444139837,
+  "message": "spec-file-everything-is-dumped-only-link-rule-is-modified",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f068d1ba57518d9fcaa0c03ce0f483ec7f2b49f3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-09-26T10:12:24+02:00",
+  "timestamp": 1443255144,
+  "message": "GCC-added-variants-for-libelf-binutils-isl.-gcc-5.0-still-has-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89731d4a7df137f4406f2b19c9822ea59510a6e7",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2015-03-30T14:23:02-07:00",
+  "timestamp": 1427750582,
+  "message": "Add-binutils-as-a-gcc-dependency-so-it-doesn-t-use-the-system-linker-assembler",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e37903ffdbc72410264d1949dde9239e81ec698",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-22T23:34:39-08:00",
+  "timestamp": 1421998479,
+  "message": "Packages-have-rpath-property",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d78ece658b0b139604998886a788acc11e661b14",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-07T00:13:52-08:00",
+  "timestamp": 1415348032,
+  "message": "Change-to-faster-gcc-mirror-that-allows-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b97ee67a4b8ddddf9af8a93c3e8292e34d507467",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-05T09:54:43-08:00",
+  "timestamp": 1415210083,
+  "message": "Working-GCC-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a37828bafba2f594e54e0e7487df909fdeac4c8f",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T21:59:47-07:00",
+  "timestamp": 1412830787,
+  "message": "Packages-for-gcc-and-its-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87fedc7e1e132e52405ee4e0105bb8267ae57c1b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-07T13:51:46-08:00",
+  "timestamp": 1386453106,
+  "message": "Added-support-for-virtual-dependencies-provides",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5c565891ff20c87b3583aaacc29fd37357f723b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-26T14:04:09-07:00",
+  "timestamp": 1382821449,
+  "message": "First-cut-concretization-works-with-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "558cf7e40689fc18eca47bc80d34da555b5d27d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-17T14:46:00-07:00",
+  "timestamp": 1382046360,
+  "message": "spec-flatten-normalize-validate-package-validate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

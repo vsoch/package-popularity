@@ -1,0 +1,264 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9f20c2351a4a49ef3a0d7e04ae036ca8921e9cd",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-12T03:05:58+01:00",
+  "timestamp": 1605146758,
+  "message": "yaml-cpp-Improve-shared-library-building-19866",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0fbe1add212771199289e64872fe2aaa52ecf72",
+  "author": "Jacob Merson <jacob@jacobmerson.com>",
+  "date": "2020-04-10T10:35:36-04:00",
+  "timestamp": 1586529336,
+  "message": "Update-yaml-cpp-package-to-enable-for-build-of-old-api-15983",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b1820c2de6f92b322038f059baadb2f9f4060c2",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-01T21:39:04-04:00",
+  "timestamp": 1585791544,
+  "message": "package-add-static-library-build-option-for-yaml-cpp-15814",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d58390dbf7439374b06e8debfc4505d61c1d4043",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-01-22T16:35:39-07:00",
+  "timestamp": 1579736139,
+  "message": "Add-version-0.6.3-of-yaml-cpp",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0f2d6a8b920887adc4528f37ed83ab6d49d08a7",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-06-26T14:29:09-07:00",
+  "timestamp": 1561584549,
+  "message": "Make-yaml-cpp-build-with-libc-10504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5047d86732782d2537f1e52f3c0d8f41d7918ecf",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-09-27T13:37:36-07:00",
+  "timestamp": 1538080656,
+  "message": "yaml-cpp-conflict-with-gcc-4.7-instead-of-4.8-9371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05cd983e108764d288798784508249726b0ffd70",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-05-14T10:44:27+02:00",
+  "timestamp": 1526287467,
+  "message": "add-version-0.6.2-to-yaml-cpp-7931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3c96e2e407cfda9d4a970cf5b82c3dad31096ca",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-01-14T05:09:36+01:00",
+  "timestamp": 1515902976,
+  "message": "Update-checksum-for-version-0.5.3-of-yaml-cpp-6924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3508909f069413f0400f92e76078ab5aa671e0c4",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-06-08T16:54:26-06:00",
+  "timestamp": 1496962466,
+  "message": "Adding-Nalu-package.-4428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5f5e98fc4961be3ab731add187072021be2f9e3",
+  "author": "Nils Deppe <nd357@cornell.edu>",
+  "date": "2017-05-26T08:46:11-04:00",
+  "timestamp": 1495802771,
+  "message": "Add-master-as-install-option-for-yaml-cpp-4364",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffce6e1c4e8ab98c6d90dd2187a63387d13c098e",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-01T23:36:46+01:00",
+  "timestamp": 1488407806,
+  "message": "add-variant-shared-to-yaml-cpp-3254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17b13b161b3ddcd691ea7ed90165cfab6dec3950",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-28T21:37:02+01:00",
+  "timestamp": 1482957422,
+  "message": "Directive-inheritance-laziness-for-the-win-2623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb7b51855aa32f2e695c21add373c7f6dab0d286",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-07T16:55:12-05:00",
+  "timestamp": 1481147712,
+  "message": "yaml-cpp-add-boost-dependency-2517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "946605a4c99f78b3311435948de0c60b98fb1ef1",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-12-02T11:41:18-07:00",
+  "timestamp": 1480704078,
+  "message": "Updating-yaml-cpp-from-Package-to-CMakePackage.-2457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8d038c0b85dab9d7a95de0509d49bd186c96863",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-11-23T11:54:22-07:00",
+  "timestamp": 1479927262,
+  "message": "New-package-yaml-cpp-2399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fc43046ebfaa41410c28ba6d3d27fffed25ee4e",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-04-30T12:11:10+02:00",
+  "timestamp": 1462011070,
+  "message": "Add-missing-dependency-for-glm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec5560374c218bfb1f16934259108ebc305cf838",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-14T16:13:56+02:00",
+  "timestamp": 1444832036,
+  "message": "glm-added-basic-configuration-for-the-package",
+  "repo": "spack/spack"
+}]

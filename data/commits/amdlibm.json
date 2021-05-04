@@ -1,0 +1,24 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fba3e2bd3c43d1f7fc42fd76b2e3aeda7354739",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-22T22:00:08+05:30",
+  "timestamp": 1616430608,
+  "message": "Spack-recipes-for-AOCL-3.0-22376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ed832c8d8848912a5a67be6bffcdee11ecc823",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-01-12T01:43:54+05:30",
+  "timestamp": 1610396034,
+  "message": "spack-recipe-for-amdlibm-20487",
+  "repo": "spack/spack"
+}]

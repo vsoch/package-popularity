@@ -1,0 +1,304 @@
+[{
+  "commit": "12224930552272d0d6686a606eca6be6c91dc8d4",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-15T13:49:31+02:00",
+  "timestamp": 1618487371,
+  "message": "Update-versions-of-several-dependencies-of-Spack-22990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2922068fdc22f24e1bee08615de73430c17c8aab",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-04-01T06:36:01+02:00",
+  "timestamp": 1617251761,
+  "message": "curl-add-7.76.0-22693",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd0964ed332039a4b19359096502c405c5a4738",
+  "author": "Yan Hang <56567688+ueqri@users.noreply.github.com>",
+  "date": "2021-03-30T21:28:19+08:00",
+  "timestamp": 1617110899,
+  "message": "curl-package-add-new-stable-version-7.75.0-22635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f6855d4375dc668661a3052fc75ecad410b8abc",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-12-11T09:06:54+01:00",
+  "timestamp": 1607674014,
+  "message": "curl-added-v7.64.0-v7.74.0-20321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec3a506414542b679b0339cd3158f58c68d9977d",
+  "author": "Paul R. C. Kent <kentpr@ornl.gov>",
+  "date": "2020-12-07T03:23:02-05:00",
+  "timestamp": 1607329382,
+  "message": "curl-added-v7.73.0-20246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "972caba882daf38ec4eb603914a687c5a9d4d68c",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-09-04T22:58:52+02:00",
+  "timestamp": 1599253132,
+  "message": "curl-Add-7.72.0-18508",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d4740d1b1ec679fab4e61ca4f8b62e835728634",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-07-15T08:43:38+02:00",
+  "timestamp": 1594795418,
+  "message": "curl-add-dependency-on-libidn2-17526",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05e89180769f83165c6ccfe47d1b0743ef84a9d0",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-07-13T14:42:42-06:00",
+  "timestamp": 1594672962,
+  "message": "curl-package-add-version-7.71.0-17493",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06e100d5ccb99d15cfacebb83a57b3154f2317f8",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-01-26T18:06:38-05:00",
+  "timestamp": 1580079998,
+  "message": "curl-New-version-7.68.0-14625",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "328a3f97fd164ae4d33cc47d7f84a0b57e77d625",
+  "author": "cedricchevalier19 <cedric.chevalier@cea.fr>",
+  "date": "2019-05-03T22:43:56+02:00",
+  "timestamp": 1556916236,
+  "message": "cURL-package-add-gssapi-option-11344",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bdabdb85edd78a21136c51d1f734ea19168257e3",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-02-06T13:48:36-06:00",
+  "timestamp": 1549482516,
+  "message": "curl-package-add-version-7.63.0-10516",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "478c99ce012c09c2e42847860c9d8f6f3171fa39",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-20T15:04:28-05:00",
+  "timestamp": 1526846668,
+  "message": "Add-cURL-7.60.0-8210",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8e3c94c6ffa8a5f24423e53958ee71cf98a60d6",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2018-04-20T01:43:12+08:00",
+  "timestamp": 1524159792,
+  "message": "self-has-no-attribute-named-satisfies.-7826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d1097f99be31e7764e649d6ae67bb9391e0b001",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-04-19T14:23:16+02:00",
+  "timestamp": 1524140596,
+  "message": "add-variants-and-conflicts-for-curl-7804",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5854acd23320e59fc60c67d856b44f3e154206d4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-04-17T15:33:08-05:00",
+  "timestamp": 1523997188,
+  "message": "Add-latest-version-of-cURL-7800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0f6cb5393e0a0e297b59544c92ea16990f7b349",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2018-03-07T01:41:22+08:00",
+  "timestamp": 1520358082,
+  "message": "Add-the-libssh2-variant-for-curl.-6980",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dab2dc24a5df9223dca870e13d81c4dceb5b6920",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-01-04T07:45:45-08:00",
+  "timestamp": 1515080745,
+  "message": "make-nghttp2-optional-for-curl-as-it-does-not-build-for-older-compilers.-5977",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee6d21e311bbd791f55ce8414ee4dd65add371da",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-10-07T08:58:56-07:00",
+  "timestamp": 1507391936,
+  "message": "adding-http2-support-5628",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be991a6efaa18513466fe6059930d50aff246b3c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-05T16:21:37-05:00",
+  "timestamp": 1494019297,
+  "message": "Add-latest-version-of-curl-4140",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f1af5913ba5a80451572a69722bff5d9701e525",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T16:01:10-05:00",
+  "timestamp": 1489611670,
+  "message": "Add-latest-version-of-cURL-3447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cb7f3d262b97674f0d77f80ab1dc29c4b6038e0",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-02-17T14:52:08-05:00",
+  "timestamp": 1487361128,
+  "message": "Keep-Curl-Bootstrap-Working-With-http-3113",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b452a7619c47f5082fa2dbcba56ad04518e71aab",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-01-18T11:17:50-05:00",
+  "timestamp": 1484756270,
+  "message": "curl-update-to-7.52.1-2852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48c87da07b1cf092eb0c200ef9a6c004206f7526",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:13:54-04:00",
+  "timestamp": 1474362834,
+  "message": "Update-curl-to-7.50.3-1747",
+  "repo": "spack/spack"
+},
+{
+  "commit": "158deae62599e91c90653857484b4fc7b62f48fb",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-10T13:51:57-04:00",
+  "timestamp": 1470851517,
+  "message": "Update-curl-to-7.50.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b66f5b6231107606aad757cfe2bd65fb7ff6d886",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-22T10:05:20-05:00",
+  "timestamp": 1466607920,
+  "message": "Add-latest-version-of-cURL",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e4c757f50ec98e55a74ad13fda70f12ce788891",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-03-17T13:45:57-04:00",
+  "timestamp": 1458236757,
+  "message": "Update-curl-to-7.47.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb1d90a8cfadeb556754b57e5d21e5605b9a0e9d",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T23:31:54-05:00",
+  "timestamp": 1456806714,
+  "message": "Undid-accidental-change-on-this-branch",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e414c5fdfbc91e5934ee59233475f8f862e2e0ce",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:31:18-05:00",
+  "timestamp": 1456803078,
+  "message": "Added-missing-cmake-dependencies",
+  "repo": "spack/spack"
+}]

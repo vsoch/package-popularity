@@ -1,0 +1,24 @@
+[{
+  "commit": "fca652ab653edd5f0ec065f296c9e97ee630c19a",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-15T02:14:02-06:00",
+  "timestamp": 1610698442,
+  "message": "r-envstats-add-v2.4.0-20915",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f71768b1d6df10043dfd46b02cdf9fc81a6c6eec",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-05-16T23:07:10+02:00",
+  "timestamp": 1589663230,
+  "message": "r-envstats-New-package-16659",
+  "repo": "spack/spack"
+}]

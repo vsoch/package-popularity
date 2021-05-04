@@ -1,0 +1,8 @@
+[{
+  "commit": "d05e0dfeef239bc2f1438234b1a5aabadd53f235",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-25T10:54:52-08:00",
+  "timestamp": 1614279292,
+  "message": "WarpX-CMake-21787",
+  "repo": "spack/spack"
+}]

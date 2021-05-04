@@ -1,0 +1,32 @@
+[{
+  "commit": "70e132dd9a792828d53e49edba77dfa8da7a3d4c",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-04-08T19:47:55+08:00",
+  "timestamp": 1617882475,
+  "message": "collectd-add-v5.12.0-22746",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adb350c23c0219f62209b9ebfc5c018567fc870a",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-02-07T19:28:49+08:00",
+  "timestamp": 1612697329,
+  "message": "collectd-add-test-dependency-21522",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cab1d06d6a3907084aad14c8b66b03741453284c",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-04-21T05:06:31+08:00",
+  "timestamp": 1587416791,
+  "message": "Add-new-package-collectd-16144",
+  "repo": "spack/spack"
+}]

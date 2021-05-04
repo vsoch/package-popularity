@@ -1,0 +1,168 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e6fe883eb4a13d51245f3398c7c7e93dc9f06f7",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-08-02T16:55:08+02:00",
+  "timestamp": 1596380108,
+  "message": "Octopus-Add-support-for-version-10.0.-17782",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cbd349cb4c2420e64de138e848cbeaad232ec1d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-12T01:49:54-07:00",
+  "timestamp": 1570870194,
+  "message": "checksums-fix-packages-that-needed-new-download-locations",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f14212dede2444fdbb85065d9b5f55f73b210e4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-04T16:35:03+02:00",
+  "timestamp": 1522852503,
+  "message": "octopus-add-7.3-7666",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce714b564166d58eed73e93cc356a39d3a6913ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-18T18:50:10+02:00",
+  "timestamp": 1492534210,
+  "message": "ocotpus-and-arpack-ng-fix-arpack-bug-and-add-libs-to-arpack-ng-3875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2d70a45fbc2ee07160c3ee750dbffe9d4fd5b1b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-04T11:23:57-06:00",
+  "timestamp": 1488648237,
+  "message": "Allow-find_libraries-to-accept-lists-or-strings-3363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "957cb968c619e32fc764babb8dc8ed977b42c789",
+  "author": "danielsjensen1 <danielsjensen1@gmail.com>",
+  "date": "2017-01-15T03:30:47-07:00",
+  "timestamp": 1484476247,
+  "message": "Features-octopus-6.0-2819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5333a799ea1dd22a829b509d30840b740206924a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-29T08:45:28+02:00",
+  "timestamp": 1472453128,
+  "message": "octopus-in-code-comments-to-explain-compiler-flags",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9509c1006451b14e42df364ba61eb5f412d5ae3a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-08-16T19:38:38+02:00",
+  "timestamp": 1471369118,
+  "message": "octopus-new-package",
+  "repo": "spack/spack"
+}]

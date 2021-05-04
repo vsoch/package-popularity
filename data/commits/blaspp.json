@@ -1,0 +1,88 @@
+[{
+  "commit": "8c613fadf04871d575ffeb71c3545879aed08c00",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-03-10T01:12:04-08:00",
+  "timestamp": 1615367524,
+  "message": "BLAS-OpenMP-for-AppleClang-22211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49c015e3919db47ba21c441e135ae832b8656c95",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-03-04T03:07:48-08:00",
+  "timestamp": 1614856068,
+  "message": "BLAS-CUDA-default-false-22067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcc370102f4ce254d32d7305c96679eaeee5371e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2021-02-23T00:16:02-08:00",
+  "timestamp": 1614068162,
+  "message": "openblas-add-locking-variant-updated-blaspp-21770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "335c5ed5cb9fad47e9c3af3055ae2d554eb0797e",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2021-01-18T17:34:21-05:00",
+  "timestamp": 1611009261,
+  "message": "Updated-with-requirements-for-openblas-dependency-20956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bed9a1990893178c45bd0e89133187ff0ce52bd",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-10-29T11:13:02-04:00",
+  "timestamp": 1603984382,
+  "message": "SLATE-package-New-versions-of-slate-blaspp-and-lapackpp-with-CMake-build-support-19587",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d61c236db414684fd165ee1e2d736883d2d771e9",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-10-21T18:09:25-04:00",
+  "timestamp": 1603318165,
+  "message": "Lapackpp-package-update-19447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bf87447ada7a61f9f4af973570ecd4d4e9e7811",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-10-15T08:58:31-04:00",
+  "timestamp": 1602766711,
+  "message": "Blaspp-added-v2020.10.0-v2020.09.0-reworked-recipe-19311",
+  "repo": "spack/spack"
+},
+{
+  "commit": "902fac185a22cab19a36a73916c93e9ad7f0dd1a",
+  "author": "Teodor Nikolov <teodor.nikolov22@gmail.com>",
+  "date": "2020-08-09T20:44:05+02:00",
+  "timestamp": 1596998645,
+  "message": "blaspp-added-explicit-dependency-on-CUDA-17965",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54cfec025f084632be28f2a9166df0028069dc82",
+  "author": "G-Ragghianti <33492707+G-Ragghianti@users.noreply.github.com>",
+  "date": "2020-06-22T08:21:46-04:00",
+  "timestamp": 1592828506,
+  "message": "blaspp-moved-to-new-git-repo-17184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9627cbbe1bc116873a0840f486023f0a7ae293c9",
+  "author": "Teodor Nikolov <teodor.nikolov22@gmail.com>",
+  "date": "2020-04-30T16:05:45+02:00",
+  "timestamp": 1588255545,
+  "message": "lapackpp-and-blaspp-added-packages-develop-branch-16373",
+  "repo": "spack/spack"
+}]

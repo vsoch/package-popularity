@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "588cf7e03cd7c9da5f20e4ec3fbcd5f645a3adea",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-10-11T03:28:56+02:00",
+  "timestamp": 1602379736,
+  "message": "julea-Fix-dependency-typo-and-add-new-optional-rocksdb-dependency-19045",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a157b479c8eadabe25924a7bafdd74856997c331",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-04-15T18:12:28+02:00",
+  "timestamp": 1586967148,
+  "message": "julea-New-package-16071",
+  "repo": "spack/spack"
+}]

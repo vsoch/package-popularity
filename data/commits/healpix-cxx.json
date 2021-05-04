@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de63e1c2ac70e03855968a1dd5190378f5601a7b",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2020-06-01T12:13:35+08:00",
+  "timestamp": 1590984815,
+  "message": "healpix-cxx-added-new-package-at-v3.50.0-16846",
+  "repo": "spack/spack"
+}]

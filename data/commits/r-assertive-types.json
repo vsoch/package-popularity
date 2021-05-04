@@ -1,0 +1,16 @@
+[{
+  "commit": "62e256d995ba0218b322bf021f10fafb58275937",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-04-12T17:48:13-04:00",
+  "timestamp": 1618264093,
+  "message": "New-Package-r-assertive-types-22933",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35ed2b26b538981dd29c57d09d546439cd39a20d",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-04-09T16:08:18-04:00",
+  "timestamp": 1617998898,
+  "message": "New-package-r-assertive-properties-22914",
+  "repo": "spack/spack"
+}]

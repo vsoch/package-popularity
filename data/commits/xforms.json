@@ -1,0 +1,8 @@
+[{
+  "commit": "0e3b12776cd7b665d3a8149ea61731424fc82fc5",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-02-09T05:27:36+09:00",
+  "timestamp": 1612816056,
+  "message": "xforms-new-package-21535",
+  "repo": "spack/spack"
+}]

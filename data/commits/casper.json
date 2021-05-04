@@ -1,0 +1,168 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f498f52a2d5b14661e908df8fc05d104055ddafa",
+  "author": "Yifan Zhu <ifanzhu@foxmail.com>",
+  "date": "2018-01-09T22:07:05-06:00",
+  "timestamp": 1515557225,
+  "message": "casper-new-package-6873",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34cf796b54de4465ff329d52b9b5bf2b43b41e4f",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-12-16T20:34:30-06:00",
+  "timestamp": 1513478070,
+  "message": "mefit-Create-new-package.-6700",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db74f4c3a154e8ce3ac289aca0f17f08c526de2b",
+  "author": "snehring <snehring@users.noreply.github.com>",
+  "date": "2017-08-05T14:53:09-05:00",
+  "timestamp": 1501962789,
+  "message": "Add-a-new-package-for-IcedTea-4804",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4dd0b349f971cd5ba4842f79a7dba36bf4999b6f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-10T18:18:56-06:00",
+  "timestamp": 1486772336,
+  "message": "Add-Jmol-package-3041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47f9096073a3f11bb3e3d9af75a1ee0323616fd5",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-02-06T07:49:05+08:00",
+  "timestamp": 1486338545,
+  "message": "Use-the-official-Maven-site.-3034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37dede316306d7c42045f5d3815f5e347a7bccad",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-10-25T23:56:31-07:00",
+  "timestamp": 1477464991,
+  "message": "Add-package-for-maven-2132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c77425bb2258ccb9df73044230ebca192e4b209e",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-02T11:32:19-04:00",
+  "timestamp": 1470151939,
+  "message": "Remove-useless-def-unpack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f332c7e4cc10cdbd3c1fa8571bcc276a512b066",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T14:20:06-04:00",
+  "timestamp": 1469470806,
+  "message": "Fix-whitespace-make-flake8-happ-y-ier",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfcec696308ee8bfd226a54c17a7e15d49e2aed7",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T14:17:44-04:00",
+  "timestamp": 1469470664,
+  "message": "Add-standard-header-use-spack-helpers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4373a2b629780a9c14d97110ed014a5620d4eca6",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-12T20:27:44-04:00",
+  "timestamp": 1468369664,
+  "message": "First-cut-package-for-nextflow-has-issues",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "d5f07126cb2589ace6d1924a42dcd2c1ba6252aa",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-04-16T23:43:11-04:00",
+  "timestamp": 1618630991,
+  "message": "New-package-r-assertive-data-23050",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c017e4e2b0377e3389ae488b0965101f3cd5b130",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-04-16T23:38:10-04:00",
+  "timestamp": 1618630690,
+  "message": "New-package-r-assertive-data-uk-23047",
+  "repo": "spack/spack"
+}]

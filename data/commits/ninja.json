@@ -1,0 +1,200 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd496a20e97ab339c2f75093e098b3e2fde521a2",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-12-16T14:49:12-08:00",
+  "timestamp": 1608158952,
+  "message": "ninja-update-to-version-1.10.2-20399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6189031b9227c5bc90ba80355405ed7de23f891",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-10-30T12:53:30-04:00",
+  "timestamp": 1604076810,
+  "message": "ninja-support-spack-find-external-19616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5db5cf259fe04fdefe642830234c78ecacac1b9",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-08-19T15:06:08-07:00",
+  "timestamp": 1597874768,
+  "message": "prepend-NINJA_ROOT-misc-to-PYTHONPATH-in-run-environment-18182",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7096eb5371c070b5b78c5fe59982be8773b8214",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-08-18T14:51:55-06:00",
+  "timestamp": 1597783915,
+  "message": "ninja-add-v1.10.1-18160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12b0340d2fc110f21bf6691a3046405bbea3df64",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-01-28T10:34:32-07:00",
+  "timestamp": 1580232872,
+  "message": "ninja-add-v1.10.0-14647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a52ed34fa4e3a2a2c59749ab603f47bdc733c91d",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-06-10T09:53:30-07:00",
+  "timestamp": 1560185610,
+  "message": "ninja-fortran-make-pkgs-nonvirtual-fix-11628-11629",
+  "repo": "spack/spack"
+},
+{
+  "commit": "251f3f5058beb60f65d420a03f1ee77998ddbc87",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-07T13:07:24-04:00",
+  "timestamp": 1557248844,
+  "message": "ninja-drop-python-as-a-run-dep-11347",
+  "repo": "spack/spack"
+},
+{
+  "commit": "878b122f45815383297a352e689a476c93f4b4b8",
+  "author": "Stephen McDowell <svenevs@users.noreply.github.com>",
+  "date": "2019-03-22T08:05:14-07:00",
+  "timestamp": 1553267114,
+  "message": "add-ninja-v1.9.0-10994",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86747b39d40cade839c617cf2569c4af0d0ba728",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-01-30T19:06:09-07:00",
+  "timestamp": 1548900369,
+  "message": "ninja-Add-kitware-version-with-fortran-capability-10470",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88b515ede84d1818358848ade652f95005cdb6d7",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-10T13:50:56-06:00",
+  "timestamp": 1507665056,
+  "message": "ninja-add-v1.8.2-5625",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97958d8347fd031b3f46d33fc9246a98f2b59ec3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-08T13:33:24-05:00",
+  "timestamp": 1502217204,
+  "message": "Add-latest-version-of-Ninja-4987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "811ea4f465438c285478665fa967c0a12b8c7691",
+  "author": "Andrey Prokopenko <andrey.prok@gmail.com>",
+  "date": "2017-06-23T09:52:57-04:00",
+  "timestamp": 1498225977,
+  "message": "ninja-fortran-a-Fortran-capable-fork-of-ninja-build-tool-4539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbb25bfeed7113cbd6be090df52b97fcc10588e1",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-30T16:17:52-04:00",
+  "timestamp": 1459369072,
+  "message": "ninja-fix-installation-on-OS-X",
+  "repo": "spack/spack"
+}]

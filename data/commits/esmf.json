@@ -1,0 +1,176 @@
+[{
+  "commit": "35a51760a8bc3b342fb3164fb873e6b22ed3bbb7",
+  "author": "William Downs <wdowns@g.harvard.edu>",
+  "date": "2021-01-19T11:52:47-05:00",
+  "timestamp": 1611075167,
+  "message": "esmf-Add-versions-8.0.0-and-8.0.1-21147",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3bc538df649c5b6bfaba697b70cf874da454c26",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-07-06T11:40:11+02:00",
+  "timestamp": 1594028411,
+  "message": "esmf-set-ESMF_COMM-intelmpi-also-for-intel-mpi-17387",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaf3388cfe8cf271aa925b72e4126ee2deade927",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-13T14:53:49+02:00",
+  "timestamp": 1589374429,
+  "message": "esmf-fix-build-with-gcc-10-16622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b8f1fdc40cc8a3eb6d41bef80252f46124e9047",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-09-02T17:02:17+02:00",
+  "timestamp": 1567436537,
+  "message": "esmf-Fix-build-with-gcc-8-12678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd4eed117dbbb743949bcda8acef6de1340747da",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-08-23T20:16:09-04:00",
+  "timestamp": 1566605769,
+  "message": "ESMF-NCL-packages-Bug-fixes-for-Intel-Compilers-11923",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5c3cc0a85ce126440354fe0218c44a9a678a644",
+  "author": "Greg <greg.m.lucas@gmail.com>",
+  "date": "2019-08-22T17:55:56-06:00",
+  "timestamp": 1566518156,
+  "message": "esmf-add-v7.1.0r-with-a-gcc-patch-for-macOS-12509",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5a48f44bca6fb061e34250a63cce56b77d861f4",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-06-07T17:33:59+02:00",
+  "timestamp": 1528385639,
+  "message": "add-commented-test-dependencies-8407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6922ea588962bc1bbcdcdc93ae44e630553e29af",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2018-01-03T12:43:55+11:00",
+  "timestamp": 1514943835,
+  "message": "Esmf-fixes-for-Cray-OSX-and-mpich-6768",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe551a4d9aa2ac8573933f4aedd13faf3e49eee1",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-10-05T16:58:40+02:00",
+  "timestamp": 1507215520,
+  "message": "esmf-Fix-build-5607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0de653ff016003c62b5e491646f62b3d644b835f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-12T09:47:46-05:00",
+  "timestamp": 1497278866,
+  "message": "Add-an-installcheck-phase-to-MakefilePackage-4476",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f13e4065592799ccf8d75dbd5a420da4e7c0d22",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-17T09:21:25-05:00",
+  "timestamp": 1489760485,
+  "message": "Add-package-for-ESMF-2831",
+  "repo": "spack/spack"
+}]

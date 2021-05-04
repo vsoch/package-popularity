@@ -1,0 +1,704 @@
+[{
+  "commit": "15d2e60c16ad944c787a354d6a764b9b7e931971",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2021-04-28T18:30:21-04:00",
+  "timestamp": 1619649021,
+  "message": "Adds-Paraview-5.9.1-RC2-23327",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98f8689ccd67afb62048849239ae715100ef7f13",
+  "author": "Vicente Bolea <vicente.bolea@gmail.com>",
+  "date": "2021-04-28T07:39:34-04:00",
+  "timestamp": 1619609974,
+  "message": "paraview-add-v5.9.1-RC1-make-5.9.0-preferred-23226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "293c8bf6217bbf109afb8ca550696d1d51a94383",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-04-20T13:39:47-06:00",
+  "timestamp": 1618947587,
+  "message": "Use-xz-instead-of-lzma.-XZ-utils-provides-lzma-dev-files-23144",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fce9bef7b89aa3af73c497805af93d500c0bafc",
+  "author": "Billae <65948826+Billae@users.noreply.github.com>",
+  "date": "2021-04-19T18:52:26+02:00",
+  "timestamp": 1618851146,
+  "message": "add-debug-variant-for-paraview-22900",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6668a1146af2e8b5306688fd3218c28d7066a9f",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-06T16:54:35+02:00",
+  "timestamp": 1617720875,
+  "message": "paraview-adds-new-cuda-target-ampere-22750",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88f7a00f2db0bbbdbdd4f69c2f0ca44bb1b6d752",
+  "author": "Paul Ferrell <51765748+Paul-Ferrell@users.noreply.github.com>",
+  "date": "2021-03-01T17:06:34-07:00",
+  "timestamp": 1614643594,
+  "message": "Paraview-compatibility-with-PugiXML-varies-by-version.-21732",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2e0bc1ae711059385449a41a82408224f8b77ce",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-03-01T17:00:44-07:00",
+  "timestamp": 1614643244,
+  "message": "paraview-add-python-to-rpath-21768",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18f094efe97b31ec8520b746ad8166cfce8b9937",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2021-02-26T10:52:41-05:00",
+  "timestamp": 1614354761,
+  "message": "sensei-add-versions-and-fix-dependencies-21452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "865d38afa7e26ac1afce35d62d607a265976d8b0",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2021-02-09T15:26:49-07:00",
+  "timestamp": 1612909609,
+  "message": "ParaView-LLVM-add-shared-intel-to-solve-intel-linking-failures-18195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45040589c8458ccd435f10be7123875181be76ff",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2021-02-08T10:53:06-07:00",
+  "timestamp": 1612806786,
+  "message": "paraview-disable-VTK_PYTHON_OPTIONAL_LINK-for-cce-21357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "104c826e33d358c30e24bce83239c70430bc2a4c",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2021-01-26T16:58:48-05:00",
+  "timestamp": 1611698328,
+  "message": "ParaView-add-ParaView-5.9.0-new-release-21268",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94f1e838b20777a4d50e4c727dd0e8b81e4a8921",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2021-01-18T23:53:17-05:00",
+  "timestamp": 1611031997,
+  "message": "ParaView-add-new-ParaView-5.9.0-RC4-release-21132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18d14eb7654287875fbcb5b2e6c823a1b1e8b63c",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-01-05T19:37:00+01:00",
+  "timestamp": 1609871820,
+  "message": "ParaView-Allow-choosing-a-CUDA-architecture.-20623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9925036df690e0dcacf05a1b8b6b0d8fa564d7a",
+  "author": "Vicente Bolea <vicente.bolea@kitware.com>",
+  "date": "2020-12-21T20:46:01-05:00",
+  "timestamp": 1608601561,
+  "message": "ParaView-add-new-ParaView-5.9.0-RC3-release-20500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86f006ffa9bf2f88c8a870302732c152af71833b",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2020-12-16T11:29:35-07:00",
+  "timestamp": 1608143375,
+  "message": "Match-master-version-instead-of-develop-for-PARAVIEW_VTK_DIR-20427",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3fa8d9f52a773eefc1384b86e7048fa8e1a660d",
+  "author": "Vicente Bolea <vicente.bolea@gmail.com>",
+  "date": "2020-12-14T16:23:50-05:00",
+  "timestamp": 1607981030,
+  "message": "ParaView-add-new-ParaView-5.9.0-RC2-release-20222",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e73e7cf0ad9888847024368666c95766c8f0bc76",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2020-11-09T12:02:00-07:00",
+  "timestamp": 1604948520,
+  "message": "ParaView-correct-path-for-PARAVIEW_VTK_DIR-19770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaa1afe9ec624fc86259ef817c059a5247770575",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-30T11:16:17-04:00",
+  "timestamp": 1604070977,
+  "message": "mesa-Retire-older-autotools-mesa-as-mesa18-and-create-current-meson-mesa-19528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6084529effd99103ee456e19bc6c8b7e87fe8afd",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-13T10:51:23-04:00",
+  "timestamp": 1602600683,
+  "message": "paraview-Fix-external-dependencies-for-various-versions-19236",
+  "repo": "spack/spack"
+},
+{
+  "commit": "977117b502589886fb5833340ab6cf1c15b3b26e",
+  "author": "QuellynSnead <quellyn@lanl.gov>",
+  "date": "2020-09-28T18:30:18-06:00",
+  "timestamp": 1601339418,
+  "message": "Paraview-5.6.2-s-version-of-VTK-8.2.0-is-incompatible-with-Python-3.8-18881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "098beee2953e4a0d8907f88f1fd88d5efd57ee42",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:39:35-05:00",
+  "timestamp": 1599154775,
+  "message": "Pillow-SIMD-use-as-default-PIL-provider-18097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12aa6d221c945b75822f1d8ec69346fbd1a8d566",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2020-08-12T05:18:32-06:00",
+  "timestamp": 1597231112,
+  "message": "ParaView-added-v5.8.1-17995",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b3dd90b95ceef1262d98efd8103dde87d7d8b7c8",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2020-08-04T11:51:49-06:00",
+  "timestamp": 1596563509,
+  "message": "ParaView-Allow-all-ParaView-versions-to-depend-on-Python-2-17484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "547c71ad78c9f854525339cf0c8ee951c3860ba4",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-07-23T17:41:48-04:00",
+  "timestamp": 1595540508,
+  "message": "Revert-Add-libglvnd-packages-Add-EGL-support-14572-17682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "573489db710c6fd315170a45d6c609db2e30e5e4",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2020-07-13T11:32:36-04:00",
+  "timestamp": 1594654356,
+  "message": "Add-libglvnd-packages-Add-EGL-support-14572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7449bf8bab94315f02ee200c9b65363edb7134f7",
+  "author": "Ethan Stam <33101855+EthanS94@users.noreply.github.com>",
+  "date": "2020-05-22T09:33:19-06:00",
+  "timestamp": 1590161599,
+  "message": "ParaView-conflict-opengl2-with-versions-5.5-and-up-16742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "154a4428176ec3024529972478db71d351e57c48",
+  "author": "Utkarsh Ayachit <utkarsh.ayachit@kitware.com>",
+  "date": "2020-05-18T13:59:40-04:00",
+  "timestamp": 1589824780,
+  "message": "paraview-use-kits-by-default-16698",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c45c44738049e062916f9df38eb41ff9c1594e3",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2020-03-20T15:26:41-04:00",
+  "timestamp": 1584732401,
+  "message": "Add-version-5.8-and-fix-sqlite-column_metadata-mismatch.-15450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca66ab69017d75b2170bc95e96c438553f27337b",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2020-02-12T13:24:09-05:00",
+  "timestamp": 1581531849,
+  "message": "Paraview-fix-PYTHONPATH-for-static-build.-14648",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0167ceb10437311e6c8ae5541492e0034130214f",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-12-13T16:19:31-05:00",
+  "timestamp": 1576271971,
+  "message": "Add-shared-option-to-ParaView.-14131",
+  "repo": "spack/spack"
+},
+{
+  "commit": "831133a4c3c72bc09355ac835bbba87991d05502",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-12-05T13:06:47-05:00",
+  "timestamp": 1575569207,
+  "message": "paraview-Adjust-python-version-constraints-13999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8786cb468a357edcb94905eb70e155885e641c9a",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-10-28T15:55:08-06:00",
+  "timestamp": 1572299708,
+  "message": "Paraview-package-add-version-5.7.0-and-update-environment-setup-13255",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "210dd594a1b752fa3c1303a8ad568712b412ae97",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-10-02T13:00:03-04:00",
+  "timestamp": 1570035603,
+  "message": "Add-cuda-to-paraview-build.-12996",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a8c57231614f0976d77dfeaf185bdd9bfd3c6b5",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-09-09T12:57:53-04:00",
+  "timestamp": 1568048273,
+  "message": "Paraview-version-12766",
+  "repo": "spack/spack"
+},
+{
+  "commit": "292baab069526212fd766c464eca53e1887d0d82",
+  "author": "Howard Pritchard <howardp@lanl.gov>",
+  "date": "2019-08-29T14:18:37-06:00",
+  "timestamp": 1567109917,
+  "message": "paraview-use-Spack-built-libpng-12587",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a60ffdd5a25f44c1371f0a6adc456fa2bff73b07",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-19T13:57:19-04:00",
+  "timestamp": 1560967039,
+  "message": "vtk-paraview-catalyst-packages-Add-maintainers-11774",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83c795958022d9c130c6b3a8651c1e7ed1a86187",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-17T09:30:29-04:00",
+  "timestamp": 1560778229,
+  "message": "Fix-condition-to-enable-mpi4py.-11707",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a998fa25b0337c67d7426bc13185c4bd04414ab4",
+  "author": "psakievich <psakievich@gmail.com>",
+  "date": "2019-06-11T06:15:41-06:00",
+  "timestamp": 1560255341,
+  "message": "Paraview-Add-motionfx-Intel-workaround-11608",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c98190a6ec155a3bff0bd8cd77d41438b2714543",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-10T12:48:49-04:00",
+  "timestamp": 1560185329,
+  "message": "ParaView-and-Catalyst-use-python3.-11485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2d6095cf39dc914bb4d14b2ddd96281dc9894ff",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-16T09:04:44-04:00",
+  "timestamp": 1558011884,
+  "message": "paraview-fix-several-dependency-issues-11432",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85fa2dbe369aa6cd1fac64f214aa57668a535ec9",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-10T09:47:20-04:00",
+  "timestamp": 1557496040,
+  "message": "paraview-Fix-OpenGL-search-to-ignore-glvnd-11400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f848205e431c929a54ecf221768591906a0ef67",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-01T18:57:33-04:00",
+  "timestamp": 1556751453,
+  "message": "mesa-re-written-to-new-meson-build-system-10482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11c52c3bf7a8a1a636abe8f8bf2ae0427044429f",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-02-06T11:45:14-07:00",
+  "timestamp": 1549478714,
+  "message": "Paraview-package-update-PYTHONPATH-for-dependents-10501",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e896ce74570b7a5492fc8ec326a74fae144bf3f4",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-01-18T17:43:59-07:00",
+  "timestamp": 1547858639,
+  "message": "Update-Nalu-Wind-and-dependencies-10204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7e32cc2d671be385df76a13fbe2d88b234f17f8",
+  "author": "Simone Bnà <simone.bna@cineca.it>",
+  "date": "2018-12-23T20:40:25+01:00",
+  "timestamp": 1545594025,
+  "message": "openFOAM-paraview-catalyst-10129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4c7ffd424e8900ce5d2338ba8da64cf053491a9",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-13T08:36:18-07:00",
+  "timestamp": 1542123378,
+  "message": "Adding-Paraview-version-5.6.-9788",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f4b436ab6a919c93b3e7baa82abfa95d7313e03",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-10-03T20:34:38-06:00",
+  "timestamp": 1538620478,
+  "message": "ParaView-add-versions-9428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97206cb60a1780f1746d73fc2ff5ae8ca64a5aae",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-05-30T09:35:39-06:00",
+  "timestamp": 1527694539,
+  "message": "paraview-set-PARAVIEW_VTK_DIR-in-spack_env-and-run_env-8308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f9ed72f68624cd0fd982a7325554bdf1f3fd250",
+  "author": "Simone Bnà <simone.bna@cineca.it>",
+  "date": "2018-01-04T16:47:17+01:00",
+  "timestamp": 1515080837,
+  "message": "Fix-build-of-paraview-5802",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2812644ed7e6d3106c3a3e04019225437797b69f",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-01-02T14:06:25-07:00",
+  "timestamp": 1514927185,
+  "message": "paraview-package-Explicitly-specify-MPI-compilers-in-Cmake-6738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80048ae4a98b81ad645a7186c7d713662e57fd9c",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-12-01T12:46:39-08:00",
+  "timestamp": 1512161199,
+  "message": "Paraview-expects-qt-to-have-opengl-6520",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18d2fe7647cdb97837ef08c8a5d86c0478ceee6d",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-10-26T03:12:04-06:00",
+  "timestamp": 1509009124,
+  "message": "Customization-of-the-Paraview-module-file-to-its-nonstandard-directory-structure-5799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "890c5ad329fd6668074c94bf448f2209c0eff4a6",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-10-16T15:32:23-06:00",
+  "timestamp": 1508189543,
+  "message": "Forcing-Paraview-to-avoid-using-git-describe-to-determine-its-own-version-number-5783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd825baee987923fd804876ce9a048787f2f62e8",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-09-28T06:32:10+02:00",
+  "timestamp": 1506573130,
+  "message": "build-paraview-without-qt-when-osmesa-is-specified.-5480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0fa335df0bde84a1e688ce139ff44ad29877aca",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-10T10:09:05+02:00",
+  "timestamp": 1505030945,
+  "message": "Paraview-requires-CMake-version-3.3-or-higher-5317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c1c290a6362bc34199de1b8d81e8cad6d32e9a0",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-23T18:41:29+01:00",
+  "timestamp": 1498239689,
+  "message": "relax-qt-dependency-for-paraview-4592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff26cb9723d0742953671f0432bd4d55d8701cc7",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-22T15:29:19+01:00",
+  "timestamp": 1498141759,
+  "message": "Update-for-paraview-5.4.0-4582",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d08c5be4006f5a11901e555a72678a45a556eb",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-03-28T15:09:22+02:00",
+  "timestamp": 1490706562,
+  "message": "CONFIG-update-versions-for-paraview-3537",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20b9f34b5c650eefb23f4118bb52985c468a9098",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-08T15:09:02-04:00",
+  "timestamp": 1460142542,
+  "message": "paraview-use-internal-hdf5",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e56ba9f24df62ad205006a6b7bc13ae067a6623",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-08T15:08:29-04:00",
+  "timestamp": 1460142509,
+  "message": "paraview-use-internal-netcdf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a4aac0213f46ff233b6252be5db7c645501ab34",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-04-08T15:08:09-04:00",
+  "timestamp": 1460142489,
+  "message": "paraview-use-the-right-cmake-variables",
+  "repo": "spack/spack"
+},
+{
+  "commit": "553fff270a13d40fb9a41569bebf5075a740d8ac",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-21T11:24:49-04:00",
+  "timestamp": 1458573889,
+  "message": "paraview-disallow-python3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e77f1776020c2a6edf9eb284615d99c905821e9",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-21T11:54:58-04:00",
+  "timestamp": 1458575698,
+  "message": "paraview-fix-variant-description-typo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5c92d50eb78673c635a7ed26145bf10a15c20cb",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-21T11:24:36-04:00",
+  "timestamp": 1458573876,
+  "message": "paraview-remove-trailing-whitespace",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f3ac9ac8b7b1d16672e7a52f691966de1f8483f",
+  "author": "Luigi Calori <luigi.calori@gmail.com>",
+  "date": "2016-02-27T01:40:32+01:00",
+  "timestamp": 1456533632,
+  "message": "adding-new-version-to-praview-compiled-with-spack-d-install-j-8-keep-stage-paraview-5.0.0-qt-python-tcl-opengl2-gcc-4.8.2-netcdf-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7b3ed08ab15caa3aac95700d84bfb52d8e1ac2f",
+  "author": "Luigi Calori <luigi.calori@gmail.com>",
+  "date": "2016-02-10T15:40:05+01:00",
+  "timestamp": 1455115205,
+  "message": "add-variant-to-select-OpenGL2-Paraview-backend",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b98c25c1fba8b4e7f11d0c2094cf3f05ef2fe5b6",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-16T17:03:47-05:00",
+  "timestamp": 1447711427,
+  "message": "paraview-update-matplotlib-and-numpy-deps",
+  "repo": "spack/spack"
+},
+{
+  "commit": "485528cffa42960815fb4716d6a468cde43bf501",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-16T17:05:17-05:00",
+  "timestamp": 1447711517,
+  "message": "paraview-configure-the-python-and-MPI-executables",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3ead7061ef8862c347d7acca24e844ba7546b45",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-16T17:04:35-05:00",
+  "timestamp": 1447711475,
+  "message": "paraview-require-qt4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45d981caab32024b6d05909f777abd257777ddb7",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-11-16T11:45:27-05:00",
+  "timestamp": 1447692327,
+  "message": "paraview-add-dependency-on-libxml2-back",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddbfc403034c1ed98590088889687ff23f222aab",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-10-27T09:59:47-04:00",
+  "timestamp": 1445954387,
+  "message": "paraview-add-package",
+  "repo": "spack/spack"
+}]

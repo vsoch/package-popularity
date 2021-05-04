@@ -1,0 +1,512 @@
+[{
+  "commit": "44136223f79dd61642f8f56a2056c21378b1952d",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-04-23T18:19:15+02:00",
+  "timestamp": 1619194755,
+  "message": "MUMPS-allow-for-more-optimized-builds-23161",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67f182bb6de79f26b417bc6f56fb4fea95018175",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-04-01T14:06:22+02:00",
+  "timestamp": 1617278782,
+  "message": "MUMPS-Various-improvements-to-the-package-22575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3084bd76c1b303e88bdaaf6e6b8afcb6643843cd",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-03-26T12:50:41+01:00",
+  "timestamp": 1616759441,
+  "message": "mumps-add-v5.3.5.-22564",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58b9c6daddb84e34f4a6439d3ada978a4467e730",
+  "author": "Tom Epperly <tepperly@gmail.com>",
+  "date": "2021-02-11T17:14:09-08:00",
+  "timestamp": 1613092449,
+  "message": "Fix-mumps-compilation-with-gcc-10-i.e.-gfortran-21631",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa86523aaa4bc9d22edc27b036cf0599955974e8",
+  "author": "lpoirel <lpoirel@users.noreply.github.com>",
+  "date": "2021-02-08T10:30:27+01:00",
+  "timestamp": 1612776627,
+  "message": "mumps-don-t-put-absolute-path-in-soname-21247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7064fa18183d8f86db1e51d71487bc3f01fd56f",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2021-01-21T23:41:11-05:00",
+  "timestamp": 1611290471,
+  "message": "mumps-Fix-for-problematic-src-makefile-patch-20590-20758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0150b394d7df0a3b6104f061514dfa5539bddde0",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-12-25T00:50:27-05:00",
+  "timestamp": 1608875427,
+  "message": "mumps-Fix-dependency-issues-in-shared-licenses-20197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2df73cae384bae6afeeadd738ccddcce5ac47803",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2020-11-06T15:56:42-06:00",
+  "timestamp": 1604699802,
+  "message": "Mumps-oneapi-19786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95f351de7ef2baab162c16df3fe18299f66b19a8",
+  "author": "Michio Ogawa <michioga@users.noreply.github.com>",
+  "date": "2020-06-25T12:09:44+09:00",
+  "timestamp": 1593054584,
+  "message": "Updated-MUMPS-5.3.3-17223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ef0442a017841922ea58381080380ba29cfe118",
+  "author": "Nisarg Patel <33021055+hpcnpatel@users.noreply.github.com>",
+  "date": "2020-03-10T22:23:41+01:00",
+  "timestamp": 1583875421,
+  "message": "fix-static-mumps-build-error-Added-a-space-at-the-end-of-ar-vr-for-the-static-build-to-run-successfully-15407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad6908e35d875c0386699360d52b746c3616e74c",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-10-30T13:08:25+09:00",
+  "timestamp": 1572408505,
+  "message": "mumps-Fix-compile-commands.-13497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e29a6c532cee38662901404116bd2398ff31b885",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-10-30T03:32:36+09:00",
+  "timestamp": 1572373956,
+  "message": "mumps-Add-DMAIN_COMP-when-using-Fujitsu-compiler.-13480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e86027d1f84af99a6d8c0ed152fd26ac703527e4",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-19T15:55:56-05:00",
+  "timestamp": 1555707356,
+  "message": "MUMPS-add-version-5.2.0-11234",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e78730a9776e310e375fa4697aae828665af85f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-09T03:28:41-05:00",
+  "timestamp": 1554798521,
+  "message": "mumps-add-version-5.1.2-11132",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5425a3dad4e6f7a7dbb1708d97d50b2d273b6835",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T23:25:40-08:00",
+  "timestamp": 1546327540,
+  "message": "flake8-fix-flake8-issues-with-invalid-escapes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e554add64b7b0f2d395d0c67aa2dcf8ef046a027",
+  "author": "Dan FitzGerald <38731008+djfitzgerald@users.noreply.github.com>",
+  "date": "2018-08-02T14:23:37-04:00",
+  "timestamp": 1533234217,
+  "message": "Change-MUMPS-to-allow-it-to-build-with-clang-xlf-compiler-combination-8388",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1628f0af1c83d48175f71572c69c653d071dd2c",
+  "author": "Veselin Dobrev <dobrev@llnl.gov>",
+  "date": "2018-03-27T14:31:00-07:00",
+  "timestamp": 1522186260,
+  "message": "MUMPS-When-building-shared-put-the-inject_libs-after-the-object",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f0472ea871a55cbafb3bbcbe258cf1fff605de7",
+  "author": "Veselin Dobrev <dobrev@llnl.gov>",
+  "date": "2018-03-21T17:55:04-07:00",
+  "timestamp": 1521680104,
+  "message": "MUMPS-Remove-the-injection-of-rpath_args-through-the-inject_libs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae795d81849de8cbaba27eb63aac2ee256f022d3",
+  "author": "Veselin Dobrev <dobrev@llnl.gov>",
+  "date": "2018-03-19T15:57:03-07:00",
+  "timestamp": 1521500223,
+  "message": "MUMPS-Various-improvements-in-the-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65a165502263cab2f22083c0b31df1e9a9631ce9",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-03-06T09:05:58-08:00",
+  "timestamp": 1520355958,
+  "message": "mumps-add-the-libs-property-7264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6550aeeafcacad6bba5e4b44e130fd3b40e42bdd",
+  "author": "Darach Golden <darachg@gmail.com>",
+  "date": "2017-06-28T19:22:18+01:00",
+  "timestamp": 1498674138,
+  "message": "Requested-changes-related-to-mumps-compilation-4614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "59b66b0d27d29f4c7c1db256389331a36ca9fa10",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-21T18:36:18+02:00",
+  "timestamp": 1498062978,
+  "message": "mumps-fixed-compilation-issues-due-to-scotch-not-found-at-link-time-4567",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df6d8d913bd9e8c8fc704fc7b83ece9e0b9a4b37",
+  "author": "serbanmaerean <serban@us.ibm.com>",
+  "date": "2017-06-13T09:09:59-04:00",
+  "timestamp": 1497359399,
+  "message": "Fix-mumps-4453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9feeefdb93c7766d02e264bbdd7f070c2d6ec83",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-05-26T23:06:55-04:00",
+  "timestamp": 1495854415,
+  "message": "Added-pgi-support-for-mumps-4369",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8486f413ab2ecf3935d98feefd246e999e0b038",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-26T09:33:44+02:00",
+  "timestamp": 1490513624,
+  "message": "mumps-add-5.1.1-3557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b52a87285025387635e146345bfd04cb9e8fc5c",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-03-01T16:33:41-05:00",
+  "timestamp": 1488404021,
+  "message": "Add-xl-and-spectrum-mpi-support-for-mumps-3231",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa7c5d111531ded399cad06f04fb973d17892c46",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-27T20:32:25+01:00",
+  "timestamp": 1485545545,
+  "message": "mumps-fix-compilation-with-MKL-2936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8365dbd959f0c8346017c64298fa1cac06122609",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-16T11:23:07+01:00",
+  "timestamp": 1484562187,
+  "message": "petsc-add-64bit-variant-2655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d3d49221442e102b59c3b273aecd8c95d6d0edf",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2016-10-22T17:57:44-05:00",
+  "timestamp": 1477177064,
+  "message": "mumps-Add-support-for-Intel-compiler-and-insure-both-lapack-and-blas-2076",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd28f5b5eb8ad4ca50ac961b50de1475523c968e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-18T16:38:30+02:00",
+  "timestamp": 1476801510,
+  "message": "mumps-add-5.0.2-2041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2966f174aeb84587301ffdd5609f1434b0c193f9",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-10-06T02:15:38-04:00",
+  "timestamp": 1475734538,
+  "message": "mumps-Add-alternate-download-location-in-comments-1919",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd3a702c99ec41bbed510102769bba6984bbd30",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T08:12:57+02:00",
+  "timestamp": 1468649577,
+  "message": "mumps-flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0752eccfa5f865419f0ab4f3de06f5feea1aa422",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T07:38:42+02:00",
+  "timestamp": 1468647522,
+  "message": "mumps-don-t-hardcode-blas-name-remove-unused-depends_on-lapack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85982017b605f2c21bbe01149a92e512b8be27f7",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-07-04T18:19:09+02:00",
+  "timestamp": 1467649149,
+  "message": "Revert-Corrected-the-shared-libraries-and-tests-in-mumps-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "165411f4a5bae4d398630664f863def130492a22",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-08T15:15:39+02:00",
+  "timestamp": 1465391739,
+  "message": "bug-fix-in-the-mpi-case",
+  "repo": "spack/spack"
+},
+{
+  "commit": "498c098d11814311e7fbca0084e5298d28d30ce6",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-08T14:57:54+02:00",
+  "timestamp": 1465390674,
+  "message": "Cleaning-flake-warnings-in-mumps-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e124c86a4fe515ed4497fafac4bd877e22e2e25a",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-08T14:17:46+02:00",
+  "timestamp": 1465388266,
+  "message": "Corrected-the-shared-libraries-and-tests-in-mumps-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71ffe2f1c40edaa311a8b7d25d87d2c3ca25388f",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-03-31T17:11:57-07:00",
+  "timestamp": 1459469517,
+  "message": "mumps-install-mpiseq-headers-for-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "439d3b3ddb4e53721b216bd19bec1e8fa16faf89",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T17:38:25+02:00",
+  "timestamp": 1459093105,
+  "message": "mumps-add-install_name-soname",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e39daeb12aa13a3f3f975ff315143bc3f13a2b4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-25T09:56:24+01:00",
+  "timestamp": 1458896184,
+  "message": "add-fPIC-to-MUMPS-when-building-shared-libs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fdd7e91ba078bea4f0fec1859124baaa8261fa2c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-24T12:49:56+01:00",
+  "timestamp": 1458820196,
+  "message": "add-shared-variant-to-mumps-needed-for-Trilinos-plus-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01918a6f4891ab985b8619daaadc1bf484e4db17",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-23T05:26:51+01:00",
+  "timestamp": 1458707211,
+  "message": "fix-MUMPS-build-on-OSX-set-parallel-False",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db61a09cf14cc791d7692aac0329e8958b228fb6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-18T16:28:36+01:00",
+  "timestamp": 1458314916,
+  "message": "fix-mumps-when-installed-with-parmetis-has-to-be-linked-with-metis",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b71b478a3626ae9e1a0d3b5c7ab9945b5c478200",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T18:31:02+01:00",
+  "timestamp": 1453311062,
+  "message": "Minor-correction-to-install-mumps-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "974fc65e0f15ac87d2422858d71e0c7624fb7726",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T14:38:55+01:00",
+  "timestamp": 1453297135,
+  "message": "renaming-packages-to-follow-changes-on-develop",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65f65ec4e47289e15e5d6a25913beb8e6bb4831b",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T10:03:24+01:00",
+  "timestamp": 1453280604,
+  "message": "Adding-MUMPS-and-ScaLAPACK",
+  "repo": "spack/spack"
+}]

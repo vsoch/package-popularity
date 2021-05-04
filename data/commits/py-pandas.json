@@ -1,0 +1,376 @@
+[{
+  "commit": "af52b8e29ee2d141e64d2bcbd277900c3cd51903",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-04-13T11:39:47-05:00",
+  "timestamp": 1618331987,
+  "message": "py-pandas-add-v1.2.4-22944",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d343304bdcd7ce6cd7a4656963a26be701b1a541",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-03T07:31:22-06:00",
+  "timestamp": 1614778282,
+  "message": "py-pandas-add-v1.2.3-22048",
+  "repo": "spack/spack"
+},
+{
+  "commit": "341eec8dfb958a86ac22d5a2c92d64ee871b84e7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T11:32:58-06:00",
+  "timestamp": 1612891978,
+  "message": "py-pandas-add-v1.2.2-21568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "551105749b8458900fd883bdcdd055762a5ad6e2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-01-22T07:28:24-06:00",
+  "timestamp": 1611322104,
+  "message": "py-pandas-add-v1.2.1-21176",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ed654aa7019859016ba23856d0f6cfb08a2d03c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-27T04:57:37-06:00",
+  "timestamp": 1609066657,
+  "message": "py-pandas-add-v1.2.0-20557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0344648149cb17af9517b94485583bfb51f959a2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-08T07:08:36-06:00",
+  "timestamp": 1607432916,
+  "message": "py-pandas-add-v1.1.5-20268",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d855ad2abb379ce8344f720a9a623edb511c21c8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-30T19:12:47-05:00",
+  "timestamp": 1604103167,
+  "message": "py-pandas-add-v1.1.4-19632",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfb9e8f667842792eb62e673dab84a51532f0ce4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-06T00:27:45-05:00",
+  "timestamp": 1601962065,
+  "message": "py-pandas-add-version-1.1.3-19152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "346d12dc6cd0c689714f9adb350c0030a7db6465",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-09T02:32:56-05:00",
+  "timestamp": 1599636776,
+  "message": "Pandas-added-v1.1.2-18580",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07fc495c9477a3da583f8e333dbf06c38ee03563",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-21T01:49:32-05:00",
+  "timestamp": 1597992572,
+  "message": "py-pandas-added-v1.1.1-18206",
+  "repo": "spack/spack"
+},
+{
+  "commit": "198ccfae4e12499adc30db7d30410e2a91ebc2f5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-28T14:34:22-05:00",
+  "timestamp": 1595964862,
+  "message": "Pandas-add-v1.1.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a0c5de50b168e34278a876942cda93ddd440c84",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-18T17:24:27-05:00",
+  "timestamp": 1592519067,
+  "message": "py-pandas-add-v1.0.5-17161",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d76eb1fa512d9092f91a5db962c33bb8d0201526",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-30T11:09:10-05:00",
+  "timestamp": 1590854950,
+  "message": "Pandas-add-1.0.4-16877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b4b7aacbb4de97fe068a9ca4746629186042727",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-28T23:14:17-05:00",
+  "timestamp": 1588133657,
+  "message": "py-pandas-add-1.0.X-release-16366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ced690efbaf895a3121a2fa2ddb0cd21573dfbd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-12T20:12:41-05:00",
+  "timestamp": 1570929161,
+  "message": "Add-py-pandas-0.25.1-13174",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db2bbbcecf19783081d627e24bd21df851da74bd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-30T17:16:32-05:00",
+  "timestamp": 1564524992,
+  "message": "Add-pandas-0.25.0-12173",
+  "repo": "spack/spack"
+},
+{
+  "commit": "267d07e4b99df6a0e4a6a9bfcc669fd79aaa4d10",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-07-16T20:46:17-05:00",
+  "timestamp": 1563327977,
+  "message": "py-pandas-add-0.24.2-12038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "639cb1732296f54190db58ec3fbb0500274e4182",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-16T01:40:56-05:00",
+  "timestamp": 1560667256,
+  "message": "Rename-py-dateutil-py-python-dateutil-11717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6bd4d27ea0e152e32e19cf6346fa0010861c6ff",
+  "author": "Eric Martin <erimar77@users.noreply.github.com>",
+  "date": "2019-04-23T19:01:56-05:00",
+  "timestamp": 1556064116,
+  "message": "py-pandas-Add-version-0.20.0-11264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0430457aa079d009b8fd6034cc5a04b91b07d35",
+  "author": "Leonhard Reichenbach <Zehvogel@users.noreply.github.com>",
+  "date": "2018-10-12T18:52:39+02:00",
+  "timestamp": 1539363159,
+  "message": "Added-py-pandas-0.23.4-and-py-bottleneck-1.2.1-9515",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3545ed1b3c5d81e26b1b23b25bbfcc810602114",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2017-12-16T20:38:02-06:00",
+  "timestamp": 1513478282,
+  "message": "py-pandas-add-versions-0.19.2-and-0.21.1-6687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8333c56ab8f81ddae0f9af0f9a8e5cc42f3416c3",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-03T23:35:04+01:00",
+  "timestamp": 1488580504,
+  "message": "add-versions-to-package-py-pandas-3338",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfc0efa8edc3ccdb8e8c4b0504c5fe77e298a9fd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-26T12:32:14-05:00",
+  "timestamp": 1461691934,
+  "message": "Put-f2py-of-py-numpy-in-python-ignore-list.-827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ae84cfabaf22e52b01911c909b2d2342b75f3d9",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-03-30T11:21:38-05:00",
+  "timestamp": 1459354898,
+  "message": "This-commit-updates-pandas-and-fixes-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d017c5080a49bc6c2dee231234f8535198350b16",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-08-07T00:03:14-07:00",
+  "timestamp": 1438930994,
+  "message": "Fixed-py-pandas-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b0a9c059bc854d94e2160efbe9bd3fa401af0f",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:39:01-07:00",
+  "timestamp": 1433173141,
+  "message": "updated-Python-extension-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50970b72d8721c19fa37a8ea934d9b4f4cdbd62a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-05-12T13:47:48-07:00",
+  "timestamp": 1431463668,
+  "message": "added-py-pandas",
+  "repo": "spack/spack"
+}]

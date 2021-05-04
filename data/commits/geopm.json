@@ -1,0 +1,96 @@
+[{
+  "commit": "7dc9a0082b27af5a2a5f9869aa7bc0315aaef321",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-04-20T20:19:29+02:00",
+  "timestamp": 1618942769,
+  "message": "geopm-remove-reference-to-nonexistent-variant-23084",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab2b3f30a543dff31ce6c867423ff4d5aadea92c",
+  "author": "Matthias Maiterth <maiterth@nm.ifi.lmu.de>",
+  "date": "2019-11-14T19:01:03+01:00",
+  "timestamp": 1573754463,
+  "message": "package-geopm-Added-versions-1.0.0-and-1.1.0-13721",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23822e9717cf5e11bcec7d880cec6eea4a9d3ebb",
+  "author": "Matthias Maiterth <matthias.maiterth@gmail.com>",
+  "date": "2019-03-07T20:18:05+01:00",
+  "timestamp": 1551986285,
+  "message": "GEOPM-package-add-version-1.0.0-rc2-10737",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f50e91776db0bc0ca77e70f4db43388fbdf03685",
+  "author": "Matthias Maiterth <matthias.maiterth@gmail.com>",
+  "date": "2019-01-30T19:50:38+01:00",
+  "timestamp": 1548874238,
+  "message": "geopm-package-new-versions-dependency-updates-10480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a85981b2504c5c7dd63cb2e1fe153b3ab743f43b",
+  "author": "Matthias Maiterth <matthias.maiterth@gmail.com>",
+  "date": "2018-06-15T15:17:17+02:00",
+  "timestamp": 1529068637,
+  "message": "Package-geopm-Update-to-version-0.5.0-8487",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed4d0c5a87a9bcb51f65790169f088926791ddc5",
+  "author": "Matthias Maiterth <matthias.maiterth@gmail.com>",
+  "date": "2018-04-17T14:51:56+02:00",
+  "timestamp": 1523969516,
+  "message": "Package-geopm-7560",
+  "repo": "spack/spack"
+}]

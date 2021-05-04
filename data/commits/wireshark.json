@@ -1,0 +1,96 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "710fabd68af1b9e451e385a6589bbd56af2b19f3",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-07T20:18:29+08:00",
+  "timestamp": 1581077909,
+  "message": "wireshark-added-new-versions-up-to-v3.2.1-14828",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa5e8aa87670fdd437a7a159d8dcb74187d46155",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-18T12:55:15-06:00",
+  "timestamp": 1576695315,
+  "message": "wireshark-remove-non-existing-dependencies-14209",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12fb1cdbe51a5fb66f4244752cc2ba68fec40320",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-02T19:29:05+02:00",
+  "timestamp": 1533230945,
+  "message": "Replace-pkg-config-dependencies-with-virtual-8783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4a46f4fc394147f4f8d7820cb432fcbdfb3d0b3",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-05-10T13:58:43+02:00",
+  "timestamp": 1525953523,
+  "message": "wireshark-stop-cmake-from-picking-up-usr-paths-8053",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17ce5fd91283cb0cc05376083e5f6b2db78805b1",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-05-06T16:32:06+02:00",
+  "timestamp": 1525617126,
+  "message": "Add-package-wireshark-and-dependencies-8024",
+  "repo": "spack/spack"
+}]

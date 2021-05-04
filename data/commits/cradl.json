@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fc237055958829bebd4b7b0c905e4d1a6ae59f8",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-09-14T18:55:53-06:00",
+  "timestamp": 1600131353,
+  "message": "Added-Missing-Tag-to-Cradl-Spackage-18669",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2673aeddd6109ca23c6b65e405d02aa4cbef639",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-09-14T14:25:49-06:00",
+  "timestamp": 1600115149,
+  "message": "CRADL-Machine-Learning-Proxy-Spackage-18668",
+  "repo": "spack/spack"
+}]

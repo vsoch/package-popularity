@@ -1,0 +1,312 @@
+[{
+  "commit": "f59ac045d45d6a371ae0808850bf9d125b70bccb",
+  "author": "Hervé Yviquel <hyviquel@gmail.com>",
+  "date": "2021-03-26T20:01:18-03:00",
+  "timestamp": 1616799678,
+  "message": "ucx-add-v1.9.0-v1.10.0-22527",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afb7e57d202bd427724ecdec5c9c4bffbed4b21d",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-03-01T20:41:37+05:30",
+  "timestamp": 1614611497,
+  "message": "ucx-added-variants-to-support-IB-mlx-etc-21876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e828641d808d5f895bf5bf1963067e075e4ce982",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2020-11-11T16:58:29+00:00",
+  "timestamp": 1605113909,
+  "message": "Adding-support-to-build-ucx-development-branch-18089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4ea74c11bf6e444dda1b93f3b2c934fdde74a60",
+  "author": "Hervé Yviquel <hyviquel@gmail.com>",
+  "date": "2020-11-02T18:53:11-03:00",
+  "timestamp": 1604353991,
+  "message": "allow-ucx-to-build-with-more-recent-version-of-gdrcopy-19606",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2626b843842c7952be7405f2f097c02d4d1624a",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-10-01T15:56:19-04:00",
+  "timestamp": 1601582179,
+  "message": "ucx-added-v1.9.0-19100",
+  "repo": "spack/spack"
+},
+{
+  "commit": "193c3535e18821a8037b5dff04bab6424314b29c",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-08-12T07:14:53-06:00",
+  "timestamp": 1597238093,
+  "message": "Use-configure-release-instead-of-configure-for-UCX-17941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18d2682f751a07f30f3ef7e22b0745e86d4b7e88",
+  "author": "Howard Pritchard <howardp@lanl.gov>",
+  "date": "2020-08-10T22:10:59-06:00",
+  "timestamp": 1597119059,
+  "message": "UCX-add-version-1.8.1-17972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0492efc113ff0188dcf16b05664ed9ffac77258",
+  "author": "Alex Margolin <alex--m@users.noreply.github.com>",
+  "date": "2020-08-09T20:55:49+03:00",
+  "timestamp": 1596995749,
+  "message": "KNEM-and-XPMEM-support-for-UCX-17215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c025324af19afa11be31d9eee3788707c149693",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-05-14T21:04:06-04:00",
+  "timestamp": 1589504646,
+  "message": "ucx-cuda-gdrcopy-variants-16605",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b0e4cd20b373678a37e27612fe16e66aa819600",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2020-04-25T12:39:33-05:00",
+  "timestamp": 1587836373,
+  "message": "ucx-add-version-modify-variants-16252",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc19f7de6c961a867dabbc9c2ca22fc7d18714d4",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-07T16:18:40-04:00",
+  "timestamp": 1586290720,
+  "message": "ucx-add-additional-variants-15925",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e519bbadc3c55f6fafacadc4ae950fb02565fe27",
+  "author": "Howard Pritchard <howardp@lanl.gov>",
+  "date": "2020-02-28T10:22:37-07:00",
+  "timestamp": 1582910557,
+  "message": "UCX-add-1.7.0-15266",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2f961bd6fc0ba2fe9e4e9713b4196626f776122",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-01-15T19:31:18+01:00",
+  "timestamp": 1579113078,
+  "message": "Adds-MPI_THREAD_MULTIPLE-support-for-OpenMPI-to-the-variant-with-UCX-fabrics-14194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07f39218384c0d8d6c662efa62d3478bbf9d6b87",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2019-07-22T20:43:35-06:00",
+  "timestamp": 1563849815,
+  "message": "Add-UCX-1.6.0-12089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad14432e660c883be2270c9f0619f6c906c9826a",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2019-06-24T19:21:06-06:00",
+  "timestamp": 1561425666,
+  "message": "UCX-package-add-versions-1.5.1-1.5.2-11832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e230b0a00f96e866bc664bd07fc5d1bbb0e22e21",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2019-02-21T17:22:32-07:00",
+  "timestamp": 1550794952,
+  "message": "UCX-package-add-version-1.5.0-10678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7402112b1f0a9144080a55f3bbdd6f11f59fe94d",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2018-11-19T12:20:22-07:00",
+  "timestamp": 1542655222,
+  "message": "Add-UCX-v1.4.0-9881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9d8226bc635ee0f325361698a770518022406ab",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2018-09-26T19:53:54-06:00",
+  "timestamp": 1538013234,
+  "message": "new-package-versions-ucx-libhio-and-hwloc-9365",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14e0307f04216960415a562c94ebb03a89d4f793",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-04-25T10:34:55-05:00",
+  "timestamp": 1524670495,
+  "message": "ucx-needs-numactl-and-rdma-core-7836",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5e4befcacbb73f93538bcea4eb308488082fed1",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2018-04-12T13:51:25-06:00",
+  "timestamp": 1523562685,
+  "message": "UCX-update-for-release-1.3.0-7740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "568db965cffe113127bc06a7198873cc6d454873",
+  "author": "Howard Pritchard <hppritcha@gmail.com>",
+  "date": "2018-01-18T13:41:16-07:00",
+  "timestamp": 1516308076,
+  "message": "ucx-update-for-release-1.2.2-6990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02335fa849343409564a0a66ecf7dda7bfa9e8b1",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-11-13T10:47:58-07:00",
+  "timestamp": 1510595278,
+  "message": "ucx-initial-commit-6265",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6ebfdaa60f643e6c208256ce9bce645d396dace",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-04T04:33:48+01:00",
+  "timestamp": 1488598428,
+  "message": "add-package-py-serial-3341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c67b8173e33ed619d9601654a71c47d67fb82fe3",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-03-02T23:28:42+01:00",
+  "timestamp": 1488493722,
+  "message": "add-package-py-rope-3314",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37c36cf04ef91eb7ef7382a6b1feda48c00b721f",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-28T20:36:32+01:00",
+  "timestamp": 1488310592,
+  "message": "add-package-py-tqdm-3262",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

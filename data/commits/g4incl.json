@@ -1,0 +1,72 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77e13849026b9b177c27fcaefd134dd32e4329e4",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-03-31T09:54:31+01:00",
+  "timestamp": 1585644871,
+  "message": "geant4-new-version-10.6-plus-simplifications-15447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec75011a697249d25f05eec89aac6ab07f695de0",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-02-28T15:34:08+00:00",
+  "timestamp": 1582904048,
+  "message": "Add-drbenmorgan-as-maintainer-for-core-HEP-packages-15264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9cf6aece85fd7289c3bdb955eb7c1619ba1d4a4f",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-08-02T13:48:35-05:00",
+  "timestamp": 1564771715,
+  "message": "Geant4-data-packages-Set-the-install-path-name-explicitly.-12244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0748a32b2d33292f37e07820262a19bdbb92bdbc",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-02-13T22:51:26-06:00",
+  "timestamp": 1550119886,
+  "message": "Updated-Geant4-and-dependencies-clhep-and-vecgeom-to-use-cxxstd-variant-10518",
+  "repo": "spack/spack"
+}]

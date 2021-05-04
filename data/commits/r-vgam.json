@@ -1,0 +1,216 @@
+[{
+  "commit": "cf35661d3c1da612991a43843b7183d50cfc5836",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-24T17:54:25-06:00",
+  "timestamp": 1611532465,
+  "message": "Updates-of-R-CRAN-packages-21223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20092adb944615b96e4265d5d23627f91b2d5c58",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2017-11-18T07:39:55-06:00",
+  "timestamp": 1511012395,
+  "message": "r-vgam-Create-new-package-6363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22df09315f771c7523e599c675291a275ecb50e0",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2017-11-05T16:42:24-05:00",
+  "timestamp": 1509918144,
+  "message": "Re-add-list_url-for-all-R-packages-6110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36b8ea2f928651a53f29c0dae158f70597207173",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-09T12:28:39-05:00",
+  "timestamp": 1497029319,
+  "message": "Add-default-list_url-for-GitLab-BitBucket-and-CRAN-4439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c0a1fdedc036c1a7bbd420780d48215a9488819",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-31T08:54:34-06:00",
+  "timestamp": 1485874474,
+  "message": "Add-several-new-R-packages-2952",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "daff3c0908717eedf6a3e192dc37b8aa23111042",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T18:28:52-06:00",
+  "timestamp": 1483835332,
+  "message": "Preliminary-RPackage-class-2761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee7acc6b1337366c91261c3d76ad3750dd6409f0",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-30T15:10:25-05:00",
+  "timestamp": 1469909425,
+  "message": "New-package-r-car",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27986c9edf2d721aa498833f2dccb48cc7548aeb",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-24T16:02:36-05:00",
+  "timestamp": 1469394156,
+  "message": "New-packages-R-htmlwidgets",
+  "repo": "spack/spack"
+},
+{
+  "commit": "519b760222d953b9c79793e7803526846a814607",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-04T17:30:05-05:00",
+  "timestamp": 1467671405,
+  "message": "New-package-RStan",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e9f8bd38d4d660db2a03d235535d2d964a7ddec",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-11T15:53:28-05:00",
+  "timestamp": 1465678408,
+  "message": "Add-list_url-for-old-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad0cfa41aa970887771d3cb5a84ae41f7800432b",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-07T23:37:49-05:00",
+  "timestamp": 1465360669,
+  "message": "Fix-flake8-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "738720a000ab200cf93532de506eda71b1d582e5",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-07T23:20:46-05:00",
+  "timestamp": 1465359646,
+  "message": "new-package-r-devtools",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b7b7f6d9758d47bb59b59e92cb2c7e3b785ac51",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-24T18:11:18-05:00",
+  "timestamp": 1461539478,
+  "message": "Reformat-description-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbabfc593d10a7fc35944e72e2eb8b1ebf4818eb",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-06T16:44:22-05:00",
+  "timestamp": 1459979062,
+  "message": "Make-R-extensable-and-add-a-couple-of-packages-for-verification",
+  "repo": "spack/spack"
+}]

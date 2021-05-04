@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5407a74f2b204cd18826302f2469e22de8020bc5",
+  "author": "daichi-nishi <70185009+daichi-nishi@users.noreply.github.com>",
+  "date": "2020-10-23T05:03:09+09:00",
+  "timestamp": 1603396989,
+  "message": "modified-var-spack-repos-builtin-packages-ppopen-appl-amr-fdm-package.py-19459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca4de491bafbda92af7b15c442b33a2d84db969a",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-04-27T12:09:06+09:00",
+  "timestamp": 1587956946,
+  "message": "ppOpen-APPL-AMR-FDM-New-package-16199",
+  "repo": "spack/spack"
+}]

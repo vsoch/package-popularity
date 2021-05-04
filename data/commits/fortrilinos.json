@@ -1,0 +1,32 @@
+[{
+  "commit": "9c7669ed670af8122289342aa57fc75d26781ca1",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-16T01:31:10+09:00",
+  "timestamp": 1615825870,
+  "message": "fortrilinos-Fix-trilinos-depend-22295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e3f6489c49f68f3efb3966c81a5f2ae8e0a08c1",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2021-01-08T15:48:23-05:00",
+  "timestamp": 1610138903,
+  "message": "ForTrilinos-add-version-2.0.0-20695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e51b8d165c1767bd737df17fb9321ab0b214a4b",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-09-02T08:14:20-04:00",
+  "timestamp": 1599048860,
+  "message": "New-package-ForTrilinos-18456",
+  "repo": "spack/spack"
+}]

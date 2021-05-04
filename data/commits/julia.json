@@ -1,0 +1,360 @@
+[{
+  "commit": "730c030ee5ff631cee79c3a9d20cff9865b7c03c",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-26T15:03:13+01:00",
+  "timestamp": 1616767393,
+  "message": "julia-new-version-22537",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e841a41357754fb15b3cf83fd8a1b26f51e6ced5",
+  "author": "Carlos Bederián <carlos.bederian@unc.edu.ar>",
+  "date": "2021-02-23T23:06:29-03:00",
+  "timestamp": 1614132389,
+  "message": "julia-Add-1.5.3-21891",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "771e8b62943a82c3572b2a73aad8521c8043d080",
+  "author": "Elliot Saba <staticfloat@gmail.com>",
+  "date": "2020-11-03T10:04:29-08:00",
+  "timestamp": 1604426669,
+  "message": "julia-CPU-names-are-LLVM-style-must-map-across-19549",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95a46de7cbe90d9411aa6c32a879a274790776fa",
+  "author": "Chris de Graaf <me@cdg.dev>",
+  "date": "2020-10-05T20:07:26-05:00",
+  "timestamp": 1601946446,
+  "message": "Add-Julia-1.5.2-19154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aabe210689c1ad8243653ce658ed94a4bf2d278a",
+  "author": "Jonathan Maack <40000230+jmaack24@users.noreply.github.com>",
+  "date": "2020-10-05T16:23:14-06:00",
+  "timestamp": 1601936594,
+  "message": "Closes-16303-Julia-build-fails-with-ERROR-Invalid-CPU-name-skylake_avx512.-18745",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d936a8cc6eec96fbdac327397d63482750a79d2",
+  "author": "Carlos Bederián <carlos.bederian@unc.edu.ar>",
+  "date": "2020-05-22T12:24:54-03:00",
+  "timestamp": 1590161094,
+  "message": "julia-Fix-LLVM-build-failing-with-newer-versions-of-CMake-16738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0581e6abb3107c17ed858cdf04d051d53e7beb15",
+  "author": "Carlos Bederián <carlos.bederian@unc.edu.ar>",
+  "date": "2020-05-22T08:56:35-03:00",
+  "timestamp": 1590148595,
+  "message": "julia-added-v1.4.1-16739",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e1e98cf8fface6ed3f018e33be045a18bc03d8f",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2020-03-25T09:46:04+00:00",
+  "timestamp": 1585129564,
+  "message": "julia-added-v1.4.0-15673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ee0295fb29e08870e04f849de961266f95e9fea",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-18T15:59:09-06:00",
+  "timestamp": 1582063149,
+  "message": "Update-and-simplify-julia-package-14756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a8ece4504f855784a90c7e54081e0cf3e92d14f",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-31T14:48:40-05:00",
+  "timestamp": 1567280920,
+  "message": "Add-MKL-variant-to-Julia-12602",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a730d7059aae848fb718212ed1f072a7aeca709",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-08-24T08:29:14+09:00",
+  "timestamp": 1566602954,
+  "message": "Julia-package-add-ARM-support-and-versions-1.1.1-1.0.0-12300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4b50973751ff5be499d99dca702d9b18588392f",
+  "author": "Will Furnass <will@thearete.co.uk>",
+  "date": "2018-03-29T10:44:25+01:00",
+  "timestamp": 1522316665,
+  "message": "Add-Julia-0.6.2-checksum-7577",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a32f8c33b045f8bcb70ad0cb5b00d4e0b0c373e0",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-05-19T18:32:40-04:00",
+  "timestamp": 1495233160,
+  "message": "julia-New-version-0.5.2-4259",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2235fed41bc246792c19829f2b5594ae8d539d1",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-17T17:07:49-04:00",
+  "timestamp": 1489784869,
+  "message": "julia-Create-cacert-directory-manually-to-ensure-correct-permissions-3482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2eda08f192330f835722626f533ba8fa2583af7e",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-16T12:49:37-04:00",
+  "timestamp": 1489682977,
+  "message": "julia-New-variant-simd-3458",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d8f1446265f76347b6e5a9368b942fa4cc98f95e",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-11T22:04:44-05:00",
+  "timestamp": 1489287884,
+  "message": "julia-New-version-0.5.1-3418",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73ec2a27d08feebcd11be657f2ac25a93fa41928",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-23T16:35:12-04:00",
+  "timestamp": 1474662912,
+  "message": "Don-t-require-git-for-Julia-0.5-1834",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef1f44142497160e09fa0cb4a36a42737dbd42c8",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T15:40:58-04:00",
+  "timestamp": 1474400458,
+  "message": "Julia-Add-version-0.5.0-1809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd6aac3102f0c107c3c5b65e0e04e342b4065e35",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:16:25-04:00",
+  "timestamp": 1474362985,
+  "message": "Update-Julia-to-0.4.7-1805",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6acfcd82b1a4e603ccd100675d3271978cde1279",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-28T20:46:10-04:00",
+  "timestamp": 1472431570,
+  "message": "Update-Julia-to-0.5-release-branch-install-some-Julia-package-as-well-1637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c904a42c5b7e905bd793e90d1deb4b32023404f2",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-06-22T11:09:45-04:00",
+  "timestamp": 1466608185,
+  "message": "Address-flake-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e398c0dc5bdec54ee06ffa7694502b9a73af4011",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-06-22T11:00:00-04:00",
+  "timestamp": 1466607600,
+  "message": "Update-Julia-to-0.4.6",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7e3f8635530574c5190d9501f2fdf1b0aa0aff",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-09T09:58:48-04:00",
+  "timestamp": 1460210328,
+  "message": "Correct-version-dependency-for-OpenBLAS-patch",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f461b9972265df09e8ff9ac5c99a3f3d96783883",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-08T14:31:40-04:00",
+  "timestamp": 1460140300,
+  "message": "Building-OpenBLAS-requires-recent-binutils",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a87ae5173f5e30aa9d8b3360e67dbc17568342f5",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-04T18:16:25-04:00",
+  "timestamp": 1459808185,
+  "message": "Update-Julia",
+  "repo": "spack/spack"
+}]

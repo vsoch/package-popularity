@@ -1,0 +1,208 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fbbf539d18cfa3590ccad8f27ea281aaf4859ac",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-08-12T20:57:00-04:00",
+  "timestamp": 1597280220,
+  "message": "libpciaccess-New-version-0.16-18035",
+  "repo": "spack/spack"
+},
+{
+  "commit": "199ce66a3c42c9351064019059a490809223c4e4",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-26T17:06:37-07:00",
+  "timestamp": 1587945997,
+  "message": "libpciaccess-mirror-16312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9573fa22994ccc47a53a254eca1dfcbe44e6644d",
+  "author": "Nicholas Sly <nicholas.sly@gmail.com>",
+  "date": "2019-12-23T14:31:59-07:00",
+  "timestamp": 1577136719,
+  "message": "Added-conflict-with-pgi-in-libpciaccess-package.py-with-relevant-links-in-comments.-14281",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d38e601134fd251b3ef7229ed8f384526f1b165f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-23T13:47:06-05:00",
+  "timestamp": 1495565226,
+  "message": "Add-latest-version-of-libpciaccess-4325",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7bf8034b0e814a53cff39651c053cd3f3923cd5",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-17T10:09:09-04:00",
+  "timestamp": 1489759749,
+  "message": "libpciaccess-Convert-to-AutotoolsPackage-remove-Darwin-work-around-3459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6dc8bbcb3a5f710f0ae24b9e4682a5719224a81f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T11:42:20-05:00",
+  "timestamp": 1476204140,
+  "message": "Package-all-of-Xorg-X11-XCB-1740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf11c32720c6fa409468cd561666aaf002d3e37d",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-08-30T01:11:27-04:00",
+  "timestamp": 1472533887,
+  "message": "libpciaccess-Changed-libtool-to-a-build-dependency.-1602",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76dfaa71a7f59d8c94c415819c57cb191a0e4a4a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T01:47:20-07:00",
+  "timestamp": 1466066840,
+  "message": "fix-up-packages-for-new-architecture",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44f089508b7b3077cad846d2f198013b089dedf0",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-05-05T15:40:22-07:00",
+  "timestamp": 1462488022,
+  "message": "Changed-other-packages-to-fit-new-syntax",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d017c5080a49bc6c2dee231234f8535198350b16",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-08-07T00:03:14-07:00",
+  "timestamp": 1438930994,
+  "message": "Fixed-py-pandas-package",
+  "repo": "spack/spack"
+}]

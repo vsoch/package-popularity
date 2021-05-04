@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2c6f6a703e577011bea6fdd97eca580a379d9b1",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-06-07T07:33:03-07:00",
+  "timestamp": 1591540383,
+  "message": "py-gast-add-version-0.3.3-16945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3eafde7bf180e94bed6789b5dd41cb3ee240731",
+  "author": "Dominik Dold <34650920+dodo47@users.noreply.github.com>",
+  "date": "2019-12-06T01:48:20+01:00",
+  "timestamp": 1575593300,
+  "message": "Add-new-TensorFlow-package-13112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e4e3d192ec3a96d51e1f2afaeeb7a351826a094",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-20T15:21:03-07:00",
+  "timestamp": 1574288463,
+  "message": "Add-old-version-of-py-gast-13806",
+  "repo": "spack/spack"
+},
+{
+  "commit": "326c2718d5bd5cd954e4512e0e476141705e3f1b",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-09-20T17:59:50-07:00",
+  "timestamp": 1569027590,
+  "message": "New-package-py-gast-12874",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,80 @@
+[{
+  "commit": "e47b1ff95cc49d2917c5bc2abca4722cb42444c9",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2021-04-18T21:00:16+02:00",
+  "timestamp": 1618772416,
+  "message": "py-vermin-add-latest-version-1.1.1-23071",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aff2a3a8e19975130f61b72cbe89100dc71e43d8",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2020-12-27T21:03:36+01:00",
+  "timestamp": 1609099416,
+  "message": "py-vermin-add-latest-version-1.1.0-20569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cf2806f0037ffdbfbdb9999613616535e97b343",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2020-11-12T20:23:38+01:00",
+  "timestamp": 1605209018,
+  "message": "py-vermin-add-latest-version-1.0.3-19886",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a047ea84a3125c56bd3a667826acfa396b9d7970",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2020-11-09T21:31:21+01:00",
+  "timestamp": 1604953881,
+  "message": "py-vermin-add-latest-version-1.0.2-19820",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08f4ba0c986162f91398d4f6ded01e51dc0b2995",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2020-10-31T17:55:32+01:00",
+  "timestamp": 1604163332,
+  "message": "py-vermin-add-latest-version-1.0.1-19641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a381940ae461236dbf19c59c341c56f5f5b60f4",
+  "author": "Morten Kristensen <me@mortens.dev>",
+  "date": "2020-10-30T10:26:56+01:00",
+  "timestamp": 1604050016,
+  "message": "py-vermin-added-v1.0.0-19618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0cd272884399e236e0eb292a00d4b982a9ee28a5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-04T13:32:56-05:00",
+  "timestamp": 1601836376,
+  "message": "py-vermin-added-v0.10.5-fixed-compilation-on-MacOS-19017",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71f47b3b26a7587e9c52741d60c3542228482195",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-26T18:34:56-06:00",
+  "timestamp": 1580085296,
+  "message": "Add-py-vermin-package-14631",
+  "repo": "spack/spack"
+}]

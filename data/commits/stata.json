@@ -1,0 +1,64 @@
+[{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20a4e5efe87218fc5a6c46bad3399387bc9d3964",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-05-11T12:32:36-05:00",
+  "timestamp": 1589218356,
+  "message": "stata-add-new-libpng-dependency-16582",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf59220edc7cafc2f95d05696f24ef53ec245ea6",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-05-01T20:50:13-05:00",
+  "timestamp": 1588384213,
+  "message": "stata-add-version-16-16425",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39589065b158061c280f68fa730f72bf595428be",
+  "author": "StackKorora <42156355+StackKorora@users.noreply.github.com>",
+  "date": "2018-12-26T16:17:42-06:00",
+  "timestamp": 1545862662,
+  "message": "Add-Stata-package-10189",
+  "repo": "spack/spack"
+}]

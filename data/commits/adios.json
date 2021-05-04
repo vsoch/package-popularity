@@ -1,0 +1,448 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0740a4ac7e5dd0ba1256ab081f8529a4792a00de",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-09-01T18:17:51-07:00",
+  "timestamp": 1599009471,
+  "message": "ADIOS-Fix-no-MPI-Build-18453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3cbd4c8dcf2977da3b5819e478d4114f682d613f",
+  "author": "Kai Germaschewski <kai.germaschewski@unh.edu>",
+  "date": "2020-08-19T02:49:54-04:00",
+  "timestamp": 1597819794,
+  "message": "adios-relax-libtool-restriction-18056",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d152a44fd03e0ba18b3e27c012d1a7901367f45",
+  "author": "Kai Germaschewski <kai.germaschewski@unh.edu>",
+  "date": "2020-08-13T19:20:05-04:00",
+  "timestamp": 1597360805,
+  "message": "fix-configure.ac-autotools-issue-that-casues-problems-on-RHEL-7.7-17465",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97779e3539b34d15fde1a1be296efe40790b10dd",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-11T23:54:08+02:00",
+  "timestamp": 1589234048,
+  "message": "adios-Fix-build-with-gcc-10-16569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bec283080292f90f8f97dcb7ceb070a9a86ed388",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-10-01T23:28:36-07:00",
+  "timestamp": 1569997716,
+  "message": "ZFP-CMake-Package-12999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "664f03e32957041b28fc9b60e5cbb4729adc5cfc",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-06-13T21:42:13+02:00",
+  "timestamp": 1528918933,
+  "message": "ADIOS-Revert-Patch-8463",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0495b5474b4595849fea92e518a2971941c2cd20",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-06-06T22:38:36+02:00",
+  "timestamp": 1528317516,
+  "message": "ADIOS-Serial-API-with-Parallel-Lib-8409",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a27f911d35a9f0cb90cf9a36eafffbc2c195d1d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-06-06T18:58:15+02:00",
+  "timestamp": 1528304295,
+  "message": "Fix-ADIOS-1.13.1-Maxium-SZ-8408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f73c2759d7ae0884d3b69fa5f3f309321272e9b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-04-18T17:52:13+02:00",
+  "timestamp": 1524066733,
+  "message": "ADIOS-1.13.1-SZ-1.4.12.3-7808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e64fa53ed54eba1423ae754e34b3503c9d12dae",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-05T22:27:56+01:00",
+  "timestamp": 1512509276,
+  "message": "Add-Maintainer-6575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a908a1c8afc86818de3c07141c8a0b51c14ff2c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-05T15:28:44+01:00",
+  "timestamp": 1512484124,
+  "message": "ADIOS-1.13.0-LZ4-blosc-support-6572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e47d89a2abdf20cccf8514324caab42c6de60a47",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-05T12:50:22+01:00",
+  "timestamp": 1512474622,
+  "message": "ADIOS-1.13.0-Newer-SZ-Versions-6561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6863a29402fba46f4a583f6bda7bdc91b6bb12b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-12-01T19:09:37+01:00",
+  "timestamp": 1512151777,
+  "message": "ADIOS-1.13.0-6539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1db161aeb2701d2c10f67536e62d0ad19139739",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-02T20:41:25+01:00",
+  "timestamp": 1509651685,
+  "message": "adios-Fix-hdf5-and-sz-dependencies-6016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "081403f2805f77ba6a1e555cf99b2034062428e2",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-09-19T14:13:26+02:00",
+  "timestamp": 1505823206,
+  "message": "adios-fixed-conditional-dependencies-on-libevpath-and-dataspaces-5392",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78894645eb28455d564252150e86c8772f6c0b12",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-09-14T19:08:03+02:00",
+  "timestamp": 1505408883,
+  "message": "ADIOS-Fix-Build-Autotools-5363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32117c22deb97c0be06ef073c432e45569b138c3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-09-12T01:20:49+02:00",
+  "timestamp": 1505172049,
+  "message": "with_or_without-accepts-bool-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5f1144798f5186be957358275157b44677b1d6d",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-11T01:18:55+02:00",
+  "timestamp": 1505085535,
+  "message": "Fix-Autotools-build-error-due-to-missing-m4-and-MPICC-MPICXX-5319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13cd98ac4a93a392fa6325996ce851abfaf8a0b2",
+  "author": "Kshitij Mehta <kshitij-v-mehta@users.noreply.github.com>",
+  "date": "2017-08-07T15:36:16-04:00",
+  "timestamp": 1502134576,
+  "message": "Adios-4857",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22a966d010acb2823226e3cc9d399336d5238c2c",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-04-19T16:36:46+02:00",
+  "timestamp": 1492612606,
+  "message": "add-lines-missed-in-rebase-adios-bzip2-3907",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c65d0775cfb8e035b60f9f762b51c22220526c19",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-04-18T14:00:39+02:00",
+  "timestamp": 1492516839,
+  "message": "ADIOS-add-bzip2-transport-python-patch-not-applicable-to-adios-1.9.0-3874",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afdc2f41820aeb4acd1b756f2fb5ae9223afd610",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-04-12T23:58:18+02:00",
+  "timestamp": 1492034298,
+  "message": "Fix-adios-3814",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3ac86310e7d091e775ef3835b3f2fb3f7c26c02",
+  "author": "serbanmaerean <serban@us.ibm.com>",
+  "date": "2017-03-04T08:53:50-05:00",
+  "timestamp": 1488635630,
+  "message": "ADIOS-change-subclassing-from-Package-to-AutotoolsPackage-3230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d0fbe7d96294c731c7add28f37aa35fbad1bb16",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-03-02T19:44:43+01:00",
+  "timestamp": 1488480283,
+  "message": "Update-adios-to-1.11.1-3221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3e04b3daf3f30729cfb90790cf4081364e911f1",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-09-21T09:55:54+02:00",
+  "timestamp": 1474444554,
+  "message": "Close-1683-Apply-ADIOS-1.10.0-Patch-HDF5-1.10-1699",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f40175524cd0b3083107ac955e2d8f64ae96f46",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-30T02:02:48+02:00",
+  "timestamp": 1472515368,
+  "message": "Remove-Space-Enable-Parallel",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecacce7e07013d54a0f6b2ddac68635d521a5ffe",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-30T00:51:44+02:00",
+  "timestamp": 1472511104,
+  "message": "ADIOS-Use-NetCDF-Prefix-from-spec-s",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37f489886e0fd3817e8896dcca66d1a30b306e9e",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-30T00:14:29+02:00",
+  "timestamp": 1472508869,
+  "message": "Defaults-MPI-True-Fortran-False",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b33777fd2f7eb377727cead7f38ccdf63cd3a71d",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-29T23:18:31+02:00",
+  "timestamp": 1472505511,
+  "message": "RM-Outdated-Comments-Versions-Code",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88254a14a7b45efcfbe12496cb6f68fe0d2156ae",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-29T23:01:20+02:00",
+  "timestamp": 1472504480,
+  "message": "Always-External-MXML-type-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1464ece55198065b7801e18dfedc9eab2e07286",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-29T19:06:22+02:00",
+  "timestamp": 1472490382,
+  "message": "ADIOS-disable-parallel-make",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2eb1c93df0d0bf3596936f43bc9e1dfb5059967",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-29T18:42:07+02:00",
+  "timestamp": 1472488927,
+  "message": "ADIOS-Run-Autotools-First",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bd863761a6b134090499bd1eddda1fd4299b556",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-08-29T16:58:19+02:00",
+  "timestamp": 1472482699,
+  "message": "Update-ADIOS-Package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25e765baae6f98141cb7896bbcbb840607a4842f",
+  "author": "Robert D. French <frenchrd@ornl.gov>",
+  "date": "2016-07-19T10:15:00-07:00",
+  "timestamp": 1468948500,
+  "message": "Download-Adios-from-Github",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9de05031889bca759f9d8b249d86930fe93ac1d0",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-26T22:00:10+02:00",
+  "timestamp": 1466971210,
+  "message": "qa-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11863d2de3e764f56b595e33a1ac98e9539553c6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-26T21:56:06+02:00",
+  "timestamp": 1466970966,
+  "message": "packages-moved-adios-and-mxml-into-builtin-repo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49908386ef5d14be5cb34adb2040a7f2d535019c",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-01-08T11:48:59-08:00",
+  "timestamp": 1452282539,
+  "message": "changing-problematic-package.py-file-permissions-back-to-0644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e0d47f1dd1d0eb31ef29e1e25ab68870f087604",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-12-01T11:59:19-08:00",
+  "timestamp": 1448999959,
+  "message": "building-with-GCC-needs-special-variables-added.-Intel-compilers-build-just-fine",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f56f5cfccb681286ab5d31dbdbed29cdf49a930",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-11-23T14:02:59-08:00",
+  "timestamp": 1448316179,
+  "message": "Added-path-to-netcdf-and-hdf5-using-the-env-vars-NETCDF_DIR-and-HDF5_DIR",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fcb368f478621b3eb8faf2b812018d43c46ffef",
+  "author": "Mario Melara <maamelara@gmail.com>",
+  "date": "2015-11-05T13:42:50-08:00",
+  "timestamp": 1446759770,
+  "message": "Adding-adios-package-to-spack-s-package-list",
+  "repo": "spack/spack"
+}]

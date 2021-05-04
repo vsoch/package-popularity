@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d14f74d197e9851ac56fb6edce17b4610bad0d1",
+  "author": "Jennifer Herting <jen@herting.cc>",
+  "date": "2020-04-02T21:11:48-04:00",
+  "timestamp": 1585876308,
+  "message": "New-Package-py-astropy-helpers-15658",
+  "repo": "spack/spack"
+}]

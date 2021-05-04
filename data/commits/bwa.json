@@ -1,0 +1,176 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a02ef4d51a08ed8bcdd97e971e514a5af75c5cb",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-08-20T16:55:05+09:00",
+  "timestamp": 1597910105,
+  "message": "bwa-patch-Makefile-to-permit-the-use-of-compilers-other-than-GCC-18189",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4fa519134f006501d6fa19bc1a3520865ee21f85",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-07-13T23:52:23+08:00",
+  "timestamp": 1594655543,
+  "message": "bwa-support-for-aarch64-17473",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecff47538e7064c7c5529abf0213a1c9378c6010",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-12T00:28:11-05:00",
+  "timestamp": 1531373291,
+  "message": "Remove-unnecessary-version-specific-URL-overrides-8693",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b8d889d31265ec30f7af0665717ae7de9d00351",
+  "author": "David Orman <orman@iastate.edu>",
+  "date": "2017-12-16T20:43:02-06:00",
+  "timestamp": 1513478582,
+  "message": "bwa-added-version-0.7.16a-and-checksum-6658",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2ef033855118561c625fd63091dbeee064e38c8",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2017-10-25T05:21:18-05:00",
+  "timestamp": 1508926878,
+  "message": "bwa-add-0.7.17-5902",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5ce7b163954843cf7247e2902535ab837aea320",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-25T00:39:31-05:00",
+  "timestamp": 1498369171,
+  "message": "Allow-arbitrary-Prefix-attributes-4591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "248fc92a459d8587dc3b61a98642b945d8b98f7c",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-26T20:08:00-07:00",
+  "timestamp": 1495854480,
+  "message": "Fix-bwa-url-s-4366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7055be82b97ba42c2fd6c5445dafaf47f5a3d7c8",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-25T12:42:32-07:00",
+  "timestamp": 1495741352,
+  "message": "Add-info-for-bwa-0.7.12-4356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4274b32f283a056bec7048f1ab8b78bf1518bb6",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-26T17:16:12-04:00",
+  "timestamp": 1469567772,
+  "message": "Make-flake8-happy-long-lines",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f855cf6babf7a1a02e9b07a6935059a79c30eddf",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-25T14:41:52-04:00",
+  "timestamp": 1469472112,
+  "message": "Add-package-for-tree",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd84a575807636159d80809f59962cf799b83fd7",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-04-16T23:15:48-06:00",
+  "timestamp": 1460870148,
+  "message": "On-some-systems-Dia-also-requires-intltool.-768",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,248 @@
+[{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df51cf20c5f9996b5c833b2d0ea703af983c05e6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-25T03:00:56-05:00",
+  "timestamp": 1598342456,
+  "message": "libtiff-added-v4.1.0-18247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "529d1246f648f4305f69afc38be7598ae7e38aa0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T15:51:23-05:00",
+  "timestamp": 1571604683,
+  "message": "libtiff-http-https-13332",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4965e9be5339bf81c78ee2e5a62e80a94ff0412d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-16T01:52:16-05:00",
+  "timestamp": 1560667936,
+  "message": "Add-libtiff-4.0.10-11732",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17e6260d4b9a154cbc0fbfcb6b1c33d519b81212",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-20T15:01:11-05:00",
+  "timestamp": 1526846471,
+  "message": "Add-libtiff-4.0.9-8201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec2c0b3e6590f546f3bbbb4ea9d433ac6bbd2215",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2018-01-04T00:02:45+08:00",
+  "timestamp": 1514995365,
+  "message": "Add-libtiff-3.-6818",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a48b5a627cb4fd18f7bd145e6bb944d5a315cfdb",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2017-08-24T10:30:35+02:00",
+  "timestamp": 1503563435,
+  "message": "Make-jpeg-a-virtual-dependency.-5190",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ca7c7700895032d7ec9fe728146e3ac0dbd0a64",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-08-07T11:41:13-07:00",
+  "timestamp": 1502131273,
+  "message": "Elemental-cublas-4889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a803a5e9869d59cd1251be5b1ad89e9232670a22",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-22T12:52:23-05:00",
+  "timestamp": 1498153943,
+  "message": "Add-latest-version-of-libtiff-4574",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c86b53a73fca0a7d14b5a44c69034bbdd619025e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-01T15:19:51-05:00",
+  "timestamp": 1493669991,
+  "message": "Add-latest-version-of-libtiff-4067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d46a1eadcd1d1b6bb6165a8f6e9cfda734e7458c",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-01-31T22:56:35+08:00",
+  "timestamp": 1485874595,
+  "message": "Replace-FTP-retrieval-URLs-with-HTTP-HTTPS-serving-packages-with-identical-checksum.-2958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee6eb508cbaf6e34643bec8fd2759149b48b92cc",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-11-04T12:12:37-07:00",
+  "timestamp": 1478286757,
+  "message": "patch-older-config.guess-for-newer-architectures-2221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4cce23ea89512536a7577daa87c3714d710109b7",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-10-06T10:43:23+01:00",
+  "timestamp": 1475747003,
+  "message": "Update-libtiff-updated-homepage-and-fetch-urls.-1895",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9149b6cb63416af2f952c71db8750450f30cbc1",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:59:01-06:00",
+  "timestamp": 1414295941,
+  "message": "Fixing-errors-in-depends_on-and-updating-version-for-ImageMagick",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

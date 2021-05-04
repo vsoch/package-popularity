@@ -1,0 +1,40 @@
+[{
+  "commit": "5309417f195d0b8e81bc5207caab8d366bb8841f",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-14T17:34:47-04:00",
+  "timestamp": 1618436087,
+  "message": "gdrcopy-fix-install-of-version-2.2-22987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5451e2edebf6924f5dc23e6d3d377736c2d08b2b",
+  "author": "Hervé Yviquel <hyviquel@gmail.com>",
+  "date": "2021-03-28T10:37:33-03:00",
+  "timestamp": 1616938653,
+  "message": "gdrcopy-add-v2.2-22528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d4663ea5d2d590af0126b869979f9ad0178decd",
+  "author": "Hervé Yviquel <hyviquel@gmail.com>",
+  "date": "2020-10-05T22:08:17-03:00",
+  "timestamp": 1601946497,
+  "message": "add-gdrcopy-2.1-19151",
+  "repo": "spack/spack"
+},
+{
+  "commit": "beaa4fbe3ce1a9fef95187e8caf7f13dba32c4f7",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-03-28T17:44:23-04:00",
+  "timestamp": 1585431863,
+  "message": "New-package-gdrcopy-15732",
+  "repo": "spack/spack"
+}]

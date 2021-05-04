@@ -1,0 +1,496 @@
+[{
+  "commit": "513d3bac04f031608622ea654ddf27b584da9610",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2021-03-26T13:47:46-07:00",
+  "timestamp": 1616791666,
+  "message": "update-ascent-and-friends-for-the-ascent-0.7.0-release-22428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f2acc31237be225884c738c7c0e8446325b0dac",
+  "author": "Sergei Shudler <shudler1@llnl.gov>",
+  "date": "2021-02-01T17:49:20-08:00",
+  "timestamp": 1612230560,
+  "message": "mfem-Add-e4s-testsuite-inspired-smoke-test-21228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cd4b134cb4d3fb5c0cb332adaa83f491f9f050f",
+  "author": "Josh Essman <68349992+joshessman-llnl@users.noreply.github.com>",
+  "date": "2021-01-06T03:34:42-06:00",
+  "timestamp": 1609925682,
+  "message": "mfem-link-to-nveccuda-when-sundials-cuda-20588",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "073e7569db0631ecfccb2c52cfc0ad83847d62be",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2020-11-29T11:04:16-08:00",
+  "timestamp": 1606676656,
+  "message": "mfem-apply-patches-from-19452-when-mfem-4.1-20151",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f92e52cdc8219e974b6c1bfa017f4c16fc5025f3",
+  "author": "Josh Essman <68349992+joshessman-llnl@users.noreply.github.com>",
+  "date": "2020-11-19T14:03:22-06:00",
+  "timestamp": 1605816202,
+  "message": "mfem-Add-support-for-AmgX-fix-to-version-extensions-19990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5511c29869ade026c0f0cdce90f674d4e69900c1",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-11-04T10:26:39-08:00",
+  "timestamp": 1604514399,
+  "message": "New-MFEM-version-4.2-19684",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cee5c2e75504cd6e33394d5d9551289c9c33e2e6",
+  "author": "Josh Essman <68349992+joshessman-llnl@users.noreply.github.com>",
+  "date": "2020-10-20T16:26:34-05:00",
+  "timestamp": 1603229194,
+  "message": "mfem-Fix-support-for-SUNDIALS-and-PETSc-features-19326",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e22a0ca5cf6ea62cb28af8e8db59a55ad3f75c36",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2020-09-02T15:06:45-07:00",
+  "timestamp": 1599084405,
+  "message": "mfem-fix-transitive-hdf5-static-libs-18457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acfa2ea0188129fd1e683fe8e146256b1a695d5c",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-08-05T09:19:22-07:00",
+  "timestamp": 1596644362,
+  "message": "remove-hypre-variant-from-mfem-and-all-references-to-it-17885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "506f31b7a7fa1ebabdb4ce5d1764b0a197e62989",
+  "author": "Chris White <white238@llnl.gov>",
+  "date": "2020-06-17T10:43:47-07:00",
+  "timestamp": 1592415827,
+  "message": "axom-conduit-mfem-build-fixes-17121",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3c1547dbaee2f9cc08b60b4cab244c5d8fe5f79",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-11-17T12:36:14-07:00",
+  "timestamp": 1574019374,
+  "message": "update-to-add-ascent-0.5.0-release-13709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2dd83523e20c98eea5bec11dab335947af93d7a5",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-10-24T11:08:51-07:00",
+  "timestamp": 1571940531,
+  "message": "mfem-add-version-4.0-without-cuda-11880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9350db5665638a451cb23d33e441c3356f4a831f",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2019-01-12T17:43:39-08:00",
+  "timestamp": 1547343819,
+  "message": "update-alpine-ascent-and-friends-10320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f395aaa71ded1d2e8589d32ab97313ddce27e50b",
+  "author": "Geoffrey Malcolm Oxberry <goxberry@gmail.com>",
+  "date": "2018-07-30T02:23:26-07:00",
+  "timestamp": 1532942606,
+  "message": "mfem-libunwind-use-unwind-virtual-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5957f147b6c8e7bc218b38efea435eff5d529af",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-07-26T09:47:28-05:00",
+  "timestamp": 1532616448,
+  "message": "mfem-mfem-3.3-3.4-petsc-3.9.patch-is-not-needed-for-latest-develop-version-8809",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31417bf66c3f1a3590d39e5c9892d07252094aa7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:08:43-05:00",
+  "timestamp": 1532484523,
+  "message": "Replace-git-git-with-explicit-branch-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3c989ef3a146b771500254b2bf05e61f168f27a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-06-15T02:34:04-07:00",
+  "timestamp": 1529055244,
+  "message": "mfem-Add-BLAS-LAPACK-to-the-required-dependencies-of-SuperLU_DIST.-8485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c2a25a72136f705e411a86b7f4bdfec5126505",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-06-13T13:42:21-07:00",
+  "timestamp": 1528922541,
+  "message": "mfem-new-version-3.4-8453",
+  "repo": "spack/spack"
+},
+{
+  "commit": "810fe884d0a8a778701306e7149b19c1cf0b6a73",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-04-28T06:16:43-06:00",
+  "timestamp": 1524917803,
+  "message": "mfem-fix-concretization-7923",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d54ceb6ce70ba8ff0cc729b0199ed9db1c953729",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-04-26T06:43:20-07:00",
+  "timestamp": 1524750200,
+  "message": "mfem-add-valid-range-of-hypre-version-numbers-7903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1810fac25f195156adf3a1c9d8376fd1adaa94f6",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-02-15T05:59:07-08:00",
+  "timestamp": 1518703147,
+  "message": "mfem-have-hypre-link-line-also-link-lapack-blas-7165",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af06ea0e748bf4dce52b235bdb89da47fd34613b",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2017-11-10T18:49:17-08:00",
+  "timestamp": 1510368557,
+  "message": "Fixed-mfem-mpi-build-issue.-6254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "445ffc46a13c71ce68ddb64c2ff9677f07fe8d75",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-01T10:52:03-05:00",
+  "timestamp": 1509551523,
+  "message": "mfem-does-not-use-cmake-for-builds-anymore-so-remove-code-corresponding-to-this-dependency.-6073",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ff1fe90fae5527b9f100daedf2c03a71b2b035a",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2017-10-26T08:18:57-07:00",
+  "timestamp": 1509031137,
+  "message": "Laghos-new-package-5956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e1341a1627ea4e0341386e1e5a7ed40cadd3577",
+  "author": "Robert Pavel <rspavel@gmail.com>",
+  "date": "2017-10-25T04:03:50-06:00",
+  "timestamp": 1508925830,
+  "message": "Added-Hypre-Dependency-to-mfem-hypre-5929",
+  "repo": "spack/spack"
+},
+{
+  "commit": "204217f7c1f7b9fa7cf6ec333d775e65f6d6c56b",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2017-10-24T02:10:59-07:00",
+  "timestamp": 1508836259,
+  "message": "Updated-external-package-versions.-5833",
+  "repo": "spack/spack"
+},
+{
+  "commit": "639d9c305a263787773533f5af492d956fc893fa",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2017-10-16T11:26:26-07:00",
+  "timestamp": 1508178386,
+  "message": "Updated-the-rc-tag-and-version.-5761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fcfc3bd5a51a904395eef0dce8c56b054d14176",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-10-13T16:16:58-05:00",
+  "timestamp": 1507929418,
+  "message": "flake8-fix-warnings-5759",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ccc9c17dcab7a19aac666755511591dbbff3a2b",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2017-10-09T12:48:25-07:00",
+  "timestamp": 1507578505,
+  "message": "Added-mfem-v3.3.1-rc1-to-the-mfem-package.-5644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39cb589510e95fa44ca634b2cdac9a56a34b1809",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-08-11T06:39:48-07:00",
+  "timestamp": 1502458788,
+  "message": "More-variants-for-MFEM-4533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "816f4f8b04eb71994a3bd2934e924f65b4c0c464",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-06-08T08:23:30-07:00",
+  "timestamp": 1496935410,
+  "message": "fix-mfem-build-for-ppc-with-gcc-4452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e85113faf6e06fd0b6cb6b99ed023b7101420905",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-05-25T16:14:47-07:00",
+  "timestamp": 1495754087,
+  "message": "updating-mfem-version-4362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a05ffea2761ce6cf9898ea763d105a267060a10",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-10-11T00:33:26-07:00",
+  "timestamp": 1476171206,
+  "message": "Mfem-3.2-1202",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "137db14b75b63c9714e0eb5189bf074c828e2b30",
+  "author": "Tzanio Kolev <tzanio@llnl.gov>",
+  "date": "2016-06-30T15:40:02-07:00",
+  "timestamp": 1467326402,
+  "message": "Update-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d3b0cb56b7ed1a545d0a13fbf20ece8bc89f0103",
+  "author": "Tzanio Kolev <tzanio@llnl.gov>",
+  "date": "2016-06-30T15:23:30-07:00",
+  "timestamp": 1467325410,
+  "message": "Updating-MFEM-package-with-v3.2-info",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f70046e6b713f783288afac3359ccba6bfd8e233",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-26T10:00:24-07:00",
+  "timestamp": 1461690024,
+  "message": "MFEM-version-3.1-749",
+  "repo": "spack/spack"
+}]

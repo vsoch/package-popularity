@@ -1,0 +1,96 @@
+[{
+  "commit": "aac36997487cb01ccb1f344fc0ccd87d0c577f5a",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2021-01-27T12:10:16-08:00",
+  "timestamp": 1611778216,
+  "message": "OneDNN-add-versions-up-to-v2.1-rc-21304",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3953f6af950f562cee42c023bc09b2964286fa78",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-06T11:45:33-06:00",
+  "timestamp": 1604684733,
+  "message": "oneDNN-add-v1.7-19718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bfab98d41ef752cfda6d1ae737357c18c569d7ee",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-30T12:22:07-05:00",
+  "timestamp": 1604078527,
+  "message": "oneDNN-add-v1.6.5-19557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee61f6b772652fff50621e4b3fd17ac7615e42e7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-02T13:00:18-05:00",
+  "timestamp": 1601661618,
+  "message": "oneDNN-add-versions-including-1.6.4-19130",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eda170665f96cff58fffd5c6a1217f4f699d15a4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-09T07:40:05-05:00",
+  "timestamp": 1596976805,
+  "message": "oneDNN-added-v1.6-and-v1.6.1-17822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a63761f87542c29e9e026ac8b78894908780c003",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-07T16:38:47-05:00",
+  "timestamp": 1594157927,
+  "message": "oneDNN-add-v1.5.1-17419",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0cdc004091ffe5bf310ca69e7b9f3b1f1c008d0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-17T16:01:46-05:00",
+  "timestamp": 1592427706,
+  "message": "oneDNN-add-v1.5.0-17137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "433a0b243ffa97add96bc0f51477c4bda3449c12",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-23T19:50:22-05:00",
+  "timestamp": 1587689422,
+  "message": "oneDNN-add-new-version-16267",
+  "repo": "spack/spack"
+},
+{
+  "commit": "435470a93bf876ab779c7364a93d83a62950da45",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T13:14:22-05:00",
+  "timestamp": 1587147262,
+  "message": "oneDNN-add-new-version-16129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "783793426dfa1b953801981d1e8b334069e56331",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-06T19:27:34-05:00",
+  "timestamp": 1586219254,
+  "message": "Package-rename-DNNL-oneDNN-15910",
+  "repo": "spack/spack"
+}]

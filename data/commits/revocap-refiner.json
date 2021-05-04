@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0493e133c5b83f87ebc04a4d15a1dc0e783cfbf0",
+  "author": "Michio Ogawa <michioga@users.noreply.github.com>",
+  "date": "2020-06-24T01:26:47+09:00",
+  "timestamp": 1592929607,
+  "message": "revocap-refiner-updated-package-17192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "816f780be84b92449e7fcb019102c6e9036049b1",
+  "author": "noguchi-k <55966120+noguchi-k@users.noreply.github.com>",
+  "date": "2020-05-31T00:57:12+09:00",
+  "timestamp": 1590854232,
+  "message": "revocap-refiner-add-space-and-remove-unused-function.-16861",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce8cf5d9b037079ae3fd77fcaf84cf2eafbc9fbd",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-05-18T17:04:10+09:00",
+  "timestamp": 1589789050,
+  "message": "revocap-refiner-fixed-typo-in-pic-flags-16694",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b65efa8aef4149689a48e9df11c54a367f9af89",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-05-07T22:44:23+09:00",
+  "timestamp": 1588859063,
+  "message": "ADD-New-package-revocap-refiner-16499",
+  "repo": "spack/spack"
+}]

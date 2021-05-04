@@ -1,0 +1,48 @@
+[{
+  "commit": "da46da1c2a0d437343c56038223450d12a7e3d3e",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-11T16:40:06+01:00",
+  "timestamp": 1613058006,
+  "message": "libyaml-add-0.2.5-21597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5be99cdb74490fc0619b52d4c358a1bba64172d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-25T15:42:40-05:00",
+  "timestamp": 1587847360,
+  "message": "libyaml-add-new-version-16300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1e595cb61793e12461a3110c14288537182c2b3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T15:50:48-05:00",
+  "timestamp": 1571604648,
+  "message": "Add-latest-version-of-libyaml-13333",
+  "repo": "spack/spack"
+},
+{
+  "commit": "286da7f47b67d64f32336eaf741a3a182176b592",
+  "author": "Isaac Whitfield <iw@whitfin.io>",
+  "date": "2019-02-19T10:45:31-08:00",
+  "timestamp": 1550601931,
+  "message": "new-package-libyaml-10634",
+  "repo": "spack/spack"
+}]

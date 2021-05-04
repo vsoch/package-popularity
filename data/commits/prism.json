@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e13e2b0d54b61bc0d47d71eb17c7d79d3ce4d5e5",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-09-10T23:56:19+09:00",
+  "timestamp": 1599749779,
+  "message": "prism-support-for-aarch64-18562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73e0dd9f614a17f89da263d1641a2f0eca5de1fc",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2020-04-20T15:39:53-05:00",
+  "timestamp": 1587415193,
+  "message": "prism-new-package-at-4.5-16187",
+  "repo": "spack/spack"
+}]

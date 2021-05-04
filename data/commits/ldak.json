@@ -1,0 +1,24 @@
+[{
+  "commit": "512c8a1f1aa21e8896f863f4a2fe3c6a6d17da32",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-02-09T03:22:47+09:00",
+  "timestamp": 1612808567,
+  "message": "ldak-build-only-x86_64-linux.-21414",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0116c4471467777c567cd9af3a33d294db237b81",
+  "author": "Nick Booher <njbooher@iastate.edu>",
+  "date": "2020-09-02T11:29:40-05:00",
+  "timestamp": 1599064180,
+  "message": "ldak-new-package-at-5.1-18431",
+  "repo": "spack/spack"
+}]

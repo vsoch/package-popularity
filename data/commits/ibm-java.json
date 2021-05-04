@@ -1,0 +1,104 @@
+[{
+  "commit": "fa53838d2f24508544230e3e75bc4fe3da27121d",
+  "author": "dithwick <46924962+dithwick@users.noreply.github.com>",
+  "date": "2021-01-18T18:43:18+00:00",
+  "timestamp": 1610995398,
+  "message": "ibm-java-new-version-21135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15facf21716f413357d7571278f73d6e8265f441",
+  "author": "noguchi-k <55966120+noguchi-k@users.noreply.github.com>",
+  "date": "2020-08-23T05:22:50+09:00",
+  "timestamp": 1598127770,
+  "message": "ibm-java-add-conflicts-for-aarch64-13728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83b281f36b911f112c5fa5dd4062ea3fb48f7270",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-07-21T01:09:53-05:00",
+  "timestamp": 1595311793,
+  "message": "hpcviewer-ibm-java-new-versions-17612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "763760cfe0fea5d0a1e4e1a5a478ee5d65d2a65e",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-06-07T23:15:37-05:00",
+  "timestamp": 1591589737,
+  "message": "hpcviewer-ibm-java-updates-versions-16987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08e53b67f85a4a88dcddba272ae56c1d4e557489",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2020-04-27T16:04:02-05:00",
+  "timestamp": 1588021442,
+  "message": "hpcviewer-add-version-2020.04-16332",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d9737f765416305dd2adbd816b447de5c5eae7c",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-12-06T18:11:24-06:00",
+  "timestamp": 1575677484,
+  "message": "ibm-java-add-version-8.0.6.0-14003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "930011c12487a7bf9d6809a654be4c94e98d3702",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-07-20T12:07:15-05:00",
+  "timestamp": 1563642435,
+  "message": "hpcviewer-add-version-2019.07-12067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e811e23f2ec1369915bdc0d2761d6988522a68ea",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-03-15T15:47:22-05:00",
+  "timestamp": 1552682842,
+  "message": "hpcviewer-new-package-10878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ed6e78338dbd1a94ad58b0dc977e7db0cd4db0b",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-03-12T18:05:47-05:00",
+  "timestamp": 1552431947,
+  "message": "New-package-ibm-java-10777",
+  "repo": "spack/spack"
+}]

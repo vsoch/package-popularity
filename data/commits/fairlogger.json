@@ -1,0 +1,56 @@
+[{
+  "commit": "bf3a873a42728d0ff4c90232c6a446574db7bc25",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7f4c2b49e38ceecb895b4ad6885ceea377a9737",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-15T10:22:15+01:00",
+  "timestamp": 1608024135,
+  "message": "package-sanity-ensure-all-variant-defaults-are-allowed-values-20373",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b4558fe6c2d0c6cb5c860cf30ce28ce4066b419",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-07T04:12:19+01:00",
+  "timestamp": 1604718739,
+  "message": "fairlogger-Add-Version-1.9.0-19758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6bb2dd40b6c5932e4b4d8cbc8214a7d3b3cbae89",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-08-28T21:31:09+02:00",
+  "timestamp": 1598643069,
+  "message": "fairlogger-Update-cmake-options-and-version-18354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4237e4a10a816537081f2a8e6d7d5f787c0de97",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-03-03T18:24:37+01:00",
+  "timestamp": 1583256277,
+  "message": "fairlogger-add-version-other-improvements-15300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4bd4ed0f84f733cb958bfd18f914abed6212a9d6",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-01-09T16:29:38+01:00",
+  "timestamp": 1578583778,
+  "message": "FairLogger-new-package-14427-14427",
+  "repo": "spack/spack"
+}]

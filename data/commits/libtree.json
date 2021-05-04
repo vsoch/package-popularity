@@ -1,0 +1,64 @@
+[{
+  "commit": "d2bf74242e67ef717c04b0d1e763f7cc4b6be3a7",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-06T11:01:08+02:00",
+  "timestamp": 1617699668,
+  "message": "libtree-add-v1.2.1-22795",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1113357e3573236689b2ef363a75f6f5962f8ea1",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-07-07T12:56:57+02:00",
+  "timestamp": 1594119417,
+  "message": "libtree-fixed-checksums-17393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "804b6f24833862bb0110bf460c3ddbf7d22daab4",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-06-12T20:39:40+02:00",
+  "timestamp": 1591987180,
+  "message": "libtree-package-add-version-1.2.0-1.1.4-and-1.1.3-17035",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a154de4ac56478d5db4c83fca15f5b8db63e49",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-04-17T10:30:05+02:00",
+  "timestamp": 1587112205,
+  "message": "libtree-added-v1.1.2-16119",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dcc8a5463fc92ef13ecad811837c8752ccc6b3a",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-04-16T16:50:48+02:00",
+  "timestamp": 1587048648,
+  "message": "Add-new-version-1.1.1-16087",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f072d24c98e945535d10cccc63ab2dadaa61e29c",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-04-15T22:57:21+02:00",
+  "timestamp": 1586984241,
+  "message": "Bump-version-of-libtree-16051",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f393355781e3c08a524011b80c54cad441d6be88",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-04-14T18:39:52+02:00",
+  "timestamp": 1586882392,
+  "message": "libtree-new-package-at-1.0.3-16036",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "184fb792f5f2e947d5bc12eedd6d0e010ebacacd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-16T08:20:09-06:00",
+  "timestamp": 1610806809,
+  "message": "fix-list_url-for-r-packages-20955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84f5f8437f2e8acc408e55805b758a886648c969",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-15T03:42:06-06:00",
+  "timestamp": 1610703726,
+  "message": "r-lifecycle-new-package-at-v0.2.0-20845",
+  "repo": "spack/spack"
+}]

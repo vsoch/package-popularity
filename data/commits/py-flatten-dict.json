@@ -1,0 +1,8 @@
+[{
+  "commit": "49b3ab684e750e05c44a34b20ce16b4c88285def",
+  "author": "Andrew-Dunning-NNL <67964561+Andrew-Dunning-NNL@users.noreply.github.com>",
+  "date": "2021-02-02T12:14:12-05:00",
+  "timestamp": 1612286052,
+  "message": "py-flatten-dict-new-recipe-21329",
+  "repo": "spack/spack"
+}]

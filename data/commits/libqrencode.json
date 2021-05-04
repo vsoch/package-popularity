@@ -1,0 +1,8 @@
+[{
+  "commit": "29d1e1ba87edeee3daea941d11adc67a03fcc1dd",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-19T16:49:45+01:00",
+  "timestamp": 1613749785,
+  "message": "libqrencode-new-package-at-v4.1.1-21801",
+  "repo": "spack/spack"
+}]

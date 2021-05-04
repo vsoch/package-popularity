@@ -1,0 +1,160 @@
+[{
+  "commit": "d630d63755a0cf0315a164eb1308c49fb0e5847b",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2021-02-07T04:34:00-07:00",
+  "timestamp": 1612697640,
+  "message": "Added-Conflict-for-macsio-1.1-mpi-21513",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38303a6a7929777053751846d6b512d863bb8d32",
+  "author": "noguchi-k <55966120+noguchi-k@users.noreply.github.com>",
+  "date": "2020-02-13T11:13:26+09:00",
+  "timestamp": 1581560006,
+  "message": "macsio-cast-JsonGetInt-from-int-to-unsigned-int-14736",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ff3ce494ac41ce7ad7b0946cd005010f8f1dc30",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-04-02T15:58:21-06:00",
+  "timestamp": 1554242301,
+  "message": "macsio-fix-install-11088",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0352b4808e0d8064e00493577dac7e6f7cf03b1a",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-10-02T15:35:41-07:00",
+  "timestamp": 1538519741,
+  "message": "WIP-Release-2.0-of-the-ECP-Proxy-Apps-suite-9368",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ba061f6ec86a841874fc134de16081b4d6adbe7",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-10-02T14:46:09-07:00",
+  "timestamp": 1538516769,
+  "message": "MACSio-update-package-9412",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5cdb1a2a7255465264928ec43f27e1d81d8b717",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-26T16:22:05-07:00",
+  "timestamp": 1538004125,
+  "message": "update-URLs-for-Laghos-and-MACSio-9351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908d2dcd4d3e5aac2e5cc7f357015982247141ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T20:55:17-05:00",
+  "timestamp": 1532397317,
+  "message": "Add-top-level-attributes-for-git-M-P-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0a80d94a467b34921e1418db4569aad63d85c482",
+  "author": "James Dickson <jdickson134@gmail.com>",
+  "date": "2018-07-17T14:24:16+01:00",
+  "timestamp": 1531833856,
+  "message": "Add-fix-for-bug-causing-MACSio-build-failure-when-hdf5-or-typhonio-enabled-8722",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "841d42b30816a3b1035f84101777008ab5f7ecc2",
+  "author": "James Dickson <jdickson134@gmail.com>",
+  "date": "2017-11-07T20:13:06+00:00",
+  "timestamp": 1510085586,
+  "message": "TyphonIO-new-package-Updated-MACSio-package-6177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b53adc90f71ed24bfa405a044b65abfafad71450",
+  "author": "Elsa Gonsiorowski <gonsie@me.com>",
+  "date": "2017-10-31T18:07:00-07:00",
+  "timestamp": 1509498420,
+  "message": "MACSio-and-JSON-CWX-packages-6018",
+  "repo": "spack/spack"
+}]

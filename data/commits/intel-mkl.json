@@ -1,0 +1,448 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1a35540ee766fb562192394db63f81e446b53cd",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-11-30T21:38:59+09:00",
+  "timestamp": 1606739939,
+  "message": "intel-mkl-added-v2020.4.304-20167",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1652e89afad87fced911d629fab63c72af8724c",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-09-09T15:27:36-05:00",
+  "timestamp": 1599683256,
+  "message": "Add-new-versions-of-intel-mkl-18592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37e9e450c94a7f5ff94e4267f7b8d10acaf79824",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-04-03T02:39:44+02:00",
+  "timestamp": 1585874384,
+  "message": "Updates-versions-of-Intel-packages-15839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2885990b8d6dcf4de4f19e90ec8a1c0d94f790c",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2020-02-11T15:21:49-07:00",
+  "timestamp": 1581459709,
+  "message": "Fix-intel-mkl-package-14856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b1958219867f6fd140557caf753280e6d97a3a5",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2020-02-06T16:20:01+01:00",
+  "timestamp": 1581002401,
+  "message": "update-version-intel-packages-daal-ipp-mkl-dnn-mkl-mpi-parallel-14783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35a696a96536087cb7c67fce0f8cd5ed86c08169",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2020-01-13T18:51:22-08:00",
+  "timestamp": 1578970282,
+  "message": "added-intel-parallel-2020.0-and-components-14451",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f07131a390746694051d0889d8b3311709c1e6b6",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-11-28T00:04:48+08:00",
+  "timestamp": 1574870688,
+  "message": "Bump-intel-compiler-suite-to-2019u5.-13835",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f1ea2c8596c8b2985a39a81f8e9a53422bff9a2",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-09T22:54:21+02:00",
+  "timestamp": 1554843261,
+  "message": "intel-consolidate-libs-in-the-base-class-11143",
+  "repo": "spack/spack"
+},
+{
+  "commit": "def5b237633f6cfa51d5619d34880a993c5d3a32",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-29T21:01:43+01:00",
+  "timestamp": 1553889703,
+  "message": "add-libs-property-to-IntelMkl-and-IntelParallelStudio-10993",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c81e68030a5a5c0fb62bb2c3ba271441ed33a6a8",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-03-08T23:50:58+01:00",
+  "timestamp": 1552085458,
+  "message": "intel-add-2019.3-10843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "128af27c2188d5ef947593f15b309c169a4b068e",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-20T08:30:53-07:00",
+  "timestamp": 1542727853,
+  "message": "Add-2019.1-and-2018.4-version-of-the-Intel-performance-libraries.-9899",
+  "repo": "spack/spack"
+},
+{
+  "commit": "236b34f3df38d0f44ada307ece354f92a96a6a91",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2018-11-09T10:16:11-06:00",
+  "timestamp": 1541780171,
+  "message": "Introduce-fftw-api-virtual-package-for-Intel-MKL-and-FFTW-9618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79eaa1611823fcbcde3436b7c56c01cede0d32b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-25T04:27:43+02:00",
+  "timestamp": 1537842463,
+  "message": "intel-add-2019.0-9328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a86f22d755887c66b03b62c8be2fa708b79fad0a",
+  "author": "Michael Sternberg <sternberg@anl.gov>",
+  "date": "2018-08-29T23:09:34-05:00",
+  "timestamp": 1535602174,
+  "message": "Intel-prefixes-7469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ba8c0cb58418547d4f9db2336725bf4c4d2e9d9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-20T14:56:53+02:00",
+  "timestamp": 1534769813,
+  "message": "update-Intel-packages-2018.u5-for-TBB-and-2018.u3-for-the-others-8928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adf972e7ff3f91d5febeaeb37a7879760cbe8d80",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-03-23T13:49:59+01:00",
+  "timestamp": 1521809399,
+  "message": "intel-performance-libraries-add-2018.2-7569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35e7b9ac44a28646340df139b07a0b689a0f2edf",
+  "author": "jthies <jonas.thies@dlr.de>",
+  "date": "2018-03-20T09:23:45-07:00",
+  "timestamp": 1521563025,
+  "message": "Ghost-as-cuda-package-7501",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82aa76a867f88639d2d2334e15faa52ee6af97af",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-02-21T19:14:34+01:00",
+  "timestamp": 1519236874,
+  "message": "mkl-fix-order-of-libs-7280",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb5fd6035aa2d1d497ec614df73377c171080333",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-11-15T21:13:15+01:00",
+  "timestamp": 1510776795,
+  "message": "intel-add-2018.1-6322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "957ded209a64b4d904e21b9a72a76c36d2eb8279",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-29T22:38:10+01:00",
+  "timestamp": 1509313090,
+  "message": "add-updated-2017-versions-of-Intel-packages-5957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d8d3e888204d52008b8e2777ffa0605bfe9f9f7",
+  "author": "William Scullin <wscullin@gmail.com>",
+  "date": "2017-10-06T15:51:18-05:00",
+  "timestamp": 1507323078,
+  "message": "qmcpack-new-package-4907",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f84de52a08719d1bdc3f75d9f02a5a897264e22",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-23T22:27:42+02:00",
+  "timestamp": 1506198462,
+  "message": "blas_lapack-add-multithreading-variant-consistent-in-all-implementations.-5340",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05b309a487fecb126cd6f4d057187410260e7a09",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-16T10:10:08+02:00",
+  "timestamp": 1505549408,
+  "message": "add-Intel-2018-libraries-5354",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db657d938d38775e4364a6917cc78cb9cdb0b133",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-16T12:21:07-05:00",
+  "timestamp": 1502904067,
+  "message": "Refactor-IntelInstaller-into-IntelPackage-base-class-4300",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6550aeeafcacad6bba5e4b44e130fd3b40e42bdd",
+  "author": "Darach Golden <darachg@gmail.com>",
+  "date": "2017-06-28T19:22:18+01:00",
+  "timestamp": 1498674138,
+  "message": "Requested-changes-related-to-mumps-compilation-4614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8919b07cab4118abc003073abec92ba6e255a7c",
+  "author": "Kyle Fernandes, né Jacobs <kylefernandes@users.noreply.github.com>",
+  "date": "2017-06-16T18:18:25+01:00",
+  "timestamp": 1497633505,
+  "message": "Update-intel-packages-4528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "306f158c733801cda6eacf74e3349b510cf90867",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-05T18:24:04+02:00",
+  "timestamp": 1494001444,
+  "message": "cp2k-fixed-compilation-issues-for-intel-stack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5250e8ee8966b1e7c8be2f13277bc785d5af8e73",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-21T12:11:29-05:00",
+  "timestamp": 1492794689,
+  "message": "Fix-HPL-build-convert-to-MakefilePackage-3777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0dbeeab70e5175a5a871c43cd0f2b844fbd406fc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-04T18:39:26+02:00",
+  "timestamp": 1491323966,
+  "message": "intel-mkl-add-2017.2-3687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "563b6ab73a1d8a2aab685f273003cfde851edfba",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-11T00:55:02+01:00",
+  "timestamp": 1486770902,
+  "message": "Add-version-2017.0.098-to-intel-mkl-3092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "384698157a01a1861ee4f4c19e2cbf5d512f03c0",
+  "author": "Carlos Bederián <zzzoom@gmail.com>",
+  "date": "2017-02-04T04:18:31+02:00",
+  "timestamp": 1486174711,
+  "message": "MKL-Provide-scalapack-2974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01406251c9ab2be6b6dba6e789ab4445c4ade349",
+  "author": "Jon Rood <jrood@nrel.gov>",
+  "date": "2017-01-04T14:02:23-07:00",
+  "timestamp": 1483563743,
+  "message": "Intel-mkl-provides-mkl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8405b4b5f788ee968a0a7eb0ef0bfaaaf6b15cc",
+  "author": "Jon Rood <jrood@nrel.gov>",
+  "date": "2017-01-04T13:55:08-07:00",
+  "timestamp": 1483563308,
+  "message": "Renaming-mkl-to-intel-mkl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1891ce35459f2f402effae2d7a8094bd0df49bc1",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-10-11T01:42:59-06:00",
+  "timestamp": 1476171779,
+  "message": "Trilinos-Use-more-flexible-option-for-locating-the-BLAS-library-directory.-1987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7806fded3e7e90aeb0d864ab76545cc57fbe2b03",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-04T13:47:25-05:00",
+  "timestamp": 1475606845,
+  "message": "Update-documentation-URL-after-switch-to-readthedocs-1901",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aad5a4c4b39e1ff4d478ae8e0402f6b533741d82",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-29T14:12:07+02:00",
+  "timestamp": 1469794327,
+  "message": "mkl-flake8-fixes-minor-docu-update",
+  "repo": "spack/spack"
+},
+{
+  "commit": "572f1cd42710fea4b176619ca69d66c731d64f34",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-29T11:36:37+02:00",
+  "timestamp": 1469784997,
+  "message": "mkl-symlink-libs-to-prefix.lib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b29b7595dda88831b7c0330b34df4c7b1e1c1734",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-15T17:35:10+02:00",
+  "timestamp": 1468596910,
+  "message": "mkl-add-info-on-interface-and-threading-layers-to-the-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "668b4f1b2ce8e61457309d67b798e58ef481a08e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-13T23:36:23+02:00",
+  "timestamp": 1468445783,
+  "message": "mkl-set-MKLROOT",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52ca215e2947f7fe5c5248ccbd5e4fa19c8536fd",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-13T10:50:57+02:00",
+  "timestamp": 1468399857,
+  "message": "mkl-add-provide-blas-lapack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3cd0a67d020b73e5fdc6cfeb4ee874d49f2c305",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-13T16:12:48-07:00",
+  "timestamp": 1463181168,
+  "message": "address-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8a91db08948440100a2d4d6a0cad01f1eb9b33a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-05-12T20:04:45-07:00",
+  "timestamp": 1463108685,
+  "message": "Intel-software-packages-and-license-enhancements",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,280 @@
+[{
+  "commit": "9505af42ffc0e235e4398c9d03980ad4432442cb",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2021-04-06T22:23:01+02:00",
+  "timestamp": 1617740581,
+  "message": "environment-modules-add-version-4.7.1-22811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36f01541305a9ef28a16d630c71a866ade5e77f9",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2021-02-19T13:03:46+01:00",
+  "timestamp": 1613736226,
+  "message": "environment-modules-add-v4.7.0-21799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f24a4b783d3c1914fcd89b809c488d3f05a158a",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-11-15T03:24:54+01:00",
+  "timestamp": 1605407094,
+  "message": "environment-modules-add-version-4.6.1-19926",
+  "repo": "spack/spack"
+},
+{
+  "commit": "168dd6d03adf7fef6a4f23232418066293de5fe5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-14T05:42:51-06:00",
+  "timestamp": 1605354171,
+  "message": "Don-t-use-prefix.lib-in-tcl-tk-glib-etc-19761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b3e8606084c9b2aa5d071ac3813a33c5891d159",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-09-16T17:39:55+02:00",
+  "timestamp": 1600270795,
+  "message": "environment-modules-add-version-4.6.0-18686",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efff025787e3ff3d33e1cb498d0c847827d8a283",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-09-01T05:46:13+02:00",
+  "timestamp": 1598931973,
+  "message": "environment-modules-added-v4.5.3-18425",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7036f41ea5f4452b7e1ea87691ed522b55437847",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-08-31T17:43:31+02:00",
+  "timestamp": 1598888611,
+  "message": "environment-modules-fix-version-4.5.2-install-18421",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7e83a837565c2ea9f18217d3ec650e693d22658",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-07-31T21:42:08+02:00",
+  "timestamp": 1596224528,
+  "message": "environment-modules-add-version-4.5.2-17795",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7851f896cb6827cf119e82d4f4c37ab65c17a28",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-06-02T11:06:02+02:00",
+  "timestamp": 1591088762,
+  "message": "environment-modules-added-v4.5.1-16896",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4031e9a2a794005adc96dd2c03e8ba2f2f3a0edf",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-04-08T09:01:22+02:00",
+  "timestamp": 1586329282,
+  "message": "environment-modules-add-version-4.5.0-15938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d83d7ce694648455f890f24d17b34850710f22a4",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2020-01-04T11:56:09-07:00",
+  "timestamp": 1578164169,
+  "message": "environment-modules-add-version-4.4.1-14379",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5b32023528aa4a76b4d7d270fc27d68704d9e2e",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-11-18T10:53:06-07:00",
+  "timestamp": 1574099586,
+  "message": "environment-modules-add-version-4.4.0-13772",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53ab298e88f80454f7f7c20ef200a3dbd0870473",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-09-22T04:32:27+02:00",
+  "timestamp": 1569119547,
+  "message": "environment-modules-add-version-4.3.1-12893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "398c53eaa2da00fa1ce5dfbbf7cab4cf9ea61c50",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-07-27T19:20:39+02:00",
+  "timestamp": 1564248039,
+  "message": "environment-modules-package-add-version-4.3.0-12155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9067821b38755591c04a279823b50059deadd75",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-07-08T22:58:38+02:00",
+  "timestamp": 1562619518,
+  "message": "environment-modules-package-add-version-4.2.5-11953",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a920ee64f06edab9276833b0d27bb27cbb524fc",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-04-27T20:32:57+02:00",
+  "timestamp": 1556389977,
+  "message": "environment-modules-add-version-4.2.4-11307",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95a0e9c693a927468192fe4ec2a0e5f6f2aeebba",
+  "author": "Xavier Delaruelle <xavier.delaruelle@cea.fr>",
+  "date": "2019-03-24T23:17:50+01:00",
+  "timestamp": 1553465870,
+  "message": "environment-modules-add-version-4.2.3-11003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eec038690779325d6e36d7b88a4c960d290735a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-02-27T14:00:46+01:00",
+  "timestamp": 1551272446,
+  "message": "Update-environment-modules-package-10717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51828dd982f2642b3f52512aea4fb2c02395d378",
+  "author": "Matthew Scott Krafczyk <krafczyk.matthew@gmail.com>",
+  "date": "2017-09-08T12:15:06-05:00",
+  "timestamp": 1504890906,
+  "message": "Bootstrap-environment-modules",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4457c6a2ad436f666dfc1ef8135b8a355e81ceef",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2016-11-08T16:19:31+01:00",
+  "timestamp": 1478618371,
+  "message": "Updated-environment-modules-package-2279",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79836520d989a19bc49b912698b22fdc8a65ca59",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-03T21:38:29-04:00",
+  "timestamp": 1459733909,
+  "message": "Fixed-up-to-work-on-a-machine-without-any-system-install-tcl",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c483ffe4e9b0dc03d469eba9c064461624a81be",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-02T13:09:56-04:00",
+  "timestamp": 1459616996,
+  "message": "Merged-the-best-of-two-Spack-packages-for-Environment-Modules",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfd5e69b816eaca1a4d6d4467d5f1113fa0af407",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-04-01T15:16:28-04:00",
+  "timestamp": 1459538188,
+  "message": "Added-Environment-Modules-package",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "38e6d411a31ed3b02efcdd742ea58b6a6291a76e",
+  "author": "Evan Bollig <ebbollig@amazon.com>",
+  "date": "2021-02-04T18:35:43-06:00",
+  "timestamp": 1612485343,
+  "message": "libjwt-Added-openssl-to-resolve-broken-CICD-pipeline-21443",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7b0e6280169a0a6e8c3b1fd0ffcc53ce52c92d2b",
+  "author": "Evan Bollig <bollig@gmail.com>",
+  "date": "2020-10-12T13:52:23-05:00",
+  "timestamp": 1602528743,
+  "message": "Added-slurm-version-20-02-4-1-and-support-to-build-slurmrestd-19249",
+  "repo": "spack/spack"
+}]

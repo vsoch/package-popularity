@@ -1,0 +1,184 @@
+[{
+  "commit": "07cf420acb5d419e082863123ba6fd95fe34a0a3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-26T17:56:35-05:00",
+  "timestamp": 1616799395,
+  "message": "py-torchvision-add-v0.9.1-22556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4261de543407a22ab6284956c15b6b015e528c93",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-05T03:21:15-06:00",
+  "timestamp": 1614936075,
+  "message": "py-torchvision-add-v0.9.0-22102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2eb587a95432543e2b19d67200ac166e794be69",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2021-01-12T15:13:43-08:00",
+  "timestamp": 1610493223,
+  "message": "py-torchvision-0.5.0-depends-on-py-torch-1.4.1-20811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "207f71246a392ac6ad44969d92e465ccc5f92d7d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-11T02:53:12-06:00",
+  "timestamp": 1607676792,
+  "message": "py-torchvision-add-v0.8.2-20328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db5aa927db12cb575e79c49b969fab92b85a2be3",
+  "author": "Phil Tooley <32297355+ptooley@users.noreply.github.com>",
+  "date": "2020-11-10T18:28:01+00:00",
+  "timestamp": 1605032881,
+  "message": "py-torchvision-gather-correct-cuda_arch-setting-from-py-torch-19845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bea65aacdad9c35e6332ee1d20ca80c65bca1f04",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-30T12:22:38-05:00",
+  "timestamp": 1604078558,
+  "message": "py-torchvision-add-v0.8.0-19556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ba47a057f0200fb13001a5702258874b53e6e728",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-09T03:16:50-05:00",
+  "timestamp": 1599639410,
+  "message": "py-torchvision-add-variant-to-set-image-backend-18500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "098beee2953e4a0d8907f88f1fd88d5efd57ee42",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:39:35-05:00",
+  "timestamp": 1599154775,
+  "message": "Pillow-SIMD-use-as-default-PIL-provider-18097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "638f44d842d14d776fc78633f5c32e4dab808264",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-09-02T17:52:00-07:00",
+  "timestamp": 1599094320,
+  "message": "CUDA_HOME-needs-to-be-set-or-CUDA-is-found-based-on-user-s-PATH.-18475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9350ecf0469146f0b477a6e7dcf75ceefb4e2bc1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-17T11:24:19-05:00",
+  "timestamp": 1597681459,
+  "message": "py-torchvision-fix-linking-to-lavcodec-18093",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4aaa39d091c0490d7634dfb48cc52f42ce3a1397",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-07-28T14:00:39-05:00",
+  "timestamp": 1595962839,
+  "message": "py-torchvision-add-v0.7.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8e3e8289dca4f2ba73462ef245fb9486e8c3be8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-23T02:45:36-05:00",
+  "timestamp": 1592898336,
+  "message": "py-torchvision-added-v0.6.1-17203",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4f0a8f70b9ccfbf4ea20d08e34261e52a773e6f",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-06-16T01:46:35-04:00",
+  "timestamp": 1592286395,
+  "message": "py-torchvision-added-dependency-of-ffmpeg-17032",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74b3ae4803eb899fe0da7f762b601dd00dd9c376",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-05-06T18:05:26-05:00",
+  "timestamp": 1588806326,
+  "message": "PyTorch-Torchvision-fix-deptype-16495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f5bd044d61af99cb7741b360d0f48f031f212fa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-21T11:43:30-05:00",
+  "timestamp": 1587487410,
+  "message": "py-torchvision-add-new-version-16208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "563e261fa466872f33441193029ae4df8998dcd3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-16T15:46:55-06:00",
+  "timestamp": 1579211215,
+  "message": "Add-py-torchvision-0.5.0-14544",
+  "repo": "spack/spack"
+},
+{
+  "commit": "378016d3507f6e379b3b3f41be013764339b6bb7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-01-04T14:21:29-06:00",
+  "timestamp": 1578169289,
+  "message": "py-torchvision-0.4.X-does-not-support-py-pillow-7.X.Y-14381",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b189d10f1f6365faac3551480d2d3c8059d84b1a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-08T14:33:46-06:00",
+  "timestamp": 1573245226,
+  "message": "py-torchvision-add-0.4.2-13651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de6d53b626eca8ed140d34fc3c43f2660748cd4c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T11:12:43-05:00",
+  "timestamp": 1571587963,
+  "message": "Add-latest-version-of-py-torchvision-13289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "249f571556620c20148b6b6f57adef90568b3987",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-29T13:42:08-05:00",
+  "timestamp": 1564425728,
+  "message": "New-package-py-torchvision-12175",
+  "repo": "spack/spack"
+}]

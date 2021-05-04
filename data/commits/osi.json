@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a0303860d6a5b9614c879ca96a8175843e3fa8b",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-10-21T20:15:34-04:00",
+  "timestamp": 1603325734,
+  "message": "osi-19424",
+  "repo": "spack/spack"
+}]

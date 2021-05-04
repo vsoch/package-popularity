@@ -1,0 +1,8 @@
+[{
+  "commit": "18ba1b8923e924453b88ffe34106850cff633db2",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-06T11:49:39+08:00",
+  "timestamp": 1615002579,
+  "message": "Add-new-package-r-lobstr-22069",
+  "repo": "spack/spack"
+}]

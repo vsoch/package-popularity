@@ -1,0 +1,8 @@
+[{
+  "commit": "505dc3c0cf86f681c495ca3ada6aa25e69289d67",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-17T11:21:33-06:00",
+  "timestamp": 1610904093,
+  "message": "new-package-r-mathjaxr-21096",
+  "repo": "spack/spack"
+}]

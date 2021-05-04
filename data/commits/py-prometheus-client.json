@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43f8e9a2605b3e5ea604b4e31bcbd1a1bc459987",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-20T16:55:39+01:00",
+  "timestamp": 1582214139,
+  "message": "Add-extra-version-of-prometheus-client-15067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8de453af5454cb37cd63b0e64dff4a6f73d6d875",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2019-10-08T18:43:44-07:00",
+  "timestamp": 1570585424,
+  "message": "Fixed-hash-of-version-.0.5-and-added-latest-version-.0.7.1-13077",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec7c7332c06e0ca4a236074bccdd675abce690a2",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2019-02-01T16:23:59-06:00",
+  "timestamp": 1549059839,
+  "message": "New-package-py-prometheus-client-10440",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,360 @@
+[{
+  "commit": "cf1b8dd72b3290e979fa63d7679f13620e752346",
+  "author": "Daniel Arndt <arndtd@ornl.gov>",
+  "date": "2021-04-01T12:59:05-04:00",
+  "timestamp": 1617296345,
+  "message": "xSDK-add-ArborX-22619",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a87aa49fbf1a4c9c3d2e5a645e0d630e59ceb4b3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-26T19:17:37-06:00",
+  "timestamp": 1614388657,
+  "message": "petsc-petsc4py-slepc-switch-default-git-branch-from-master-to-main-22001",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3c9d1b501ab6fa03c60818e0257ee494821207e",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-23T03:22:44-06:00",
+  "timestamp": 1614072164,
+  "message": "xsdk-update-build-to-follow-strumpack-change-21871",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbcf8d208b12d9968afbbca0113d78e9851ad1ab",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-18T14:41:36-06:00",
+  "timestamp": 1613680896,
+  "message": "xsdk-fix-develop-build-21749",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42e8a646600eaac0491347338f2a4780cd5000d1",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-09T17:10:09-06:00",
+  "timestamp": 1612912209,
+  "message": "xsdk-update-petsc4py-strumpack-dependencies-21569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "757b74aeff8f1ea87cd60154aa5527fcc7ebcf9d",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-12T11:15:29-06:00",
+  "timestamp": 1605201329,
+  "message": "xsdk-0.6.0-19846",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a3f8717185868285ebc1e0226b0d7a320ef404c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-04-30T10:33:02-05:00",
+  "timestamp": 1588260782,
+  "message": "xsdk-update-to-mfem-and-py-petsc4py-changes-16378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40c77bf158aad7d968e85ba15e1be65817112650",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-11-14T16:36:51-06:00",
+  "timestamp": 1573771011,
+  "message": "xsdk-0.5.0-13682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9e214f6d37af9320afc3a3bca304143c91254e7",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-08-22T11:08:23-07:00",
+  "timestamp": 1566497303,
+  "message": "Spack-BundlePackage-a-group-of-other-packages-11981",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bd3b66f6ec3284074726861fdf2596e6d6787c3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-07-25T14:01:00-05:00",
+  "timestamp": 1564081260,
+  "message": "xsdk-phist-has-a-conflict-with-gcc-version-gcc-4.9.1-11946",
+  "repo": "spack/spack"
+},
+{
+  "commit": "727089c4effc6005edfe4565af79bbdfd0ded116",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-05-26T10:43:06-05:00",
+  "timestamp": 1558885386,
+  "message": "xsdk-0.4.0-update-dealii-defaults-wrt-changes-in-a973ab475-11562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b09781936592512bceda1ecf07753dedbe6a1a9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-11T12:16:23-05:00",
+  "timestamp": 1555002983,
+  "message": "xsdk-develop-enable-amrex-develop-sundials-11169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9bf3bdd6a9d92552a908bb9ef5aca50d94a9349",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-09T08:42:44-05:00",
+  "timestamp": 1554817364,
+  "message": "xsdk-develop-enable-hypre-shared-even-on-OSX-and-superlu-dist-variant-11131",
+  "repo": "spack/spack"
+},
+{
+  "commit": "365c17a3d50bd30af28a56811aeb7583f4dfd379",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-24T22:17:20-05:00",
+  "timestamp": 1553483840,
+  "message": "xsdk-enable-sundials-4.1.0-for-xsdk-develop-10989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8da8dbd0e52499fe7a27d1a7d8cd6fe49313918",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-02-28T11:05:05-06:00",
+  "timestamp": 1551373505,
+  "message": "Trilinos-add-release-12.14.1-10740",
+  "repo": "spack/spack"
+},
+{
+  "commit": "753fec39ae51838ec9f807a1071ed6965e1741ea",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-02-07T09:05:14-06:00",
+  "timestamp": 1549551914,
+  "message": "xsdk-develop-fixes-10521",
+  "repo": "spack/spack"
+},
+{
+  "commit": "871e7f525c1e9799c38a29dfdea1a5a9a231d20e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-02-06T14:59:36+01:00",
+  "timestamp": 1549461576,
+  "message": "xsdk-enable-slepc-in-deal.ii-used-to-be-a-concretization-error-10218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908ecf3e74e772fe74d76cfa20c4c292442f5c32",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-12-23T19:35:03-06:00",
+  "timestamp": 1545615303,
+  "message": "xsdk-0.4.0-add-update-package-versions-10038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38a1732c5a8f85203747c96c5414b2ed5fd9696b",
+  "author": "jthies <jonas.thies@dlr.de>",
+  "date": "2018-10-30T14:12:15+01:00",
+  "timestamp": 1540905135,
+  "message": "Jthies-xsdk-add-phist-8980",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e4264ed890e292f103d40f30d29d85338315fb6",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-09T14:19:29-05:00",
+  "timestamp": 1539112769,
+  "message": "xsdk-reorder-develop-version-statements-9469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffca0647789e8c90571736a3d0ad5017a4bce9e6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-08T23:07:37+02:00",
+  "timestamp": 1536440857,
+  "message": "xsdk-disable-assimp-in-deal.II-9190",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18ca19675354508a7a8593c8baf9e98b33e302e1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-07T02:22:17+02:00",
+  "timestamp": 1536279737,
+  "message": "xsdk-add-dealii-7529",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6b8c7058a02e4e735901433c4b4e571a8b5906f",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-09-06T12:01:53-05:00",
+  "timestamp": 1536253313,
+  "message": "Balay-xsdk-trilinos-develop-9182",
+  "repo": "spack/spack"
+},
+{
+  "commit": "783435c1def87cd2a8012c9ac93aaabb08af9a0e",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-08-14T00:17:17-05:00",
+  "timestamp": 1534223837,
+  "message": "xsdk-add-slepc-and-amrex-and-handle-clang-conflict-wrt-amrex-8932",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df45b6f56db3dde44b80ee433bfdb1de7e921b31",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-24T21:22:14+05:30",
+  "timestamp": 1529855534,
+  "message": "Balay-petsc-remove-boost-dependency-8508",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6140375e9433cd4a5bf53d8efec6ac5eee658f3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-24T18:38:44+05:30",
+  "timestamp": 1529845724,
+  "message": "xsdk-update-xsdk-develop-to-use-plasma-develop-8555",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eac8cf83bd0b4891c9bcb7d07b0ae48d6dc203e6",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-14T02:16:38+05:30",
+  "timestamp": 1528922798,
+  "message": "xsdk-fix-ChecksumError-md5-checksum-failed-8440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2829ebd4852d3798403447fc6bb766185e0b0e5d",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-14T02:15:34+05:30",
+  "timestamp": 1528922734,
+  "message": "xsdk-update-xsdk-develop-dependency-on-mfem-develop-8462",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d393e3d7027a95f4dff31e5b2cfba32cacf0815c",
+  "author": "Keita Teranishi <knteran@sandia.gov>",
+  "date": "2018-02-13T02:20:59-08:00",
+  "timestamp": 1518517259,
+  "message": "Added-Nox-for-Trilinos-installation-by-xSDK-7219",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80284617a5ab56a70056664287abaee8086dbea9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-12-12T11:31:08-06:00",
+  "timestamp": 1513099868,
+  "message": "xsdk-update-xsdk-develop-to-use-sundials-plasma-magma-6649",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53b2ec356bef25150b51e062e66f9cb4f245fad9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-12-10T19:51:54-06:00",
+  "timestamp": 1512957114,
+  "message": "disable-plasma-in-xsdk-0.3.0-6621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd8da5a441e3a83e2e2ba9b8ab1705928e276742",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2017-11-28T00:08:08-06:00",
+  "timestamp": 1511849288,
+  "message": "Xsdk-0.3.0-6277",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44653fa4884c754c7925d5e031fdb9b5f2eec232",
+  "author": "Alicia Klinvex <amklinv@sandia.gov>",
+  "date": "2017-08-01T13:05:15-04:00",
+  "timestamp": 1501607115,
+  "message": "Fix-xsdk-build-broken-by-petsc-and-trilinos-4893",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f732598f516d8a61c3e15b61fccf3dd7ee8fbadc",
+  "author": "Alicia Klinvex <amklinv@sandia.gov>",
+  "date": "2017-06-14T14:56:24-04:00",
+  "timestamp": 1497466584,
+  "message": "Fix-tpetra-related-xsdk-errors-4501",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e18ace6472c94893cc567ca757032269e02460f",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2017-04-26T13:39:09-05:00",
+  "timestamp": 1493231949,
+  "message": "Update-checksum-for-dummy-xsdk-package-4002",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d04ae9a2b4c19e45c99f3af3c6d6a2599486ee05",
+  "author": "Barry Smith <bsmith@mcs.anl.gov>",
+  "date": "2017-04-25T18:09:30-05:00",
+  "timestamp": 1493161770,
+  "message": "xsdk-version-0.2.0-3928",
+  "repo": "spack/spack"
+}]

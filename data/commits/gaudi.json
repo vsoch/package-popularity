@@ -1,0 +1,120 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c22141f444861abeaee297a3d92696e9ae94a509",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-29T17:12:26+01:00",
+  "timestamp": 1609258346,
+  "message": "Introduce-virtual-provider-uuid-18322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e35df4b61c2909a6446451c1633425658606d4a",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-24T12:17:28+01:00",
+  "timestamp": 1606216648,
+  "message": "gaudi-clhep-is-not-optional-20052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72e66bd01f72b3ee706b0124c5e747e70f5434ba",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-12T21:43:06+01:00",
+  "timestamp": 1605213786,
+  "message": "gaudi-v35r0-19878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b6f6db431c3b060ca09f2612a62f45f28d20314",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-21T00:11:45+02:00",
+  "timestamp": 1597961505,
+  "message": "gaudi-sadly-the-cmake-fixes-are-postponed-to-next-version-18171",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e83f639c13031cfb658a77372757952a8ab8f748",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-09T14:54:26+02:00",
+  "timestamp": 1596977666,
+  "message": "HEP-versions-update-17927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ddfcf097b482ac10f634751a6eea8520e982ca1",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-27T21:42:23+02:00",
+  "timestamp": 1593286943,
+  "message": "gaudi-new-version-cleanup-17268",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7948344bcd1763912d992ba8e4b5e7b717787eb9",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-05-19T20:14:45+02:00",
+  "timestamp": 1589912085,
+  "message": "Introduce-version-1.0.0-for-py-xenv-and-remove-unreleased-development-release-16722",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08528a73793660831c25bd9a9d5bc84600a37a4a",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-05-08T19:24:42+02:00",
+  "timestamp": 1588958682,
+  "message": "Gaudi-separate-variant-for-building-documentation-16515",
+  "repo": "spack/spack"
+},
+{
+  "commit": "652e179ae64ace2db7771754cc782eca799b2c30",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-05-08T19:17:48+02:00",
+  "timestamp": 1588958268,
+  "message": "Gaudi-syntax-fix-16523",
+  "repo": "spack/spack"
+},
+{
+  "commit": "befd47259493aae407eec8d69b99ecb15d7df6bd",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-05T02:40:13+02:00",
+  "timestamp": 1588639213,
+  "message": "gaudi-fixes-and-patches-16433",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "510a28d1567785055372213de4acd9b4580b0e39",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-22T02:04:03+01:00",
+  "timestamp": 1550797443,
+  "message": "Gaudi-package-new-version-xenv-bugfix-10668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e95e06bdae08801f1ed586cf1d0dc6f5717be2c",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-14T06:04:38+01:00",
+  "timestamp": 1550120678,
+  "message": "Add-Gaudi-and-RELAX-packages-9194",
+  "repo": "spack/spack"
+}]

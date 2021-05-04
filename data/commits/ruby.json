@@ -1,0 +1,296 @@
+[{
+  "commit": "e1c5952130eb9774a566154a4dcc1d22b52a9b3d",
+  "author": "holrock <ispeporez@gmail.com>",
+  "date": "2021-02-19T19:28:22+09:00",
+  "timestamp": 1613730502,
+  "message": "ruby-remove-unwanted-dependencies-21797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5f6d77f4c41e1603bc8c2eec42d048feb5a1f0e2",
+  "author": "holrock <ispeporez@gmail.com>",
+  "date": "2021-02-18T18:17:41+09:00",
+  "timestamp": 1613639861,
+  "message": "ruby-add-v2.7.2-v3.0.0-21745",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "443407cda545e31d33c9d5abac393c8ac8ad33a2",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-02T18:26:36-05:00",
+  "timestamp": 1599089196,
+  "message": "Add-new-RubyPackage-build-system-base-class-18199",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f25d6e64f63607e4c7b487d3c12ac4b5dde27f72",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2020-06-30T10:27:48-04:00",
+  "timestamp": 1593527268,
+  "message": "ruby-fixing-path-to-gcc-such-that-users-can-use-gem-to-install-nati-17141",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff816f76b3fe765fd1f1d86ef2e9b1772fdfb7a4",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-06-16T15:35:49-04:00",
+  "timestamp": 1592336149,
+  "message": "ruby-add-version-2.7.1-17112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f086af05e02eacdb24450215571897d7632e6f5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-02T17:05:50-05:00",
+  "timestamp": 1591135550,
+  "message": "Ruby-add-warning-about-Avira-antivirus-16882",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b60ab6eefdfe584105ae97caf15a0e72c4ab2457",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2020-06-02T18:07:48+09:00",
+  "timestamp": 1591088868,
+  "message": "ruby-fixed-build-with-Fujitsu-compilers-16889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f276b3ffa0c03640bde76d6240cefd0f0655ccdb",
+  "author": "Oliver Breitwieser <oliver@breitwieser.eu>",
+  "date": "2019-04-17T20:03:58+02:00",
+  "timestamp": 1555524238,
+  "message": "ruby-Install-certificate-for-openssl-only-11184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "308a39eca37ad0fc05357beb95ef462f0839692e",
+  "author": "Brian Spilner <Try2Code@users.noreply.github.com>",
+  "date": "2019-03-26T19:34:33+00:00",
+  "timestamp": 1553628873,
+  "message": "ruby-package-add-version-2.6.2-10945",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "86e00e7294a3fc8fc25a7147da394cccf79b81d4",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T16:35:47+01:00",
+  "timestamp": 1542123347,
+  "message": "ruby-add-2.5.3-9793",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf140b5f4c0ffd1d000fa66de739193051c12f34",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-06T07:22:38-05:00",
+  "timestamp": 1530879758,
+  "message": "Add-url_for_version-and-list_url-to-Ruby-package-8216",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a77884c0786485670b786051333d7a80e5c1762",
+  "author": "Eric Müller <mueller@kip.uni-heidelberg.de>",
+  "date": "2018-03-05T10:01:23+01:00",
+  "timestamp": 1520240483,
+  "message": "fix-ruby-build-on-gcc-7-7387",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67219a1340f96c7cb1a80bee040abc33f7e72c37",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-01-15T07:00:07-08:00",
+  "timestamp": 1516028407,
+  "message": "ruby-fix-openssl-readline-variants-6935",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45784af7f261502bd158a5b1fc5736bdb4490481",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-12-12T20:35:13-06:00",
+  "timestamp": 1513132513,
+  "message": "new-packages-biopieces-and-dependencies-6478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53bbbfbe21e795d3400f89e677ebc4edf33b07d4",
+  "author": "Robert D. French <frenchrd@ornl.gov>",
+  "date": "2016-07-04T13:18:42-04:00",
+  "timestamp": 1467652722,
+  "message": "Require-libffi-zlib-Make-Openssl-readline-optional",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4134ee71e43a6a2a38822e25cc72ca73efdcfea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-23T00:36:32-07:00",
+  "timestamp": 1458718592,
+  "message": "Fix-608-broken-numpy-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1516f64eb75c108eded1e9ee7e0480a4552236a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-21T02:21:31-07:00",
+  "timestamp": 1458552091,
+  "message": "Rename-some-environment-methods-to-be-less-repetitive-add-set_path",
+  "repo": "spack/spack"
+},
+{
+  "commit": "439d47b4e45c674ab9aa4ebd0c2bfaf6911ade60",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-21T01:48:18-07:00",
+  "timestamp": 1458550098,
+  "message": "Refactor-environment-setup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0f0663d1b9ece1e2b0b0a8f720b1325eec443bb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-17T15:11:39+01:00",
+  "timestamp": 1458223899,
+  "message": "package-split-environment_modifications-into-setup_environment-and-setup_dependent_environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "572cb93bf8131d222d2d08bca13fd9de6fded1f4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T14:05:30+01:00",
+  "timestamp": 1458047130,
+  "message": "package-renamed-setup_dependent_environment-to-module_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c85888eb5763d453af7b7255b6d8c3461082362f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T13:36:41+01:00",
+  "timestamp": 1458045401,
+  "message": "package-added-environment_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d92ac2a6b2bf46fd8ad85ff8c0390fc2869f2e7c",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-06-11T13:51:31-07:00",
+  "timestamp": 1434055891,
+  "message": "Small-ruby-enhancement-and-tmuxinator-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27617670f013bd1dbde24079bd7ae38331530695",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-09T00:01:07-08:00",
+  "timestamp": 1423468867,
+  "message": "qt-with-hardware-accelerated-opengl-working",
+  "repo": "spack/spack"
+}]

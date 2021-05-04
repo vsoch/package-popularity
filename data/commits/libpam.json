@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49b47864e9c7d4b501fe024eb9454e7bec164899",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-01T11:19:48+08:00",
+  "timestamp": 1598930388,
+  "message": "libpam-added-new-package-at-v1.0.9-18418",
+  "repo": "spack/spack"
+}]

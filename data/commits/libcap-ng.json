@@ -1,0 +1,24 @@
+[{
+  "commit": "c5ed46e0264c7f62d95c7ad1f69717b19f06db8c",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-01-21T12:42:36+09:00",
+  "timestamp": 1611200556,
+  "message": "libcap-ng-fix-detect-python.-21162",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fcd32aa6c85f70fa9f20a245bde0a3a8150fea0",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-09-24T10:02:22+08:00",
+  "timestamp": 1600912942,
+  "message": "Add-new-package-libcap-ng-18752",
+  "repo": "spack/spack"
+}]

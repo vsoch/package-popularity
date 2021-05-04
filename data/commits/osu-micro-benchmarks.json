@@ -1,0 +1,168 @@
+[{
+  "commit": "fd85f79e18b3e9c5ef7dadd0cc4e358381220c3f",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-02-18T10:48:41+01:00",
+  "timestamp": 1613641721,
+  "message": "osu-micro-benchmarks-add-v5.7-21729",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0788a69fa830a206c61c4c68848e19382bbbea16",
+  "author": "Filippo Spiga <spiga.filippo@gmail.com>",
+  "date": "2020-08-16T23:03:54+01:00",
+  "timestamp": 1597615434,
+  "message": "Adding-osu-micro-benchmarks-version-5.6.3-18090",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85fc6448f88bd4b6926249168ce5670ef4cf5137",
+  "author": "Mike Kiernan <kiernanek@gmail.com>",
+  "date": "2020-01-02T22:15:22+01:00",
+  "timestamp": 1577999722,
+  "message": "osu-micro-benchmarks-added-version-5.6.2-14352",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e4ed3e84a65b5eaf760432f19592652170d54f7",
+  "author": "Kevin Manalo <kmanalo@users.noreply.github.com>",
+  "date": "2019-06-19T14:04:03-04:00",
+  "timestamp": 1560967443,
+  "message": "osu-micro-benchmarks-add-version-5.6.1-11779",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07d9d444ea8ebce26619785374d6c62d032b3dec",
+  "author": "Jiawei Zhuang <jiaweizhuang@g.harvard.edu>",
+  "date": "2019-01-12T20:31:13-05:00",
+  "timestamp": 1547343073,
+  "message": "Added-osu-micro-benchmarks-5.5-10333",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec7d069ba531ed46f211de4ea447be1fd49300b2",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-01-31T16:10:14-08:00",
+  "timestamp": 1517443814,
+  "message": "Added-osu-micro-benchmarks-5.4-7149",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2aed82c2c294df1fb7df1130537365db7d33699a",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-01T20:14:54+02:00",
+  "timestamp": 1504289694,
+  "message": "Fix-osu-micro-benchmarks-build-5255",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf195cd8b981b6b03c181450d12b8f3addc28a6c",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-07-05T20:31:26+02:00",
+  "timestamp": 1499279486,
+  "message": "Fix-for-building-osu-micro-benchmarks-on-OS-X-librt-not-avaialble-required-4675",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22e4ee560465a633f7dd8e84a2e7088d8dcf547f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-23T15:29:47-05:00",
+  "timestamp": 1461443387,
+  "message": "Add-OSU-Micro-Benchmarks-package-822",
+  "repo": "spack/spack"
+}]

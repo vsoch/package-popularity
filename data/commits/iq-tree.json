@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d61f362211a62f6a6126ec33cbbc97604358f6f7",
+  "author": "ilbiondo <61497728+ilbiondo@users.noreply.github.com>",
+  "date": "2020-07-30T05:20:44+02:00",
+  "timestamp": 1596079244,
+  "message": "Updated-iq-tree-package-17690",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4afdaa5f4b611ebf7419ec2098baa0ba4a50398f",
+  "author": "ilbiondo <61497728+ilbiondo@users.noreply.github.com>",
+  "date": "2020-04-15T16:37:25+02:00",
+  "timestamp": 1586961445,
+  "message": "IQ-TREE-added-new-package-at-v1.6.12-16064",
+  "repo": "spack/spack"
+}]

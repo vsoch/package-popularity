@@ -1,0 +1,160 @@
+[{
+  "commit": "cbcf8d208b12d9968afbbca0113d78e9851ad1ab",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-18T14:41:36-06:00",
+  "timestamp": 1613680896,
+  "message": "xsdk-fix-develop-build-21749",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d6c9a8f2907639bf3c9c4b3ccfeb413186c12de",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-02T12:50:10-06:00",
+  "timestamp": 1604343010,
+  "message": "omega-h-add-version-9.32.5-19679",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f29785b887cf2fdeb589b5e749e60c73091e77c",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-13T19:54:41-05:00",
+  "timestamp": 1571014481,
+  "message": "omega-h-add-version-9.29.0-13208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "78ade980d46344058c66364a718977b7c0fa2a68",
+  "author": "Cameron Smith <cwsmith@users.noreply.github.com>",
+  "date": "2019-05-03T17:59:26-04:00",
+  "timestamp": 1556920766,
+  "message": "omega-h-package-add-version-9.27.0-11366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35daaa440f3660c9ca45d4e13604dfff7521564b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-06T20:10:47-06:00",
+  "timestamp": 1551924647,
+  "message": "omega-h-add-version-9.22.2-and-update-gcc-8-conflict-10776",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9967d2f6f9d5c9c295eeacaee75c25c5c7f5677",
+  "author": "Dan Ibanez <ibaned@users.noreply.github.com>",
+  "date": "2019-01-11T12:29:56-07:00",
+  "timestamp": 1547234996,
+  "message": "Omega_h-changed-its-URL-10315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4cbeec07a03e9ea8199fe4726498a84bfd299295",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-01-11T12:08:28-06:00",
+  "timestamp": 1547230108,
+  "message": "omega-h-fix-CMAKE_BUILD_TYPE-breaks-with-spack-deafult-RelWithDebInfo-10297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "470a45c51659156e7d154ea890e798ce32b8767d",
+  "author": "Dan Ibanez <ibaned@users.noreply.github.com>",
+  "date": "2018-10-17T12:30:19-06:00",
+  "timestamp": 1539801019,
+  "message": "omega-h-fix-dependencies-9552",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4225dc106b470513b1878e1c3c794048861fac72",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-17T10:28:48-05:00",
+  "timestamp": 1539790128,
+  "message": "omega-h-update-to-versions-9.19.0-9.19.1-9548",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bc213074cd31c0c2d611b6d31de04be2bacfd6b2",
+  "author": "Dan Ibanez <ibaned@users.noreply.github.com>",
+  "date": "2018-10-17T06:49:00-06:00",
+  "timestamp": 1539780540,
+  "message": "Fixes-to-Omega_h-C-compiler-flags-9545",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a779e8744240c219e78ee5e8c468b68616451396",
+  "author": "Tristan Carel <tristan.carel@gmail.com>",
+  "date": "2018-09-05T20:01:45+02:00",
+  "timestamp": 1536170505,
+  "message": "omega-h-add-versions-and-variants-9169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1661ff662944965efa54713c5db592290b32eba",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-06-23T17:55:33+05:30",
+  "timestamp": 1529756733,
+  "message": "omega-h-fix-std-c-11-build-error-8543",
+  "repo": "spack/spack"
+},
+{
+  "commit": "130d0c8b2ed905b7224e7c4ba997bbb9f4478011",
+  "author": "Dan Ibanez <ibaned@users.noreply.github.com>",
+  "date": "2018-04-22T16:26:52-06:00",
+  "timestamp": 1524436012,
+  "message": "omega-h-new-package-7861",
+  "repo": "spack/spack"
+}]

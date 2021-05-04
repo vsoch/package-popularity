@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b3300870589eabeb2169bf7af3bdd5d8b65eb15",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-01-05T00:36:12+08:00",
+  "timestamp": 1609778172,
+  "message": "libthai-new-package-at-v0.1.28-19916",
+  "repo": "spack/spack"
+}]

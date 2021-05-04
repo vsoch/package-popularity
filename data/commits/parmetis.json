@@ -1,0 +1,280 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d9f2bf4ed89823b4f6c515b7f4e2994bf58c3a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T17:31:00-05:00",
+  "timestamp": 1599172260,
+  "message": "depends_on-cannot-handle-sigil-18220",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3686c250ed61473a0de456d9c7aed98c3187724b",
+  "author": "becker33 <becker33@llnl.gov>",
+  "date": "2018-01-18T17:55:44-08:00",
+  "timestamp": 1516326944,
+  "message": "Fix-type-issues-with-setting-flag-handlers-6960",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb66aca9aed6582c2efe6877cc9dac24016d282d",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-01-08T08:18:42-07:00",
+  "timestamp": 1515424722,
+  "message": "Upgrade-recipe-for-parmetis-to-be-a-CMakePackage-6807",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0fff6722dadfa7ef576d3bcc815f98ce33a7d03",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-05-26T23:07:24-04:00",
+  "timestamp": 1495854444,
+  "message": "added-c11-flag-for-pgi-compiler-for-TSL-4367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e895c4cccb67304d3391478cc3fd0c5641bca51",
+  "author": "Jason Sarich <sarich@mcs.anl.gov>",
+  "date": "2017-01-24T13:48:01-06:00",
+  "timestamp": 1485287281,
+  "message": "add-static-options-for-some-libraries-2876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2cbae1d691ade03dac23b949d8233d3680961906",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-09-20T02:48:31-07:00",
+  "timestamp": 1474364911,
+  "message": "Update-Package-Metis-1783",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d17d90b2923e7593268d69614f9ae4266bae08f",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-08-15T10:45:19-04:00",
+  "timestamp": 1471272319,
+  "message": "packages-mark-builddeps-as-type-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "064d3584c0f95f19f159f0d7bc51c5172278638f",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-19T09:33:47-07:00",
+  "timestamp": 1463675627,
+  "message": "Updating-metis-and-parmetis-to-conform-to-PEP8-standards",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ef6843d85a1b74659ed72bda18a72613276d4ec",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-09T15:37:00-07:00",
+  "timestamp": 1462833420,
+  "message": "Improved-MPI-path-specification-for-ParMETIS-using-PR-893-features",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c95ec0b299f7f0eb83362318f77e31701708902",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-05-02T16:41:55-07:00",
+  "timestamp": 1462232515,
+  "message": "Updated-and-added-new-versions-to-the-METIS-ParMETIS-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddaba07d8297544f2587f0c31fcbd2dafa824eb3",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-04-05T19:00:28-07:00",
+  "timestamp": 1459908028,
+  "message": "metis-4.0.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eca1284c81c3efc5a87b8a174a0974811656b3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T08:59:25+02:00",
+  "timestamp": 1459061965,
+  "message": "metis-parmetis-boost-oce-scalapack-correct-install_name-on-Darwin-via-a-global-function",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03c8a91f6a647849f0251496f361da9574a98c22",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-24T22:33:10+01:00",
+  "timestamp": 1458855190,
+  "message": "parmetis-avoid-hardcoding-lm-use-same-approach-as-in-METIS",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d4d201b70c57359f041807df0a2f58b47be78d6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-24T21:22:58+01:00",
+  "timestamp": 1458850978,
+  "message": "patch-parmetis-to-use-external-GKlib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b8b17b6f1ec22ce4ac2115e5f7687beba21dd19",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-24T10:36:02+01:00",
+  "timestamp": 1458812162,
+  "message": "fix-parmetis-on-Ubuntu-with-GNU-compilers-by-linking-to-lm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a3443dff63167fc0331672871af4c0cc1fe5903",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-21T15:14:48+01:00",
+  "timestamp": 1458569688,
+  "message": "parmetis-patches-by-PETSc-developers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b926d8a0cdcf47de029e372cf15e281266930378",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-21T14:33:00+01:00",
+  "timestamp": 1458567180,
+  "message": "build-parmetis-against-external-metis",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5829b44648f809a09d006b044d8244254a3d224a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-09T01:37:24-07:00",
+  "timestamp": 1404895044,
+  "message": "Fix-Jeff-Keasler-s-issues-and-add-parmetis-package",
+  "repo": "spack/spack"
+}]

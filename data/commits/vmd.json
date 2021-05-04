@@ -1,0 +1,32 @@
+[{
+  "commit": "c6a08981a776e883beb0db7a1a2791ecead6de99",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2021-04-13T22:42:00+02:00",
+  "timestamp": 1618346520,
+  "message": "gaussian-view-vmd-add-deps-on-X11-GL-libraries-22322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6e257ae39e2e86f2f1a12d1da044bbf9eff5e3a",
+  "author": "Antonio Arena <antonio.arena@kaust.edu.sa>",
+  "date": "2020-04-14T16:21:33+03:00",
+  "timestamp": 1586870493,
+  "message": "VMD-added-new-package-at-v1.9.3-16022",
+  "repo": "spack/spack"
+}]

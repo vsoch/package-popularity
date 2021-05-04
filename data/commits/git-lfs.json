@@ -1,0 +1,208 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12c4b8a73ec9323679280136f117d91ad0b48d2f",
+  "author": "Paul <pbryant@newmexicoconsortium.org>",
+  "date": "2020-08-17T20:02:41-06:00",
+  "timestamp": 1597716161,
+  "message": "Find-external-package-for-git-lfs.-18107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58cc75ac2908f5f9ec294ffeb6e2481b3d3e24ed",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-05-30T09:14:24+02:00",
+  "timestamp": 1590822864,
+  "message": "git-lfs-add-versions-2.10.0-2.11.0-16850",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49291d5a401421ec8637da06a2608c44072fe3b8",
+  "author": "Ruben Di Battista <rubendibattista@users.noreply.github.com>",
+  "date": "2019-10-22T17:45:45+02:00",
+  "timestamp": 1571759145,
+  "message": "git-lfs-Add-new-version-13356",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7cc1292202e222c777f6b738da63443dbbe3f980",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2019-07-25T19:46:03-05:00",
+  "timestamp": 1564101963,
+  "message": "git-lfs-add-version-2.8.0-12131",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c43296e00d22cf02ed15824f64fe91895df9c451",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2019-04-30T03:20:03-05:00",
+  "timestamp": 1556612403,
+  "message": "git-lfs-add-version-2.7.2-11311",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ba4d4e2afc7fee7df780f453428fc378f8944e6",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-05T09:25:20-06:00",
+  "timestamp": 1551799520,
+  "message": "git-lfs-add-version-2.7.1-10770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fac2dbda078ce548b4746a5f6f07a1300c537e23",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-02-27T14:02:25-08:00",
+  "timestamp": 1551304945,
+  "message": "git-lfs-patch-Makefile-for-v2.7.0-10720",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aabd2be31a511d0e00c1017f7311a421659319d9",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-02-18T01:59:11-06:00",
+  "timestamp": 1550476751,
+  "message": "git-lfs-add-version-2.7.0-10631",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec78d362d21d420fe6ee24bf888cb6fc2af37611",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-01-30T21:21:08-06:00",
+  "timestamp": 1548904868,
+  "message": "git-lfs-add-version-2.6.1-update-build-system-10405",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fd552ab2b9baf0e256f994059808f8c16c435f5d",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-09-22T16:36:57-07:00",
+  "timestamp": 1506123417,
+  "message": "git-lfs-add-2.2.1-and-2.3.0-5429",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ca0d1f5f04885993f1b7fdfea7d2c9c8a6c3796",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-20T12:13:11-05:00",
+  "timestamp": 1492708391,
+  "message": "Remove-all-test-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afbe81b4559b5bd690785a22918937d3b0b7f4b7",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-18T09:48:53-07:00",
+  "timestamp": 1492534133,
+  "message": "Add-version-info-for-git-lfs-v2.0.2-3885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7f9e89eb53c0e093c5efbb8b270e0b3815c90570",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-09-20T10:08:25-07:00",
+  "timestamp": 1474391305,
+  "message": "Update-Package-Git-LFS-1769",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed365614f4c658c7c5a0dd638f12f26ec8ce692f",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-28T19:26:13-07:00",
+  "timestamp": 1472437573,
+  "message": "Add-git-lfs-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7b918837eab02ebff5af783d06e56ec7f868d9e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-04T15:22:28-06:00",
+  "timestamp": 1457126548,
+  "message": "GNU-m4-depends-on-libsigsegv",
+  "repo": "spack/spack"
+}]

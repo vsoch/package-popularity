@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd825674a98c6fea80aa0820c550651d6cfd77c",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-10-11T10:25:36+09:00",
+  "timestamp": 1602379536,
+  "message": "fl-Fix-for-aarch64-19089",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7f418e0b2806eeaf832e55c6faa4707ca54b00f",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2020-04-05T00:10:48+08:00",
+  "timestamp": 1586016648,
+  "message": "Check-if-CPU-family-is-x86_64.-15862",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26687988eb7328023b69c277c280b2f485d74961",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-10-22T03:04:00+08:00",
+  "timestamp": 1571684640,
+  "message": "New-package-Fl-12877",
+  "repo": "spack/spack"
+}]

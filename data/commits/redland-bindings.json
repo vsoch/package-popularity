@@ -1,0 +1,8 @@
+[{
+  "commit": "21349a4d25ea0e4c3022fde9fd244f1e3179ebfd",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-02-24T05:36:34+09:00",
+  "timestamp": 1614112594,
+  "message": "redland-bindings-new-package-at-v1.0.17.1-21838",
+  "repo": "spack/spack"
+}]

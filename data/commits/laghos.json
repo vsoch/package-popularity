@@ -1,0 +1,208 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9992a778faa6688143a537d802b3078416c0a7a",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2020-04-18T16:57:57-07:00",
+  "timestamp": 1587254277,
+  "message": "CEED-v3.0-release-15500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "47f135534ca3a8cf5f370fb0656c5d238741cdb7",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-04-01T12:32:15-06:00",
+  "timestamp": 1585765935,
+  "message": "Added-v3-of-Laghos-15806",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49334f006d54636a5ed9c81093c913c323b65995",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2019-04-17T17:37:41-07:00",
+  "timestamp": 1555547861,
+  "message": "WIP-CEED-2.0-10903",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2a2c31883e4aacded528e708123c416dfc7a92e",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2019-04-03T10:22:40-07:00",
+  "timestamp": 1554312160,
+  "message": "laghos-update-dependencies-11100",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a307822fd94ba093c6457bb075aaaaff39286572",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2019-01-26T07:29:32-08:00",
+  "timestamp": 1548516572,
+  "message": "laghos-update-version-10420",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6ab5edea638b69e9fcc9fddd236ea4a7a0308de",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-30T04:38:52-07:00",
+  "timestamp": 1538307532,
+  "message": "Laghos-add-version-1.1-9389",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5cdb1a2a7255465264928ec43f27e1d81d8b717",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2018-09-26T16:22:05-07:00",
+  "timestamp": 1538004125,
+  "message": "update-URLs-for-Laghos-and-MACSio-9351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d07e9e13ab8c45df101f0df4ff0e4254e4c66865",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-02T12:03:52-05:00",
+  "timestamp": 1533229432,
+  "message": "Update-homepage-for-laghos-8864",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b62ed20f3ff4052a6fb6a6fd81e70f3fc9b7dfdf",
+  "author": "Aaron Fisher <fisher47@llnl.gov>",
+  "date": "2018-03-31T00:47:32-07:00",
+  "timestamp": 1522482452,
+  "message": "CEED-1.0-7423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27be66420a884fd8f000accf361349e244aad25d",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-12-12T17:26:02-07:00",
+  "timestamp": 1513124762,
+  "message": "laghos-inject-CXX-6664",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2343e5185d07d56a992db69cd2815f667ae7bd86",
+  "author": "Tzanio Kolev <tzanio@llnl.gov>",
+  "date": "2017-12-08T09:12:33-08:00",
+  "timestamp": 1512753153,
+  "message": "Updated-hash-for-v1.0-tag-of-Laghos-6626",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ff1fe90fae5527b9f100daedf2c03a71b2b035a",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2017-10-26T08:18:57-07:00",
+  "timestamp": 1509031137,
+  "message": "Laghos-new-package-5956",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffb42516661863b870c8eb2f28dfd9b585686019",
+  "author": "mmwolf <mmwolf@sandia.gov>",
+  "date": "2017-10-25T15:49:22-06:00",
+  "timestamp": 1508968162,
+  "message": "adding-miniTri-miniapp-5935",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cfc13dec9f7e757e194350767b8027a0412959e0",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-11T13:39:30-06:00",
+  "timestamp": 1507750770,
+  "message": "Add-a-bundle-package-for-the-ECP-proxy-applications-suite-5689",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bad9dfeacb76825e39b182c54fc0f9f4eb815bf",
+  "author": "homerdin <homerdin@gmail.com>",
+  "date": "2017-07-10T18:30:08-05:00",
+  "timestamp": 1499729408,
+  "message": "New-Package-MiniAMR-4701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45e731d574b83e6f4cc35ee7e55e4cba0e061bfe",
+  "author": "homerdin <homerdin@gmail.com>",
+  "date": "2017-07-10T12:31:41-05:00",
+  "timestamp": 1499707901,
+  "message": "New-Package-HPCCG-4693",
+  "repo": "spack/spack"
+}]

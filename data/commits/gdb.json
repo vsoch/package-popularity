@@ -1,0 +1,296 @@
+[{
+  "commit": "0722f59cb2989f18d67bef5324695b77585b8678",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-24T11:55:19+01:00",
+  "timestamp": 1616583319,
+  "message": "gdb-resolve-issue-with-libintl_gettext-22478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b421080c037f646dbfb7fc92f2c1d3f3a64fde54",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T10:04:58-06:00",
+  "timestamp": 1609257898,
+  "message": "GDB-Better-Python-debugging-support-20486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bf2ded526995251e33782a44d26f2bd628eaeef3",
+  "author": "Weston Ortiz <weston@wortiz.com>",
+  "date": "2020-09-02T08:59:19-06:00",
+  "timestamp": 1599058759,
+  "message": "Add-gdb-TUI-variant-18459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2ac26f8448ed05d742c40fab2395c4df4771b93",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2020-07-13T14:46:27-06:00",
+  "timestamp": 1594673187,
+  "message": "gdb-package-add-version-9.2-17490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05b7ec48c5d38b70e4bcd010979869302032cb81",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-29T23:05:24-05:00",
+  "timestamp": 1585541124,
+  "message": "Add-additional-config-options-to-gdb-15754",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb5afb4cb4326c745e147c8b6d1d5473297ebc78",
+  "author": "Hector <10837193+he-b@users.noreply.github.com>",
+  "date": "2020-03-27T11:33:33-05:00",
+  "timestamp": 1585326813,
+  "message": "add-source-highlight-variant-to-gdb-15634",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60847abf0e9ec2939ff13950e9d6c00b6b73e17e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-02-16T08:31:30-06:00",
+  "timestamp": 1581863490,
+  "message": "gdb-fix-installation-15016",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a337d278742a22ae11637b0944f8baa065801858",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2020-02-13T02:51:04-06:00",
+  "timestamp": 1581583864,
+  "message": "gdb-added-v9.1-14919",
+  "repo": "spack/spack"
+},
+{
+  "commit": "777812df4eda8283c729f44ab3d6db1e350e0d45",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2020-01-07T12:38:05-06:00",
+  "timestamp": 1578422285,
+  "message": "gdb-add-version-8.3.1-14413",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be127890fb8e4463252bdd9bb9ee18fc7d8fa9a",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2019-07-14T16:45:55-05:00",
+  "timestamp": 1563140755,
+  "message": "gdb-add-version-8.3-12018",
+  "repo": "spack/spack"
+},
+{
+  "commit": "133d4ca9ce1357af1d4470efa5db39ba3fc33aa8",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-22T05:00:28-05:00",
+  "timestamp": 1553248828,
+  "message": "gdb-add-version-8.2.1-10988",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4942237278c0e4f24e13625155b3e852b51da679",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-09-15T09:06:16-05:00",
+  "timestamp": 1537020376,
+  "message": "gdb-add-lzma-support-by-default-9247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36f396ad5bdf1d721254a7b00eac03f5154e6faa",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-09-14T15:56:15-05:00",
+  "timestamp": 1536958575,
+  "message": "gdb-add-version-8.2-9246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4277b42ddc6512d0fe04da45dc75e4eacf61a365",
+  "author": "mcneish1 <35310375+mcneish1@users.noreply.github.com>",
+  "date": "2018-05-08T19:08:39-07:00",
+  "timestamp": 1525831719,
+  "message": "Add-gdb-8.1-add-optional-lzma-dependency-for-debug-information-support-8068",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ac0bce3e9c8e1650a48e79a8a787c0a8849485f",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-03-01T08:13:06+01:00",
+  "timestamp": 1519888386,
+  "message": "help-gdb-pick-up-python3-7104",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dd7baa61db49df86190f5773e1153e4f458125b",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-11T17:06:53+01:00",
+  "timestamp": 1515686813,
+  "message": "Updated-misc-devel-tools.-6897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "720ad57bcdeafc518d4ca8266ec238c673ff8692",
+  "author": "Jack Morrison <32687739+jack-morrison@users.noreply.github.com>",
+  "date": "2017-12-19T03:54:18-05:00",
+  "timestamp": 1513673658,
+  "message": "Added-GDB-verison-8.0-6704",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89ea5bdd61869dc8afc2a0f1b1d7451d35991497",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-29T14:44:55+02:00",
+  "timestamp": 1493469895,
+  "message": "A-few-updates-to-packages-mostly-version-updates-4049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20fcd3f1dd31aa36bd535ba187de98af259ea260",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2016-09-20T05:46:30-04:00",
+  "timestamp": 1474364790,
+  "message": "Add-Python-support-to-gdb.-1790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3948b082ad7f5eecc3b1078a2944f226a9a7ae87",
+  "author": "Ben Couturier <ben.couturier@cern.ch>",
+  "date": "2016-05-09T22:32:46+02:00",
+  "timestamp": 1462825966,
+  "message": "Added-gdb-7.11",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67f327f805868d369eec0392631392281b68c39d",
+  "author": "Ian Lee <lee1001@llnl.gov>",
+  "date": "2016-02-28T19:47:19-08:00",
+  "timestamp": 1456717639,
+  "message": "Updated-links-to-use-new-llnl.gov-address",
+  "repo": "spack/spack"
+}]

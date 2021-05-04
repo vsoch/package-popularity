@@ -1,0 +1,424 @@
+[{
+  "commit": "49b222442f33f571d2b3af1993b3bb44df44587f",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2021-04-02T02:38:47+02:00",
+  "timestamp": 1617323927,
+  "message": "Update-SLEPc-and-slepc4py-to-version-3.15-22714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a87aa49fbf1a4c9c3d2e5a645e0d630e59ceb4b3",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-26T19:17:37-06:00",
+  "timestamp": 1614388657,
+  "message": "petsc-petsc4py-slepc-switch-default-git-branch-from-master-to-main-22001",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbcf8d208b12d9968afbbca0113d78e9851ad1ab",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2021-02-18T14:41:36-06:00",
+  "timestamp": 1613680896,
+  "message": "xsdk-fix-develop-build-21749",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4523cce79137f8775e9881a80414b8afe28e279b",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2021-02-01T18:42:13+01:00",
+  "timestamp": 1612201333,
+  "message": "SLEPc-add-v3.14.2-21422",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e12cab9e368d6ccec359931efea1f8481edffb1",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-01-06T20:05:35+01:00",
+  "timestamp": 1609959935,
+  "message": "SLEPc-Set-SLEPC_DIR-in-the-module-file.-20698",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2314a20fbd0e61d775482dc57b0fd1d09cf4ea87",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-12-18T11:03:26-08:00",
+  "timestamp": 1608318206,
+  "message": "slepc-set-with-arpack-dir-correctly-20463",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af307d312019ca06bceba796b06f2259aea3d237",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-12-09T18:29:24+01:00",
+  "timestamp": 1607534964,
+  "message": "New-patch-release-SLEPc-3.14.1-20291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b18d597c8bfbd878cf367f54ccc05e5f4d6c3c8a",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-10-02T22:54:23+02:00",
+  "timestamp": 1601672063,
+  "message": "SLEPc-add-version-3.14-19058",
+  "repo": "spack/spack"
+},
+{
+  "commit": "601f97d8a50b1840df9b056a34256b6dd2b54ce3",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-09-02T22:24:07+02:00",
+  "timestamp": 1599078247,
+  "message": "New-patch-release-SLEPc-3.13.4-18466",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f54c9ae305aa1e3627ee9af1b75e763d284aa1ae",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-06-16T06:25:30+02:00",
+  "timestamp": 1592281530,
+  "message": "SLEPc-added-v3.13.3-17085",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b06bd719888539964a2061100224b4a07ed2baf",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-05-12T18:33:46+02:00",
+  "timestamp": 1589301226,
+  "message": "New-patch-release-SLEPc-3.13.2-16601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1fc761f1890d30e8d74505a69f4038e00601de4",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-04-12T23:35:40+02:00",
+  "timestamp": 1586727340,
+  "message": "New-patch-release-SLEPc-3.13.1-16013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb841877c57f1529f6a2cc8a16ed06cd99998ef5",
+  "author": "Jose E. Roman <jroman@dsic.upv.es>",
+  "date": "2020-04-07T22:13:32+02:00",
+  "timestamp": 1586290412,
+  "message": "slepc-3.13-develop-updates-15897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1616aa711921a911ad5932fbd5a003a9d470673a",
+  "author": "Anwar Koshakji <anwk84@gmail.com>",
+  "date": "2020-02-27T23:29:29-05:00",
+  "timestamp": 1582864169,
+  "message": "Fixed-url-for-SLEPc-package-15257",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fe2c0a4fe73356fefe422c42198783c451fa1c4",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2019-12-21T18:22:40-06:00",
+  "timestamp": 1576974160,
+  "message": "Bump-py-slepc4py-version-update-url-14264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "20c2fa62aaa788c30bc868005daf1520a5677b26",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-10-13T19:56:27-05:00",
+  "timestamp": 1571014587,
+  "message": "slepc-use-spack-specified-python-in-configure-13207",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c70f9bffe2c417c41769cf533824bb45970be326",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-09-30T13:18:11-05:00",
+  "timestamp": 1569867491,
+  "message": "petsc-slepc-add-new-versions-3.12.0-12979",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8010965a3d3bed3346dfbd52292524d97081af2b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-08-02T20:07:29-05:00",
+  "timestamp": 1564794449,
+  "message": "slepc-update-python-dependencies-to-be-in-sync-with-petsc-12250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4571a96a43dba65b49da258469e2fa426fad59a2",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-18T08:20:22-05:00",
+  "timestamp": 1555593622,
+  "message": "xsdk-add-update-maintainers-to-xsdk-packages-11146",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eb734c4d90d99044e09fd117ac93dcdc4f0387b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-03-31T12:19:58-05:00",
+  "timestamp": 1554052798,
+  "message": "slepc-add-versions-3.10.2-and-3.11-11067",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f2f0deee7b827ce24226d447b5ec2386c1e1767",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-12-26T08:41:09-06:00",
+  "timestamp": 1545835269,
+  "message": "slepc-fix-homepage-URL-10199",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6eef6a1d778835a91b99d0c1f278e7e4f2169f1b",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-29T15:33:50-05:00",
+  "timestamp": 1540845230,
+  "message": "slepc-update-to-version-3.10.1-9665",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c4a057fe4108e0e1bfcceb7245b6cb9e67a7540",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-09-24T23:57:38-05:00",
+  "timestamp": 1537851458,
+  "message": "petsc-add-new-versions-3.9.4-and-3.10.0-9319",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7761d108159ba914748a2ab28a169bcc389cf18",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-07-30T16:18:36-07:00",
+  "timestamp": 1532992716,
+  "message": "slepc-add-blopex-variant-8820",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31417bf66c3f1a3590d39e5c9892d07252094aa7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:08:43-05:00",
+  "timestamp": 1532484523,
+  "message": "Replace-git-git-with-explicit-branch-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df657275e4efff2ca92a80987ca9a7e578bbdfc1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-14T20:41:52+02:00",
+  "timestamp": 1529001712,
+  "message": "slepc-add-3.9.1-8480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f7da156879328c7b25758db359d2235af9d245e3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-24T14:10:46+02:00",
+  "timestamp": 1524571846,
+  "message": "petsc-and-slepc-add-3.9.0-hypre-add-2.14-needed-by-petsc-7877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ef741d2911d7e35d895681732c79fbfa422f76f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T15:40:30+01:00",
+  "timestamp": 1513694430,
+  "message": "slepc-add-3.8.2-6724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31813ef2c7edd15ce9653d330e3faf46f283380c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-24T19:57:14+02:00",
+  "timestamp": 1508867834,
+  "message": "slepc-and-petsc-version-updates-5863",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65f12c81604fe8243fd995c9baf0a82dcc777fa1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-13T15:11:17+02:00",
+  "timestamp": 1507900277,
+  "message": "slepc-refine-version-constraints-for-petsc-3.8-5752",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d929ea8102bf9d5e7f2ffdd794cb9546511270ba",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-07-14T15:00:28+02:00",
+  "timestamp": 1500037228,
+  "message": "slepc-fix-download-url-4763",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0d7768b90674ad200509a7ce71e8f3adb97604e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T23:35:05+02:00",
+  "timestamp": 1495920905,
+  "message": "Petsc-and-Slepc-add-new-versions-4378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e17ae911b2263cea8629168a59cb7c1a4b41644",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-22T17:31:50-05:00",
+  "timestamp": 1492900310,
+  "message": "Hack-to-fix-python-dependency-ranges-3938",
+  "repo": "spack/spack"
+},
+{
+  "commit": "88f97c07dea843f2a2c1d87347edccb69c093903",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-02T15:16:58+01:00",
+  "timestamp": 1488464218,
+  "message": "fix-build-of-64bit-PETSc-and-Trilinos-in-the-same-deal.II-DAG-3223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fab9af708117d5c681d2a5f4f752c10568ecd714",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-13T10:32:42+01:00",
+  "timestamp": 1481621562,
+  "message": "slepc-petsc-fix-python-dependency-2560",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d89e5e32b120fc36317240eacdb4fbb55e6425c",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-14T17:25:22+02:00",
+  "timestamp": 1476458722,
+  "message": "Package-petsc-slepc-new-versions-2019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38550bbc1b5a61c5c7a2869297642627fd598035",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-11T10:17:09+02:00",
+  "timestamp": 1468225029,
+  "message": "slepc-fix-install_name-for-binaries-on-macOS-for-3.7.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e76083205f09cd19feae91c6779fc70f229af2b6",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-15T18:33:08+02:00",
+  "timestamp": 1466008388,
+  "message": "flake8-fixes-for-slepc",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0d83cfe1e3f40867bd09b38240aaea5222c33eb",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-14T16:00:37+02:00",
+  "timestamp": 1465912837,
+  "message": "slepc-build-by-default-with-Arpack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5358ffbe5a9cbad3af1f5c37a9a239b0e7422bc9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-14T15:58:36+02:00",
+  "timestamp": 1465912716,
+  "message": "slepc-add-3.6.3-and-3.7.1-specify-petsc-version-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24264eb00e4f4e3661ea1a28e9cbe3a97cd69580",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T11:45:18+01:00",
+  "timestamp": 1458643518,
+  "message": "add-slepc-package",
+  "repo": "spack/spack"
+}]

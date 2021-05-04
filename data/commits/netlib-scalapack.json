@@ -1,0 +1,384 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "821b195ba4f6893002b569036f5bdb29369bd727",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2020-11-12T15:55:58+01:00",
+  "timestamp": 1605192958,
+  "message": "Fix-scalapack-build-error-19824",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4dd8d5582d3d4bae74c4a8d500a950f2237500a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-11-01T17:15:04-06:00",
+  "timestamp": 1604272504,
+  "message": "Scalapack-don-t-apply-patches-twice-19662",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51a9473bf867af3e5f8f024d124c71b5b03384a0",
+  "author": "vijay kallesh <Vijay-teekinavar.Kallesh@amd.com>",
+  "date": "2020-10-31T22:27:17+05:30",
+  "timestamp": 1604163437,
+  "message": "NEW-Added-amdfftw-amdlibflame-and-amdscalapack-recipes-19457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6bad79fca0e0ea321aa0c42512f967976468a492",
+  "author": "rempke <56254913+rempke@users.noreply.github.com>",
+  "date": "2020-07-24T16:53:32+02:00",
+  "timestamp": 1595602412,
+  "message": "netlib-scalapack-fixed-compilation-with-gcc-10-17647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "096bd69a949225590feeaeaf16545d673c4cee6d",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-25T12:34:09-05:00",
+  "timestamp": 1593106449,
+  "message": "prevent-multiple-version-sigils-in-the-same-spec-17246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3be6d903aef539e54320f35d8d3b18fca830c25",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-05T20:25:02+09:00",
+  "timestamp": 1591356302,
+  "message": "cmake-modify-FindMPI.cmake-to-treat-Fujitsu-MPI-correctly-16864",
+  "repo": "spack/spack"
+},
+{
+  "commit": "821c729ec00b603271d1118d878899fc546a7186",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-05-25T20:12:13+09:00",
+  "timestamp": 1590405133,
+  "message": "netlib-scalapack-specify-MPI-s-location-for-Fujitsu-MPI.-16798",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae8a72c0da76a9dd2786cce774c3d1d5b536a628",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-12-23T14:06:29-05:00",
+  "timestamp": 1577127989,
+  "message": "netlib-scalapack-Add-int-overflow-patch-14276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a3bf874841aa69197a525ace9f45011a14984e8",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-12-22T21:10:19-05:00",
+  "timestamp": 1577067019,
+  "message": "Add-new-release-and-remove-extraneous-patches-14273",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d11b1b18f033ee3fc5e026956de5d3ec6558cbe0",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-04-07T10:01:54-05:00",
+  "timestamp": 1554649314,
+  "message": "netlib-scalapack-fix-compatibility-with-mpi2-i.e-openmpi-4-11124",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f093515002f84dc8dde273b386b3dc7667864958",
+  "author": "Piotr Luszczek <luszczek@icl.utk.edu>",
+  "date": "2019-02-07T21:58:27-05:00",
+  "timestamp": 1549594707,
+  "message": "netlib-scalapack-package-add-CMake-test-patch-10452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbf849240efa4f68b6bcd92bfe39c70351566c3c",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-02-18T01:19:03-08:00",
+  "timestamp": 1518945543,
+  "message": "netlib-scalapack-add-the-libs-property-7265",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9c0348891c4bd5eca3621a3d3d3f1eaec75d9ae",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-30T16:46:05+02:00",
+  "timestamp": 1490885165,
+  "message": "cp2k-update-to-4.1-update-of-dependencies-3561",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2d70a45fbc2ee07160c3ee750dbffe9d4fd5b1b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-04T11:23:57-06:00",
+  "timestamp": 1488648237,
+  "message": "Allow-find_libraries-to-accept-lists-or-strings-3363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d3614e52259913e8d96d811a2a95bc02637c63f",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-09-21T05:10:30-06:00",
+  "timestamp": 1474456230,
+  "message": "Update-to-allow-netlib-scalapack-to-build-against-netlib-lapack.-1539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e4966c8544efbd41d737e4ba2e7d005af32bcbb",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-18T10:11:18+02:00",
+  "timestamp": 1468829478,
+  "message": "netlib-scalapack-use-dso_suffix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "561748a063f8dab8bb5542b8bfab0878ab0fff06",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T08:03:54+02:00",
+  "timestamp": 1468649034,
+  "message": "netlib-scalapack-flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6175ce75596bf1abdedda3aaccb7bbed86453f0a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-16T07:37:38+02:00",
+  "timestamp": 1468647458,
+  "message": "netlib-scalapack-make-sure-Spack-s-Lapack-is-used",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaf2830b8be96ca3584bc0cca87c86bc5b4355a0",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-04-04T19:40:05-04:00",
+  "timestamp": 1459813205,
+  "message": "Require-cmake",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eca1284c81c3efc5a87b8a174a0974811656b3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T08:59:25+02:00",
+  "timestamp": 1459061965,
+  "message": "metis-parmetis-boost-oce-scalapack-correct-install_name-on-Darwin-via-a-global-function",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a26992ef55fed958c15b45b989fc0a4d57f02251",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-22T01:56:16-07:00",
+  "timestamp": 1458636976,
+  "message": "Change-from-PR-552-rename-setup_dependent_python_module-setup_dependent_package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "439d47b4e45c674ab9aa4ebd0c2bfaf6911ade60",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-21T01:48:18-07:00",
+  "timestamp": 1458550098,
+  "message": "Refactor-environment-setup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95ad2875b6bb4dc15eb43b44c1dbdd521c843119",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-20T09:25:02+01:00",
+  "timestamp": 1458462302,
+  "message": "fix-scalapack-suffix-for-osx",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0f0663d1b9ece1e2b0b0a8f720b1325eec443bb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-17T15:11:39+01:00",
+  "timestamp": 1458223899,
+  "message": "package-split-environment_modifications-into-setup_environment-and-setup_dependent_environment",
+  "repo": "spack/spack"
+},
+{
+  "commit": "572cb93bf8131d222d2d08bca13fd9de6fded1f4",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T14:05:30+01:00",
+  "timestamp": 1458047130,
+  "message": "package-renamed-setup_dependent_environment-to-module_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c85888eb5763d453af7b7255b6d8c3461082362f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T13:36:41+01:00",
+  "timestamp": 1458045401,
+  "message": "package-added-environment_modifications",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1d8f30342f21d772b2bf4fc76a9a8b262e479c5",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-27T10:54:41+01:00",
+  "timestamp": 1453888481,
+  "message": "Bug-fix-precedence-in-operator-seems-to-change-depending-in-the-python-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b71b478a3626ae9e1a0d3b5c7ab9945b5c478200",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T18:31:02+01:00",
+  "timestamp": 1453311062,
+  "message": "Minor-correction-to-install-mumps-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "974fc65e0f15ac87d2422858d71e0c7624fb7726",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T14:38:55+01:00",
+  "timestamp": 1453297135,
+  "message": "renaming-packages-to-follow-changes-on-develop",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65f65ec4e47289e15e5d6a25913beb8e6bb4831b",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-01-20T10:03:24+01:00",
+  "timestamp": 1453280604,
+  "message": "Adding-MUMPS-and-ScaLAPACK",
+  "repo": "spack/spack"
+}]

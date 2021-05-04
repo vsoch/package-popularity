@@ -1,0 +1,8 @@
+[{
+  "commit": "26e73e848d235bb0e1d474eaf861cf041dba01b8",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-09T16:38:49+08:00",
+  "timestamp": 1615279129,
+  "message": "iptraf-ng-new-package-at-v1.2.1-22155",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,968 @@
+[{
+  "commit": "7322a9e3bea876946080432ee3fafb28b9ba5ecb",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-04-21T20:25:07-07:00",
+  "timestamp": 1619061907,
+  "message": "boost-only-apply-boostrap-toolset.patch-for-version-1.75-23174",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9862ba859b14c86e6da84ef658e750d928eec68",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2021-04-20T04:24:27-05:00",
+  "timestamp": 1618910667,
+  "message": "Boost-add-v1.76.0-23118",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8815e577bd96978288fcc4990b5377029dc3195",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-03-20T10:52:38+09:00",
+  "timestamp": 1616205158,
+  "message": "boost-fixed-detect-system-icu-bug-on-version-1.65.0-or-older.-22375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "889e83a9b5fa88046e9d4327f4f6e66f1bdadb51",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-17T11:22:21+01:00",
+  "timestamp": 1615976541,
+  "message": "boost-fix-unicode-bugs-in-Boost-recipe-22301",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f84721dc17b82af6f789d6020e1c339686d6363",
+  "author": "Sebastian Mobo <stmobo@gmail.com>",
+  "date": "2021-02-26T18:46:37-05:00",
+  "timestamp": 1614383197,
+  "message": "boost-Patch-B2-bootstrap-step-to-use-correct-toolchain-21408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63d75cd0891ac8411e3307b0b1ea3e3ea5d3f5bb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-02T12:25:57+01:00",
+  "timestamp": 1606908357,
+  "message": "boost-disable-find_package-s-config-mode-for-boost-prior-to-v1.70.0-20198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cbdf87cd28243f63edb557840ac1e3e9c324cd40",
+  "author": "bryanherman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-01-27T07:28:29-05:00",
+  "timestamp": 1611750509,
+  "message": "boost-restrict-lower-bound-of-ranges-for-two-patches-21321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0a241b241429f77b2f3ad9e3735d2cb4050686b9",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-12-27T21:38:54+09:00",
+  "timestamp": 1609072734,
+  "message": "boost-backport-python3-import-fix-20301",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e93240b9769563cc6d7519f78689ecf1b6ac7b2",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-12-14T12:20:33-06:00",
+  "timestamp": 1607970033,
+  "message": "boost-added-v1.75.0-20366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44c1beaf3a682c42b08e0a3f562d9c26bea3f1ff",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-12-02T12:25:57+01:00",
+  "timestamp": 1606908357,
+  "message": "boost-disable-find_package-s-config-mode-for-boost-prior-to-v1.70.0-20198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f68287afe97623b0a0e09c8625fcb79148b64f33",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-10-20T22:39:57+09:00",
+  "timestamp": 1603201197,
+  "message": "boost-fix-building-old-versions-with-non-system-glib-and-bzip2-19389",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93221f8bf9409fc8a038832301abba817529a6bb",
+  "author": "Auriane R <48684432+aurianer@users.noreply.github.com>",
+  "date": "2020-08-16T23:13:55+02:00",
+  "timestamp": 1597612435,
+  "message": "Add-boost-1.74.0-package-18088",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a42883528ec20fdfbb7d929adf490897005c794",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-07-29T21:08:20+02:00",
+  "timestamp": 1596049700,
+  "message": "Boost-Update-conflicts-for-version-1.73.0.-17774",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f70b72edc527ddf11365c220e48e893e38cb1be3",
+  "author": "Nathan <35582439+yee29@users.noreply.github.com>",
+  "date": "2020-06-09T06:01:55-07:00",
+  "timestamp": 1591707715,
+  "message": "Set-the-BOOST_ROOT-environment-variable-when-library-is-loaded-16818",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b00f97f7cc6ed4be26e7adb470b163cb0e26082c",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-06-07T23:39:53+09:00",
+  "timestamp": 1591540793,
+  "message": "boost-Don-t-use-pre-compiled-headers-for-Fujitsu-compiler-16914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33b129b919777623670d05592a8fc9704c02e1ee",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-05-05T08:26:11-05:00",
+  "timestamp": 1588685171,
+  "message": "Boost-Add-version-1.73.0-16442",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0385e8477571d81b36cfb2ce35ad9cd70b36164a",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-04-29T19:53:58+02:00",
+  "timestamp": 1588182838,
+  "message": "boost-Patch-for-boostorg-process-issues-116-16371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab0101ec693a3942192f1d66585d545a34280b78",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-04-13T05:26:57+02:00",
+  "timestamp": 1586748417,
+  "message": "boost-Fix-for-Version-Comparison-on-Newer-Clang-on-Darwin-16014",
+  "repo": "spack/spack"
+},
+{
+  "commit": "268c2a19da2085083ad3a61d0ce0a27ecd1e2343",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-05T17:42:27-06:00",
+  "timestamp": 1586130147,
+  "message": "boost-boost-python-in-1.72.0-broken-with-cxxstd-98-15885",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b43812c7c4c44d7d6a6be34c79aa692cc2a886ae",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-03-03T02:48:07+01:00",
+  "timestamp": 1583200087,
+  "message": "boost-Add-container-library-14878",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cc7a3533bc31b09ca5a626cb38d3c8dd9b6997d",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-02-16T22:30:32+01:00",
+  "timestamp": 1581888632,
+  "message": "Fix-header-only-installation-of-Boost.-14995",
+  "repo": "spack/spack"
+},
+{
+  "commit": "412c3361137c883391d33cb80e04db6ebba63042",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-01-31T17:56:40-06:00",
+  "timestamp": 1580515000,
+  "message": "boost-Add-versions-1.71.0-and-1.72.0-use-Clang-toolset-on-Darwin-14678",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "008fe37941d2f2071f038c4bc6465d8f80267b57",
+  "author": "Tyler Reddy <tyler.je.reddy@gmail.com>",
+  "date": "2019-11-27T22:08:54-07:00",
+  "timestamp": 1574917734,
+  "message": "BLD-enforce-C-11-std-for-boost-xl_r-13829",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab5135db1cb29eaef9c766c6d3372b5fdbe81c5e",
+  "author": "Frédéric Simonis <simonisfrederic@gmail.com>",
+  "date": "2019-10-22T23:25:03+02:00",
+  "timestamp": 1571779503,
+  "message": "Boost-package-Fix-iostream-autodetect-libraries-12440",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46e319ecd484130cdda9b95c64b16ccea3e6c282",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-10-04T12:20:55+09:00",
+  "timestamp": 1570159255,
+  "message": "boost-Use-gcc-toolset-for-bootstrap-with-Fujitsu-compiler.-12876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb4dd4a51aa33462d0a0defb56b77eeefd9bf2cb",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-09-17T20:30:29-05:00",
+  "timestamp": 1568770229,
+  "message": "Boost-add-libs-property-12849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48c3c833e8c48fb210dca1121c7b80694bf6e4e0",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-09-07T20:45:53-07:00",
+  "timestamp": 1567914353,
+  "message": "patch-boost-version-1.54-1.55-when-being-built-with-ANY-gcc-version-after-5.0-12718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fc9e17289aad538d18154a9e3ee176d5bae3eedd",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-09-05T00:07:31+09:00",
+  "timestamp": 1567609651,
+  "message": "boost-add-c-option-to-C-C-compile-commands-for-clang.-12694",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3181021c11148ff86efa1a7830157b5f7ef9378d",
+  "author": "Matthieu Dorier <mdorier@anl.gov>",
+  "date": "2019-09-04T15:25:00+01:00",
+  "timestamp": 1567607100,
+  "message": "Boost-fixed-problem-when-requesting-signals-for-boost-1.69-12627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae41ef914602b3d957f7567ee571b58a3ef32134",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-09-03T23:27:48+09:00",
+  "timestamp": 1567520868,
+  "message": "Boost-Change-the-method-for-analysis-version-12676",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3b513874b7e29437c9e11cfe91272e8729cb6f6",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-07-16T07:13:04+09:00",
+  "timestamp": 1563228784,
+  "message": "boost-use-clang-toolset-when-building-with-Fujitsu-compiler.-11827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff728bd06cb23245e3e9d848647938bfdef70a52",
+  "author": "Nick Forrington <nick.forrington@arm.com>",
+  "date": "2019-07-11T22:53:54-04:00",
+  "timestamp": 1562900034,
+  "message": "Boost-Compile-with-toolset-clang-for-Arm-compiler-11992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a76bacd594a24921914c24b72db2e6f4e7854e60",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-06-20T16:43:25-05:00",
+  "timestamp": 1561067005,
+  "message": "boost-add-variant-for-symbol-visibility-11801",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0341e1954074f23b2164d7d3f7acdcbaea992df7",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-15T09:59:04+02:00",
+  "timestamp": 1555315144,
+  "message": "boost-add-1.70.0-11183",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd8c0c460709f915c04a68b408558159f08ce8b",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-03-26T12:50:06-05:00",
+  "timestamp": 1553622606,
+  "message": "boost-Fix-build-of-versions-1.62.0-10910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e22fdfa21e20146c9a2182f93272fb8e8f50ee5",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-03-11T09:02:50-05:00",
+  "timestamp": 1552312970,
+  "message": "boost-patch-for-problem-with-warnings-for-1.69.0.-10820",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd6e91fcb6ae1549fcde3f0b3942615ffca09b84",
+  "author": "Tristan Carel <tristan.carel@gmail.com>",
+  "date": "2019-03-07T20:32:55+01:00",
+  "timestamp": 1551987175,
+  "message": "Nix-package-update-dependencies-10646",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08c4b9d47a100b959fbd886d851b94751c3d5a9e",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-01-10T18:34:05-06:00",
+  "timestamp": 1547166845,
+  "message": "boost-fix-the-bjam-build-for-Cray-10295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d5058ebe4fb372178b0e24f283cb34747d2d0e9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-12-12T17:14:47+01:00",
+  "timestamp": 1544631287,
+  "message": "boost-add-1.69.0-10083",
+  "repo": "spack/spack"
+},
+{
+  "commit": "262b3f859e5eca94e8040c04e78cb21f4392cab1",
+  "author": "Bert Wesarg <Bert.Wesarg@googlemail.com>",
+  "date": "2018-12-04T14:49:20+01:00",
+  "timestamp": 1543931360,
+  "message": "boost-1.68-also-needs-boost_1.67.0_pgi.patch-9980",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7938ff9653b626d8f8ed1c31b2819890b2afd3b2",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-11-13T17:55:01+01:00",
+  "timestamp": 1542128101,
+  "message": "Add-pic-variant-to-cflags-in-boost.-9750",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a94d59433bbaa7ec5a9960e4b3419f8a92bdfea",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-08-10T00:08:20+02:00",
+  "timestamp": 1533852500,
+  "message": "boost-add-1.68.0-8931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e981fc73fee8d93cf47e0469b9d94849018fde1",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2018-08-09T17:29:57+02:00",
+  "timestamp": 1533828597,
+  "message": "Remove-duplicate-variant-in-Boost-package-8923",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee4050c58f7c76cf789a03d62a6ee613f8b1a34a",
+  "author": "Serban Maerean <serban@us.ibm.com>",
+  "date": "2018-06-13T18:53:14-04:00",
+  "timestamp": 1528930394,
+  "message": "boost-package-patch-dirent-for-pgi-and-boost-1.67-8313",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d943754e923a2c63017fa42519cabcef7dfca4aa",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-11T17:31:27+02:00",
+  "timestamp": 1528731087,
+  "message": "boost-fix-cxxstd-default-8438",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15c98fa57c0022df3c3788f19b3febd484d8ccd7",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2018-06-08T15:49:31-05:00",
+  "timestamp": 1528490971,
+  "message": "compiler-flags-add-cxx98-standard-support-7601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e758820ed72cc8bbd7ac5157b9e00ba6f369b7db",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-05-14T03:54:12+01:00",
+  "timestamp": 1526266452,
+  "message": "boost-added-the-numpy-variant-which-enables-building-libboost_numpy-8104",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de9894a063ae0ed1ffe157e7629e223657dfad1d",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2018-04-25T22:00:22-04:00",
+  "timestamp": 1524708022,
+  "message": "Add-boost-1.67.0-7889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "338fa8d7d6a3cabcb167063db44f9a00edb7088d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-04-03T17:15:09+02:00",
+  "timestamp": 1522768509,
+  "message": "fix-dealii-dependencies-for-Clang-9.1.0-C-17-7644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42c14e0fdbfe6ed477925ad21de77ac15ae9fdcf",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2018-03-31T14:36:56+02:00",
+  "timestamp": 1522499816,
+  "message": "Fix-build-of-boost-1.58.999-python-and-mpi-7630",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "869c654c37529b61b052148d2415295cb1ccd5df",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2018-03-10T02:57:41+09:00",
+  "timestamp": 1520618261,
+  "message": "Boost-More-Bintray-7389",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62d53b2a5be7053cec83e417d099112fe02eb810",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2018-01-20T11:10:25-05:00",
+  "timestamp": 1516464625,
+  "message": "Add-boost-1.66.0-7000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7369ba21bf436025780a5bc6676a9fbe173e3cbb",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-12-14T19:11:47-07:00",
+  "timestamp": 1513303907,
+  "message": "new-package-Percept-6636",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a2670175d4d118b0f72588770b0e2f52f5ce0e8",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-11-23T11:17:17-08:00",
+  "timestamp": 1511464637,
+  "message": "boost-1.54-alse-needs-the-call_once-patch-6434",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd39862a80700998752b3e499102cca136433dba",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2017-10-25T15:00:50-04:00",
+  "timestamp": 1508958050,
+  "message": "boost-remove-duplicate-patch-5934",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ffc4c31b824856f421a13e4e93e25e55f40921e4",
+  "author": "David Hows <howsdav@gmail.com>",
+  "date": "2017-10-17T19:40:09+11:00",
+  "timestamp": 1508229609,
+  "message": "Add-a-new-clanglibcpp-option-for-Boost-5708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a16ec21fbefd8f4ff8c99da6905a5e5bd8859d46",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-10-15T00:50:28+02:00",
+  "timestamp": 1508021428,
+  "message": "boost-remove-preferred-1.63-5770",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31115af128b9ef0fb83935589b8e86e8bbccc94c",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-10-14T12:53:25-06:00",
+  "timestamp": 1508007205,
+  "message": "boost-call_once_variadic.patch-is-already-part-of-1.56.0-5341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ff8b7476c0af47bfb1bd9be445ae85bc32a9d2c",
+  "author": "David Hows <howsdav@gmail.com>",
+  "date": "2017-10-13T05:51:39+11:00",
+  "timestamp": 1507834299,
+  "message": "Add-the-option-for-a-versioned-layout-to-boost-5709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c1975c7601687d55066061e8549d634f7b5dfaba",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-09-13T22:45:28+02:00",
+  "timestamp": 1505335528,
+  "message": "Boost-1.65.1-5330",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0daa639788b7bc0b0da14001308176ba1c8c3856",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-23T14:31:34+02:00",
+  "timestamp": 1503491494,
+  "message": "Boost-develop-5184",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61c5b5faa73413b1457a4d272d93bbd7a01926f7",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-22T20:46:54+02:00",
+  "timestamp": 1503427614,
+  "message": "Boost-1.65.0-5182",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d155833c5a9f6c55e58d56e4aec09eb32fe1839",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-08-18T20:19:55+02:00",
+  "timestamp": 1503080395,
+  "message": "build-boost-with-graph-library-even-when-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bd55cb8ce6350d8049023e4dc2c7cb68a77e443",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-08-06T13:23:13-07:00",
+  "timestamp": 1502050993,
+  "message": "Limit-make_jobs-for-boost-1.59-4984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce6d3571612964a09fafb6dfb1dc0d91191a16eb",
+  "author": "Sam Bateman <samuel.bateman@gmail.com>",
+  "date": "2017-08-05T12:06:46-05:00",
+  "timestamp": 1501952806,
+  "message": "Correct-boost-mpi-for-Cray-compiler-wrappers-4909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "626aa3a8d02c1acf381bf5e6d3897078027f7bc4",
+  "author": "serbanmaerean <serban@us.ibm.com>",
+  "date": "2017-06-02T12:44:33-04:00",
+  "timestamp": 1496421873,
+  "message": "Bugfix-boost-pgi-4426",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18c7e9662437081e4d283abf656e1604228af045",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-05-19T09:55:21-07:00",
+  "timestamp": 1495212921,
+  "message": "Fix-boost-1.56.0-gcc-5-4295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e23c31ad1bbfa985b8aa1a250778da9abefa45d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-05T16:21:15-05:00",
+  "timestamp": 1494019275,
+  "message": "Python-3-doesn-t-have-iteritems-use-items-4143",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1617b887590e74414787fe4c480d554c9a9112d5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-25T15:45:52-05:00",
+  "timestamp": 1493153152,
+  "message": "Mark-1.64.0-unstable-until-mpi-python-fixed.-3984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a017c5e2efd479c27debba28c4cdbba52a0bba81",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2017-04-21T11:06:31-04:00",
+  "timestamp": 1492787191,
+  "message": "Add-boost-1.64.0-3934",
+  "repo": "spack/spack"
+},
+{
+  "commit": "048b6fc4548bc6711e51a29bfbaa42e21e56c000",
+  "author": "Josh Asplund <joshuata@users.noreply.github.com>",
+  "date": "2017-04-05T14:26:22-07:00",
+  "timestamp": 1491427582,
+  "message": "Fixes-patch-paths-for-earlier-boost-versions-3712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fcd414050c25782dcdca2d41eab90e091fcaee1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-02T18:36:10-06:00",
+  "timestamp": 1488501370,
+  "message": "Fixes-to-allow-Boost-to-build-with-Python-3-3293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52fab8fff31907b17190bc682541f8071ecbce24",
+  "author": "eklee15 <eunkyung.lee@us.ibm.com>",
+  "date": "2017-02-21T19:40:09-05:00",
+  "timestamp": 1487724009,
+  "message": "Boost-modification-for-IBM-xl-compiler-3205",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f7b4ab7aa7a31b421b6b392701435020c6fd6eb",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-01-15T11:38:14+01:00",
+  "timestamp": 1484476694,
+  "message": "Clang-Boost-No-PCH-2827",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1128922b444d3390538b2da65937263d9c8a0b50",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2017-01-13T11:43:50-05:00",
+  "timestamp": 1484325830,
+  "message": "boost-fixing-boost-1.55.0-for-gcc-5-2822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f173bda9cf06280f945190942369afaa71e2bb4",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2017-01-06T14:44:41-05:00",
+  "timestamp": 1483731881,
+  "message": "Add-boost-1.63.0-2743",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1928d8325948f00e88f6e01261fe607454beb530",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-10-25T16:10:52+01:00",
+  "timestamp": 1477408252,
+  "message": "Tells-boost-explictly-about-python-libraries-and-headers-2106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e7f53a35abd788588b8f4cce72aa3efe06f7791",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-10-11T01:17:26-07:00",
+  "timestamp": 1476173846,
+  "message": "WIP-Use-boost-system-layout-by-default-1955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e5d340665b954e0046204473bbd33436483dedc",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-05T14:16:06+02:00",
+  "timestamp": 1475669766,
+  "message": "boost-set-1.61-as-preffered-until-1.62-is-fixed-1908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e854e053e4977016e1561793942910f609f7a4bc",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2016-10-02T21:36:31-04:00",
+  "timestamp": 1475458591,
+  "message": "Add-boost-1.62.0-1882",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64194a823af1e54951bb67d5d354b4a91d90bc86",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-23T16:16:59-05:00",
+  "timestamp": 1474665419,
+  "message": "Remove-duplicate-ICU-package-1837",
+  "repo": "spack/spack"
+},
+{
+  "commit": "462a4a1353bfcf68e75036d322bd3b668d2b8756",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-22T22:47:22+02:00",
+  "timestamp": 1474577242,
+  "message": "boost-fix-a-bug-which-broke-it-on-macOS-with-clang-gfortran-1816",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ddaabed257e04c292b8e6e3954fff675b35907e",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-08-24T15:57:28-06:00",
+  "timestamp": 1472075848,
+  "message": "Boost-fix-recipe-for-intel-compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "40d25d90629f41114c2e0b86bb659f0f4dec7bb5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T00:56:53-07:00",
+  "timestamp": 1466063813,
+  "message": "Add-libxcb-dependencies.-Fix-up-packages-to-get-py-basemap-and-stat-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d99042fed2abad1ccb22669bc1dfa298d495768",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-03T15:12:10-05:00",
+  "timestamp": 1464984730,
+  "message": "Add-Psi4-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b9707f8ea3ef947239f6f269aa57849295dd294",
+  "author": "James Wynne III <wynnejr@ornl.gov>",
+  "date": "2016-06-08T14:36:45-04:00",
+  "timestamp": 1465411005,
+  "message": "Fixed-flake8-formatting-problems",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42a10d56905727529065d2c492f4c8dc9e4f73cb",
+  "author": "James Wynne III <wynnejr@ornl.gov>",
+  "date": "2016-06-08T12:43:05-04:00",
+  "timestamp": 1465404185,
+  "message": "Fixes-issue-438",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bbbffe7423eb28dc1963817538988ffdced216f3",
+  "author": "Bruno Turcksin <bruno.turcksin@gmail.com>",
+  "date": "2016-05-18T08:51:22-04:00",
+  "timestamp": 1463575882,
+  "message": "Add-boost-1.61.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44f089508b7b3077cad846d2f198013b089dedf0",
+  "author": "Gregory Becker <becker33@llnl.gov>",
+  "date": "2016-05-05T15:40:22-07:00",
+  "timestamp": 1462488022,
+  "message": "Changed-other-packages-to-fit-new-syntax",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0b9f79b9bc20c4e5178ee6dba6b327057cb3c4e",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2016-04-04T10:33:03-07:00",
+  "timestamp": 1459791183,
+  "message": "Add-changes-that-remove-unsupported-libraries-from-the-boost-build-libraries-list-based-on-the-boost-version-numbers.-Libraries-that-are-removed-include-log-for-versions-of-boost-1.53.0-and-older-atomic-for-versions-of-boost-1.52.0-and-older-locale-for-versions-of-boost-1.49.0-and-older-chrono-for-versions-of-boost-1.48.0-and-older-and-random-for-versions-of-boost-1.44.0-and-older",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eca1284c81c3efc5a87b8a174a0974811656b3e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-27T08:59:25+02:00",
+  "timestamp": 1459061965,
+  "message": "metis-parmetis-boost-oce-scalapack-correct-install_name-on-Darwin-via-a-global-function",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a653d2f5e2f296ff66eb41ffb9f2f6e9b9bdb3b5",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-01-22T13:43:16-08:00",
+  "timestamp": 1453498996,
+  "message": "Slightly-more-robust-approach-for-setting-defaults-for-noinstall_libs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f99ee61c733e8fee8ae4058fb9198288af40fc6",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-01-22T13:25:45-08:00",
+  "timestamp": 1453497945,
+  "message": "1.-added-default-install-libs-atomic-test-locale-program_options",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10de5a3ec76fbf1244c43a843ae26a67fc879ddb",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2016-01-22T13:02:18-08:00",
+  "timestamp": 1453496538,
+  "message": "Patch-fix-for-boost-1.60.0-gcc-4.4.7",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a55b97d11739a0ee6ca5ddcbdf35826ca292469",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-01-22T12:37:12-08:00",
+  "timestamp": 1453495032,
+  "message": "Fixed-reference",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e58bc31138ee172ea55ad652aaf49b09fe6e135",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-01-21T19:57:49-08:00",
+  "timestamp": 1453435069,
+  "message": "Sticking-with-additive-approach-but-now-most-libraries-are-installed-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac088bae6a09c8d2ee7f9deac3e701126ca5dfa4",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2015-09-01T16:02:14-07:00",
+  "timestamp": 1441148534,
+  "message": "update-boost",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c12e26026cd8262be6f678da437430c76293e47",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-02T14:25:52-08:00",
+  "timestamp": 1417559152,
+  "message": "Bugfix-in-boost-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c91791c5ac995b80111a92c94d8fb760caa6e3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-04-25T11:31:53-07:00",
+  "timestamp": 1398450713,
+  "message": "SPACK-25-Add-package-for-boost.-Works-on-Linux-currently",
+  "repo": "spack/spack"
+}]

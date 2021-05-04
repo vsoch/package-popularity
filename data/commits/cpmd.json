@@ -1,0 +1,24 @@
+[{
+  "commit": "b13a5060902c0ac047cdf7230479fe5f70b74bad",
+  "author": "ketsubouchi <kenta.tsubouchi@allin-one.jp>",
+  "date": "2021-02-26T17:29:10+09:00",
+  "timestamp": 1614328150,
+  "message": "cpmd-add-expected-smoke-test-check-output-21668",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60ee4199f50290b5faebe2b5f4d90e5affe7dffd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-16T10:10:19-06:00",
+  "timestamp": 1613491819,
+  "message": "Add-manual_download-attribute-to-packages-21687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a6e7c8687b7aa6628e8d39c0ae0146073114a42",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2021-01-20T00:02:09+09:00",
+  "timestamp": 1611068529,
+  "message": "cpmd-new-package-21138",
+  "repo": "spack/spack"
+}]

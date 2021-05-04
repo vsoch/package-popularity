@@ -1,0 +1,56 @@
+[{
+  "commit": "d14a6dc1f737faa15f2ec931685d9eb1117a90b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-04T10:00:03-06:00",
+  "timestamp": 1612454403,
+  "message": "py-mypy-add-v0.800-21386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eef75ddd45f7d5a268cbf9eafd3af5143c271391",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-29T13:50:34-05:00",
+  "timestamp": 1588186234,
+  "message": "py-mypy-setuptools-needed-at-run-time-16375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92a359e4ba41b99279999187bebfb4a2502c1578",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T11:10:22-05:00",
+  "timestamp": 1571587822,
+  "message": "Add-py-mypy-package-13282",
+  "repo": "spack/spack"
+}]

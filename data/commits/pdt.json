@@ -1,0 +1,200 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "379319ee2d314e400da86e3b2cdfe1983a80f788",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-06T17:20:21-04:00",
+  "timestamp": 1586208021,
+  "message": "pdt-add-PIC-support-as-variant-15851",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b399761106bd81c40021a2710c39ae7fafe0ec1d",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-02-21T12:32:55-06:00",
+  "timestamp": 1582309975,
+  "message": "Add-clang-compiler-15152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33d35768e63b225434ec090fbe419115e616d6b1",
+  "author": "Kevin Huck <khuck@cs.uoregon.edu>",
+  "date": "2020-01-21T14:58:38-08:00",
+  "timestamp": 1579647518,
+  "message": "Fixing-GCC-compiler-setting-for-PDT-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5a2d7698d17346e4a7ac34e0ae4c79b5090d8c7",
+  "author": "sameershende <sameershende@users.noreply.github.com>",
+  "date": "2019-05-31T08:01:19-07:00",
+  "timestamp": 1559314879,
+  "message": "Package-tau-tau-2.28.1-update-11591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98f11b9defd876e36b692f3780471a23521d43d2",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2018-06-18T00:21:00+02:00",
+  "timestamp": 1529274060,
+  "message": "Add-new-versions-for-TAU-and-PDT-package-8497",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3bb243e8e240d69e80d535e4c8cc818e96f61063",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-11T01:16:49+02:00",
+  "timestamp": 1505085409,
+  "message": "Improve-PDToolkit-support-for-different-compilers-5322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7016b250f505dbdd38643f967ec44020cc034fe",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-05-12T14:37:18+02:00",
+  "timestamp": 1494592638,
+  "message": "Add-pdt-support-to-scorep-4198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18334edf1ab379cbae513418e403f7acedc5cbb1",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2017-02-18T22:45:47+01:00",
+  "timestamp": 1487454347,
+  "message": "Bug-fix-PDT-configure-uses-prefix-not-prefix-2976",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b34ba103587b8799f7dccb29f68c1c886c4cee1",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-09-30T23:31:28+02:00",
+  "timestamp": 1475271088,
+  "message": "pdt-url-change-to-download-full-installer-tarball-1881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a21d3d353b05285b7de1a2c8178b4b59338cd5ef",
+  "author": "Robert D. French <frenchrd@ornl.gov>",
+  "date": "2016-08-29T13:01:04-04:00",
+  "timestamp": 1472490064,
+  "message": "New-URL-scheme-for-newer-and-older-PDTs-1651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9edfec0ec8385ea48faf17f613433089810f8ee",
+  "author": "Pramod Kumbhar <pramod.s.kumbhar@gmail.com>",
+  "date": "2016-08-07T01:09:28+02:00",
+  "timestamp": 1470524968,
+  "message": "PDT-should-download-full-installer-package-pdtoolkit-X.tar.gz-default-pdt-X.tar.gz-is-only-for-x86-and-cray",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

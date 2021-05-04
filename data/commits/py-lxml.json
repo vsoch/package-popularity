@@ -1,0 +1,200 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741a0b498a608cd2a527106a743876a11fd3afe7",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-12-24T23:46:43+01:00",
+  "timestamp": 1608850003,
+  "message": "py-lxml-Add-Version-4.6.1-20361",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12519193186f03ecd044d9701d28538397a88cf4",
+  "author": "ajw1980 <ajw1980@gmail.com>",
+  "date": "2020-08-27T15:03:23-05:00",
+  "timestamp": 1598558603,
+  "message": "Add-type-link-for-libxml2-and-libxslt-for-py-lxml-18293-and-add-version-4.5.2-18325",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d6e4b4773a3ac92532156ab80f187e3542460a28",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-17T19:24:59+01:00",
+  "timestamp": 1581963899,
+  "message": "Add-extra-version-variants-of-py-lxml-14999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30fdff4ff94489ddd7da317c565db461edf84050",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-20T11:15:32-05:00",
+  "timestamp": 1571588132,
+  "message": "Add-latest-version-of-py-lxml-13310",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "930debcf35a246cba25f9dae225878489bf1021c",
+  "author": "jwallior <jwallior@users.noreply.github.com>",
+  "date": "2018-11-28T22:44:15-05:00",
+  "timestamp": 1543463055,
+  "message": "New-versions-for-a-few-python-modules-9969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a651b979ca869be932a6ad8f9686436ab6a16a6e",
+  "author": "Matthew Scott Krafczyk <krafczyk.matthew@gmail.com>",
+  "date": "2017-05-02T16:35:42-05:00",
+  "timestamp": 1493760942,
+  "message": "Update-the-py-lxml-package-4090",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68f5b9adf8a2bfab1061ea48d4f02754888b930d",
+  "author": "Javier <javiercvilla@gmail.com>",
+  "date": "2017-03-10T20:18:17+01:00",
+  "timestamp": 1489173497,
+  "message": "Adding-new-package-py-lxml-3403",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70d0cdcd0ae7860dc1ed849aa695f2edc368fe9b",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-28T17:51:31+01:00",
+  "timestamp": 1488300691,
+  "message": "add-package-py-attrs-3253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be0033ac91c28f3e45eff34c84b7da59d7fcefe2",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-28T17:21:06+01:00",
+  "timestamp": 1488298866,
+  "message": "add-py-ranger-package-3258",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2d4c15395b04ff4ca181ca7b1ddfe2bb7a3bee5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-15T05:18:52-06:00",
+  "timestamp": 1484479132,
+  "message": "Remove-cmake-build-dep-from-CMakePackages-2684",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42cc997aea3f71d9b0db37d36a895e68994616ea",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2016-11-11T06:52:49+01:00",
+  "timestamp": 1478843569,
+  "message": "Packages-Add-Jansson-2287",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd5fa128c5d65bc169cec68b4333a67e70dacc4b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-05-12T09:56:59-07:00",
+  "timestamp": 1431449819,
+  "message": "Work-on-SPACK-41-Optional-dependencies-work-for-simple-conditions",
+  "repo": "spack/spack"
+}]

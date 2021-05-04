@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "670ef9bd7cc8cc7e07419e41f3dc4f50f51a383d",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-03-26T13:39:40-05:00",
+  "timestamp": 1553625580,
+  "message": "nix-package-improve-dependencies-based-on-prerequisites-from-manual.-10927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd6e91fcb6ae1549fcde3f0b3942615ffca09b84",
+  "author": "Tristan Carel <tristan.carel@gmail.com>",
+  "date": "2019-03-07T20:32:55+01:00",
+  "timestamp": 1551987175,
+  "message": "Nix-package-update-dependencies-10646",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efc34069002f15b9bcbc3e2e93a9ea5b4d4f6512",
+  "author": "Tristan Carel <tristan.carel@gmail.com>",
+  "date": "2019-02-19T15:27:39+01:00",
+  "timestamp": 1550586459,
+  "message": "nix-new-package-added-9171",
+  "repo": "spack/spack"
+}]

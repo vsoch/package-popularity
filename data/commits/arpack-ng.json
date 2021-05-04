@@ -1,0 +1,328 @@
+[{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15fd386a2019a3da58916945a3a00a8d3b2af9e6",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2020-12-08T16:37:53+01:00",
+  "timestamp": 1607441873,
+  "message": "arpack-ng-added-v3.8.0-20270",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c13d76f9b12dcd777a915426aa2a552944fb45",
+  "author": "lorddavidiii <githuh@qi0.de>",
+  "date": "2020-06-18T14:43:52+02:00",
+  "timestamp": 1592484232,
+  "message": "arpack-ng-fix-build-with-gcc-10-17131",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b37d7b8ed7012109efb9af60de5f9f77932baac9",
+  "author": "Kai Torben Ohlhus <k.ohlhus@gmail.com>",
+  "date": "2020-02-27T15:19:24+09:00",
+  "timestamp": 1582784364,
+  "message": "arpack-ng-ILP64-support-15103",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e3e1836ff9f19664766299314f4afd1fbde08c0",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-10-22T08:27:39+09:00",
+  "timestamp": 1571700459,
+  "message": "arpack-ng-Fixed-error-that-is-not-compatible-with-isnan.-13246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecde4502f2567a763ce2aa37abf8ab6eead1ebae",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2019-04-03T02:08:16+02:00",
+  "timestamp": 1554250096,
+  "message": "arpack-ng-package-add-version-3.7.0-11041",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12c59c5b553c912cf29fbd017003dbd569b9c189",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-09-27T04:12:41+02:00",
+  "timestamp": 1538014361,
+  "message": "arpack-ng-add-version-3.6.3-9331",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c01f42a9fedba71e741b27ad7697c27586f422b",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2018-08-03T07:53:44-07:00",
+  "timestamp": 1533308024,
+  "message": "arpack-add-version-3.6.2-8881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69ec8deec8176645f3a5ac1b437f4dc47340e0e9",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-06-10T22:16:42+02:00",
+  "timestamp": 1528661802,
+  "message": "arpack-ng-add-3.6.0-8433",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4ed76c2071d4dfd721adefe1f5702fd210df73f",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-03-12T13:36:37+05:30",
+  "timestamp": 1520841997,
+  "message": "arpack-ng-add-develop-7458",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50e729173ba49f0c95ae98266caca16b119f481a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-05-27T22:02:25+02:00",
+  "timestamp": 1495915345,
+  "message": "arpack-add-3.5.0-4375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce714b564166d58eed73e93cc356a39d3a6913ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-18T18:50:10+02:00",
+  "timestamp": 1492534210,
+  "message": "ocotpus-and-arpack-ng-fix-arpack-bug-and-add-libs-to-arpack-ng-3875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f90692cf812ba9313c66dee405dee7d0e47535d3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-13T10:30:54+02:00",
+  "timestamp": 1468398654,
+  "message": "arpack-ng-fix-blas-lapack-libraries",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d755a148b1940218a3c990b1d8342ea88ae8012",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T18:29:56+02:00",
+  "timestamp": 1467822596,
+  "message": "arpack-ng-fix-binaries-for-macOS",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63e45c586c93da209590c31e7185084af87fa316",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T13:27:02+02:00",
+  "timestamp": 1467804422,
+  "message": "arpack-ng-flake8-fixes-and-minor-update-of-incode-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a47b3ba01bc3f93795c0702c3858784a64d3bd91",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T13:23:51+02:00",
+  "timestamp": 1467804231,
+  "message": "arpack-ng-use-spec-mpi-.mpif77",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5f7abd71f04b08a454c0a83dd87d2f806dcc23a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-07-06T10:56:16+02:00",
+  "timestamp": 1467795376,
+  "message": "arpack-ng-add-3.4.0-with-cmake-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44b89474453bf80fd603eb5ea5b629b0d9dff123",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-03-30T23:33:57-07:00",
+  "timestamp": 1459406037,
+  "message": "arpack-ng-needs-an-extra-libtoolize-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6eb97a30a36f0a0f072826d473a641dd143345ed",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T14:24:27+01:00",
+  "timestamp": 1458653067,
+  "message": "arpack-fix-for-mpi-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23bf70296e4a02f49c301b1b744055802b1e8dc1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-03-22T09:22:42+01:00",
+  "timestamp": 1458634962,
+  "message": "arpack-add-a-patch-for-3.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71a25a109a8c9f23ce9aab0743ebf4516020519d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-05T11:00:37+01:00",
+  "timestamp": 1454666437,
+  "message": "arpack-ng-added-package",
+  "repo": "spack/spack"
+}]

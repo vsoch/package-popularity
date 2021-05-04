@@ -1,0 +1,472 @@
+[{
+  "commit": "fbecd6d876c446ab852da6e681cc07008a4c5f1c",
+  "author": "Bryan Herman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-04-16T18:44:50-04:00",
+  "timestamp": 1618613090,
+  "message": "allow-any-Python-3.7-patch-version-for-vtk-8-22912",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7d7f4e98afc49b4d5a5ffef6d46be0cd3f037a8",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-04-12T23:52:07+02:00",
+  "timestamp": 1618264327,
+  "message": "vtk-new-version-9.0.1-22880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "18f094efe97b31ec8520b746ad8166cfce8b9937",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2021-02-26T10:52:41-05:00",
+  "timestamp": 1614354761,
+  "message": "sensei-add-versions-and-fix-dependencies-21452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "35d81a9006a5fa32a012a40874ac6cbdefd4a259",
+  "author": "andymwood <andy.m.wood@gmail.com>",
+  "date": "2021-01-05T21:11:29+00:00",
+  "timestamp": 1609881089,
+  "message": "VTK-add-no-ipo-for-builds-using-intel-compiler-20480",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aaa1afe9ec624fc86259ef817c059a5247770575",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-10-30T11:16:17-04:00",
+  "timestamp": 1604070977,
+  "message": "mesa-Retire-older-autotools-mesa-as-mesa18-and-create-current-meson-mesa-19528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50f96e15de585c653dc7d5e5cf06a05bba364bbc",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-07-31T12:05:20+09:00",
+  "timestamp": 1596164720,
+  "message": "vtk-Support-for-new-option-to-enable-MPI.-17727",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2a4af764c5b4612426a73a611d1febee28f081c",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-25T12:52:31+09:00",
+  "timestamp": 1593057151,
+  "message": "vtk-Add-patch-for-finding-Fujitsu-MPI-wrapper-commands.-17069",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a948060cfd4db3df4be44748d13d5736bf83f05",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-06-16T14:33:35-04:00",
+  "timestamp": 1592332415,
+  "message": "VTK-add-version-9.0.0-update-Python-dependency-constraints-17019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7002009591c79376f4d4a96d5b45f81b35f9c7f",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-01-25T12:44:51-06:00",
+  "timestamp": 1579977891,
+  "message": "Get-vtk-8.2.0-to-build-14562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fdd7a0e236d123aba186c120840ee8a65d2b4c6e",
+  "author": "Benjamin Fovet <45510885+bfovet@users.noreply.github.com>",
+  "date": "2019-11-30T23:32:19+01:00",
+  "timestamp": 1575153139,
+  "message": "Add-VTK-version-8.2.0-13941",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d01a8f7cd69dd26797da3c637829943fa4efd910",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-11-09T13:47:04-05:00",
+  "timestamp": 1573325224,
+  "message": "Fix-visit-13652",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c175be4420161b6086f3b8baa13e842a5bec2e69",
+  "author": "Jannek Squar <squar@informatik.uni-hamburg.de>",
+  "date": "2019-11-04T00:28:19+01:00",
+  "timestamp": 1572823699,
+  "message": "Added-dependencies-13519",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b400d503216cbc6b56f5f7231a9ed288d43fb96",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-15T11:13:45-04:00",
+  "timestamp": 1565882025,
+  "message": "Update-VisIt-to-version-3.0.1-and-fix-on-mac-12396",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d0b5bd54133e5949b43d6c3ff12c6ce61b701a8",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-07-29T13:08:55-04:00",
+  "timestamp": 1564420135,
+  "message": "Change-dependencies-to-use-virtual-jpeg-package-12179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a60ffdd5a25f44c1371f0a6adc456fa2bff73b07",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-19T13:57:19-04:00",
+  "timestamp": 1560967039,
+  "message": "vtk-paraview-catalyst-packages-Add-maintainers-11774",
+  "repo": "spack/spack"
+},
+{
+  "commit": "667e2f20fe1279fc55661e25755c436040e40955",
+  "author": "Dan Lipsa <dan.lipsa@kitware.com>",
+  "date": "2019-06-11T12:50:22-04:00",
+  "timestamp": 1560271822,
+  "message": "Add-support-for-using-python3-in-new-verison-of-VTK.-11673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a998fa25b0337c67d7426bc13185c4bd04414ab4",
+  "author": "psakievich <psakievich@gmail.com>",
+  "date": "2019-06-11T06:15:41-06:00",
+  "timestamp": 1560255341,
+  "message": "Paraview-Add-motionfx-Intel-workaround-11608",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a37efefd3d335a01dafe51d014faac481d64d472",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2019-05-22T12:04:29-04:00",
+  "timestamp": 1558541069,
+  "message": "package-vtk-improve-gl-handling-11530",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f848205e431c929a54ecf221768591906a0ef67",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-05-01T18:57:33-04:00",
+  "timestamp": 1556751453,
+  "message": "mesa-re-written-to-new-meson-build-system-10482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2a5a10f08961c4b70d834af380f632799383445",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-04-30T04:07:29-04:00",
+  "timestamp": 1556611649,
+  "message": "vtk-Use-the-vendored-libharu-11293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1842f9fbd5a78013de073718b705eee51447edd1",
+  "author": "Harsh Bhatia <bhatia4@llnl.gov>",
+  "date": "2019-04-16T14:18:56-07:00",
+  "timestamp": 1555449536,
+  "message": "vtk-add-version-8.1.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c387bfa39ac39ccc3535a6990b67d4d7cdf330e",
+  "author": "Ruben Di Battista <rubendibattista@users.noreply.github.com>",
+  "date": "2018-10-30T20:47:48+01:00",
+  "timestamp": 1540928868,
+  "message": "vtk-remove-redundant-option-setting-9597",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1db12e15347567ad23fc6bd6d27b0a415e08691",
+  "author": "Ruben Di Battista <rubendibattista@users.noreply.github.com>",
+  "date": "2018-10-18T19:18:05+02:00",
+  "timestamp": 1539883085,
+  "message": "vtk-add-support-for-Xdmf-IO.-9510",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6db1472c58b9fa6280c93b4711d07266e766e27e",
+  "author": "Lars Bilke <lars.bilke@ufz.de>",
+  "date": "2018-10-12T11:33:01+02:00",
+  "timestamp": 1539336781,
+  "message": "vtk-Added-mpi-variant-9494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aac8d52075b26e66582b7b09b8594c07971a88d7",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-10-10T14:57:28-07:00",
+  "timestamp": 1539208648,
+  "message": "vtk-added-v8.1.1-added-option-to-disable-libharu-9475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "baa664ffaa5332d4392a9de7faad8c8f1732c932",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-10-08T08:08:50+01:00",
+  "timestamp": 1538982530,
+  "message": "Fix-bug-in-VTK-package-9431",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4be8ae2b7048e22e22b9e9fbfca5ce99a3aec119",
+  "author": "dorier <dorier@users.noreply.github.com>",
+  "date": "2018-09-26T19:20:01+01:00",
+  "timestamp": 1537986001,
+  "message": "VTK-package-don-t-require-llvm-for-mesa-dependency-9256",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99492dc910a93c6d44ab37e5331b67dba0c4cbaf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-17T14:51:49-05:00",
+  "timestamp": 1534535509,
+  "message": "Specify-Python-executable-in-VTK-package-9000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0a808944ef121b7f23d4e78e1c661ff8b107274",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-27T10:27:03-07:00",
+  "timestamp": 1530120423,
+  "message": "style-bring-packages-in-compliance-with-pep8-naming",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d2c344152739999c48420c7382cda9855fba7a71",
+  "author": "Scott Wittenburg <scott.wittenburg@kitware.com>",
+  "date": "2018-01-22T11:46:44-07:00",
+  "timestamp": 1516646804,
+  "message": "Update-gl-qt-options-for-vtk-package-6551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c4c6e72ad55d5618e90ab831a93e7d2553bb8c5",
+  "author": "Geoffrey Malcolm Oxberry <goxberry@gmail.com>",
+  "date": "2018-01-16T03:34:41-08:00",
+  "timestamp": 1516102481,
+  "message": "vtk-6.1.0-disable-Obj-C-gc-for-XCode-5.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "48ae4c22b24d04ed4004dababde53d37c931adf7",
+  "author": "Geoffrey Malcolm Oxberry <goxberry@gmail.com>",
+  "date": "2018-01-16T03:29:00-08:00",
+  "timestamp": 1516102140,
+  "message": "vtk-6.1.0-fix-NetCDF-C-bindings-detection",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb42013727a31faacb0cc35b39661cf807405e6a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-01-09T01:56:00-06:00",
+  "timestamp": 1515484560,
+  "message": "Remove-std_cmake_args-from-VTK-definition-6856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f225741d07571b8b5c7da338b5b62715026e2c52",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2017-03-22T19:53:05+00:00",
+  "timestamp": 1490212385,
+  "message": "configure-vtk-with-external-hdf5-and-netcdf-packages-3504",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c39f16d44ae2194bbdd4724b6a0c65ab3f73393",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-17T09:19:44-05:00",
+  "timestamp": 1489760384,
+  "message": "Add-version-constraints-to-VTK-patch-3357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c82985cb5e280981a1064855f1577c9a22ac5700",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-28T17:59:21-07:00",
+  "timestamp": 1477702761,
+  "message": "Update-and-Clean-Up-the-Visit-and-VTK-Packages-2167",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a648dc6b334e8a170beab7d983130debc2ea9db1",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2016-10-06T10:29:25+01:00",
+  "timestamp": 1475746165,
+  "message": "add-python-options-to-vtk-package-1931",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70424b511eeed84f875393b2e8fee9c47993004d",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:15:37-04:00",
+  "timestamp": 1474362937,
+  "message": "Work-around-cmake-problems-in-VTK-1761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b0311a1e484a4f731d1cc6448dc6804410ecb3c",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-03-31T10:30:32-04:00",
+  "timestamp": 1459434632,
+  "message": "Add-variant-opengl2-which-is-ON-by-default",
+  "repo": "spack/spack"
+},
+{
+  "commit": "123996aad0c58bab7de6f615159b2fd7b44c7369",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-03-31T10:29:47-04:00",
+  "timestamp": 1459434587,
+  "message": "Fix-build-for-vtk6.1.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bcfd095362c5d04b9add7ebc882b74fad68f9dd",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-03-25T13:25:29-04:00",
+  "timestamp": 1458926729,
+  "message": "add-VTK-lastest-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b7dacb427d2d9e80778b6c0eec05e0cc64d60859",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-19T14:06:45-08:00",
+  "timestamp": 1421705205,
+  "message": "Qt5-VTK-builds.-VTK-works-with-Qt-4-and-5",
+  "repo": "spack/spack"
+}]

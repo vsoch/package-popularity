@@ -1,0 +1,48 @@
+[{
+  "commit": "db37e67c3b31855a757d20fd4149035afeee2ff1",
+  "author": "Hao Lyu <20434183+IncubatorShokuhou@users.noreply.github.com>",
+  "date": "2021-03-31T01:33:46+08:00",
+  "timestamp": 1617125626,
+  "message": "Correct-the-sha256-ioapi-v3.2-22633",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5878b418c5d01a50b9b965f8f3c7b3956eab3aba",
+  "author": "Pariksheet Nanda <pariksheet.nanda@uconn.edu>",
+  "date": "2019-07-23T13:10:01-04:00",
+  "timestamp": 1563901801,
+  "message": "ioapi-add-version-3.2-12088",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e5e6791d97967084b05c5811e119ea268cea8289",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-15T21:50:54-06:00",
+  "timestamp": 1581825054,
+  "message": "package-r-readbitmap-Change-jpeg-dependency-15004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd442e884a4ab240b8e6a96ca2096043c18a7652",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-02-10T03:44:00-06:00",
+  "timestamp": 1581327840,
+  "message": "New-package-r-imager-14866",
+  "repo": "spack/spack"
+}]

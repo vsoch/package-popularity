@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "248bc17bb0c513fad9ed0337112faba5356418c8",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-10-01T18:17:10-06:00",
+  "timestamp": 1569975430,
+  "message": "go-md2man-disable-module-mode-12985",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9845da15ff3a1e5dda6eea862653d1bb758ca8d",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-08-14T11:56:51-06:00",
+  "timestamp": 1565805411,
+  "message": "New-package-go-md2man-12397",
+  "repo": "spack/spack"
+}]

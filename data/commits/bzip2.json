@@ -1,0 +1,296 @@
+[{
+  "commit": "6ab859fb45bb3e4a7b2f3b712d24734ffd3aa7eb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-04-28T16:19:10+02:00",
+  "timestamp": 1619619550,
+  "message": "bzip2-fix-typo-in-package-23312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10e4eeec9c90114e88da1aa91417a5ecca5b4d2e",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2021-04-28T04:16:57-07:00",
+  "timestamp": 1619608617,
+  "message": "bzip2-add-pic-debug-options-23230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ac05483d7ea13abcf7f15741a8dfababcba62b",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2021-04-07T02:41:43-05:00",
+  "timestamp": 1617781303,
+  "message": "Update-packages-for-NVIDIA-HPC-SDK-21.1-21975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e9da8d16336ea01aa78548d70cf4f6691f2e9947",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-10-16T23:28:31+02:00",
+  "timestamp": 1602883711,
+  "message": "Add-external-package-support-to-bzip2-19343",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5acea35e82f894a45615a5b02378bdef6ef6f345",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-14T09:09:30-07:00",
+  "timestamp": 1586880570,
+  "message": "sourceware.org-mirror-urls-15992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14441e00dc1c04df40d361ca46fd63c7446ac2ae",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-03-13T19:41:19+01:00",
+  "timestamp": 1584124879,
+  "message": "package-Add-fetch_options-variable-15317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f580b340f8fa04a7f2e915e27857ff8dad39aa67",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-02-26T07:45:33+01:00",
+  "timestamp": 1582699533,
+  "message": "Add-new-timeout-fetch_option",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7b76df5ac28bc60edb19f0dc6519c9c54158953",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-07-14T21:25:20+02:00",
+  "timestamp": 1563132320,
+  "message": "bzip2-Add-1.0.8-12017",
+  "repo": "spack/spack"
+},
+{
+  "commit": "975b9a611a350f22769774e7c95f2231a8362486",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-07-11T01:37:16+02:00",
+  "timestamp": 1562801836,
+  "message": "bzip2-Add-1.0.7-11975",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e176f2a2f5cffee81199a348e5f03dbd6d7f81bc",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-10T14:17:12+02:00",
+  "timestamp": 1539173832,
+  "message": "Fix-missing-dependencies-and-glibc-build-failures-9106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85d00c5ef4df6713d7f054b8e2d625d07cdd28af",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-14T11:46:15-05:00",
+  "timestamp": 1534265175,
+  "message": "Change-bzip2-download-URL-8976",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98949bd79b18d1cd33e67314a893e46a2beb4958",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-02-28T20:15:26+01:00",
+  "timestamp": 1519845326,
+  "message": "change-recurse-into-recursive-in-a-few-places-7342",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7cb43e3d057bf73ee1aa90914ced9399e25b9e86",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-01-26T09:52:04+01:00",
+  "timestamp": 1516956724,
+  "message": "Bzip2-now-uses-spack_cc-as-a-compiler-instead-of-plain-cc-7074",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9e46a29132c412c78f52d871f6c2e2edb9031d3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-09-12T05:47:05+02:00",
+  "timestamp": 1505188025,
+  "message": "dealii-explicitly-specify-bzip2-libs-5337",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c616e4a61904119a5a396a822634ffb1b8326f33",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-26T10:49:27-05:00",
+  "timestamp": 1493221767,
+  "message": "Add-list_url-for-bzip2-3988",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4397ce8118a44fae4bef2b2ddcdfa3377922563f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-18T16:42:45-06:00",
+  "timestamp": 1487457765,
+  "message": "Replace-GCC-specific-warning-flags-with-valid-PGI-flags-3137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e895c4cccb67304d3391478cc3fd0c5641bca51",
+  "author": "Jason Sarich <sarich@mcs.anl.gov>",
+  "date": "2017-01-24T13:48:01-06:00",
+  "timestamp": 1485287281,
+  "message": "add-static-options-for-some-libraries-2876",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84e331c58618f2c67da00cbc56f51c75bd61af91",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T14:05:59-07:00",
+  "timestamp": 1470863159,
+  "message": "Remove-unneeded-noqa-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3864da6300d3f7c99503b3787e2c09882c179a48",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-12T16:31:47-05:00",
+  "timestamp": 1468359107,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d09b0c95ec587cbb9ac45f6a2a106060dfb38643",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-12T16:26:55-05:00",
+  "timestamp": 1468358815,
+  "message": "Filter-both-makefiles-to-allow-intel-to-build-bzip2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f201bfb9980c9e1f1b4d2e8d9de8e13da4f49386",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-04T17:43:22-08:00",
+  "timestamp": 1446687802,
+  "message": "Modified-bzip2-package-to-work-properly-on-macs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dd39bfca56e984089236f4383d3ad348e1b0a54",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-10-08T08:12:30-07:00",
+  "timestamp": 1444317150,
+  "message": "bug-fix-for-github-issue-122",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bc861db6e8edf470c91be81e60546b0619216de",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T17:55:19-08:00",
+  "timestamp": 1419558919,
+  "message": "Fix-up-bzip2-install",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1656f62a125232b30235da01e816a3ade4481b8a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-01T16:56:19-07:00",
+  "timestamp": 1414886179,
+  "message": "Add-bzip2-package-and-spack-pkg-add-command",
+  "repo": "spack/spack"
+}]

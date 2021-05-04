@@ -1,0 +1,200 @@
+[{
+  "commit": "563d93980407c9aafbfddca27f796fb2a76c9dbd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-01-18T12:54:22-06:00",
+  "timestamp": 1610996062,
+  "message": "add-version-2.0.2-to-r-mnormt-21115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "661a894c85f451a4ef868abcc9871653914361bd",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-08-30T18:22:13-05:00",
+  "timestamp": 1567207333,
+  "message": "Update-R-CRAN-packages-12019",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "392e25b7e6406475399ea924be95ddcb47f495bd",
+  "author": "Yifan Zhu <ifanzhu@foxmail.com>",
+  "date": "2017-11-14T10:20:06-06:00",
+  "timestamp": 1510676406,
+  "message": "r-mnormt-created-new-package-6287",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22df09315f771c7523e599c675291a275ecb50e0",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2017-11-05T16:42:24-05:00",
+  "timestamp": 1509918144,
+  "message": "Re-add-list_url-for-all-R-packages-6110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36b8ea2f928651a53f29c0dae158f70597207173",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-09T12:28:39-05:00",
+  "timestamp": 1497029319,
+  "message": "Add-default-list_url-for-GitLab-BitBucket-and-CRAN-4439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "daff3c0908717eedf6a3e192dc37b8aa23111042",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T18:28:52-06:00",
+  "timestamp": 1483835332,
+  "message": "Preliminary-RPackage-class-2761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1bd2def41edf9ec354f889f091f26eef6416ca81",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-30T17:34:07-05:00",
+  "timestamp": 1469918047,
+  "message": "New-package-r-maps",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e9f8bd38d4d660db2a03d235535d2d964a7ddec",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-11T15:53:28-05:00",
+  "timestamp": 1465678408,
+  "message": "Add-list_url-for-old-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad0cfa41aa970887771d3cb5a84ae41f7800432b",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-07T23:37:49-05:00",
+  "timestamp": 1465360669,
+  "message": "Fix-flake8-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "738720a000ab200cf93532de506eda71b1d582e5",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-07T23:20:46-05:00",
+  "timestamp": 1465359646,
+  "message": "new-package-r-devtools",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8ad456fd680bc59b2a4d99f214f25a482067216",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-06-09T14:06:49-07:00",
+  "timestamp": 1433884009,
+  "message": "nettle-depends-on-gmp-without-it-the-nettle-build-fails-on-gcc-4.9.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8edf299dd21cce9f6f297a81a5fb375b3417bf2a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-01T15:00:24-07:00",
+  "timestamp": 1414879224,
+  "message": "gnutls-nettle-wget-dbus",
+  "repo": "spack/spack"
+}]

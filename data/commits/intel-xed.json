@@ -1,0 +1,144 @@
+[{
+  "commit": "040204c2615271a853bf8846eb9e78e4bec35fc0",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-02-02T14:40:24-06:00",
+  "timestamp": 1612298424,
+  "message": "intel-xed-add-patch-to-12.0.1-to-fix-segfault-21436",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54a4f0fc359eb51efef1e91fd97dd308ffa8ca3a",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2021-01-13T13:46:38-06:00",
+  "timestamp": 1610567198,
+  "message": "intel-xed-add-version-12.0.1-20676",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "370e7c211d9dcdf559f55dee24ae38bfcc74c009",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2020-03-03T11:38:55-08:00",
+  "timestamp": 1583264335,
+  "message": "intel-xed-does-not-support-python-3.7-15308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f2979da2afb1f9a5ce58d38012eeefbcc223d6a6",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2019-12-11T12:13:27-06:00",
+  "timestamp": 1576088007,
+  "message": "Build-xed-CLI-for-the-intel-xed-package-14114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7daf8609914d929bbce7cfe8e17e40fc4ae1e01a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-09-17T18:41:18+02:00",
+  "timestamp": 1568738478,
+  "message": "targets-adjust-packages-to-use-new-specific-targets-semantics",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284ae9d1ccac953600981b41b13effbf2385806b",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2019-06-20T11:09:31-07:00",
+  "timestamp": 1561054171,
+  "message": "Resources-use-expanded-archive-name-by-default-11688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aca1bfdb6a6498b96126fd121989be8b8767a29f",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-06-13T02:53:30-05:00",
+  "timestamp": 1560412410,
+  "message": "intel-xed-and-hpcviewer-adapt-to-new-resource-placement-11676",
+  "repo": "spack/spack"
+},
+{
+  "commit": "675bb234314ca078fa1c0ecbcfa41fd1b892e8db",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-03-26T15:31:28-05:00",
+  "timestamp": 1553632288,
+  "message": "intel-xed-package-add-versions-2019.03.01-and-develop-10987",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e948a54d8e44ca5b20d4c41c8c6f2344fde32f0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:17:01-05:00",
+  "timestamp": 1532485021,
+  "message": "All-git-URLs-end-in-.git",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "154401de769f2da7ab5ff83242a83af653c6110f",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-03-21T14:39:06-05:00",
+  "timestamp": 1521661146,
+  "message": "intel-xed-new-package-7106",
+  "repo": "spack/spack"
+}]

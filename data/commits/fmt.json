@@ -1,0 +1,240 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a7a5fd3fa331b807dab4807d73d44e8e54ebabe2",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-12-15T18:15:25+01:00",
+  "timestamp": 1608052525,
+  "message": "fmt-added-v7.1.3-update-URLs-20404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8b92ef34b1663ec412bcaef03c0b6302bd94eb3",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-07T04:12:45+01:00",
+  "timestamp": 1604718765,
+  "message": "fmt-Add-Version-7.1.2-19756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826ed5ff24f3c2ca0270defb9819952f269393d9",
+  "author": "Geoffrey Gunter <12984092+gmgunter@users.noreply.github.com>",
+  "date": "2020-10-31T10:58:37-07:00",
+  "timestamp": 1604167117,
+  "message": "fmt-add-version-7.1.0-19638",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bbc76c35517b88cda0af6405c04b3accd40cb67e",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-03-27T04:37:33+01:00",
+  "timestamp": 1585280253,
+  "message": "fmt-new-version-6.1.2-15695",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e23d613ee6bff2330623e5faed89668380c04529",
+  "author": "Jeongseok Lee <jslee02@users.noreply.github.com>",
+  "date": "2019-07-28T20:07:51-07:00",
+  "timestamp": 1564369671,
+  "message": "Update-checksum-of-fmt-5.3.0-12037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "531114cd6cc52893ba4998323eed0152d68e6cda",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2019-06-25T12:01:31+01:00",
+  "timestamp": 1561460491,
+  "message": "fmt-Add-version-5.3.0-with-cxxstd-variant-support-11799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5281403fb2e85195c81e4cdc78f7ab2bb3b268db",
+  "author": "Matthias Wolf <m+git@sushinara.net>",
+  "date": "2019-02-06T20:52:49+01:00",
+  "timestamp": 1549482769,
+  "message": "fmt-package-fix-cmake-arguments-10500",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d288cd8eb923dc205500cf4c377219c5a855b05",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-10-27T03:08:56+02:00",
+  "timestamp": 1540602536,
+  "message": "fmt-add-new-versions-and-update-constraints-9634",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef310d9f66366d52ced0c61db2d99e11dfe0c270",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-03-07T13:59:20+01:00",
+  "timestamp": 1520427560,
+  "message": "fmt-add-version-7415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eb263effe3ac6f2f79e4f6c060b7ae96b7a9cc8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-04T16:52:10-05:00",
+  "timestamp": 1501883530,
+  "message": "Add-a-SConsPackage-base-class-4936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "682d5cf1649b2f6304887aac6e5428308f65906a",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-02-17T14:55:22-05:00",
+  "timestamp": 1487361322,
+  "message": "py-git2-New-Package-1971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17b13b161b3ddcd691ea7ed90165cfab6dec3950",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-12-28T21:37:02+01:00",
+  "timestamp": 1482957422,
+  "message": "Directive-inheritance-laziness-for-the-win-2623",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb7b51855aa32f2e695c21add373c7f6dab0d286",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-07T16:55:12-05:00",
+  "timestamp": 1481147712,
+  "message": "yaml-cpp-add-boost-dependency-2517",
+  "repo": "spack/spack"
+},
+{
+  "commit": "946605a4c99f78b3311435948de0c60b98fb1ef1",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-12-02T11:41:18-07:00",
+  "timestamp": 1480704078,
+  "message": "Updating-yaml-cpp-from-Package-to-CMakePackage.-2457",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f8d038c0b85dab9d7a95de0509d49bd186c96863",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2016-11-23T11:54:22-07:00",
+  "timestamp": 1479927262,
+  "message": "New-package-yaml-cpp-2399",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8fc43046ebfaa41410c28ba6d3d27fffed25ee4e",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-04-30T12:11:10+02:00",
+  "timestamp": 1462011070,
+  "message": "Add-missing-dependency-for-glm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec5560374c218bfb1f16934259108ebc305cf838",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-14T16:13:56+02:00",
+  "timestamp": 1444832036,
+  "message": "glm-added-basic-configuration-for-the-package",
+  "repo": "spack/spack"
+}]

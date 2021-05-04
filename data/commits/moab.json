@@ -1,0 +1,232 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb4a08b3e066ff4fe97a229e196fee7da5a189e9",
+  "author": "iulian787 <iulian787@users.noreply.github.com>",
+  "date": "2020-11-23T06:17:52-06:00",
+  "timestamp": 1606133872,
+  "message": "moab-added-v5.2.1-v5.2.0-v5.1.0-20010",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71748a3b7a86b5de9141194f660d8d2c55f64f46",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-08-19T14:40:40+09:00",
+  "timestamp": 1597815640,
+  "message": "moab-delete-march-native-from-generated-files-18137",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54018b488aae11f8147e545424e1fe0f7a33a8bf",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-08-10T12:08:13-04:00",
+  "timestamp": 1565453293,
+  "message": "Fix-build-for-moab-4.9.2-on-gcc8-12328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25129d4a3b300a157f25d9c7097e9740c31e931d",
+  "author": "Lukasz <lukasz.kaczmarczyk@glasgow.ac.uk>",
+  "date": "2018-12-26T22:18:32+00:00",
+  "timestamp": 1545862712,
+  "message": "fix-moab-installation-for-version-5.0.2-removed-from-ftp-10201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22446d7303d12cabec5539b46a70624721ddb4cb",
+  "author": "Lukasz <lukasz.kaczmarczyk@glasgow.ac.uk>",
+  "date": "2018-12-10T13:33:31+00:00",
+  "timestamp": 1544448811,
+  "message": "mofem-add-new-releases-and-minor-changes-9138",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ab6539c0e441a08ad886c7936cd70213111c539",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2018-10-09T20:05:49-04:00",
+  "timestamp": 1539129949,
+  "message": "Add-important-variants-to-MOAB-and-Geant4-9409",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dcaa6759574ab511cc42cc99ea6ee62195225c53",
+  "author": "Lukasz <lukasz.kaczmarczyk@glasgow.ac.uk>",
+  "date": "2018-07-22T22:32:47+01:00",
+  "timestamp": 1532295167,
+  "message": "add-necessary-dependence-on-lapacak-and-fix-ld_flags-for-blas-8776",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f0f18dad6593ff13292981be218e4d34ef2eb4a",
+  "author": "Lukasz <lukasz.kaczmarczyk@glasgow.ac.uk>",
+  "date": "2018-07-17T14:24:52+01:00",
+  "timestamp": 1531833892,
+  "message": "fix-link-to-blas-libs-8721",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c54108cf6390402828ee9798630299457123ee87",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2017-08-05T11:04:12-06:00",
+  "timestamp": 1501952652,
+  "message": "Moab-depends-on-BLAS.-4952",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75b8d728bd502193b1e8e213f8e04206f3bde056",
+  "author": "iulian787 <iulian787@users.noreply.github.com>",
+  "date": "2017-06-23T09:53:43-04:00",
+  "timestamp": 1498226023,
+  "message": "Moab-5.0-and-meshkit-1.5-4557",
+  "repo": "spack/spack"
+},
+{
+  "commit": "64fb2f22b436cf14e75da11e27430500a675212c",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-05-09T16:26:57-07:00",
+  "timestamp": 1494372417,
+  "message": "Adding-FASTMath-uber-package-and-missing-FASTMath-packages-4120",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d306893d8327fc27fec97971ab2194cef1a9d36c",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-19T17:41:09-05:00",
+  "timestamp": 1482187269,
+  "message": "moab-changed-trilinos-dependency-to-zoltan-and-added-fortran-variant-2582",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f0192edf0da6c0a2f8045202b08e3449508a1be5",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-09-06T07:55:37-06:00",
+  "timestamp": 1473170137,
+  "message": "For-OpenMPI-v-2-add-a-configure-option-to-provide-C-bindings.-1730",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5a19b57f7965f24413e789924086cf4bcb126d8",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-05-11T16:32:49-06:00",
+  "timestamp": 1463005969,
+  "message": "Clean-up-formatting",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bec127a1d8b2be4403daddfcc31a1eb4a75cb8f",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-05-11T14:00:44-06:00",
+  "timestamp": 1462996844,
+  "message": "Attempt-to-fix-formatting-issues-flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9482ce1fce59056ca01ca09ea0a21bcfd871028b",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-05-11T12:39:20-06:00",
+  "timestamp": 1462991960,
+  "message": "Remove-some-extraneous-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e200a41d3d7e9be8fe3a76a9a41ffb0c11a4c1cc",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-05-11T12:34:33-06:00",
+  "timestamp": 1462991673,
+  "message": "New-package-MOAB",
+  "repo": "spack/spack"
+}]

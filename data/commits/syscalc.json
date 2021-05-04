@@ -1,0 +1,40 @@
+[{
+  "commit": "ad9db839cf9c472b461ea4078f5477ca226f3751",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-03-05T16:21:12+01:00",
+  "timestamp": 1614957672,
+  "message": "syscalc-fix-recipe-and-URL-extension-22112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "625136b5dac5aa8f1721febe7f54420e9e13a2c6",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-10-22T23:55:52+02:00",
+  "timestamp": 1603403752,
+  "message": "Syscalc-hash-19323",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fdbdaf5b676a7d448fec195058d59ffe46a2a65",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-08-16T19:07:14+02:00",
+  "timestamp": 1597597634,
+  "message": "New-packages-madgraph-syscalc-collier-gosam-contrib-17601",
+  "repo": "spack/spack"
+}]

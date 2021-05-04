@@ -1,0 +1,40 @@
+[{
+  "commit": "ccc1bb73249da147734cfee61b73783ff4ce935a",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-01-13T16:55:06+08:00",
+  "timestamp": 1610528106,
+  "message": "libtomlc99-added-v0.2020.12.23-20825",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf76a143a24545de6dd9d88d849504a33f742f8f",
+  "author": "Oliver Breitwieser <oliver.breitwieser@kip.uni-heidelberg.de>",
+  "date": "2019-06-29T13:12:17+02:00",
+  "timestamp": 1561806737,
+  "message": "libtomlc99-Update-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e9437866bb28753b550dd3030557f1a6e623ed3",
+  "author": "Andreas Baumbach <healther@users.noreply.github.com>",
+  "date": "2019-06-28T20:16:34+02:00",
+  "timestamp": 1561745794,
+  "message": "New-package-libtomlc99-11811",
+  "repo": "spack/spack"
+}]

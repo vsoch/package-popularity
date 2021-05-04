@@ -1,0 +1,264 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e4c41080b7e497be46f68bae723386dd53f040e2",
+  "author": "Yang Zongze <yangzongze@gmail.com>",
+  "date": "2020-12-28T19:47:54+08:00",
+  "timestamp": 1609156074,
+  "message": "gmsh-added-versions-up-to-v4.7.1-20336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74ba247839d9845eb897e98de5d8c6c9fc04ad33",
+  "author": "Benjamin Fovet <45510885+bfovet@users.noreply.github.com>",
+  "date": "2020-03-20T20:51:30+01:00",
+  "timestamp": 1584733890,
+  "message": "Add-gmsh-v4.5.4-with-new-options-15591",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73387305286a058a8017431bc2caf07137f5be53",
+  "author": "Benjamin Fovet <45510885+bfovet@users.noreply.github.com>",
+  "date": "2019-10-23T01:18:19+02:00",
+  "timestamp": 1571786299,
+  "message": "gmsh-add-version-4.4.1-13366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81f699eca325652a9ed793f35ae2d4b32c3281ff",
+  "author": "bfovet <45510885+bfovet@users.noreply.github.com>",
+  "date": "2019-03-20T05:12:57+01:00",
+  "timestamp": 1553055177,
+  "message": "Update-GMSH-to-4.2.2-with-OpenMP-variant-10914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26b68a2bc52e5ea33c69b8fe3d19aed01a126d40",
+  "author": "Tristan Carel <tristan.carel@gmail.com>",
+  "date": "2018-09-06T10:42:40+02:00",
+  "timestamp": 1536223360,
+  "message": "gmsh-add-git-master-and-4.0.0-versions-9172",
+  "repo": "spack/spack"
+},
+{
+  "commit": "206e61bafdde19b6ec28583386e08917aefb91b0",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-11T14:22:12+02:00",
+  "timestamp": 1526041332,
+  "message": "gmsh-add-netgen-and-tetgen-8060",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69f959ec0bc2b65bfe54e4751df7b1f76ad25950",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-12-19T08:31:23+01:00",
+  "timestamp": 1513668683,
+  "message": "gmsh-add-3.0.6-6718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89f531c18ac4c45deb8fe57674ba7a5a5623006a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-18T11:30:17+02:00",
+  "timestamp": 1492507817,
+  "message": "gmsh-add-3.0.1-3873",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5812081b80301089a30e2087a32ddfcaa7c6b4e4",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-01-18T18:34:05+01:00",
+  "timestamp": 1484760845,
+  "message": "gmsh-add-2.16-2857",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c0f28c559b38c56695e81236539ae6ba0bbbb40",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-19T01:20:37+01:00",
+  "timestamp": 1482106837,
+  "message": "gmsh-add-2.15.0-and-switch-to-CMakePackage-2620",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51b0f53b33f8c73e550064dbf05472da908d12ee",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-06-28T10:31:00+02:00",
+  "timestamp": 1467102660,
+  "message": "gmsh-flake8-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06e38d2ca291e6da56c2a629142d925f4fbe3eca",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-08T21:34:18+02:00",
+  "timestamp": 1462736058,
+  "message": "gmsh-various-fixes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "970196d825237b96fdf27ecdbeb07bcf49580fff",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-05-09T14:23:07+02:00",
+  "timestamp": 1462796587,
+  "message": "GMsh-Fix-binary-linking-against-its-own-libraries",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95c7f4fba3477240c03019414923537b1da1a364",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-05-08T16:53:31+02:00",
+  "timestamp": 1462719211,
+  "message": "Fixes-915",
+  "repo": "spack/spack"
+}]

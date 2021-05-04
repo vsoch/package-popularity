@@ -1,0 +1,144 @@
+[{
+  "commit": "44d995b6d5d253ef7a449483b5666bfbb5c192c1",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2021-04-21T10:20:41-07:00",
+  "timestamp": 1619025641,
+  "message": "unifyfs-add-version-0.9.2-22390",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7dd12edab0135de4b6690f94b93dc63b1ffaaef",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-03-05T00:46:18+09:00",
+  "timestamp": 1614872778,
+  "message": "unifyfs-Fix-strncpy-build-error-of-version-0.9.1-22066",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1ae7592cad6270155a054f8d5c5898784637908",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-02-23T02:15:32-08:00",
+  "timestamp": 1614075332,
+  "message": "margo-is-now-mochi-margo-21851",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52e03b55286940591357a5743d0db800c9cc4c19",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2020-12-24T21:46:11-08:00",
+  "timestamp": 1608875171,
+  "message": "unifyfs-dependency-changes-and-new-release-20271",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7631013975d088d52d80dce723a6545ae1bb7b45",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2020-08-09T06:14:44-07:00",
+  "timestamp": 1596978884,
+  "message": "unifyfs-remove-flatcc-dependency-and-add-spath-17913",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6445c2e807475e764bbed8eb107a3a64bd6028f8",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2020-05-20T20:35:22-07:00",
+  "timestamp": 1590032122,
+  "message": "unifyfs-update-gotcha-dependency-version-16736",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8cce884078d924425f0755712ccd4cff525622ef",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-03-05T13:54:25-08:00",
+  "timestamp": 1583445265,
+  "message": "unifyfs-add-patch-to-fix-15292-15315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "886e072f1da0103dd17e04f9e142e9a8c4a3cc84",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-02-28T09:24:53-08:00",
+  "timestamp": 1582910693,
+  "message": "unifyfs-depends-on-openssl-15258",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b7f057a4baf49f407c1ec503119c8ba0cfe913a",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2020-02-13T19:28:33-06:00",
+  "timestamp": 1581643713,
+  "message": "unifyfs-remove-numa-dependency-14925",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f68ed73c611dbdd992752a1a5536339b2f6c37b",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2020-01-16T13:16:59-08:00",
+  "timestamp": 1579209419,
+  "message": "unifyfs-new-release-version-14527",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11c0a7882d366a8d2dd24c04260fdd9672794a5f",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2019-08-20T09:13:22-07:00",
+  "timestamp": 1566317602,
+  "message": "UnifyFS-new-package-rename-from-UnifyCR-12439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "226f23bc43e42b09324ceb0ff978f0872692f3b9",
+  "author": "Cameron Stanavige <stanavige1@llnl.gov>",
+  "date": "2019-08-14T15:50:10-07:00",
+  "timestamp": 1565823010,
+  "message": "UnifyCR-update-dependencies-and-build-options-12216",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f734e0cfde650bd1102c0bfa9dfb93dcae1b2d9",
+  "author": "Cameron Stanavige <cameronstanavige@gmail.com>",
+  "date": "2019-03-06T10:56:20-08:00",
+  "timestamp": 1551898580,
+  "message": "unifycr-dependency-changes-and-new-version-10722",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f56f6d4e38fdf88b0aa552f231d6fc5abf63c3ad",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T07:01:41+01:00",
+  "timestamp": 1542088901,
+  "message": "Fix-pkg-config-dependencies-9738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e91f8f5f82b0b923fde922df75091f6ce1af4466",
+  "author": "Cameron Stanavige <cameronstanavige@gmail.com>",
+  "date": "2018-10-25T17:50:45-07:00",
+  "timestamp": 1540515045,
+  "message": "unifycr-new-package-9594",
+  "repo": "spack/spack"
+}]

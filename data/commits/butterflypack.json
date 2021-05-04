@@ -1,0 +1,72 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b809e01b47d48f01b3d257912fe1b752943cd3d",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2020-10-27T18:28:24-07:00",
+  "timestamp": 1603848504,
+  "message": "Add-new-minor-version-1.2.1-for-ButterflyPACK-19554",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05ffbbc0befa26d520612b7e801c26d7e8bda28f",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-10-19T13:16:19+09:00",
+  "timestamp": 1603080979,
+  "message": "butterflypack-Support-fj-Fortran-17514",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b65bdeca838f6f130b79f523e2ba73bb98bc9ef",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2020-08-18T03:02:16-07:00",
+  "timestamp": 1597744936,
+  "message": "ButterflyPACK-added-v1.2.0-18133",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fc3e73f8d2b93eb1fed4949829283d221165976",
+  "author": "Pieter Ghysels <pghysels@lbl.gov>",
+  "date": "2019-11-11T10:24:13-08:00",
+  "timestamp": 1573496653,
+  "message": "Update-ButterflyPACK-and-STRUMPACK-13661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b384504218b47facd885bad3e9933e945a7de6a4",
+  "author": "liuyangzhuan <liuyangzhuan@gmail.com>",
+  "date": "2019-09-25T19:16:47-07:00",
+  "timestamp": 1569464207,
+  "message": "butterflypack-package-add-version-1.0.3-12927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7303b6cdc938aedf420579848cdf26986b6fa1fa",
+  "author": "liuyangzhuan <liuyangzhuan@gmail.com>",
+  "date": "2019-08-21T17:23:18-07:00",
+  "timestamp": 1566433398,
+  "message": "ButterflyPACK-package-add-URL-versions-1.0.0-and-1.0.1-12428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "474bf188532da7bb99fb99be4d1e4c3f43b1d29d",
+  "author": "liuyangzhuan <liuyangzhuan@gmail.com>",
+  "date": "2019-08-02T16:58:30-07:00",
+  "timestamp": 1564790310,
+  "message": "added-a-package-butterflypack-12222",
+  "repo": "spack/spack"
+}]

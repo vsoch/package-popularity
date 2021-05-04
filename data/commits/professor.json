@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0c4f140d887e339c8182abb3caf6def3406e700d",
+  "author": "Matthew Kelsey <mjkelsey655@gmail.com>",
+  "date": "2021-03-20T15:28:03-04:00",
+  "timestamp": 1616268483,
+  "message": "professor-add-new-package-at-v2.3.3-22043",
+  "repo": "spack/spack"
+}]

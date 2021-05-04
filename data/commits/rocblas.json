@@ -1,0 +1,88 @@
+[{
+  "commit": "291a2b541b8d82945fcf7edf5083ecc88d1f322d",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-04-10T05:17:21-04:00",
+  "timestamp": 1618046241,
+  "message": "fix-22802-fix-incorrect-arch-list-for-rocblas-22881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b59af8b2b5b0d35cebf3dc68cbae49cac69a354",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-03-31T20:30:56-04:00",
+  "timestamp": 1617237056,
+  "message": "Changes-to-packages-for-rocm-4.1.0-release-22687",
+  "repo": "spack/spack"
+},
+{
+  "commit": "571e36787b96ac1d24824218024954c83dea8c8f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4acf74091d6d6e2e9914bf9380ffde1cfb1ca4f",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-05T04:32:03+05:30",
+  "timestamp": 1609801323,
+  "message": "bump-up-rocm-math-libs-recipes-for-rocm-4.0.0-release-20651",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1b9a00a13fc942e0b54a9c766cff96e7b1eb743",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-03T17:10:54+05:30",
+  "timestamp": 1606995654,
+  "message": "bumpup-the-version-for-rocm-3.10.0-release-20227",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0baf429889ca22eaf8e7028ecb0061918c03dbd",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-12-02T15:58:58+01:00",
+  "timestamp": 1606921138,
+  "message": "Fix-hipcc-once-more-20095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1ca2a43467e45779e04055c0d7df00f518d049f",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-11-11T21:54:25+05:30",
+  "timestamp": 1605111865,
+  "message": "ROCm3.9-recipe-for-rocblas-hipblas-rocsolver-19841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e8be35c25cdd51543faba53578e34286b728fc3",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-10-02T18:14:12+02:00",
+  "timestamp": 1601655252,
+  "message": "Bump-rocblas-to-3.8.0-19027",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6d87cbdb524c0fad2100f8fa15b0c76dce432750",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-09-03T02:50:05+02:00",
+  "timestamp": 1599094205,
+  "message": "Add-rocm-3.7.0-libs-18366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "207eadc1b2f1b9e6651798fd75fb623b8882b3b0",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-17T02:42:43+02:00",
+  "timestamp": 1597624963,
+  "message": "Add-rocBLAS-18069",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,440 @@
+[{
+  "commit": "5b77046e2020763f8460263b03750319594b0762",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2021-04-08T14:10:36+02:00",
+  "timestamp": 1617883836,
+  "message": "ncurses-add-determine_variants-for-abi-version-22647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "220c0d9cfcdf273a8f15daea8eae7541f1a9245f",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2021-03-30T16:57:15+02:00",
+  "timestamp": 1617116235,
+  "message": "cuda-add-dev-variant-and-ABI-variant-for-ncurses-22536",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "458dc8187824df724125637fc787b0efaea70513",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-19T16:32:05-05:00",
+  "timestamp": 1600551125,
+  "message": "ncurses-fix-libs-method-18799",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afb0883762571a364c9b401334133417a779e484",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-09-11T14:00:11-07:00",
+  "timestamp": 1599858011,
+  "message": "ncurses-adding-external-support.-18609",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e41208c65a4b0d873a4d6180ea397f12a2f1734",
+  "author": "Luke Dalessandro <ldalessa@iu.edu>",
+  "date": "2020-09-04T13:54:44-07:00",
+  "timestamp": 1599252884,
+  "message": "Build-libtinfo.so-with-versioned-syms-when-it-is-enabled-in-ncurses.-18511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4d25632e59dda75744a618da45014e03a4f031f9",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T17:30:24-07:00",
+  "timestamp": 1587083424,
+  "message": "macOS-Fix-emacs-Linking-16106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bacbaeb5638cf39196ed8cf3d18f665c208219da",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T15:27:30-07:00",
+  "timestamp": 1587076050,
+  "message": "ncurses-forward-termlib-libs-16101",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e547f58ab21423ec9f4be68f51c522958a736cd",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-03-16T03:43:21-04:00",
+  "timestamp": 1584344601,
+  "message": "ncurses-added-v6.2-15494",
+  "repo": "spack/spack"
+},
+{
+  "commit": "578e8031ce80b9dc66c197495be6ffe764868702",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-26T14:27:12-05:00",
+  "timestamp": 1582745232,
+  "message": "Default-to-termlib-for-ncurses-for-LLVM-15039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b1d800d537527b75c8f8acde366f3672016cc9d",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-11-23T20:47:59-07:00",
+  "timestamp": 1574567279,
+  "message": "ncurses-don-t-run-strip-internally-13843",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01b87259e2880c76fab85bd7f5defdc98e9e592b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-10T12:07:05-05:00",
+  "timestamp": 1570727225,
+  "message": "ncurses-https-http-13097",
+  "repo": "spack/spack"
+},
+{
+  "commit": "331e4e32befc3f2911b237b822b38413448851a6",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2019-09-07T20:27:07-07:00",
+  "timestamp": 1567913227,
+  "message": "ncurses-improve-build-time-12621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f84db881bf93d428aed101edf84e9dfa649317a",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-08-06T22:21:25-05:00",
+  "timestamp": 1565148085,
+  "message": "ncurses-fix-pic-and-opt-flags-12272",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ff277370410e0551ed4a21da87d3da39d63638e",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2019-07-23T10:13:41-05:00",
+  "timestamp": 1563894821,
+  "message": "ncurses-remove-TERMINFO-from-build-env-12086",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73c978ddd99973e29f2ba42078b10455c1de5ca8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-15T11:30:09-05:00",
+  "timestamp": 1534350609,
+  "message": "install_tree-copy_tree-can-install-into-existing-directory-structures-8289",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f57ce38c41c36aa71d558fe6dba048bbf38e5d7d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-05-23T13:27:22-05:00",
+  "timestamp": 1527100042,
+  "message": "Add-ncurses-6.1-8257",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4c84be91b43a6b3c703580a5d781547555e0b01",
+  "author": "Peter Doak <PDoakORNL@users.noreply.github.com>",
+  "date": "2017-12-19T02:36:54-05:00",
+  "timestamp": 1513669014,
+  "message": "Emacs-added-gnutls-variant-tested-on-Centos-7-6711",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1cb98167a2ca0f7153d4ceca2e17c2b49d5992cc",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-14T22:37:50+10:00",
+  "timestamp": 1494765470,
+  "message": "ncurses-build-normal-libs-not-just-wide-char-libs-for-ncurses-6-4246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "692a100caadc2820102307bb2ed70e2afb03adfd",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-05-09T18:59:46-04:00",
+  "timestamp": 1494370786,
+  "message": "ncurses-Always-build-tools-4174",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a32a0eacba7f9fe5287ae0e8e9ff047580d91de8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T14:24:50-05:00",
+  "timestamp": 1493493890,
+  "message": "Add-a-new-package-for-dash-4050",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15692c5475dba43b8410857079896ece5890986c",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-04-28T12:57:55-07:00",
+  "timestamp": 1493409475,
+  "message": "ncurses-package-builds-ncurses-and-ncursesw-3953",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91d82c44e623737a4f23838c7e390169ba0768d1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-14T09:38:13-05:00",
+  "timestamp": 1492180693,
+  "message": "Remove-mawk-dependency-from-ncurses-3782",
+  "repo": "spack/spack"
+},
+{
+  "commit": "745e2ce52ffb33a8da9856e64c4571303f274163",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-05T16:03:11-05:00",
+  "timestamp": 1491426191,
+  "message": "Fixes-needed-to-build-htop-3691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4866b4592fedab14890e9173e86f1300a1bad933",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T19:13:32-05:00",
+  "timestamp": 1489882412,
+  "message": "Add-missing-dependencies-to-gawk-3481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "415c9398d2bbf258fcfb1757bb675fd5f0c6d573",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-14T10:43:02-04:00",
+  "timestamp": 1489502582,
+  "message": "ncurses-Use-gawk-as-awk-3425",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60665264922babfc52882dc47bccfece7f231421",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2017-03-10T11:48:03-07:00",
+  "timestamp": 1489171683,
+  "message": "Confining-CPPFLAGS-P-to-only-happen-for-GCC.-3404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3e4fced7d8057dbb5bb4a364b91e386abaedefaa",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-04T08:49:12-05:00",
+  "timestamp": 1488635352,
+  "message": "ncurses-Work-around-an-awk-bug-3361",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ebd49c96239e64f963b7df9e8f33d7544b60780",
+  "author": "healther <healther@users.noreply.github.com>",
+  "date": "2017-02-21T00:14:44+01:00",
+  "timestamp": 1487632484,
+  "message": "add-symlink-variant-needed-for-AFS-3147",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f6001112199524910e7754e13564e7f5d107d05",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-02-17T13:39:05-06:00",
+  "timestamp": 1487360345,
+  "message": "Add-patch-to-allow-ncurses-to-be-built-with-PGI-3135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "851b58248dd12dd23b15075a97b26d301591343b",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-09-21T06:02:07-05:00",
+  "timestamp": 1474455727,
+  "message": "Build-pkg-config-files-for-ncurses-1673",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "380a2b23e66fe0acfd16f9e72499c7bd42597eaf",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-04-06T15:57:03-05:00",
+  "timestamp": 1459976223,
+  "message": "Add-bash-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e8f5a85ffd039c3c63045c0e06a41b98d98008d3",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2015-10-27T13:50:59-04:00",
+  "timestamp": 1445968259,
+  "message": "ncurses-update-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7182671f8f63d4071ad7cfae5fec8ffda9c5b901",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2015-08-03T11:59:52-07:00",
+  "timestamp": 1438628392,
+  "message": "pre-alpha-flux-build-and-requisite-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "588955a98732b208f60a741d00ee3eaabd74f1a6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-05T08:45:51-08:00",
+  "timestamp": 1417797951,
+  "message": "Disable-pkgconfig-files-until-I-support-this-better",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6c8c41da98a01d595b8ef77175e2c717accf02d7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-11-03T00:15:05-08:00",
+  "timestamp": 1415002505,
+  "message": "Working-Python-2.7.8-ncurses-readline",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e402a2e27cc2942a20916615c8eb06999c0320e6",
+  "author": "David Beckingsale <davidbeckingsale@gmail.com>",
+  "date": "2014-05-30T09:18:01-07:00",
+  "timestamp": 1401466681,
+  "message": "Added-tmux-and-supporting-packages-ncurses-and-libevent",
+  "repo": "spack/spack"
+}]

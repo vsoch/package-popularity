@@ -1,0 +1,48 @@
+[{
+  "commit": "22425da038d685e94b6db6f91fca0df83efc594d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-03-22T19:22:41+01:00",
+  "timestamp": 1616437361,
+  "message": "IPython-add-v7.21.0-and-updated-dependencies-accordingly-22448",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d2b08a971ded9fa4bf3a3d7c69c15e589b6adab",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2021-02-19T14:14:01+01:00",
+  "timestamp": 1613740441,
+  "message": "py-parso-add-v0.8.1-21798",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f46f238a339716e8221ec2ee1860a5e85d05de23",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2020-02-19T20:01:48+01:00",
+  "timestamp": 1582138908,
+  "message": "Add-extra-version-of-py-jedi-14990",
+  "repo": "spack/spack"
+}]

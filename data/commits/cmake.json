@@ -1,0 +1,1168 @@
+[{
+  "commit": "fef05621a77ee8b62b318370e1ec7bf39502eb7c",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-23T19:10:09+02:00",
+  "timestamp": 1619197809,
+  "message": "Bootstrap-with-O3-in-cmake-23147",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17ea01fbce8c4b64c6ae35ff7fef1a3971b5fe0d",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-13T18:46:19+02:00",
+  "timestamp": 1618332379,
+  "message": "bump-cmake-22961",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f713ebcb016b7eb3ce4d6400ea7daefc89d755af",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-26T22:22:14+01:00",
+  "timestamp": 1616793734,
+  "message": "cmake-Add-Version-3.20.0-22569",
+  "repo": "spack/spack"
+},
+{
+  "commit": "982d1afd01c5d64d9dbf50a6ca55ba851e4c5b16",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-23T12:59:21+01:00",
+  "timestamp": 1616500761,
+  "message": "cmake-new-version-22469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29e36e7a17c15003050d27801533f60fef27940e",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-22T14:54:54+01:00",
+  "timestamp": 1616421294,
+  "message": "cmake-new-version-22450",
+  "repo": "spack/spack"
+},
+{
+  "commit": "126ab70420f71e3c5821600228cc8f1e905faad2",
+  "author": "James Elliott <jjellio@users.noreply.github.com>",
+  "date": "2021-03-08T11:54:46-07:00",
+  "timestamp": 1615229686,
+  "message": "Update-Cmake-3.19.x-to-support-crayftn-preprocessing-cce-11-22122",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27ef9f0e078f5abc897d2fd891a1afe9908b6532",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-26T09:49:00+01:00",
+  "timestamp": 1614329340,
+  "message": "CMake-add-a-build_type-variant-21958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e16fcfd917937afaa1ce198d34ca9f2c6fc6ae6",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-18T10:53:05+01:00",
+  "timestamp": 1613641985,
+  "message": "cmake-add-v3.18.6-v3.19.5-21725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0760c7c704d6866ad20ccf0e50782732a5011b0f",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-02-09T18:48:34+01:00",
+  "timestamp": 1612892914,
+  "message": "Add-more-cmake-patch-releases-21562",
+  "repo": "spack/spack"
+},
+{
+  "commit": "694d633a2c46505b5bcb2e57a52966e37c36477e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-02-04T13:17:32+01:00",
+  "timestamp": 1612441052,
+  "message": "spack-external-find-allow-to-search-by-tags-21407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e858bb2961deedcacc52cc1e209aada8b6a853d3",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-12-17T20:25:51+01:00",
+  "timestamp": 1608233151,
+  "message": "cmake-Add-Version-3.19.2-20448",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adccaa7af599e3b31f6cf0b1cd8d17ddca8ace8a",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-11-26T10:18:22+01:00",
+  "timestamp": 1606382302,
+  "message": "Add-cmake-3.19.1-20118",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c41782795433cc3241d9a6038c68bcadbb12b838",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-19T17:43:52+01:00",
+  "timestamp": 1605804232,
+  "message": "cmake-Add-Version-3.19.0-19996",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ccc331af2633f611ad7fc84ff5ee6dd3e9ef7639",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-23T11:00:16-05:00",
+  "timestamp": 1603468816,
+  "message": "CMake-fix-narrow-versions-that-the-PGI-patch-is-applied-to-19495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0015dd0bf8ff16344a18185f11d565fbf7094b0e",
+  "author": "Scott McMillan <scott.andrew.mcmillan@gmail.com>",
+  "date": "2020-10-22T16:42:48-05:00",
+  "timestamp": 1603402968,
+  "message": "Enable-packages-to-use-the-NVIDIA-HPC-SDK-19452",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1423e21fb5b435673bdd4068cdd19a2de4c18de",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-15T08:28:09-05:00",
+  "timestamp": 1602768489,
+  "message": "CMake-added-v3.18.3-and-v3.18.4-19302",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7c9fe7bcbdb656573d4266cba3e8fa475ba5544e",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-31T17:52:18+02:00",
+  "timestamp": 1598889138,
+  "message": "Add-more-cmake-patch-versions-18422",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a6c0b7ab3aeb0ef8670e03ed6bcf62bb38d1d274",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-08-26T23:51:00-07:00",
+  "timestamp": 1598511060,
+  "message": "CMake-Update-GCC-on-macOS-Conflict-message-18253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a483b0b9ddf720d7be914691b8d40203bf2088af",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-08-24T17:03:11-07:00",
+  "timestamp": 1598313791,
+  "message": "CMake-3.18.2-18244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a14648ffd0bfdb447a5aa7f996afee01454cf5e3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T01:40:58-05:00",
+  "timestamp": 1597387258,
+  "message": "external-packages-redirect-stderr-too-18037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c024a55da82dee2ccac5f3c0486192068784df8f",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-08-12T20:53:55-04:00",
+  "timestamp": 1597280035,
+  "message": "cmake-Add-version-3.16.3-18034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0d490ffbe7268e72b3214764d7b03aee9f65502",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-31T13:07:48+02:00",
+  "timestamp": 1596193668,
+  "message": "Simplify-the-detection-protocol-for-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9318029b636426fe1d7cbbb070e83dbb0c8b78a1",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2020-08-04T06:12:07+02:00",
+  "timestamp": 1596514327,
+  "message": "Bump-cmake-17852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7fbd6c53ed97ab838ab149607a39d30e5bde9c5",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-07-30T05:17:32+02:00",
+  "timestamp": 1596079052,
+  "message": "CMake-Fix-compilation-with-Intel-compilers-on-some-systems.-17693",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9c1b62d383ea487932a44e7fc3d74d4ba27425d",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-07-24T15:02:08+02:00",
+  "timestamp": 1595595728,
+  "message": "CMake-added-v3.18.0.-17688",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c12885768d0afb72698de987f346752695b15e03",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-06-30T10:37:06-06:00",
+  "timestamp": 1593535026,
+  "message": "cmake-v3.17.3-17313",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89cc507cf6e5fb0c943b207a70a4f43d165c5ade",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-05T20:29:36+09:00",
+  "timestamp": 1591356576,
+  "message": "cmake-add-linker-option-for-VerifyFortranC-when-using-Fujitsu-compiler.-16963",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3be6d903aef539e54320f35d8d3b18fca830c25",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-05T20:25:02+09:00",
+  "timestamp": 1591356302,
+  "message": "cmake-modify-FindMPI.cmake-to-treat-Fujitsu-MPI-correctly-16864",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b030a81a5f1d4a02cf611fc771bbeaf0bfc7963e",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2020-05-05T17:37:34-07:00",
+  "timestamp": 1588725454,
+  "message": "Automatically-find-externals-15158",
+  "repo": "spack/spack"
+},
+{
+  "commit": "de71b2828f1813e7cb4b1ae556aee0a78850a3e1",
+  "author": "Jennifer Green <jgreen@lanl.gov>",
+  "date": "2020-05-05T12:02:49-06:00",
+  "timestamp": 1588701769,
+  "message": "CMake-Cray-XC40-system-errors-bootstrapping-CMake-16459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31eff3578fbd4591bbdfd98aacff4e63704145bc",
+  "author": "Amjad Kotobi <amjadkotbi@gmail.com>",
+  "date": "2020-04-27T20:19:10+02:00",
+  "timestamp": 1588011550,
+  "message": "cmake-added-version-3.17.1-16326",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d0bff870a6b3af5122c251d697c6d5a3f221d96c",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-22T17:41:33-07:00",
+  "timestamp": 1587602493,
+  "message": "macOS-GCC-Conflicts-CMake-libuv-CPython-16249",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8078089914b9df029bc98f87d0dd29de0018a403",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2020-04-02T03:06:21-06:00",
+  "timestamp": 1585818381,
+  "message": "cmake-added-v3.17.0-15822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a18bfbae813d9c9df52fb0c737c9a4308215cc0",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-03-23T19:03:25-05:00",
+  "timestamp": 1585008205,
+  "message": "CMake-add-version-3.9.2-15644",
+  "repo": "spack/spack"
+},
+{
+  "commit": "410ad0b1589001c39182c05588ee475154200682",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-03-16T03:42:49-04:00",
+  "timestamp": 1584344569,
+  "message": "cmake-added-v3.16.5-15492",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03d32c868a6cd8f7160d211edf057cb7b2e53fab",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-02-17T19:26:35+01:00",
+  "timestamp": 1581963995,
+  "message": "cmake-Fix-spack-install-inside-ctest-14889",
+  "repo": "spack/spack"
+},
+{
+  "commit": "94971d519c495fc134e60078f7904c424ff77aa8",
+  "author": "albestro <9337627+albestro@users.noreply.github.com>",
+  "date": "2020-02-03T17:26:38+01:00",
+  "timestamp": 1580747198,
+  "message": "Fix-CMake-and-update-libarchive-14684",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54ecc4e504b98f2482e85929a4b75ebb4a731b1b",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-01-21T20:05:42+01:00",
+  "timestamp": 1579633542,
+  "message": "cmake-Fix-patch-checksum-14542",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26ffbe3d216cca82838915d56033b3b132f35b52",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2020-01-08T13:17:53-05:00",
+  "timestamp": 1578507473,
+  "message": "cmake-Create-an-optimized-release-build-14414",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "37c1d2d004b3a18822aa2b282dd1f45fb690fc4a",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2019-12-24T17:05:54+01:00",
+  "timestamp": 1577203554,
+  "message": "cmake-add-version-3.16.2-14291",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c6594083685632c4f5cb8011417bdfe8d0245cd1",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-12-13T13:53:19-05:00",
+  "timestamp": 1576263199,
+  "message": "Update-CMake-to-version-3.16-14152",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ddfca1b2f260678078bcaf3b3bb7c82a762639e9",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-12-13T03:57:23+09:00",
+  "timestamp": 1576177043,
+  "message": "cmake-Fix-checksum-of-4075.patch-14125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d3d03dea99cace26ac7440227edf341167c3bed",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-11-26T09:29:25-07:00",
+  "timestamp": 1574785765,
+  "message": "cmake-add-support-for-xlf-and-ninja-13796",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e670476024e0bbd990a55d4ac26545d4bff083c8",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2019-11-14T17:27:36-05:00",
+  "timestamp": 1573770456,
+  "message": "Mark-conflicts-between-newer-packages-and-Intel-14-compilers-13729",
+  "repo": "spack/spack"
+},
+{
+  "commit": "901da240f39a4befd30eaf149472b3ebdeef23eb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-11T04:25:50-06:00",
+  "timestamp": 1573467950,
+  "message": "CMake-added-version-3.13.5-13671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0a8be4e31132ffceaac3967f815e8b5f4f2f8d95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-12T19:52:47-05:00",
+  "timestamp": 1570927967,
+  "message": "Add-cmake-3.15.4-13148",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b11a98abf015d3af6b653eea98443708612ad9ea",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-09-17T13:13:39-06:00",
+  "timestamp": 1568747619,
+  "message": "cmake-add-v3.15.-2-3-12847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee1c36a2b02e7e9d0b26ebd000074c0b97bda416",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-07-29T12:13:52-07:00",
+  "timestamp": 1564427632,
+  "message": "update-cmake-3.15.1-checksum-12182",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d0c3e482f02aea7a213125a6d5ed5dc6e8f24c0",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-07-27T13:21:03-04:00",
+  "timestamp": 1564248063,
+  "message": "cmake-Bump-to-3.15.1-12151",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e614d4b4813b2a92bf33cecec7b124a43f23146c",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-07-25T13:23:01-04:00",
+  "timestamp": 1564075381,
+  "message": "cmake-Add-a-patch-to-revert-a-findmpi-regression-12129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d690edfb2685de52aa13ef33aa88128ee6a3825",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-07-25T00:28:22+09:00",
+  "timestamp": 1563982102,
+  "message": "cmake-fix-cxx98flag-s-name-12114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69c302f4552d87b7d8a6153b29fde38dada28661",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-07-22T18:33:40-04:00",
+  "timestamp": 1563834820,
+  "message": "cmake-Move-cxx11-flags-for-fujitsu-into-the-flag_handler-method-12056",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be1ff83d1c0a15301f42ed973e336d0a291411a",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2019-07-18T18:28:22-05:00",
+  "timestamp": 1563492502,
+  "message": "cmake-add-version-3.15.0-12058",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d9e67d9535ee9db663fb953b115a79b73da237a",
+  "author": "t-karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2019-07-18T01:49:36+09:00",
+  "timestamp": 1563382176,
+  "message": "Cmake-add-option-for-fujitsu-compiler-11839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e392bf0412f76b4e71f50b0152e0b9168d9967d9",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-07-05T15:28:23-06:00",
+  "timestamp": 1562362103,
+  "message": "cmake-add-v3.14.5",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0953cd3a2efae8f05bf8bf7cecf346763e686541",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-06-10T11:19:26-04:00",
+  "timestamp": 1560179966,
+  "message": "Remove-gnutls-dependency-and-disable-openssl-when-appropriate-11646",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e57edebb50c74034751e855929f87c5b4a05944d",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2019-05-22T14:46:52-06:00",
+  "timestamp": 1558558012,
+  "message": "Add-CMake-3.14.3-and-3.14.4.-11534",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23c48d94d346163f3624f210f7239a84df9f6310",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-05-17T08:47:58+02:00",
+  "timestamp": 1558075678,
+  "message": "cmake-default-to-ownlibs-to-improve-build-times-11483",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eae9b0908af0e6bc8582f660a20d02b88a808d94",
+  "author": "Leonhard Reichenbach <Zehvogel@users.noreply.github.com>",
+  "date": "2019-05-15T19:07:31+02:00",
+  "timestamp": 1557940051,
+  "message": "CMake-package-add-dependencies-11257",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd97cf9315c7c3073798453a772a43eeff4cdc59",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-04-15T17:17:24-05:00",
+  "timestamp": 1555366644,
+  "message": "cmake-add-version-3.14.2-11192",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6034ddfed82a7d110ea5124d5a38f22fb47d1a10",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-31T19:22:59-05:00",
+  "timestamp": 1554078179,
+  "message": "cmake-add-version-3.14.1-11063",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd09ab697b2a943a86f50f3ffb62cf5b0105de38",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-15T11:49:59-05:00",
+  "timestamp": 1552668599,
+  "message": "cmake-add-version-3.14.0-10908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42633e34ab0f7db7df5dc79aabfa63df31dd47a6",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-03-08T02:42:24+08:00",
+  "timestamp": 1551984144,
+  "message": "CMake-package-update-libuv-dependency-constraints-10824",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4d402586c949b167334c7f53f2889017ae6ce9d",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-02-07T02:15:32-06:00",
+  "timestamp": 1549527332,
+  "message": "cmake-add-version-3.13.4-10538",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be38fded9b600bafa736da2b413edf5ae7c6fed0",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-01-30T21:24:20-05:00",
+  "timestamp": 1548901460,
+  "message": "cmake-Fix-linker-errors-on-Darwin-when-using-external-dependencies-10467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3266c69352b17bc4d76d59ed9d3cb4869ff5b9ad",
+  "author": "Chuck Atkins <chuck.atkins@kitware.com>",
+  "date": "2019-01-26T09:11:32-06:00",
+  "timestamp": 1548515492,
+  "message": "cmake-Use-system-libs-by-default-10424",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab00de9e817db66ed0eab2bf3ad13d20b2d78173",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-01-20T07:14:37-06:00",
+  "timestamp": 1547990077,
+  "message": "cmake-add-version-3.13.3-10397",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "289ad8f3756b9cad314d38ed87f96eb8c78d6377",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-12-13T17:35:58-06:00",
+  "timestamp": 1544744158,
+  "message": "cmake-add-version-3.13.2-10092",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dfb02fd078746736e5d31b6b269ca8d3b558ee35",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-12-04T06:09:49-06:00",
+  "timestamp": 1543925389,
+  "message": "cmake-add-version-3.13.1-9983",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d033a042c2f2b7ddad740cf6013c7edaa670434",
+  "author": "Robert Maynard <robert.maynard@kitware.com>",
+  "date": "2018-12-03T13:35:51-05:00",
+  "timestamp": 1543862151,
+  "message": "Download-CMake-sources-from-the-Github-releases-10003",
+  "repo": "spack/spack"
+},
+{
+  "commit": "25b9938ad12e6546b27eee01cba89cbe3f5341f0",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-11-24T15:23:10-05:00",
+  "timestamp": 1543090990,
+  "message": "cmake-add-version-3.13.0-9940",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e20efb3f8f592c907c2bc2e2c0633bad0dd49dc3",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-11-13T18:34:09+01:00",
+  "timestamp": 1542130449,
+  "message": "cmake-add-3.12.4-9758",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "13c83b8ca4d843989dcbcc69df01b0bb1f9d525c",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-10-15T14:40:38-05:00",
+  "timestamp": 1539632438,
+  "message": "cmake-add-version-3.12.3-9528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "466bc20874efc4a555348cb8b45e8b084a24670b",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-09-14T11:36:39-05:00",
+  "timestamp": 1536942999,
+  "message": "cmake-add-version-3.12.2-9248",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84675e50d12c7e0e77f0b1f8415f233d4741fe06",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2018-08-11T21:38:20+08:00",
+  "timestamp": 1533994700,
+  "message": "Add-new-versions-for-cmake.-8955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec174dae69e3e2722c767d0ff03175376b0e4b2a",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-08-02T18:17:15+02:00",
+  "timestamp": 1533226635,
+  "message": "CMake-patch-for-NAG.-8869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23b685084935cd8730f7e29175cfa2e1883e15b4",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-08-02T01:53:53+02:00",
+  "timestamp": 1533167633,
+  "message": "Conflict-for-cmake-3.11.x-and-Intel.-8855",
+  "repo": "spack/spack"
+},
+{
+  "commit": "111512ce7b6ceacdfd2b066b332743ec72ead989",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-07-17T17:56:04-05:00",
+  "timestamp": 1531868164,
+  "message": "Cmake-add-version-3.12.0-8731",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a14b1cac9ef820593100865baeaeb11d37de3480",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-06-21T15:34:33-05:00",
+  "timestamp": 1529613273,
+  "message": "cmake-update-package-8539",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fed9cf07778c7b25246b766c67e78708f8f6a6c8",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-06-02T18:24:37-05:00",
+  "timestamp": 1527981877,
+  "message": "cmake-update-version-8357",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f3f9d04c3290716a56569582b56c8b03ab4585cc",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-05-17T19:48:46-05:00",
+  "timestamp": 1526604526,
+  "message": "cmake-update-version-8178",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d950aeee095ce789e0d4458d6c506adba61f2ae5",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2018-04-17T17:26:03-05:00",
+  "timestamp": 1524003963,
+  "message": "cmake-update-version-7802",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1dc7b3d3460e8ec45f1dcef86f3e089f425def05",
+  "author": "Matthias Diener <mdiener@illinois.edu>",
+  "date": "2018-03-29T04:36:55-05:00",
+  "timestamp": 1522316215,
+  "message": "cmake-update-package-7633",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8ad40babd624b4ca512639848ef72235fff34bf3",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-03-09T09:18:58+01:00",
+  "timestamp": 1520583538,
+  "message": "cmake-new-version-7429",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dd7baa61db49df86190f5773e1153e4f458125b",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-11T17:06:53+01:00",
+  "timestamp": 1515686813,
+  "message": "Updated-misc-devel-tools.-6897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27b9d2614c8e6cd6c48e38e6e949bad3ac17743f",
+  "author": "BenBrands <benjamin.brands@fau.de>",
+  "date": "2017-11-21T16:04:53+01:00",
+  "timestamp": 1511276693,
+  "message": "CMake-add-3.10.0-6393",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44653dc7aaa02bf1ddd6436903e999eabf651051",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-10-05T16:57:20+02:00",
+  "timestamp": 1507215440,
+  "message": "CMake-3.9.4-5614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "187f4420e20f97be5a812305754a477b6a897a91",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-17T08:17:45-05:00",
+  "timestamp": 1502975865,
+  "message": "Add-new-package-for-rhash-a-cmake-dependency-5120",
+  "repo": "spack/spack"
+},
+{
+  "commit": "323d2d9aed299b78fea67aa6d8d98889464cebe9",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2017-08-08T00:41:34+02:00",
+  "timestamp": 1502145694,
+  "message": "CMake-3.9.0-5009",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff6ebe30e07aa105e9b5eb36bb24d1339ec9e476",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-05-19T18:31:20-04:00",
+  "timestamp": 1495233080,
+  "message": "cmake-new-version-4274",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fad4ce21cc0f1400d5591307b01d22d2ab2153ad",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2017-04-18T09:59:59-06:00",
+  "timestamp": 1492531199,
+  "message": "Provide-version-3.8.0-of-CMake.-3882",
+  "repo": "spack/spack"
+},
+{
+  "commit": "221f17971634e43950f90333776589c4d0bf0ce3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-04-01T14:03:54-07:00",
+  "timestamp": 1491080634,
+  "message": "Add-better-tests-for-web.py-fix-some-bugs-found-with-spidering",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acb9281dbf41c30535d18a9adb432e218b1f22b3",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-02-03T14:35:16-08:00",
+  "timestamp": 1486161316,
+  "message": "Different-versions-of-cmake-need-diff-vers-of-openssl-2993",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a23fcd2a937624d37595deb90e474ed8a34a44bc",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-01-18T11:17:31-05:00",
+  "timestamp": 1484756251,
+  "message": "cmake-Update-to-3.7.2-2853",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fce4c5083bf218cc53049915f6853152f37f7bc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-15T05:16:41-06:00",
+  "timestamp": 1484479001,
+  "message": "Add-list_url-to-cmake-2714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aeb58dc2def4382a9eb2bcd671ae7d38a288656e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-12-19T01:20:13+01:00",
+  "timestamp": 1482106813,
+  "message": "cmake-add-3.7.1-2618",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8239bd1681f294778b690aefd6eca6215df2c8aa",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-07T12:33:54-05:00",
+  "timestamp": 1481132034,
+  "message": "cmake-added-checksum-for-3.1.0-version-2508",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3024c0096a88339116dac2c433dddde1ece24053",
+  "author": "Andrey Prokopenko <aprokop@users.noreply.github.com>",
+  "date": "2016-12-01T20:51:00-05:00",
+  "timestamp": 1480643460,
+  "message": "cmake-update-the-requirements-for-no-system-jsoncpp-option-2312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8c0c3263e282d95517f251b5c6e357f27e26d179",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-11-12T23:26:40-05:00",
+  "timestamp": 1479011200,
+  "message": "Simplify-the-CMake-build-to-make-it-more-robust.-2325",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8426b6559244a0062afa201ac7bffe04104724e1",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:14:37-04:00",
+  "timestamp": 1474362877,
+  "message": "Make-cmake-2.8-build-again-1759",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eace068788956fbceb240f41949af54fa62db82c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T15:21:23-05:00",
+  "timestamp": 1472070083,
+  "message": "Use-self.run_tests-for-make-check",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70bb1f1707b5f6ce8a0c79a2cf51a8f27b9dc67f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T14:39:05-05:00",
+  "timestamp": 1472067545,
+  "message": "Reduce-number-of-variants-just-use-system-or-no-system-libs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41750ce70d698240d00603e66b8053f45a8b6dd5",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-24T10:45:13-04:00",
+  "timestamp": 1472049913,
+  "message": "Update-cmake-to-3.6.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b47357d73c66c3ae9f2a5fa6bcba011b14f1d162",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-04T15:07:43-05:00",
+  "timestamp": 1470341263,
+  "message": "Add-patch-for-Intel-compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fc20487e488c2306b36d83e2188554aebae4b31",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-01T12:37:36-05:00",
+  "timestamp": 1470073056,
+  "message": "Flake8-and-formatting-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "534e1cbf1b1f11ce37e216e2ebf48d623846120b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-01T12:23:39-05:00",
+  "timestamp": 1470072219,
+  "message": "Some-tests-don-t-pass-with-Intel-compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee5e20dae3034032d166bd5361811530397a503e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-01T11:18:48-05:00",
+  "timestamp": 1470068328,
+  "message": "Add-dependencies-to-libarchive-and-cmake",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7551e4c14f2f88c00f147684b01a72a69e3ecce5",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2016-07-10T18:02:51-07:00",
+  "timestamp": 1468198971,
+  "message": "cmake-3.6.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "523be30974c4630450e779a9814d685716dd312e",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-04-16T23:11:19-06:00",
+  "timestamp": 1460869879,
+  "message": "Add-CMake-version-3.5.2.-787",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4eff6de3faa3624a529015ea4cf5ebb1af41484",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-29T17:10:49-06:00",
+  "timestamp": 1459293049,
+  "message": "New-version-of-cmake-3.5.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bba66cbe2836e364b58a611a5a5f5ae0d9692df4",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2016-03-20T19:27:22-07:00",
+  "timestamp": 1458527242,
+  "message": "cmake-depend-on-openssl-when-openssl-variant-true",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d493658a583231eeb778613cf7b6c8c8641c63a0",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2016-03-20T15:18:36-07:00",
+  "timestamp": 1458512316,
+  "message": "cmake-package-add-variant-for-openssl-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f5e8857c5e44719778e531bcc149c9fe228240b3",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-11T09:51:12-07:00",
+  "timestamp": 1457715072,
+  "message": "Rename-variant-sphinxbuild-to-doc-as-recommended-in-the-discussion-of",
+  "repo": "spack/spack"
+},
+{
+  "commit": "23cbc2b1d9dc5816c63f330640105c5435ccdc22",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-08T09:44:21-07:00",
+  "timestamp": 1457455461,
+  "message": "Provide-download-build-instructions-for-qt-5.4.2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8174489787c56cee1726ca36799c236e4869f471",
+  "author": "Kelly (KT) Thompson <kgt@lanl.gov>",
+  "date": "2016-03-01T15:25:57-07:00",
+  "timestamp": 1456871157,
+  "message": "Provide-two-new-variants-for-cmake",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1b3c286ef3817c63b9566d6b64ea330fc739903",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-02-03T16:28:09-06:00",
+  "timestamp": 1454538489,
+  "message": "Add-url-for-cmake-simplify-url_for_version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e51e207f9450af257f4795ecf4c405c9b23b3e7",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2015-11-18T15:17:48-05:00",
+  "timestamp": 1447877868,
+  "message": "Update-cmake-to-3.4.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8821715377147ae017d428d8c1216576de0b79e1",
+  "author": "Cyrus Harrison <cyrush@llnl.gov>",
+  "date": "2015-08-19T14:18:02-07:00",
+  "timestamp": 1440019082,
+  "message": "add-version-based-url-map-for-cmake-provide-md5-for-cmake-3.3.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36a87f5bf9884978ba1f672322d9b7f663cf4f58",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T03:07:54-07:00",
+  "timestamp": 1412762874,
+  "message": "Update-documentation-to-add-an-auto-generated-list-of-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a913cbbd0795820e6f5d9359c1420fdeb2584d8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-26T02:42:41-08:00",
+  "timestamp": 1390732961,
+  "message": "Fix-bug-in-make-jobs-parameter",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93e288859adc8e14ab9f7fde9d842f185f0d4954",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-06T14:14:57+01:00",
+  "timestamp": 1389014097,
+  "message": "Simpler-prefix-args",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5899308ad371790c4c89399f61a23f6ed1e5d0fc",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-02-21T20:05:11-08:00",
+  "timestamp": 1361505911,
+  "message": "Parallel-bootstrap-for-cmake",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc76c0f5f9f8021cfb7423a226bd431c00d791ce",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-02-13T17:50:44-08:00",
+  "timestamp": 1360806644,
+  "message": "Initial-version-of-spack-with-one-package-cmake",
+  "repo": "spack/spack"
+}]

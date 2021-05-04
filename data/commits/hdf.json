@@ -1,0 +1,232 @@
+[{
+  "commit": "06f65afdd5e1b2be8274ebfb76821b790b3897e0",
+  "author": "Kurt Sansom <kayarre@gmail.com>",
+  "date": "2021-01-21T17:07:28-06:00",
+  "timestamp": 1611270448,
+  "message": "hdf-build-with-gcc10-20773",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fff2f34de87d6f1a8018f7fe842846a5637850ca",
+  "author": "Larry Knox <lrknox@hdfgroup.org>",
+  "date": "2020-09-18T21:38:56-05:00",
+  "timestamp": 1600483136,
+  "message": "Hdf5-1.10.7-18712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a8d36d828dcbba1b3c5607eebada16953b626ee",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-17T03:54:30-05:00",
+  "timestamp": 1597654470,
+  "message": "hdf-external-xdr-does-not-build-on-macOS-18085",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff44a6d03faaa8f932c861c5b4b2cf6cd0deefe8",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-05-26T02:20:04+02:00",
+  "timestamp": 1590452404,
+  "message": "hdf-new-version-variants-and-refactoring-16469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "343a499aa85a0571ff4b107aa32303481b8bc82e",
+  "author": "Tom Payerle <payerle@umd.edu>",
+  "date": "2020-04-10T14:23:05-04:00",
+  "timestamp": 1586542985,
+  "message": "hdf-Add-option-to-link-against-libtirpc-package-15993",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "53a4ea43c87d217506b3463d16e00de1627a9819",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-16T01:45:24-05:00",
+  "timestamp": 1560667524,
+  "message": "Add-HDF-4.2.14-11723",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9933d759ac2c2d68235b52c02416750dacb9d5e1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-29T21:38:47-05:00",
+  "timestamp": 1498790327,
+  "message": "Update-hdfgroup-packages-to-new-URL-structure-4643",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5988b3a2224076438bc13ff51bd13a74c7725573",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-11T03:36:40-05:00",
+  "timestamp": 1476175000,
+  "message": "More-specific-dependency-versions-wrap-make-check-1962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95b07c365ce07962eb00eb2c440f78eeb2028d10",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-10-05T12:37:35-05:00",
+  "timestamp": 1475689055,
+  "message": "Add-latest-versions-resolve-variant-resolution-bug-1909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf925ddc97301f92a05a9bb90f3f38a96eacc94e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-09-21T06:16:57-05:00",
+  "timestamp": 1474456617,
+  "message": "Add-missing-build-dependencies-to-hdf-package-1812",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6122642b818a6f1cfa999482949fed7154b2dbf0",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-27T16:16:33-06:00",
+  "timestamp": 1453932993,
+  "message": "More-NetCDF-changes",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81ccba202c601edacaf483eacc7373d1947e4875",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-26T15:38:22-06:00",
+  "timestamp": 1453844302,
+  "message": "Make-szip-a-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "950246b331c74700e01dc48a86f84bf47d528af3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-21T09:54:24-06:00",
+  "timestamp": 1453391664,
+  "message": "Remove-constraint-on-dependency-version",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d42cdaffdf12fa3717135b07fade947dcb6b3b7",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-19T10:09:25-06:00",
+  "timestamp": 1453219765,
+  "message": "Merge-branch-develop-into-features-hdf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b3e0255f4e8c1ec02aae2a75a11383ad274507d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-12T11:55:42-06:00",
+  "timestamp": 1452621342,
+  "message": "Add-HDF-package",
+  "repo": "spack/spack"
+}]

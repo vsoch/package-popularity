@@ -1,0 +1,72 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46fb6ed5b6f2ad105f2e9529e721404aaea72958",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2019-03-13T01:48:45+01:00",
+  "timestamp": 1552438125,
+  "message": "Revert-to-manual-flag-enabling-due-to-RegCM-bug-in-configure.-10863",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63e172d2acae9fb436194e564f7adf016da1a40a",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2019-03-05T21:30:53+01:00",
+  "timestamp": 1551817853,
+  "message": "RegCM-intel-FC-hint-4.7.0-intel-warning-fcflags-fix-extensions.-10797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f602fd8ea4ee5f4e759e15627a67468294cc11e5",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-10-30T21:32:59+01:00",
+  "timestamp": 1540931579,
+  "message": "New-package-RegCM-regional-climate-model.-9655",
+  "repo": "spack/spack"
+}]

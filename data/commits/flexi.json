@@ -1,0 +1,32 @@
+[{
+  "commit": "0e43f5299152271adee6de144562ae08087cdc58",
+  "author": "Julius Plehn <Julius-Plehn@users.noreply.github.com>",
+  "date": "2021-04-25T23:26:11+02:00",
+  "timestamp": 1619385971,
+  "message": "FLEXI-Updates-cmake-options-according-to-recent-changes-23042",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c460013a913e569f64689301ef72c7f4363c085f",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2021-03-05T18:02:15+09:00",
+  "timestamp": 1614934935,
+  "message": "flexi-allow-building-on-aarch64-22109",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c79647d66b501606e0bd4cf5b62a7eb7eb46b51c",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-12-17T17:02:49+01:00",
+  "timestamp": 1608220969,
+  "message": "flexi-new-package-20313",
+  "repo": "spack/spack"
+}]

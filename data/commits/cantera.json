@@ -1,0 +1,248 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77b2e578ec47f7713cae965fede1ab6e60aa69c4",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-11-18T02:39:02-08:00",
+  "timestamp": 1605695942,
+  "message": "spack-test-15702",
+  "repo": "spack/spack"
+},
+{
+  "commit": "99a47e407efcb7ee323fe482b5b5b1b503252fd7",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-07-15T14:53:36+09:00",
+  "timestamp": 1594792416,
+  "message": "cantera-better-specify-dependency-on-sundials-17540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb52f1c7e2079eb09260b6dc8b4cf548e4481c04",
+  "author": "asmaahassan90 <31959389+asmaahassan90@users.noreply.github.com>",
+  "date": "2019-12-03T19:33:27+03:00",
+  "timestamp": 1575390807,
+  "message": "fix_cantera_installation-13962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5429713eef6b1cb8e51e8f6ba9083d4272ddcba6",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2019-08-14T08:18:38+08:00",
+  "timestamp": 1565741918,
+  "message": "Add-version-2.4.0-for-cantera.-12405",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c939e36ed909fb3fd45577f09e08562d028436d7",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-03-05T12:58:00-06:00",
+  "timestamp": 1551812280,
+  "message": "cantera-make-sundials-dependency-optional-10764",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06dcf72f142cf2637a3044aae7c5bff429a9e7b4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-11-26T02:11:16-06:00",
+  "timestamp": 1543219876,
+  "message": "Uncomment-dependencies-previously-disallowed-by-concretizer-9942",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7eb263effe3ac6f2f79e4f6c060b7ae96b7a9cc8",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-04T16:52:10-05:00",
+  "timestamp": 1501883530,
+  "message": "Add-a-SConsPackage-base-class-4936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce3ab503ded78d19aae45a938084d1f8670cc625",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-29T19:24:13-05:00",
+  "timestamp": 1493511853,
+  "message": "Python-command-libraries-and-headers-3367",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e7f53a35abd788588b8f4cce72aa3efe06f7791",
+  "author": "Peter Scheibel <scheibel1@llnl.gov>",
+  "date": "2016-10-11T01:17:26-07:00",
+  "timestamp": 1476173846,
+  "message": "WIP-Use-boost-system-layout-by-default-1955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1e10309ff707a29fe91993d9a9b408182ffa77f1",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-09-26T19:37:23+02:00",
+  "timestamp": 1474911443,
+  "message": "some-fixes-to-blas-lapack-usage-in-packages-1852",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d71a12438b527e76aa710cff0eb2b032160343cd",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-06-29T15:05:57-04:00",
+  "timestamp": 1467227157,
+  "message": "cantera-use-nolink-for-python-module-dependencies",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e1ee463ca677e3209c800a6c3b111dd8851b78d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-06T13:25:37-05:00",
+  "timestamp": 1465237537,
+  "message": "Install-examples-for-sundials",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81ac3b62fc4d21a677bea654402f3684b7edbc20",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-27T12:39:42-05:00",
+  "timestamp": 1464370782,
+  "message": "Filter-compilers-and-link-boost-properly",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a21e845ce7e4b7050a3ef28149b349ff0a4ec58e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-26T16:19:23-05:00",
+  "timestamp": 1464297563,
+  "message": "Flake8",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2220784eda80546415e39c783785f2435986a08a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-26T15:22:17-05:00",
+  "timestamp": 1464294137,
+  "message": "Add-scons-support-.zip-support-and-Cantera-package",
+  "repo": "spack/spack"
+}]

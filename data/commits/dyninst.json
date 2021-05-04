@@ -1,0 +1,448 @@
+[{
+  "commit": "cad06a15e0682760a70e4eb6cf33aeeecbc4fff8",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2021-04-27T07:15:37-05:00",
+  "timestamp": 1619525737,
+  "message": "Dyninst-add-elfutils-versioning-19648",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c23ffd89ffadd211a727bb0866159b81fd3f6c82",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2021-04-26T15:53:53-05:00",
+  "timestamp": 1619470433,
+  "message": "Dyninst-Add-dependencies-for-v11.0.0-23121",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6054a97d0a323a486fb7a15d7242079f8f608bca",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-04-13T12:14:06-07:00",
+  "timestamp": 1618341246,
+  "message": "added-dyninst-11.0.0-22949",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff6ca57ddac48b7109dfd5c7fa356a4c74b6289a",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-09-10T16:09:06-05:00",
+  "timestamp": 1599772146,
+  "message": "Dyninst-add-v10.2.1-18611",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eebcd6b24f62ac1021759df13fdb8affd13ae722",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-08-25T02:56:27-05:00",
+  "timestamp": 1598342187,
+  "message": "Dyninst-added-conflicts-for-unsupported-compilers-and-platforms-18245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c786eb46bb3e79574db1a6f08f7718b7a872b3ad",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-08-20T01:36:02-05:00",
+  "timestamp": 1597905362,
+  "message": "dyninst-use-elfutils-for-all-versions-18063",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9ee76a817408a52505caa8e1291e9da0aeafbf9",
+  "author": "Tim Haines <thaines.astro@gmail.com>",
+  "date": "2020-08-04T13:48:08-05:00",
+  "timestamp": 1596566888,
+  "message": "Dyninst-10.2-release-17847",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e1bb6821aacf43376b628189b4002bad69ad6ba6",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-05-18T23:00:48-05:00",
+  "timestamp": 1558238448,
+  "message": "dyninst-rework-the-cmake-args-for-version-10.1-and-later-11484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "26b9369c577a3c075f8fe220bbe1582a47936cc8",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-05-09T13:58:41-05:00",
+  "timestamp": 1557428321,
+  "message": "dyninst-update-cmake-args-and-boost-dependency-11378",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1969d9eec4e002371fa7bc9423992296bcddae2",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2019-02-01T16:18:16-06:00",
+  "timestamp": 1549059496,
+  "message": "dyninst-add-patch-to-work-with-new-boost-10454",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84b33523eceec45134734a354e51e08617df71d7",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-12-19T19:24:43-06:00",
+  "timestamp": 1545269083,
+  "message": "dyninst-patch-to-build-dyninst-with-older-gcc-10160",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27ad0f1269d6cc4da8bc32547271363211d6a703",
+  "author": "Mark W. Krentel <krentel@rice.edu>",
+  "date": "2018-11-21T12:47:19-06:00",
+  "timestamp": 1542826039,
+  "message": "dyninst-overhaul-package.py-to-CMakePackage-9871",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5dc0b657194ee780d8aa7696169c57c8071f91e5",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-11-09T15:35:11-06:00",
+  "timestamp": 1541799311,
+  "message": "Update-Dyninst-package-file-for-TBB-dependency-9728",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fdfa4673571c053e1f1a72a4ead5d97464d720f",
+  "author": "Sasha Nícolas <sasha@cs.wisc.edu>",
+  "date": "2018-08-27T16:34:05-05:00",
+  "timestamp": 1535405645,
+  "message": "dyninst-add-dependency-on-libiberty-8806",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "674feb45f1f9437991d3dae7e4a34949feaecb11",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2018-06-13T15:35:32-05:00",
+  "timestamp": 1528922132,
+  "message": "Add-the-ability-to-build-the-dyninst-master-branch-under-the-develop-version-name.-8455",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a37acfc1e9bbd2dae1a3a18227e90763785058a6",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2018-03-22T18:29:17-07:00",
+  "timestamp": 1521768557,
+  "message": "Dyninst-links-broken-everything-switched-to-github-6066",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f74eaa874a9a70cd1d62401cd9e349fd824d14b2",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-08-08T12:08:51+02:00",
+  "timestamp": 1502186931,
+  "message": "Add-new-version-of-dyninst-package-5017",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "604b75c1f9d53e0f094a22d1167558aa4df566af",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-03-09T10:36:32-08:00",
+  "timestamp": 1489084592,
+  "message": "created-elf-virtual-package-and-updated-dependent-packages-3317",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee6eb508cbaf6e34643bec8fd2759149b48b92cc",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-11-04T12:12:37-07:00",
+  "timestamp": 1478286757,
+  "message": "patch-older-config.guess-for-newer-architectures-2221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69931996bf88a74fb256ee778691ec775963e904",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-08-08T16:02:33-07:00",
+  "timestamp": 1470697353,
+  "message": "added-dyninst-patches-for-stat-dysect",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f9cb21e8868ebf7555c715e353a5ec6bec4aad39",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-29T15:42:16-07:00",
+  "timestamp": 1469832136,
+  "message": "flake-8-fixes-for-dyninst",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0074ecd6fa31707bc56a79ac2c9d378fd308d0f4",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-29T14:26:30-07:00",
+  "timestamp": 1469827590,
+  "message": "dyninst-package-use-spec.satisfies-instead-of-when",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8b949376092e66d415bad473331dbc08eaa2e021",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-28T13:49:35-07:00",
+  "timestamp": 1469738975,
+  "message": "flake-8-fixes-for-stat-and-dependents",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bd8aab00e4c2ab00938e2d2658989d87b1f871f4",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-07-28T13:17:06-07:00",
+  "timestamp": 1469737026,
+  "message": "updated-stat-and-added-pygtk-and-dependent-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ebed7a2a6488a857fc6878c2d39d26ce9bc72f5",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2016-04-04T11:23:51-07:00",
+  "timestamp": 1459794231,
+  "message": "Add-release-9.1.0-recognition-to-the-Dyninst-API-package-file",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0591980cbe4c91f60b5fe2ca811bc7ee306a1171",
+  "author": "Jim Galarowicz <jeg@krellinst.org>",
+  "date": "2015-07-21T10:17:37-05:00",
+  "timestamp": 1437491857,
+  "message": "Add-configuration-change-for-krell-related-products-they-expect-the-dyninst-includes-in-include-dyninst",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e64c0f4e4e269ed204614d276e83f5ef3f128b2e",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-06-09T17:48:38-07:00",
+  "timestamp": 1433897318,
+  "message": "Fix-Boost-finding-in-Dyninst-8.2.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "724b72bdaf5c7c569e502e383e2aadcb8105983c",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-02-17T00:47:35-08:00",
+  "timestamp": 1424162855,
+  "message": "take-out-dyninst-8.2-for-now",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e3662f3188df8c9b6631caf7802e5ece3960b39",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-01-17T17:09:42-08:00",
+  "timestamp": 1421543382,
+  "message": "Dyninst-8.2-works",
+  "repo": "spack/spack"
+},
+{
+  "commit": "908400bfc5bca8bf10ee5bdadf17a40bddc68caf",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-02T21:57:22-08:00",
+  "timestamp": 1417586242,
+  "message": "Fix-dyninst-8.1.1-checksum",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36a87f5bf9884978ba1f672322d9b7f663cf4f58",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-08T03:07:54-07:00",
+  "timestamp": 1412762874,
+  "message": "Update-documentation-to-add-an-auto-generated-list-of-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0c91791c5ac995b80111a92c94d8fb760caa6e3",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-04-25T11:31:53-07:00",
+  "timestamp": 1398450713,
+  "message": "SPACK-25-Add-package-for-boost.-Works-on-Linux-currently",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "93e288859adc8e14ab9f7fde9d842f185f0d4954",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-06T14:14:57+01:00",
+  "timestamp": 1389014097,
+  "message": "Simpler-prefix-args",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

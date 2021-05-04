@@ -1,0 +1,8 @@
+[{
+  "commit": "afd69866d11dbfc59134fad0bc3e67786412c003",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-20T13:17:49-05:00",
+  "timestamp": 1618942669,
+  "message": "New-package-r-mcmcpack-23139",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "10c9cac49870c9576ee54d12e96bcc8d5380e223",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2021-02-22T18:36:44+09:00",
+  "timestamp": 1613986604,
+  "message": "eigenexa-fix-build-error-and-add-test-method-21692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5963d686c897d82567fd00b15882593d77124f0",
+  "author": "takanori-ihara <62980219+takanori-ihara@users.noreply.github.com>",
+  "date": "2021-01-19T07:37:09+09:00",
+  "timestamp": 1611009429,
+  "message": "eigenexa-new-package.-20934",
+  "repo": "spack/spack"
+}]

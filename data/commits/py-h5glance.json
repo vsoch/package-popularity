@@ -1,0 +1,64 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27bd4a5cdd478dd5d05706cbb634d18c4e96cd54",
+  "author": "Thomas Kluyver <takowl@gmail.com>",
+  "date": "2020-03-13T14:05:31+01:00",
+  "timestamp": 1584104731,
+  "message": "Add-py-h5glance-versions-0.5-0.6-15461",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d21e39f00fd38ad060017a52b06617d82c02a0f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-12-08T00:10:17-06:00",
+  "timestamp": 1575785417,
+  "message": "py-python-htmlgen-py-htmlgen-14039",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e6721659365bd8871f419d974d83a0b34f340c3",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-11-12T16:55:49-08:00",
+  "timestamp": 1542070549,
+  "message": "new-package-PyH5glance-9700",
+  "repo": "spack/spack"
+}]

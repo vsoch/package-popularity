@@ -1,0 +1,24 @@
+[{
+  "commit": "cfbb4abb799cae17d53ecb75f41ad3fc9bb2b722",
+  "author": "Evili del Rio <evili.del.rio@gmail.com>",
+  "date": "2021-04-07T17:44:02+02:00",
+  "timestamp": 1617810242,
+  "message": "Update-package.py-22826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb7a1ac2bfed721e1f3273d4541f0f4df77fa1b6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-10-05T08:44:51-05:00",
+  "timestamp": 1601905491,
+  "message": "py-ray-added-new-package-at-v0.8.7-19006",
+  "repo": "spack/spack"
+}]

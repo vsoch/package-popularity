@@ -1,0 +1,40 @@
+[{
+  "commit": "32c724108917e7567551abaf718992026185b2f9",
+  "author": "estewart08 <ethan.stewart@amd.com>",
+  "date": "2021-01-05T13:39:57-06:00",
+  "timestamp": 1609875597,
+  "message": "Updates-and-Enhancements-to-AOMP-Recipe.-Added-version-3.10.0.-20464",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a680df8453cd07daad40f832b47d756b1e8a7f1b",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-11-18T20:47:10-08:00",
+  "timestamp": 1605761230,
+  "message": "AMD-ROCm-3.9.0-release-Bump-up-version-for-aomp-roctracer-dev-19957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b91d501f123b4e6aee7954ae476969a1d64a93f2",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-10-05T17:57:00-07:00",
+  "timestamp": 1601945820,
+  "message": "AMD-ROCm-aomp-3.7.0-3.8.0-and-rccl-3.8.0-update-19034",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c8cfcca0fe2b83a3d97c6cfe29718eeaf415473",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-09-09T11:47:51-07:00",
+  "timestamp": 1599677271,
+  "message": "Adding-hipify-clang-and-aomp-recipe-for-rocm-18333",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,288 @@
+[{
+  "commit": "43f4d2da9997a17e4c523078a0b0335350dd739a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-03-19T02:31:14-07:00",
+  "timestamp": 1616146274,
+  "message": "updated-deps-to-get-gtkplus-to-build-22228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89a4c9bb6d2dd59200cd673540439cc7ed882b6e",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-03-05T15:04:40-06:00",
+  "timestamp": 1614978280,
+  "message": "gtkplus-add-new-version-convert-to-meson-21914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11fb0e17b0b923c999b060e4c3f4023f201f8c76",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-03T13:29:59-05:00",
+  "timestamp": 1604428199,
+  "message": "py-pygobject-new-version-3.38.0-19709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e7e0723b5098a9b14e1b73e4a5af29f46709886",
+  "author": "brietzke <brietzke@users.noreply.github.com>",
+  "date": "2019-08-31T00:03:44+02:00",
+  "timestamp": 1567202624,
+  "message": "gtkplus-package-add-variant-for-CUPS-support-12566",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36933901ba6ec93da0a5da0c2b1a4d0998f4b8d2",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2019-08-30T10:47:53-07:00",
+  "timestamp": 1567187273,
+  "message": "gtkplus-package-cairo-dependency-must-be-gobject-12655",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5ada4d995671d4b7459e8ba2c2b9f3fae832caee",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-01-30T20:08:43+01:00",
+  "timestamp": 1548875323,
+  "message": "gtkplus-add-gettext-dependency-10464",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2585c04b500e54005fb14312e52cb76864bfa0ac",
+  "author": "Owen Solberg <odoublewen@users.noreply.github.com>",
+  "date": "2019-01-15T07:58:39-08:00",
+  "timestamp": 1547567919,
+  "message": "explicitly-depend_on-cairo-with-X-and-pdf-variants-10351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71464a8b0a4dd729fe84ffb46b3203edd2a28439",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2018-11-19T18:38:34-08:00",
+  "timestamp": 1542681514,
+  "message": "package-gtkplus-disable-gtk-docs-9897",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7699419fc12a087e145c41e00ffdd53b64420771",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2018-10-10T10:07:51-07:00",
+  "timestamp": 1539191271,
+  "message": "new-xdot.py-package-and-necessary-updates-to-GUI-libs-9179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8bdf7e6baab4ce682d0e779bf3c1b18b0f10425f",
+  "author": "Federico Ficarelli <federico.ficarelli@gmail.com>",
+  "date": "2018-01-24T00:24:20+01:00",
+  "timestamp": 1516749860,
+  "message": "Fix-gtkplus-build-by-hardcoding-X11-support-6971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2fc3e23e476002618dd32804a6a111264039dbb9",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-20T19:42:21+01:00",
+  "timestamp": 1516473741,
+  "message": "gtkplus-Update-to-2.24.32-6964",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4de3177374e4afe5f025c0526a0a198e7a76645",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-06-24T00:01:09+10:00",
+  "timestamp": 1498226469,
+  "message": "Gtkplus-icons-4511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58567a218273885577a373e6aa8284847203e7d4",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2017-04-27T09:04:26-07:00",
+  "timestamp": 1493309066,
+  "message": "Adjustments-to-get-gtkplus-to-build-3208",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0b948da74c113ec328ecc7a33c203c8bf635cc4e",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-03-12T15:37:26+01:00",
+  "timestamp": 1489329446,
+  "message": "gnuplot-fixed-broken-package-and-add-variants-3185",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a20d170f43d2c8c5c165da2dbd0cb40787d97ff",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-02-14T10:52:05-08:00",
+  "timestamp": 1487098325,
+  "message": "fixes-for-pygtk-and-some-dependencies-3077",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e340f275b81beebd25df2aec368a11c4370abe64",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-12-22T00:03:28+01:00",
+  "timestamp": 1482361408,
+  "message": "Update-cairo-to-1.14.8-gtkplus-to-2.24.31-and-pango-to-1.40.3-2642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "65df41744435ab80f50e0b592320832fd138adc5",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-12-08T09:43:29-08:00",
+  "timestamp": 1481219009,
+  "message": "Update-emacs-current-release-use-our-x11-bits-2052",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dbd9f1c5a187d445cf92545c1ed46711ba1a4f59",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2016-10-30T11:50:36-07:00",
+  "timestamp": 1477853436,
+  "message": "updated-gtk-and-gobject-dependences-2126",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d98e475361acdadb3b734fd2dbf97ec603f9b7e8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-12-25T16:09:42-08:00",
+  "timestamp": 1419552582,
+  "message": "Qt4-builds-successfully-with-proper-RPATHs",
+  "repo": "spack/spack"
+}]

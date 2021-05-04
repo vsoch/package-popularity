@@ -1,0 +1,224 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd1647af66fe0078634f248a3b10be85d26856e6",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-07-30T10:19:59+02:00",
+  "timestamp": 1596097199,
+  "message": "latte-added-v1.2.2-and-master-17714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c3091b05ee37d0a72f41bd330e0f442bf49a734",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-11-27T16:55:21-07:00",
+  "timestamp": 1543362921,
+  "message": "Fixing-problems-with-lammps-dependencies-voropp-and-latte-9909",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c2bdfaf6399ee3584bd30edad1b0b2607ab952",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:56:56-05:00",
+  "timestamp": 1532487416,
+  "message": "Further-improvements-to-version-parsing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c6aca533ab0596a677d041b1766e88f045d42f4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T00:00:15-07:00",
+  "timestamp": 1532329215,
+  "message": "Add-top-level-attributes-for-hg-svn-and-git-A-L-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b1d7fd886a8e2a141e04bce3a2e14a42b0cb4310",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-06-29T08:19:24-06:00",
+  "timestamp": 1530281964,
+  "message": "latte-version-bump-8611",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f2918813dd65858ccf6f60290828d07455607e6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-06-15T10:46:35-07:00",
+  "timestamp": 1529084795,
+  "message": "Add-tags-for-ECP-applications-that-are-in-Spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4e15d6f41b63a21c827f71867db29acd7ccb9201",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-31T13:54:39+02:00",
+  "timestamp": 1527767679,
+  "message": "latte-specify-blas-and-lapack-explicitly-8327",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45ddfe83efd1a594d2ed126120f7f894877d709c",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-04-10T19:21:35-06:00",
+  "timestamp": 1523409695,
+  "message": "lammps-add-v20180316-7725",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "41a656a032b9bdb492140f6de0a8964a0c879bab",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-20T20:02:45-06:00",
+  "timestamp": 1505959365,
+  "message": "latte-add-v1.0.1-5403",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb042f7bd76e364c3be6791c580b9426a4007627",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-18T20:24:17-06:00",
+  "timestamp": 1505787857,
+  "message": "latte-fix-url-and-add-shared-variant-5358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b60e7e14b9c3406599f6a5806fe868a7403f0e7a",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-09-10T17:19:50-06:00",
+  "timestamp": 1505085590,
+  "message": "latte-initial-commit-5315",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a95f40f18ef75ff3d78d43d15509e4ce018be89f",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-07-11T23:54:27-06:00",
+  "timestamp": 1499838867,
+  "message": "hpx-added-new-package-4709",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9922c374aa30a90580c6e462a6b5d721ac850593",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2017-04-14T10:18:32-06:00",
+  "timestamp": 1492186712,
+  "message": "New-package-MAD-s-numdiff-3811",
+  "repo": "spack/spack"
+},
+{
+  "commit": "901f044bbff830b19daa5bfba0c7961b2fc0078f",
+  "author": "Javier <javiercvilla@gmail.com>",
+  "date": "2017-03-10T14:08:17+01:00",
+  "timestamp": 1489151297,
+  "message": "Adding-new-package-vc-3397",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9eb5f81735dbb0c79e5d1294c410399cdeeb01a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T14:48:29-05:00",
+  "timestamp": 1465588109,
+  "message": "Use-non-checksummed-PyPi-download-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2220784eda80546415e39c783785f2435986a08a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-26T15:22:17-05:00",
+  "timestamp": 1464294137,
+  "message": "Add-scons-support-.zip-support-and-Cantera-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+}]

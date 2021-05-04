@@ -1,0 +1,272 @@
+[{
+  "commit": "821769c95eea43a202c591058d0966e53c8be4cf",
+  "author": "Gabriel Rockefeller <gaber@lanl.gov>",
+  "date": "2021-03-10T18:47:13-07:00",
+  "timestamp": 1615427233,
+  "message": "eospac-add-patch-to-fix-selection-of-compiler-flags-21626",
+  "repo": "spack/spack"
+},
+{
+  "commit": "331a1b59b1008633d246fc2f69e5f020ac6256b5",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2021-02-04T11:07:34-07:00",
+  "timestamp": 1612462054,
+  "message": "Provide-eospac-6.4.2.-21476",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f1a4ac5c3741517763d3d73bc4bc91eea5f0aed2",
+  "author": "Gabriel Rockefeller <gaber@lanl.gov>",
+  "date": "2021-01-06T17:06:17-07:00",
+  "timestamp": 1609977977,
+  "message": "eospac-add-version-6.4.2beta-20681",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ced0a8f068be0a7644bab937c3f7134fbd6cc30f",
+  "author": "Gabriel Rockefeller <gaber@lanl.gov>",
+  "date": "2020-09-02T19:28:48-06:00",
+  "timestamp": 1599096528,
+  "message": "eospac-add-version-6.4.1-18476",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a408a657148daecefb5d45906277f3a48c0cdb9",
+  "author": "Gabriel Rockefeller <gaber@lanl.gov>",
+  "date": "2020-08-28T15:23:30-06:00",
+  "timestamp": 1598649810,
+  "message": "eospac-add-versions-6.4.1alpha.2-and-6.4.1beta-18329",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0642216c317be6400f4274e8fafd1209c45a7d51",
+  "author": "ketsubouchi <67359246+ketsubouchi@users.noreply.github.com>",
+  "date": "2020-08-09T22:45:35+09:00",
+  "timestamp": 1596980735,
+  "message": "eospac-added-support-for-fujitsu-compiler-17922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "af778aac0a0439241eabf91a4eb1af3b3f1570cc",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-07-29T19:03:12-06:00",
+  "timestamp": 1596070992,
+  "message": "Tweak-to-EOSPAC-for-gcc-10-Support-17777",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a844467c258c91a71dcd636897acc82306c82758",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-23T15:53:51-06:00",
+  "timestamp": 1587678831,
+  "message": "eospac-prefer-6.4.0-16266",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2da2fc8bc52dff3dc91572190b7d2e81eed1248b",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-12-05T09:30:35-07:00",
+  "timestamp": 1575563435,
+  "message": "eospac-fix-url-13998",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6cd997e74379a2dd8719748095bd13a26dfbf74f",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-10-16T18:46:26-07:00",
+  "timestamp": 1571276786,
+  "message": "eospac-avoid-conflict-with-linux-s-getopt-13241",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8db94bcc86b889959bc93f43dd136a3b53dd3594",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-09-27T18:28:38-06:00",
+  "timestamp": 1569630518,
+  "message": "eospac-laws.lanl.gov-laws-green.lanl.gov-12970",
+  "repo": "spack/spack"
+},
+{
+  "commit": "06342923fc34fdfe480c87b0f43c442f20b21ea7",
+  "author": "Daniel Topa <dantopa@lanl.gov>",
+  "date": "2019-06-18T20:20:35-06:00",
+  "timestamp": 1560910835,
+  "message": "eospac-package-replace-md5-checksums-with-sha256-11757",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ecd98d19535c131ddf4e5fef2139fdbedba29afb",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-02-26T17:38:52-07:00",
+  "timestamp": 1551227932,
+  "message": "eospac-package-add-version-6.4.0-10718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d1bb9caba4209138f163fcbfff6c76662ff109ac",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2019-01-09T14:57:05-07:00",
+  "timestamp": 1547071025,
+  "message": "eospac-version-bump-to-6.4.0beta.4-10294",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff30ab462b728b296f57ed36a5c91f8a1e796ce6",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-11-13T09:47:11-07:00",
+  "timestamp": 1542127631,
+  "message": "eospac-version-bump-9763",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ea16fe3e4545a926617d702f6db538d394bdc89",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-06-04T14:04:12-06:00",
+  "timestamp": 1528142652,
+  "message": "clean-up-version-names-8368",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d40f12853cd0911ee2df8f4475ca54ea782b0b1",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-06-01T09:49:26-06:00",
+  "timestamp": 1527868166,
+  "message": "make-provision-to-install-version-6.4.0beta.2-8338",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d02b5b96d3a49c6cd08cd458ae85892cf78a6115",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2018-04-29T18:40:27-06:00",
+  "timestamp": 1525048827,
+  "message": "Patch-eospac-package-to-allow-compilation-with-clang.-7928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6d3feba20fc4eaf687925ce24ad3637b9479184",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-04-16T15:56:37-06:00",
+  "timestamp": 1523915797,
+  "message": "ospac-fix-compiler-usage-and-install-7776",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dae4653920c6b32525dedb5b123072eeb869b5cd",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-04-14T13:14:38-06:00",
+  "timestamp": 1523733278,
+  "message": "eospac-initial-commit-7761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a102177db7f69974e61e9eaf3a5619c7c3960590",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-01-19T09:38:21-07:00",
+  "timestamp": 1516379901,
+  "message": "miniqmc-initial-commit-6991",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7afce8d8cc27747934c218eff2a389a65f98e966",
+  "author": "Audrey Thoma <las_thoma15@iastate.edu>",
+  "date": "2017-07-21T01:58:20-05:00",
+  "timestamp": 1500620300,
+  "message": "satsuma2-new-package-4838",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81c1404b9cd071d1433852bd0b05fb168a53f981",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-12-27T08:32:29+00:00",
+  "timestamp": 1482827549,
+  "message": "Adds-catch-cppunit-spdlog-tinyxml-1-and-2-google-benchmark-2627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd5fa128c5d65bc169cec68b4333a67e70dacc4b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-05-12T09:56:59-07:00",
+  "timestamp": 1431449819,
+  "message": "Work-on-SPACK-41-Optional-dependencies-work-for-simple-conditions",
+  "repo": "spack/spack"
+}]

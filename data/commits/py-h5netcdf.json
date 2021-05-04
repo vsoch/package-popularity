@@ -1,0 +1,8 @@
+[{
+  "commit": "7a3d216318db601b85990fed1c0b2c3f31554999",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-25T04:32:26-06:00",
+  "timestamp": 1614249146,
+  "message": "py-h5netcdf-new-package-at-v0.10.0-21947",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,96 @@
+[{
+  "commit": "5af2b1a9338563b4d382a9e12ce70537075c8363",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2021-01-26T06:28:15+09:00",
+  "timestamp": 1611610095,
+  "message": "gdl-Add-libtirpc-and-libgeotiff-depend-21212",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "482152e09203fe28a0bc02a5fea70d24fe60c8ab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-30T17:13:32-05:00",
+  "timestamp": 1564524812,
+  "message": "Add-py-wxpython-package-12163",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4858d8c275b73dfeb2f15c5d30eb894775c9742b",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-06-20T12:36:10-05:00",
+  "timestamp": 1561052170,
+  "message": "Add-GDL-0.9.9-11760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f979b974a5521e4595ea910e189668dbcab49c59",
+  "author": "Ricardo Silva <ricardo.d.silva@gmail.com>",
+  "date": "2018-12-17T19:47:16+01:00",
+  "timestamp": 1545072436,
+  "message": "GDL-python-integration-fixes-9936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9b2953939b4e1a09c1d8f07046e8bf97f3bf3584",
+  "author": "Ricardo Silva <ricardo.d.silva@gmail.com>",
+  "date": "2018-06-08T15:35:28+02:00",
+  "timestamp": 1528464928,
+  "message": "GDL-and-missing-dependencies-8283",
+  "repo": "spack/spack"
+}]

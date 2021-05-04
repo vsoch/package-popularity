@@ -1,0 +1,56 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d7335185e3e2d26b6596b8f74b49f5697d802aff",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-05T10:26:03-05:00",
+  "timestamp": 1604589963,
+  "message": "heffte-fix-conflict-directive-missing-19749",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad405d649fc7bb9fa6475363544aed109f7999f",
+  "author": "Miroslav Stoyanov <30537612+mkstoyanov@users.noreply.github.com>",
+  "date": "2020-10-02T14:13:44-04:00",
+  "timestamp": 1601662424,
+  "message": "heffte-added-v2.0.0-with-Python-an-Fortran-bindings-19129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acf4dc2e12df65aab265a6f5a8374cf356b740bd",
+  "author": "Miroslav Stoyanov <30537612+mkstoyanov@users.noreply.github.com>",
+  "date": "2020-09-22T15:05:00-04:00",
+  "timestamp": 1600801500,
+  "message": "Heffte-add-magma-variant-18849",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32558525f6324b75f30cdc415ef0b996b47bed76",
+  "author": "Miroslav Stoyanov <30537612+mkstoyanov@users.noreply.github.com>",
+  "date": "2020-06-15T23:44:47-04:00",
+  "timestamp": 1592279087,
+  "message": "heffte-added-v1.0-17102",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a41ec766a1d123a7663703e2708435cba139c25",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-02-11T03:02:17-06:00",
+  "timestamp": 1581411737,
+  "message": "heffte-added-v0.2-14881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1974ad4e7f54aecfbce4bfca55ecf03ebf8192f6",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-02-04T15:06:03-07:00",
+  "timestamp": 1580853963,
+  "message": "heffte-initial-commit-14744",
+  "repo": "spack/spack"
+}]

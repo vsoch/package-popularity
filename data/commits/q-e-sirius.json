@@ -1,0 +1,464 @@
+[{
+  "commit": "618edbe5d5175697470383eb6b8895d8740a8d8e",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-19T11:50:52+02:00",
+  "timestamp": 1618825852,
+  "message": "q-e-sirius-add-dependency-on-pkgconfig-23035",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6be3d0c0b05b1c9ecc953e4814968e558b00c1a",
+  "author": "Harmen Stoppels <harmenstoppels@gmail.com>",
+  "date": "2021-04-14T17:42:30+02:00",
+  "timestamp": 1618414950,
+  "message": "q-e-sirius-migrate-to-CMake-22984",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741bb9bafe078d0dd39387e8ea63dca9386bb5a9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-09-03T12:47:19-05:00",
+  "timestamp": 1599155239,
+  "message": "install-install_tree-glob-support-18376",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22329c4f92cf388618479988e43168c5eb751686",
+  "author": "Simon Pintarelli <1237199+simonpintarelli@users.noreply.github.com>",
+  "date": "2020-08-27T14:45:55+02:00",
+  "timestamp": 1598532355,
+  "message": "sirius-q-e-sirius-18286",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3a38e0b14b943ac073d47ba859c5429b46b9c62",
+  "author": "Simon Pintarelli <1237199+simonpintarelli@users.noreply.github.com>",
+  "date": "2020-08-04T19:03:04+02:00",
+  "timestamp": 1596560584,
+  "message": "sirius-new-versions-fixes-q-e-sirius-new-package-nlcglib-new-package-17844",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec58f28c209d1ffef51424b5d1423aa219c143a4",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-06-24T09:30:00-05:00",
+  "timestamp": 1593009000,
+  "message": "quantum-espresso-fix-for-scalapack-with-openmpi-17179",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c055630d545d3ec9c919d20485f6f85f8f8d6b3",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-06-24T02:52:27-05:00",
+  "timestamp": 1592985147,
+  "message": "quantum-espresso-correctly-cross-compile-code-for-Cray-and-BG-Q-17180",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa57f1da2991e4205c4ece0ef7754a2c4ffe50dd",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-05-13T12:41:16-05:00",
+  "timestamp": 1589391676,
+  "message": "QE-Update-May-2020-16627",
+  "repo": "spack/spack"
+},
+{
+  "commit": "860c54335dab3c766b2f692e77941b7dce28ab8e",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-05-03T15:53:01-05:00",
+  "timestamp": 1588539181,
+  "message": "QE-to-QMCPACK-wave-function-converter-relocation-some-bug-fixes-16422",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c5e74fef329cbbc715d9087932bda146c8cdf269",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-03-27T11:38:28-05:00",
+  "timestamp": 1585327108,
+  "message": "QMCPACK-Update-March-2020-Part-2-15616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac4d0c3af7dedee2bdb73f45aa02f9685a4e2a64",
+  "author": "TZ <tz-rrze@users.noreply.github.com>",
+  "date": "2020-03-01T17:08:33+01:00",
+  "timestamp": 1583078913,
+  "message": "Quantum-Espresso-qe-6.5-fails-to-detect-MKL-for-FFT-15276",
+  "repo": "spack/spack"
+},
+{
+  "commit": "065cbf1bbe39d75d756654e14f32191d531038fb",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2020-02-21T12:11:35-06:00",
+  "timestamp": 1582308695,
+  "message": "QE-QMCPACK-Converter-Update-February-2020-15135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f408535f2d77c857d6ce827b0ea3a8722720c5cd",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2019-12-20T12:53:36-06:00",
+  "timestamp": 1576868016,
+  "message": "QE-Update-Dec-2019-14238",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c11c3f27103ba4734bd50116fc6b611a932c2f91",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2019-10-27T22:27:55-05:00",
+  "timestamp": 1572233275,
+  "message": "QE-Update-Oct-2019-13406",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e9f51d1d2397e6d3c93807ce20a965bb3cdb8a4",
+  "author": "Nick Forrington <nick.forrington@arm.com>",
+  "date": "2019-07-29T18:53:39-04:00",
+  "timestamp": 1564440819,
+  "message": "Quantum-Espresso-package-Specify-F90-compiler-12119",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b35ad7b22cc8d0074142d92a471169c8213e643",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2019-07-23T16:44:08-05:00",
+  "timestamp": 1563918248,
+  "message": "Quantum-Espresso-Update-2019-12098",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92c4567404f1ee8476277e65d5e70a63f96e428a",
+  "author": "Tiziano Müller <tiziano.mueller@chem.uzh.ch>",
+  "date": "2019-05-09T15:08:51+02:00",
+  "timestamp": 1557407331,
+  "message": "elpa-override-headers-prop-for-common-include-dir-localization",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a195ffada25229bd1944d9c8a0aecc759952e847",
+  "author": "Felix Mayr <49785055+flxmr@users.noreply.github.com>",
+  "date": "2019-04-26T13:25:40+02:00",
+  "timestamp": 1556277940,
+  "message": "QuantumEspresso-package-add-version-6.4-11302",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f08c9aa601a8f0c7bf1abda012bcb491a0f07391",
+  "author": "fcannini <fcannini@gmail.com>",
+  "date": "2019-03-26T15:33:10-03:00",
+  "timestamp": 1553625190,
+  "message": "quantum-espresso-Enable-EPW-installation-10637",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5aa6cbf437fd80338eef2834177c920871b094d7",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2019-02-26T18:36:50-06:00",
+  "timestamp": 1551227810,
+  "message": "Quantum-ESPRESSO-package-Serial-HDF5-Bug-Fix-10689",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7dd5bdcfa4968ff2b1320acb692511c5ba38776f",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2019-02-19T10:07:27-06:00",
+  "timestamp": 1550592447,
+  "message": "Quantum-ESPRESSO-HDF5-update-10607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f76f7c512dab6e702c37b15469c6185c39cf18",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2018-12-30T11:29:28-06:00",
+  "timestamp": 1546190968,
+  "message": "Over-specifying-Quantum-Espresso-compiler-variables-causes-problems-in-some-corner-cases.-10216",
+  "repo": "spack/spack"
+},
+{
+  "commit": "298da8e2c4784c6c9e8c6a7f9bd8c6b3a7c5b10b",
+  "author": "Nichols A. Romero <naromero77@users.noreply.github.com>",
+  "date": "2018-12-06T03:57:52-06:00",
+  "timestamp": 1544090272,
+  "message": "Quantum-ESPRESSO-update-Nov-2018-9853",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68c2bdfaf6399ee3584bd30edad1b0b2607ab952",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T21:56:56-05:00",
+  "timestamp": 1532487416,
+  "message": "Further-improvements-to-version-parsing",
+  "repo": "spack/spack"
+},
+{
+  "commit": "004e9b8948c44417997f0f0af94884436dcf5a4e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-06-11T18:42:13+02:00",
+  "timestamp": 1528735333,
+  "message": "Fixed-compilation-of-quantum-espresso-8439",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ff4f92fec74982a663ce82ce36ffc486fa98a025",
+  "author": "nvarini <nicola.varini@gmail.com>",
+  "date": "2018-05-29T17:27:05+02:00",
+  "timestamp": 1527607625,
+  "message": "Quantum-espresso-8183",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "72c270419f3cc135c36d497887382ba83b2048ef",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-02-22T12:11:51+01:00",
+  "timestamp": 1519297911,
+  "message": "yambo-added-new-package-7301",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d8d3e888204d52008b8e2777ffa0605bfe9f9f7",
+  "author": "William Scullin <wscullin@gmail.com>",
+  "date": "2017-10-06T15:51:18-05:00",
+  "timestamp": 1507323078,
+  "message": "qmcpack-new-package-4907",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "581f70ff6f3bc13d53c98da60fa0fe50fe784f2c",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-21T18:20:07+02:00",
+  "timestamp": 1503332407,
+  "message": "Added-custom-messages-for-conflicts-directive.-fixes-4965-5083",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9defe2c1c24ffb655346a94307fd4b0409beeff6",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-13T17:22:12+02:00",
+  "timestamp": 1497367332,
+  "message": "espresso-fixed-compilation-for-6.1-elpa-and-added-support-for-hdf5-4483",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eaefaaba5bf7cc8475179604e2c1f9e583f0c16d",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-04-19T12:34:42+02:00",
+  "timestamp": 1492598082,
+  "message": "espresso-add-6.1.0-3881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3d1c92e22cb0db9afd4cf956c15b5f3a74180706",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-09-21T12:18:35+01:00",
+  "timestamp": 1474456715,
+  "message": "Update-espresso-recipe-to-track-change-in-spack-internals-1734",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1be6267149ba2fdd3d510bde713b237eaa0248e9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-30T16:28:55-05:00",
+  "timestamp": 1472592535,
+  "message": "Undo-changes-to-trailing-triple-quotes-in-docstring",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb56744f4d4fbbccb25dbd2042a9b28397bcca81",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-24T10:32:29-05:00",
+  "timestamp": 1472052749,
+  "message": "Fix-package-docstrings-1612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1cbb73f8b18f30b30e4ba68e54dfc859d6cd0fa",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-16T11:24:18+02:00",
+  "timestamp": 1466069058,
+  "message": "qa-fixed-flake8-issues",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8d9ffcf5650adaca13e85b158022c8b8fed72caf",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-16T11:22:26+02:00",
+  "timestamp": 1466068946,
+  "message": "espresso-updated-to-5.4.0-added-Parallel-False",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76dfaa71a7f59d8c94c415819c57cb191a0e4a4a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-06-16T01:47:20-07:00",
+  "timestamp": 1466066840,
+  "message": "fix-up-packages-for-new-architecture",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7430f9142fc3fc590232a21a193321be9de33df7",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-03-31T10:16:40+01:00",
+  "timestamp": 1459415800,
+  "message": "Can-install-espresso-on-OS-X",
+  "repo": "spack/spack"
+},
+{
+  "commit": "397e0d1368d8f6077cb7ea59ee953b993ef3d244",
+  "author": "Mayeul d'Avezac <m.davezac@ucl.ac.uk>",
+  "date": "2016-03-31T10:12:20+01:00",
+  "timestamp": 1459415540,
+  "message": "Fixes-454-in-a-simpler-way-than-34a8f0c",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34a8f0c96bc50870f20f094d95b403b2bb19487d",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-23T17:01:52+01:00",
+  "timestamp": 1458748912,
+  "message": "espresso-fixes-454",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70985170e5f248d0d6a1b6245bd5581185ecaa64",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-12T12:08:31+01:00",
+  "timestamp": 1455275311,
+  "message": "qe-compiled-on-rhle6",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e8704433debe35d7893c0c20672d06973226c4e8",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-11T18:57:40+01:00",
+  "timestamp": 1455213460,
+  "message": "espresso-added-directories-to-search-path",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b272a8881becf205c09ac11228dd035b99fa0fcd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-11T18:18:05+01:00",
+  "timestamp": 1455211085,
+  "message": "espresso-fixed-dependency-handling",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca3cdb445825126776c5269481540d3afac02c9f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-11T17:45:09+01:00",
+  "timestamp": 1455209109,
+  "message": "espresso-current-working-tree",
+  "repo": "spack/spack"
+},
+{
+  "commit": "157ec210a74c2897abc093c14824975c49944f16",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-02-11T13:05:31+01:00",
+  "timestamp": 1455192331,
+  "message": "espresso-synchronized-with-current-develop",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fc308ed26d7abfcb71af8165523b421a1f315c0",
+  "author": "Nicola Varini <nicola.varini@gmail.com>",
+  "date": "2016-01-15T17:04:25+01:00",
+  "timestamp": 1452873865,
+  "message": "Update-to-version-5.3",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d0256c9fb5c3b8824cdeb0455d2a3e3b3f1eeb4",
+  "author": "Nicola Varini <nicola.varini@gmail.com>",
+  "date": "2016-01-15T10:27:38+01:00",
+  "timestamp": 1452850058,
+  "message": "Quantum-ESPRESSO-package",
+  "repo": "spack/spack"
+}]

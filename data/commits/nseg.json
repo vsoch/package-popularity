@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "33e8dcad993968e47560bbc929a3ef4a38de0405",
+  "author": "ketsubouchi <kenta.tsubouchi@hac-inc.co.jp>",
+  "date": "2020-09-15T17:24:51+09:00",
+  "timestamp": 1600158291,
+  "message": "nseg-add-return-0-to-void-functions-18481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16530f84be04b8466769b9b74fe920d67006b988",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2019-06-12T17:07:47-07:00",
+  "timestamp": 1560384467,
+  "message": "Update-remaining-packages-to-use-Stage.source_path-11662",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5c021f54167952a139b9fd78833708bfdf9c4bf9",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-05-15T12:35:38-05:00",
+  "timestamp": 1557941738,
+  "message": "New-package-NSEG-starting-at-version-1.0-11410",
+  "repo": "spack/spack"
+}]

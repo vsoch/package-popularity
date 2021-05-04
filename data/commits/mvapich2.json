@@ -1,0 +1,696 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3005d4a7c67426dd2c27b5851ae49ef7926ab60",
+  "author": "Nithin Senthil Kumar <sk95.nithin@gmail.com>",
+  "date": "2020-12-02T05:01:49-05:00",
+  "timestamp": 1606903309,
+  "message": "mvapich2-added-v2.3.5-20211",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5129d84304035622d84ac61139625e4a88a686de",
+  "author": "Nithin Senthil Kumar <sk95.nithin@gmail.com>",
+  "date": "2020-11-19T07:47:57-05:00",
+  "timestamp": 1605790077,
+  "message": "mvapich2-extended-the-fabrics-variant-description-19860",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5e1909c00a687684cb51516d124d43eedcc8f1d3",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-24T18:53:42-07:00",
+  "timestamp": 1598320422,
+  "message": "mvapich2-Adding-external-find-support.-18177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa216e5f153f0529c902ecf34fc906338ea9632a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-08-13T03:04:03+02:00",
+  "timestamp": 1597280643,
+  "message": "mpich-mvapich2-fixed-setup_-_environment-18032",
+  "repo": "spack/spack"
+},
+{
+  "commit": "38f2a0a92b8686dac9eaffbfff9ef61b0565e89e",
+  "author": "Nithin Senthil Kumar <52734841+nithintsk@users.noreply.github.com>",
+  "date": "2020-08-10T22:35:41-04:00",
+  "timestamp": 1597113341,
+  "message": "Updated-docstring-description-for-MVAPICH2-17921",
+  "repo": "spack/spack"
+},
+{
+  "commit": "193e8333fa23a2e9b44d44a80e153d9a27033860",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-07-31T12:58:48+02:00",
+  "timestamp": 1596193128,
+  "message": "Update-packages.yaml-format-and-support-configuration-updates",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cee24fbc9871095e9d817f2c16a3d74401f7b641",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-06-25T05:49:30+02:00",
+  "timestamp": 1593056970,
+  "message": "mvapich2-Fix-build-with-gcc-10-17114",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea8a0be465b0329cfb4a6b29e02da0dbb4650f6e",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-06-12T14:05:12-07:00",
+  "timestamp": 1591995912,
+  "message": "add-compilers-to-mpi-setup_run_environment-methods-forall-mpi-implementations-17015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcf8ebff4ff3ca25c17e690187b1e7cf46657ee5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-06-08T18:44:07-05:00",
+  "timestamp": 1591659847,
+  "message": "Cray-fix-Blue-Waters-support-and-user-built-MPIs-on-Cray-16593",
+  "repo": "spack/spack"
+},
+{
+  "commit": "944f0abb369a10a4ba5e169098dd743294325998",
+  "author": "Nithin Senthil Kumar <52734841+nithintsk@users.noreply.github.com>",
+  "date": "2020-06-06T06:51:27-04:00",
+  "timestamp": 1591440687,
+  "message": "Update-package-for-MVAPICH2-2.3.4-release-16960",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd3762d0f936aca41d11deb033e56d68d2036f2f",
+  "author": "Greg Becker <becker33@llnl.gov>",
+  "date": "2020-05-05T13:58:46-07:00",
+  "timestamp": 1588712326,
+  "message": "cray-platform-support-cray-Cluster-and-XC-type-machines-12989",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b522296a5ab84adda4d20b1de1a3f50c3cae70ec",
+  "author": "Nithin Senthil Kumar <52734841+nithintsk@users.noreply.github.com>",
+  "date": "2020-03-19T21:59:00-04:00",
+  "timestamp": 1584669540,
+  "message": "Update-MVAPICH2-package-for-2.3.3-release-15578",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a6bba163226ef2ebd81d6611c5c2e6d0fb9e4a5",
+  "author": "Hari Subramoni <hari.subramoni@gmail.com>",
+  "date": "2019-11-13T16:18:35-05:00",
+  "timestamp": 1573679915,
+  "message": "Update-MVAPICH2-package-for-2.3.2-release-13236",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826e8c639418316cc35f58223e7b15b448984334",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-11-12T18:44:12+01:00",
+  "timestamp": 1573580652,
+  "message": "athena-mvapich2-spectrum-mpi-use-new-API-to-setup-environment-13677",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a41014ed9e5b2a8bfa91a88f52dd60823c65aa89",
+  "author": "Jeffrey Salmond <js947@users.noreply.github.com>",
+  "date": "2019-08-20T17:43:28-04:00",
+  "timestamp": 1566337408,
+  "message": "mvapich2-depends-on-slurm-when-built-with-process_managers-slurm-12489",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8625faefc9d003f28005dd920ec61ade8e110efc",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-04-02T17:07:06-07:00",
+  "timestamp": 1554250026,
+  "message": "mvapich2-package-add-version-2.3.1-11037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ffd508d7c28f3c02e1231a916bc32f23fdf3ac8",
+  "author": "Stas Sergienko <ssergien@anl.gov>",
+  "date": "2019-03-11T20:10:02-05:00",
+  "timestamp": 1552353002,
+  "message": "mpich-add-psm2-fabric-support-10814",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcee3efecd29c666d3122c136d7e50419560f434",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-02-19T11:02:02+01:00",
+  "timestamp": 1550570522,
+  "message": "mvapich2-Improve-package-10642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c4521535e718ec9c0367b3825938dc06f1bc8aad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-01-05T04:02:34+01:00",
+  "timestamp": 1546657354,
+  "message": "Multi-valued-variants-better-support-for-combinations-9481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "051057caa3e4585ece655ad2974b2c6c29b97d6d",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2019-01-05T03:52:00+01:00",
+  "timestamp": 1546656720,
+  "message": "mvapich2-add-missing-zlib-dependency-10254",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e176f2a2f5cffee81199a348e5f03dbd6d7f81bc",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-10T14:17:12+02:00",
+  "timestamp": 1539173832,
+  "message": "Fix-missing-dependencies-and-glibc-build-failures-9106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "983957f7c05bbda048a589b02979e04374a2dddd",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-08-23T14:32:46+02:00",
+  "timestamp": 1535027566,
+  "message": "mvapich2-Use-rdma-core-for-mrail-and-nemesis-ib-fabrics-9072",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4dc8936b63c71ff4b1943aa623e047dcff42b74e",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2018-08-06T18:03:33+08:00",
+  "timestamp": 1533549813,
+  "message": "Bump-mvapich2-to-the-latest-v2.3-release.-8892",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e367d1fb3ae494a2cbd9d88c236ad08afa1ba23d",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-07-13T19:32:02-06:00",
+  "timestamp": 1531531922,
+  "message": "Unset-F90-and-F90FLAGS-in-mvapich2-8698",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1bfa8eca04a5c111f6fa9fac4041fec91ca421a",
+  "author": "Jon Rood <jon.rood@nrel.gov>",
+  "date": "2018-07-10T18:32:50-06:00",
+  "timestamp": 1531269170,
+  "message": "Adding-psm-as-a-dependency-of-mvapich2.-8674",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ea8c4f3b2d1bdb5ff7ab8e606c42355a075ede0",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-05-23T20:28:21+02:00",
+  "timestamp": 1527100101,
+  "message": "mvapich2-added-a-proper-libs-attribute-8253",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7909e15d834c5ff53b10f06ac00f888cbaee6b32",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2018-05-02T12:23:32-07:00",
+  "timestamp": 1525289012,
+  "message": "mvapich2-add-2.3rc2-7976",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29b47e0e01af72beb8aeb4f136a3ab0af3d15715",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2018-04-30T18:12:13-07:00",
+  "timestamp": 1525137133,
+  "message": "mvapich2-add-registration-cache-and-file-systems-variants-7948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79251dde406b67ce696759a37cee6b46a410962a",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2018-04-04T09:41:37+02:00",
+  "timestamp": 1522827697,
+  "message": "mvapich2-added-version-2.3rc1-variant-to-use-alloca-if-available-7595",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c62b3eef559e9d47ee6fe5136a2edebca5111fad",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-02T15:37:52+02:00",
+  "timestamp": 1501681072,
+  "message": "filter_compiler_path-added-the-possibility-to-narrow-search-path",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a01a68218c0e476bcc6801532bff694fd40bc968",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-07-03T08:50:22+02:00",
+  "timestamp": 1499064622,
+  "message": "mvapich2-ported-2e6a735b0043bebe8c6ff88f21c1bb2de0063135",
+  "repo": "spack/spack"
+},
+{
+  "commit": "22def01adf117d38dbe20c8f719fbd2f50fe5393",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-19T14:16:18+02:00",
+  "timestamp": 1497874578,
+  "message": "mixins-implemented-declarative-syntax",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e0f9038abd7166375245d92e07e0187c1d0edf3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-11T08:35:22+02:00",
+  "timestamp": 1497162922,
+  "message": "Improved-naming-of-properties-and-classes-per-Denis-comments",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28e129b087145e6a6cf4be40c25e76f8d69290e3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-06-09T21:07:20+02:00",
+  "timestamp": 1497035240,
+  "message": "Added-mixins-to-modularize-common-behaviors-across-build-systems",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8a06e3d867528cd9209bde336297a52b4fceeaa3",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-07-24T01:18:05+08:00",
+  "timestamp": 1500830285,
+  "message": "Add-cuda-variant-for-mvapich2.-4800",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2e6a735b0043bebe8c6ff88f21c1bb2de0063135",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-06-30T18:51:07+02:00",
+  "timestamp": 1498841467,
+  "message": "mvapich2-Fix-mpifort-wrapper-4650",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf2178f416c648586c973bdb7050cc58326b2759",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-06-19T10:18:48-05:00",
+  "timestamp": 1497885528,
+  "message": "Overhaul-CONVERGE-installation-and-concretization-4397",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a01be73185ed3cdc0aeec9e7b0556604ba47656a",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-05-10T21:37:01+02:00",
+  "timestamp": 1494445021,
+  "message": "Add-nemesistcpib-fabrics-variant-4197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b32afbbbcb033022cfe99f7118f75ce6eb8af167",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-02T11:26:30+02:00",
+  "timestamp": 1493717190,
+  "message": "mvapich2-fixed-broken-reference-to-spec-4078",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e4b0eb34a66927ca92df79dedc68d35c9fbd4ae",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-05-01T22:08:47+02:00",
+  "timestamp": 1493669327,
+  "message": "Multi-valued-variants-2386",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9bd6d2132242555816e49479f8010dccf7dca8bd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-19T23:31:21-05:00",
+  "timestamp": 1492662681,
+  "message": "Add-variant-to-mvapich2-to-set-size-of-rank-bits-3886",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f21b82815fc37edd56c24b89db0efbf8aaa52af",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-14T10:14:19-05:00",
+  "timestamp": 1492182859,
+  "message": "Add-variant-to-mvapich2-to-control-thread-level-3832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6cf87e36376916f8febd3b5be824cbb71441afbb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T13:04:42-05:00",
+  "timestamp": 1491242682,
+  "message": "Add-latest-alpha-release-of-MVAPICH2-3674",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7bf8034b0e814a53cff39651c053cd3f3923cd5",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-17T10:09:09-04:00",
+  "timestamp": 1489759749,
+  "message": "libpciaccess-Convert-to-AutotoolsPackage-remove-Darwin-work-around-3459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46433b9eb33bf5ec6bf6dec59c5f43481ef0d507",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-10-26T18:12:26+02:00",
+  "timestamp": 1477498346,
+  "message": "require-fortran-for-MPI-providers-to-avoid-delayed-compiler-errors-1937",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7fd44a983d5d33b7571468c8726ec5692db6871d",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2016-09-15T04:42:57+02:00",
+  "timestamp": 1473907377,
+  "message": "Update-mvapich2-to-2.2-1775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497bbb3ae319f0bad23e7e6122560d541a32f1f3",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-03T17:13:47+02:00",
+  "timestamp": 1472915627,
+  "message": "added-package-pexsi-1550",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9a29d207d57ea8e4867889e430be26163c6cb1a",
+  "author": "Abhinav Bhatele <bhatele@llnl.gov>",
+  "date": "2016-08-28T20:18:57-07:00",
+  "timestamp": 1472440737,
+  "message": "add-versions-2.2rc2-and-2.1-to-the-mvapich2-package-1630",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf8f14780f54aa3bd6bad982c173ea996c2ff5fe",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-07-21T11:13:17-05:00",
+  "timestamp": 1469117597,
+  "message": "MVAPICH2-depends-on-libpciaccess",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8921bf455215ebdf180136586a4fb25db501c8ef",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-23T10:08:40-05:00",
+  "timestamp": 1466694520,
+  "message": "Add-MPI-environment-variables-to-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "daa46105a71f99946b26e1fa9836f0bb27897ceb",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-15T21:37:12+02:00",
+  "timestamp": 1466019432,
+  "message": "mpich-based-providers-shortened-filter_compilers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b59d4f243bc012f6673a53be75d197c16e5e7a06",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-15T13:16:29+02:00",
+  "timestamp": 1465989389,
+  "message": "openmpi-mvapich2-mpich-filtered-out-Wl-enable-new-dtag-in-wrappers-as-it-turns-RPATH-into-RUNPATH",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ab8468e732a9ca68e4a846e1ae6496757d565f2",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-01T16:43:08+02:00",
+  "timestamp": 1464792188,
+  "message": "Correcting-the-flake8-warnings",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0451c8e55f35c58adef120a986e8782abb3155eb",
+  "author": "Nicolas Richart <nicolas.richart@epfl.ch>",
+  "date": "2016-06-01T15:58:00+02:00",
+  "timestamp": 1464789480,
+  "message": "Addapting-the-mvapich2-2.1-configure-options-for-slurm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b12fb7ebc845313d404e4448c145cda4e00517f3",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-05T10:24:32+02:00",
+  "timestamp": 1462436672,
+  "message": "mpi-move-mpicc-mpicxx-mpifc-mpif77-to-setup_dependent_package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "796bf5f85cd22039f6131b15d401ef4a82bf7f86",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2016-05-04T17:33:19+02:00",
+  "timestamp": 1462375999,
+  "message": "mvapich2-add-self.spec.-mpicc-mpicxx-mpifc-mpif77",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c113d390a7a6fbd171aae54aa1f081f8b0790eab",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-04-06T23:51:47+02:00",
+  "timestamp": 1459979507,
+  "message": "mvapich2-MPI-compiler-wrapper-will-use-spack-compilers-during-the-installation-phase",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bcea1df01ce145aea5e49eaaceb7a063b44ddf80",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-03-15T10:49:33+01:00",
+  "timestamp": 1458035373,
+  "message": "environment-refactoreded-set_build_environment_variables",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98706d31dca0773c51acfabb8f1a399d4720a875",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-01-19T12:46:15-06:00",
+  "timestamp": 1453229175,
+  "message": "Various-updates-to-MVAPICH2-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27c64f77404ed3f8a201294596a8a607f18bd39b",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-11-09T15:55:44+01:00",
+  "timestamp": 1447080944,
+  "message": "mvapich2-changed-method-name-for-consistency.-Removed-possibly-duplicated-flags",
+  "repo": "spack/spack"
+},
+{
+  "commit": "42bc552dd74cfe961b3f345321994dfa637549e7",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-11-09T15:45:23+01:00",
+  "timestamp": 1447080323,
+  "message": "mvapich2-variant-strings-are-associated-with-a-named-variable",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79ed9de4c12ac0decfd8a49cfe17fedb96f9e5af",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-11-09T14:35:54+01:00",
+  "timestamp": 1447076154,
+  "message": "mvapich2-added-variants-for-different-network-types",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ae05fdf99a8e22b2abb266831b3ea77bbd201b9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-11-09T13:58:34+01:00",
+  "timestamp": 1447073914,
+  "message": "mvapich2-added-variants-for-different-process-managers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4a72bd791981ba799936a3f5fb9c843401036c8e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-29T10:45:29+01:00",
+  "timestamp": 1446111929,
+  "message": "mvapich2-fixed-typos.-Added-FIXME",
+  "repo": "spack/spack"
+},
+{
+  "commit": "076eaba6e32f15031840c83a2ea019c14db5f6f2",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2015-10-27T13:23:15+01:00",
+  "timestamp": 1445948595,
+  "message": "mvapich2-fixed-some-issues-with-the-package.-Needs-further-improvment-with-respect-to-network-and-pm",
+  "repo": "spack/spack"
+},
+{
+  "commit": "650c9d4e36c6a58cf6bca0e6abd580ee54d8e175",
+  "author": "Matthew LeGendre <legendre1@llnl.gov>",
+  "date": "2015-09-16T10:56:11-07:00",
+  "timestamp": 1442426171,
+  "message": "Allow-spack-to-build-against-external-non-spack-installed-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "741084faf4194424a582bf9dd15580601f20fe9a",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2014-07-10T16:55:38-07:00",
+  "timestamp": 1405036538,
+  "message": "add-mvapich2-package-to-handle-different-compilers-and-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5a4881c086111a07d93e0e7d5d4f25ba09bb56cc",
+  "author": "Luc Jaulmes <luc.jaulmes@bsc.es>",
+  "date": "2014-06-20T17:15:32-07:00",
+  "timestamp": 1403309732,
+  "message": "Adding-Extrae-and-OmpSs-with-some-of-their-dependencies-hwloc-and-PAPI",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10148ff8025feae40c8f6bd095936abcdf4350b6",
+  "author": "Adam Moody <moody20@llnl.gov>",
+  "date": "2014-02-07T17:29:10-08:00",
+  "timestamp": 1391822950,
+  "message": "add-mvapich2-module",
+  "repo": "spack/spack"
+}]

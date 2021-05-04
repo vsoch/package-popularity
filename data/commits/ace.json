@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3167aec0abb68afba08669904216d1a0c6e27d3b",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-11-12T01:42:30+09:00",
+  "timestamp": 1605112950,
+  "message": "ace-Add-version-6.5.12-19856",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "44f859849baa679652eedb7bbd10f471ddf4935a",
+  "author": "carlabguillen <carla.guillen@lrz.de>",
+  "date": "2019-10-23T16:31:06+02:00",
+  "timestamp": 1571841066,
+  "message": "Ace-package.-Initial-commit-13211",
+  "repo": "spack/spack"
+}]

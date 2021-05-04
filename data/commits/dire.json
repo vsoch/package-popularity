@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd625e597463ad6bd5880d740504bb4f49895a90",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-11-03T12:03:48-06:00",
+  "timestamp": 1604426628,
+  "message": "dire-dire-is-included-in-pythia8-8300-so-dire-depends_on-adjusted-19628",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4493d311705f6440b7619ed152e359c9ff94b2ef",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-08-09T12:03:26-05:00",
+  "timestamp": 1596992606,
+  "message": "dire-new-package-at-v2.004-17749",
+  "repo": "spack/spack"
+}]

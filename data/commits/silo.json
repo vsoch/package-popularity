@@ -1,0 +1,312 @@
+[{
+  "commit": "b2d92bbb9f019b8b3437a8532c0cb7b9a2ae2ffe",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-04-30T03:46:07+02:00",
+  "timestamp": 1619747167,
+  "message": "Silo-making-the-HDF5-dependency-optional-22908",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1acaaea34ecd6ac3f76943c7585a30bceaa97a8b",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-03-20T16:22:38+01:00",
+  "timestamp": 1616253758,
+  "message": "silo-adding-the-library-spec-for-dependents-22431",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92a4576644f6640f79ed1c5d791cf9ac63795fd0",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-24T21:45:53+01:00",
+  "timestamp": 1614199553,
+  "message": "Silo-fix-build-errors-with-silex-on-ubuntu18.04-21877",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d153978fc7abe14f78178620fcc4679af97c4ddf",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2021-02-24T21:41:04+01:00",
+  "timestamp": 1614199264,
+  "message": "Silo-Update-URLs-21880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6684cb165abf22373c3a24cfe75cf8a9cb840239",
+  "author": "QuellynSnead <quellyn@lanl.gov>",
+  "date": "2020-12-24T21:35:19-07:00",
+  "timestamp": 1608870919,
+  "message": "Starting-with-HDF5-1.10.0-the-H5FD_class_t-structure-has-a-new-20529",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "55d5adfecfdaa097724ca75bdcb4b92251697e97",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2020-03-16T14:10:06-04:00",
+  "timestamp": 1584382206,
+  "message": "silo-depends-on-hdf5-1.10.999-15495",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b927e3799f1ef8c9e12886a45566dfc66b93031e",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-23T11:45:19-05:00",
+  "timestamp": 1582476319,
+  "message": "Fix-silex-build-15172",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d0ab601503c238986a49e0c764639044b393cfe",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-13T20:45:55-05:00",
+  "timestamp": 1581644755,
+  "message": "Patch-silo-for-clang-9-14892",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "734d6306a261d209579ae473e5a004b65f55f6e2",
+  "author": "David Wells <drwells@email.unc.edu>",
+  "date": "2018-09-03T10:43:00-04:00",
+  "timestamp": 1535985780,
+  "message": "Fix-two-dependencies-with-silo.-9153",
+  "repo": "spack/spack"
+},
+{
+  "commit": "259b1834f1c693e7c7a3bfea97e29cd1071fcec0",
+  "author": "Nick Forrington <nick.forrington@gmail.com>",
+  "date": "2018-06-22T18:19:03-04:00",
+  "timestamp": 1529705943,
+  "message": "silo-Make-silo-use-AutotoolsPackage-8551",
+  "repo": "spack/spack"
+},
+{
+  "commit": "457dadaac88bd60d337071e45a6bce6058c58b64",
+  "author": "Daryl W. Grunau <DarylGrunau@gmail.com>",
+  "date": "2018-05-17T18:55:00-06:00",
+  "timestamp": 1526604900,
+  "message": "silo-support-version-4.10.2-bsd-8164",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b95660863186e78cdd05cf05d121d1be83468f50",
+  "author": "Robert Pavel <rspavel@gmail.com>",
+  "date": "2018-05-14T19:29:03-06:00",
+  "timestamp": 1526347743,
+  "message": "Added-Shim-to-Support-hdf5-mpi-in-Spack-Silo-8130",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90c824311372e1f10c218e467747298f601f1684",
+  "author": "Mike Pozulp <mmpozulp@email.wm.edu>",
+  "date": "2018-03-05T04:28:37-08:00",
+  "timestamp": 1520252917,
+  "message": "add-ldl-to-silo-ldflags-when-building-with-static-hdf5-in-order-to-fix-7384-7385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d849740b8b1b4e3e94460360feb8aa2aa4059131",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2018-02-17T19:37:06-07:00",
+  "timestamp": 1518921426,
+  "message": "Silo-depend-on-Non-mpi-hdf5-7275",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ad3a1bff7eec326a6406d5a1f9bfa7dd6cd084f",
+  "author": "Mike Pozulp <mmpozulp@email.wm.edu>",
+  "date": "2017-09-21T18:14:31-07:00",
+  "timestamp": 1506042871,
+  "message": "Update-pic-shared-variants-for-hdf5-python-silo-5423",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4b9a37a357af4f36df05d7a06de4b9d5d841aa26",
+  "author": "Carlos Bederián <zzzoom@gmail.com>",
+  "date": "2017-02-20T03:45:19+02:00",
+  "timestamp": 1487555119,
+  "message": "silo-adding-patch-to-support-newer-versions-of-hdf5-3162",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a558e9d7adeaf4ee94120654b4f558262919333",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-20T05:14:55-04:00",
+  "timestamp": 1474362895,
+  "message": "Tighten-HDF5-version-requirements-for-Silo-1760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ef202fbe0ca1f23ca7f0ea271d45cee8a0623e4e",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-05-04T22:50:15-04:00",
+  "timestamp": 1462416615,
+  "message": "Build-static-and-shared-libraries-for-silo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f221f645091bb0175185e8c20fe19be2cc42639a",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-04-05T22:31:08-04:00",
+  "timestamp": 1459909868,
+  "message": "Add-variant-for-shared-library",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3c70cf704be1e174391e2d64d5491db72289a57",
+  "author": "Dhanannjay Deo <dhanannjay.deo@kitware.com>",
+  "date": "2016-04-05T14:35:33-04:00",
+  "timestamp": 1459881333,
+  "message": "Install-lite-pdb-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d05e4581c9d249c0736d8d58b394860ca05f8402",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-03-22T12:31:26-07:00",
+  "timestamp": 1458675086,
+  "message": "Added-the-silex-variant-to-the-Silo-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "30d9ca2bde033da28b6f6105f93ee05f4fd0acfa",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-02-26T16:06:17-08:00",
+  "timestamp": 1456531577,
+  "message": "Updated-the-silo-package-and-added-the-fortran-variant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f832719ceb7907e4213a613e9bb35cda84fa5b26",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-06-18T12:31:01-07:00",
+  "timestamp": 1434655861,
+  "message": "Added-silo-4.8-with-HDF5-for-LULESH-2.0",
+  "repo": "spack/spack"
+}]

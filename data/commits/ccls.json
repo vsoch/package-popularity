@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f73c87157ea87efbc0ba93e6e4003c8754a6df7",
+  "author": "Jacob Merson <mersoj@rpi.edu>",
+  "date": "2020-12-07T03:53:34-05:00",
+  "timestamp": 1607331214,
+  "message": "ccls-new-package-at-v0.20201025-20251",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "6e29a36d880cbf03125815d8b99fc8c414e21e9f",
+  "author": "m-shunji <76516098+m-shunji@users.noreply.github.com>",
+  "date": "2021-02-07T20:47:54+09:00",
+  "timestamp": 1612698474,
+  "message": "mpas-model-add-a-necessary-resource-21478",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3ee8c119105822ebec283fd4828375b03ef58e25",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-01-19T03:10:21+09:00",
+  "timestamp": 1610993421,
+  "message": "mpas-model-New-package.-21124",
+  "repo": "spack/spack"
+}]

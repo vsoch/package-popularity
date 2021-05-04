@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "66bb19a5937091812b80b9c0d98c6f52b9d47165",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-01-05T01:33:52+08:00",
+  "timestamp": 1578159232,
+  "message": "add-new-package-kafka-14315",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,24 @@
+[{
+  "commit": "5828a2cd31364e8850e30c6b6e635df39661ac0b",
+  "author": "Jen Herting <jen@herting.cc>",
+  "date": "2021-02-10T16:31:02-05:00",
+  "timestamp": 1612992662,
+  "message": "py-chalice-py-typing-causes-issues-with-python-3.5-21202",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "09f910902a4ba68d1a7a33fdcafe41866eb4d42c",
+  "author": "rvinaybharadwaj <vinayr@lanl.gov>",
+  "date": "2020-10-07T10:18:56-06:00",
+  "timestamp": 1602087536,
+  "message": "Add-py-chalice-19199",
+  "repo": "spack/spack"
+}]

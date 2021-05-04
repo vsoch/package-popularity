@@ -1,0 +1,64 @@
+[{
+  "commit": "f08842e05d03a7d1a42bbe8b07bfb82c5fcc14ac",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-03-26T09:18:01-04:00",
+  "timestamp": 1616764681,
+  "message": "bump-up-version-for-rocm-4.1.-release-22531",
+  "repo": "spack/spack"
+},
+{
+  "commit": "efb1e19339bf5800718928d13b9ad6f7aae67772",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2021-01-04T21:36:44+05:30",
+  "timestamp": 1609776404,
+  "message": "bumpup-version-for-rocm-stage1-recipes-for-rocm-4.0.0-release-20635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0fc36844b0eef7a66922eb63fff803fdf744bef2",
+  "author": "Sreenivasa Murthy Kolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-12-07T13:22:33+05:30",
+  "timestamp": 1607327553,
+  "message": "atmi-rccl-added-v3.10.0-rocm-3.10.0-20264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbde1abc8ccbe8349da33e06fbd377c9c53e62ac",
+  "author": "arjun-raj-kuppala <60718144+arjun-raj-kuppala@users.noreply.github.com>",
+  "date": "2020-11-13T10:25:57-08:00",
+  "timestamp": 1605291957,
+  "message": "AMD-ROCm-HIP-update-and-bump-up-version-to-3.9.0-for-rccl-debug-agent-hip-rocclr-and-atmi-19832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a9c9501a47d8ddaa27cf205d313ab21931201cd4",
+  "author": "Ganesh Kumar <46193450+gkathirv@users.noreply.github.com>",
+  "date": "2020-09-25T11:56:04+05:30",
+  "timestamp": 1601015164,
+  "message": "ROCm3.8-atmi-hipify-clang-rocm-clang-ocl-rocm-dbgapi-rocprofiler-18871",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d73db33005a956eb285a94e6eea4f4fc735c80f0",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-31T02:36:38-07:00",
+  "timestamp": 1598866598,
+  "message": "atmi-rocgdb-rocm-dbgapi-changes-for-rocm3.7-18404",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ad060c7870675ccb82c537fd983fd6bc28f7f4e8",
+  "author": "srekolam <67086238+srekolam@users.noreply.github.com>",
+  "date": "2020-08-12T17:36:35-07:00",
+  "timestamp": 1597278995,
+  "message": "Spack-recipes-for-ROCm-software-components-Phase1-17422",
+  "repo": "spack/spack"
+}]

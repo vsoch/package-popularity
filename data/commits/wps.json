@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "12c8be73b397066ce7a2b3eaf9fc0192940797b2",
+  "author": "Tomoyasu Nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-12-14T17:18:19+09:00",
+  "timestamp": 1607933899,
+  "message": "wps-fix-build-for-aarch64-20363",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9b0d1c2cb956fdd612e22a74734b7cbb469e3ef",
+  "author": "MichaelLaufer <70094649+MichaelLaufer@users.noreply.github.com>",
+  "date": "2020-10-04T05:26:33+03:00",
+  "timestamp": 1601778393,
+  "message": "Added-WPS-package-cleaned-up-WRF-package-18711",
+  "repo": "spack/spack"
+}]

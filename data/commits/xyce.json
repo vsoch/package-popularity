@@ -1,0 +1,8 @@
+[{
+  "commit": "a405811bfe45ca2f08fbcfb2a00c170929961ef4",
+  "author": "Paul Kuberry <pkuberry@gmail.com>",
+  "date": "2021-03-18T08:49:42-06:00",
+  "timestamp": 1616078982,
+  "message": "xyce-add-new-package-22345",
+  "repo": "spack/spack"
+}]

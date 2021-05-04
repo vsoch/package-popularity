@@ -1,0 +1,24 @@
+[{
+  "commit": "c575b1ce9b1126e4799ff2c6a79834c1823586fe",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-23T10:44:57-04:00",
+  "timestamp": 1619189097,
+  "message": "openmm-add-v7.5.0-23037",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5f7cc887a2f9e5247d3fbf186ea1725c78fd928",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-04-11T17:29:56-04:00",
+  "timestamp": 1586640596,
+  "message": "new-package-openmm-16002",
+  "repo": "spack/spack"
+}]

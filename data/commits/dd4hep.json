@@ -1,0 +1,176 @@
+[{
+  "commit": "63915de99b6d4bc7c8b8a22dc45e5c3dd7ee4f26",
+  "author": "Valentin Volkl <valentin.volkl@cern.ch>",
+  "date": "2021-03-28T15:06:51+02:00",
+  "timestamp": 1616936811,
+  "message": "dd4hep-add-new-version-22599",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf29ee6b2b8cb11e87908144aaf3289c63be1242",
+  "author": "Valentin Volkl <valentin.volkl@cern.ch>",
+  "date": "2021-03-12T19:10:07+01:00",
+  "timestamp": 1615572607,
+  "message": "dd4hep-update-env-var-22218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "70cd94885260482079f67e9e362c128f63ba4587",
+  "author": "Valentin Volkl <valentin.volkl@cern.ch>",
+  "date": "2021-03-05T11:28:05+01:00",
+  "timestamp": 1614940085,
+  "message": "dd4hep-add-v0.16-and-geant4units-variant-22064",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b45a31aefe065c0cb6761034384af2aa1d2c41f3",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2021-01-26T08:57:13+01:00",
+  "timestamp": 1611647833,
+  "message": "dd4hep-fix-assimp-variant-21226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e6f2fa34d050cf0df5c9986418388c181dae6f77",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-12-11T15:15:41+01:00",
+  "timestamp": 1607696141,
+  "message": "dd4hep-added-v01-15-edm4hep-variant-and-updated-url_for_version-20304",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b6843e1a8214d2b50e496f009d94fab4ad238040",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-16T17:38:50+01:00",
+  "timestamp": 1605544730,
+  "message": "dd4hep-switch-to-ninja-generator-to-avoid-running-out-of-memory-19940",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e37e66abd11997c224d3181ac46230fd4e68705e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-10-11T03:26:44+02:00",
+  "timestamp": 1602379604,
+  "message": "dd4hep-update-version-v1.14.1-19056",
+  "repo": "spack/spack"
+},
+{
+  "commit": "635b8243fe3081927cdd6c2198ab7887ea1611b8",
+  "author": "Andre Sailer <andre.philippe.sailer@cern.ch>",
+  "date": "2020-09-16T18:33:14+02:00",
+  "timestamp": 1600273994,
+  "message": "dd4hep-add-variant-lcio-18691",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2916ebe743f44562f3b2ae9f38301560d8ac9b53",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-17T00:11:28+02:00",
+  "timestamp": 1597615888,
+  "message": "dd4hep-align-runtime-env-with-lcg-release-18082",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f09656e3f8a1982bdb00492270cfa54cbc1a710c",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-31T05:21:02+02:00",
+  "timestamp": 1596165662,
+  "message": "New-Versions-dd4hep-podio-17659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11d8aed6cd84244b5a9907b23a94fc7bad857426",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-15T01:24:33+02:00",
+  "timestamp": 1594769073,
+  "message": "dd4hep-package-add-version-1.13.0-17528",
+  "repo": "spack/spack"
+},
+{
+  "commit": "69ea6de06934fd8f7dc8fb89e15f9cea3499814e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-09T21:54:07+02:00",
+  "timestamp": 1589054047,
+  "message": "dd4hep-variant-and-run-env-updates-16524",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c2791a4baa1bb7a46a1bd4448e7fe29ef827e082",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-05T15:25:26+02:00",
+  "timestamp": 1588685126,
+  "message": "dd4hep-fix-python-setup-16461",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eda886f62751d7493e1f0a28e76ef7e290766644",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-04-27T18:00:10+02:00",
+  "timestamp": 1588003210,
+  "message": "dd4hep-url-and-other-fixes-16320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "947dabc35688a658f0be45e924d4a5cc0a0fd496",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-02-12T02:17:06+01:00",
+  "timestamp": 1581470226,
+  "message": "dd4hep-Make-DDDigi-work-with-current-TBB-releases-14791",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd59c569e24cc5167748ee96848b344ee572320",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-20T21:52:53+01:00",
+  "timestamp": 1576875173,
+  "message": "Latest-versions-of-CMake-need-a-hand-for-Python-detection-14247",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9583bde7390473918358b057f50a5b259aca6af2",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-12-18T16:32:23+01:00",
+  "timestamp": 1576683143,
+  "message": "Add-new-DD4hep-release-and-some-forgotten-build-requirements-14195",
+  "repo": "spack/spack"
+},
+{
+  "commit": "122264609e6fc56aec76bc18744813f80ed00a55",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-12-10T18:58:52+01:00",
+  "timestamp": 1576000732,
+  "message": "Fix-for-DD4Hep-build-can-t-find-boost-14091",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f94e5828e8f9b7979de78d942178595df81c29",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-14T05:58:27+01:00",
+  "timestamp": 1550120307,
+  "message": "Add-a-DD4hep-package-9208",
+  "repo": "spack/spack"
+}]

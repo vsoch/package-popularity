@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4387975556f771a77ac57f3c278436200bba6653",
+  "author": "Jianwen WEI <weijianwen@gmail.com>",
+  "date": "2020-06-01T16:52:44+08:00",
+  "timestamp": 1591001564,
+  "message": "miniforge3-add-version-4.8.3-4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0ed2fa3b9b4beac50bdfc82658a3bdfb395ae104",
+  "author": "健美猞猁 <weijianwen@gmail.com>",
+  "date": "2020-05-15T08:50:11+08:00",
+  "timestamp": 1589503811,
+  "message": "miniforge3-a-new-package.-16644",
+  "repo": "spack/spack"
+}]

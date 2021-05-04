@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d346e877efbe1a00340db4101ff1546ec86b3769",
+  "author": "Joseph Schoonover <11430768+schoonovernumerics@users.noreply.github.com>",
+  "date": "2020-11-12T21:31:04-07:00",
+  "timestamp": 1605241864,
+  "message": "Add-feq-parse-package-19891",
+  "repo": "spack/spack"
+}]

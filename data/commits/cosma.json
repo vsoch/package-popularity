@@ -1,0 +1,32 @@
+[{
+  "commit": "a190876bdc310cca78bcbf3669d42aac3dba704f",
+  "author": "Teodor Nikolov <teodor.nikolov22@gmail.com>",
+  "date": "2021-01-10T19:58:30+01:00",
+  "timestamp": 1610305110,
+  "message": "COSMA-latest-version-20760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4d64402ae2fb3e39c7aae3ba324d75a06fabfdb",
+  "author": "Marko Kabic <mkmarkokabic@gmail.com>",
+  "date": "2020-05-17T19:40:48+02:00",
+  "timestamp": 1589737248,
+  "message": "Add-new-version-of-COSMA-2.2.0-16672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a61c53a5c96c04d19116673e7c9d2bcc628c889e",
+  "author": "Teodor Nikolov <teodor.nikolov22@gmail.com>",
+  "date": "2020-03-19T21:50:12+02:00",
+  "timestamp": 1584647412,
+  "message": "cosma-added-package-at-v2.0.2-15497",
+  "repo": "spack/spack"
+}]

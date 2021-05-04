@@ -1,0 +1,376 @@
+[{
+  "commit": "a4157173a02c655c371922312161075f52e8f09a",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2021-04-17T08:03:57+02:00",
+  "timestamp": 1618639437,
+  "message": "acts-add-v7.00.0-23024",
+  "repo": "spack/spack"
+},
+{
+  "commit": "32f6fdce7c21e7914add2907fac5903b3c75fcd4",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2021-03-20T10:34:14+01:00",
+  "timestamp": 1616232854,
+  "message": "acts-add-v6.00.0-22347",
+  "repo": "spack/spack"
+},
+{
+  "commit": "91d64dd223e8d0cebe6b3c9bbef82a9a210eebba",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2021-02-03T20:50:28+01:00",
+  "timestamp": 1612381828,
+  "message": "acts-Add-version-5.0-21466",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d996fc080a39b3182754d639d2fa86cd53c913d6",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2021-01-18T19:49:19+01:00",
+  "timestamp": 1610995759,
+  "message": "acts-Add-version-4.1-bump-minimal-dependencies-21128",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "58cf6d7dbddcebb574c038ce09050bcb2eff4563",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-12-25T05:45:50+01:00",
+  "timestamp": 1608871550,
+  "message": "acts-Add-version-4-20472",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e61fb96e9656ea6b6ed74527475d173602ef7c48",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-12-17T14:27:06+01:00",
+  "timestamp": 1608211626,
+  "message": "acts-added-v3.00.0-20402",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c512d0f4088f725e835ad28e99b55d99fa4cfee9",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-11-16T20:28:55+01:00",
+  "timestamp": 1605554935,
+  "message": "acts-Add-versions-1.2.1-and-2.0.0-19936",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0d2586f52677605cfb679126d02704548a9bc36",
+  "author": "Wouter Deconinck <wdconinc@gmail.com>",
+  "date": "2020-11-12T13:08:12-06:00",
+  "timestamp": 1605208092,
+  "message": "acts-conflicts-with-gcc-7-since-0.23-due-to-c-17-charconv-19881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "298e18dbf35c6f4cb4802f1e421d4ceeddddfc52",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-10-15T14:13:55+02:00",
+  "timestamp": 1602764035,
+  "message": "acts-added-v1.02.0-19305",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c40de7c895aca85075dae7b18391928fd46ff5e8",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-10-13T17:09:14+02:00",
+  "timestamp": 1602601754,
+  "message": "acts-fix-boost-dependency-19286",
+  "repo": "spack/spack"
+},
+{
+  "commit": "528f86ddc448af78c3e0a52266502ebef667090a",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-10-11T03:08:19+02:00",
+  "timestamp": 1602378499,
+  "message": "acts-Add-version-1.1-19230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e19de8e11ca3d543d3b7ecf34c741400c2e5f0",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-09-22T15:05:59+02:00",
+  "timestamp": 1600779959,
+  "message": "acts-added-v1.0-18859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d24532f574f27d62d4e5c2d6961ed1aec6529c50",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-09-09T09:44:44+02:00",
+  "timestamp": 1599637484,
+  "message": "acts-added-v0.32-and-adapt-to-latest-master-changes-18563",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d466e9224febfc49bc640a1a116aabfdebb8d8af",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-08-18T11:55:45+02:00",
+  "timestamp": 1597744545,
+  "message": "acts-added-v0.31-18138",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97ca82448703f08061841da4cee65990230f3100",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-08-18T04:04:17+02:00",
+  "timestamp": 1597716257,
+  "message": "Add-acts-v0.30-18106",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3cc7fc38ce2441e4cf530bb54d1b7f18173b9f5",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-27T18:13:56+02:00",
+  "timestamp": 1595866436,
+  "message": "acts-added-v0.29-17712",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8135bd20525f126a090c1a1dc48c5fa6ad881d5",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-22T18:14:51+02:00",
+  "timestamp": 1595434491,
+  "message": "acts-Add-version-0.28.0-17622",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b81339cf809ea8f94931e91362a5ad83770bd8e7",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-21T19:56:18+02:00",
+  "timestamp": 1595354178,
+  "message": "acts-Add-0.27.x-series-17621",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f168d63586ab090f00e018f296254286e4a1da22",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-21T08:37:21+02:00",
+  "timestamp": 1595313441,
+  "message": "acts-added-v0.26-17602",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7340be98f68750777d9fb17b5ac86eb538e97dd5",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-15T05:23:07+02:00",
+  "timestamp": 1594783387,
+  "message": "acts-Add-0.25.x-series-17485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c281eaf69f6cbe368e06b50065a3b1f043128375",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-15T05:07:39+02:00",
+  "timestamp": 1594782459,
+  "message": "acts-remove-false-dependency-17511",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03880f54139ff97e144833378842034c0f2d2a3b",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-17T19:13:27+02:00",
+  "timestamp": 1592414007,
+  "message": "Split-hepmc-Into-hepmc-and-hepmc3-16892",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c16a728fd65fb246e2f0c01e394c9373182a9f7",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-05-19T20:16:57+02:00",
+  "timestamp": 1589912217,
+  "message": "Add-new-Acts-release-16718",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14685ae552cba53173383941fb3af08c13657057",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-05-07T15:40:31+02:00",
+  "timestamp": 1588858831,
+  "message": "Adapt-to-the-latest-Acts-developments-16385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac17d0783aa60a918028188794191054f2f01494",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-04-20T23:08:44+02:00",
+  "timestamp": 1587416924,
+  "message": "Add-Acts-v0.22-16141",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b405278c43068d358c66e63d8ea60e5d0f23b59e",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-04-08T00:00:01+02:00",
+  "timestamp": 1586296801,
+  "message": "acts-core-Add-version-0.21-15922",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abdada03a88b28bfdfe0698a99a977eea4c54bd8",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-03-30T17:48:36+02:00",
+  "timestamp": 1585583316,
+  "message": "Add-ACTS-v0.20-and-take-move-to-GitHub-into-account-15757",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8db87e1dc88707da3365dd04fab882d9fed90b2",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-03-25T10:49:53+01:00",
+  "timestamp": 1585129793,
+  "message": "ACTS-added-v0.19-15671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fdf363eaadb7edea5c9d9b15e043449742484db9",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-03-20T10:06:45+01:00",
+  "timestamp": 1584695205,
+  "message": "acts-core-added-v0.18-updated-boost-dependency-15584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3c319979bef91374aa35dff56396fe5e1e2a5c2",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-03-13T13:57:32+01:00",
+  "timestamp": 1584104252,
+  "message": "Add-new-ACTS-version-15479",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb3dbea198433641c806a9b1fa9a58d32fefc389",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-02-10T11:06:56+01:00",
+  "timestamp": 1581329216,
+  "message": "acts-core-added-v0.16.0-14839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a0c31703a0f98a7fa5d57c2de484b49a51c5f6c",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-02-06T02:45:17+01:00",
+  "timestamp": 1580953517,
+  "message": "acts-core-package-build-root-with-cxxstd-17-for-0.8.1-and-newer-14761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f569577747dc27da776cb87b8e6d699377921b6c",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-01-25T19:35:53+01:00",
+  "timestamp": 1579977353,
+  "message": "acts-core-Add-and-adapt-to-ACTS-v0.14.0-and-v0.15.0-14580",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5cab03d10e1ea6f223009d613638e736f49c99a",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-20T16:05:48+01:00",
+  "timestamp": 1576854348,
+  "message": "ACTS-added-v0.13.0-and-v0.12.1-14246",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e366d5b5591db1e39e4ccd99528b4cafb7e76518",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-16T17:25:37+01:00",
+  "timestamp": 1576513537,
+  "message": "New-ACTS-version-14180",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ee8aa639535d8ddaeb7440231a43fd65de3961",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-11-27T15:18:49+01:00",
+  "timestamp": 1574864329,
+  "message": "ACTS-added-version-v0.11.1-13910",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b4049c484f8348c0ce6423a50b033616cdb164be",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-11-25T23:56:09+01:00",
+  "timestamp": 1574722569,
+  "message": "Forgot-a-trailing-_PLUGIN-13884",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fa37387373f3c5ee9e0e6d9698c8048c7ab4b2fa",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-11-25T14:33:16+01:00",
+  "timestamp": 1574688796,
+  "message": "ACTS-v0.11.0-adding-maintainer-13880",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1114ae93752aa9d33c3520f72aa701d8105c09dd",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-11-04T18:43:45+01:00",
+  "timestamp": 1572889425,
+  "message": "Add-ACTS-v0.10.5-13556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "be8f8856ce8a8d72cd2309af3ad77c4ab52d43bc",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-10-14T21:01:53+02:00",
+  "timestamp": 1571079713,
+  "message": "New-ACTS-versions-12484",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e35355f0402345f9649e919583617301ab34b138",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-06-18T20:00:02+02:00",
+  "timestamp": 1560880802,
+  "message": "ACTS-package-add-versions-including-0.10.1-11606",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca71f8b044519ec28cd6aab878afad658a2daf31",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-05-29T20:45:09+02:00",
+  "timestamp": 1559155509,
+  "message": "New-versions-and-bugfixes-for-the-ACTS-package-11578",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cc8a086082bfb248a7cf0c2a381c781cdecc1426",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-03-22T10:59:45+01:00",
+  "timestamp": 1553248785,
+  "message": "ACTS-add-version-0.8.2-10974",
+  "repo": "spack/spack"
+},
+{
+  "commit": "236180c1095a5bdfcde7a973d5157cc76a4096dc",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-25T11:11:01+01:00",
+  "timestamp": 1551089461,
+  "message": "ACTS-new-package-10600",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,40 @@
+[{
+  "commit": "b9334542500ea0aa10fca6d12d59d303b7e1978f",
+  "author": "Joshua S Brown <joshbro42867@yahoo.com>",
+  "date": "2021-01-06T18:21:11-07:00",
+  "timestamp": 1609982471,
+  "message": "Fix-dependencies-and-https-address-of-gitpython-20669",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2d44d135fddfa611372abe6e19c0da7395cc6f45",
+  "author": "rvinaybharadwaj <vinayr@lanl.gov>",
+  "date": "2020-10-07T13:27:51-06:00",
+  "timestamp": 1602098871,
+  "message": "Add-py-gitpython-19194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "59720e0ef9b28a6bc1b7f2deee7e079ce378da02",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-09-29T09:19:34-07:00",
+  "timestamp": 1601396374,
+  "message": "new-package-py-gitpython-18387",
+  "repo": "spack/spack"
+}]

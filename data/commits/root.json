@@ -1,0 +1,512 @@
+[{
+  "commit": "b23b126013e0579b7a524dcd442f57f4be32480d",
+  "author": "Dmitri Smirnov <dmixsmi@gmail.com>",
+  "date": "2021-04-27T22:09:16-04:00",
+  "timestamp": 1619575756,
+  "message": "root-Add-variant-for-veccore-option-23237",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f9bfd7e09c6ee1c09a54aac4bc3e54dcc17fea2",
+  "author": "David Hadley <davehadley@users.noreply.github.com>",
+  "date": "2021-04-23T15:46:27+01:00",
+  "timestamp": 1619189187,
+  "message": "ROOT-fix-pyroot-build-failure-in-v6.20.0-23038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "066caa1d2a4051b0c6c865237b548d9fb555cc1c",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-04-14T23:32:07+02:00",
+  "timestamp": 1618435927,
+  "message": "root-Add-Version-6.24.00-22996",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e17fb1ae1d8fa5f6e8653a790e95fc9057a2df0",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-04-08T10:38:46+02:00",
+  "timestamp": 1617871126,
+  "message": "root-add-conflict-with-intel-oneapi-tbb-22850",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d07cb59bef98f26ed0d2da332301e5277dd8b4d9",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-19T00:19:08+01:00",
+  "timestamp": 1616109548,
+  "message": "root-intel-tbb-interaction-22366",
+  "repo": "spack/spack"
+},
+{
+  "commit": "96e394845b6adafabd726f1066f28c147371c4c6",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-03-17T16:14:12+01:00",
+  "timestamp": 1615994052,
+  "message": "root-add-v6.22.08-22263",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11711fcbe56aca256fa263217c050b5ca077aa2e",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2021-02-09T20:33:14+01:00",
+  "timestamp": 1612899194,
+  "message": "root-6.22.04-works-with-xrootd-5-21572",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3be8a5e007d46b72a695eb81714061f0a9875ba6",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-12-11T14:23:46+01:00",
+  "timestamp": 1607693026,
+  "message": "root-added-v6.22.06-20309",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6549849e5de0fdcf93fe6716be63a823d646c55",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-24T18:08:56+01:00",
+  "timestamp": 1606237736,
+  "message": "root-Add-6.22.02-remove-preferred-label-20002",
+  "repo": "spack/spack"
+},
+{
+  "commit": "28a3b30c53b8559843e6f5cdf8e065c30e134f0b",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-24T12:19:10+01:00",
+  "timestamp": 1606216750,
+  "message": "root-fix-rootfit-roofit-variant-20051",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eca1370abc65341421597018cc5b702a3e5ab46e",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-11-18T17:37:37+01:00",
+  "timestamp": 1605717457,
+  "message": "root-Add-spectrum-variant-to-enable-TSpectrum-19971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "381305da0fc87319ea6edfad3a0780353484ef1a",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-11-07T04:04:23+01:00",
+  "timestamp": 1604718263,
+  "message": "root-fix-package-definition-19775",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62eab8923e8cf182c67c10b6162777d19e2d55b0",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-11-02T11:21:44-05:00",
+  "timestamp": 1604334104,
+  "message": "ROOT-use-native-CMakePackage-functions-in-packages.py-19642",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3630a8a87aeffed3973d6334d81d419bd23b9c06",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2020-11-01T09:11:38-05:00",
+  "timestamp": 1604239898,
+  "message": "root-conflict-is-with-a-dependency-19654",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fe984b994dc0e3174a05dc0aa4cc9f3171bc9d84",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-10-12T14:12:19+02:00",
+  "timestamp": 1602504739,
+  "message": "root-added-more-6.20.-versions-switch-preferred-19265",
+  "repo": "spack/spack"
+},
+{
+  "commit": "525a9f02ca434da6b5feec1489654c84320d0b27",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-17T20:02:45+02:00",
+  "timestamp": 1597687365,
+  "message": "xrootd-added-v5.0.0-updated-dependency-on-root-18101",
+  "repo": "spack/spack"
+},
+{
+  "commit": "46fb456b54316c79b43648b5d15340a9db3ab688",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-15T17:13:11+02:00",
+  "timestamp": 1597504391,
+  "message": "root-add-dataframe-cmake-option-17962",
+  "repo": "spack/spack"
+},
+{
+  "commit": "907f9e84114adab3e870f97948b604535366c68f",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-07-26T17:08:53+02:00",
+  "timestamp": 1595776133,
+  "message": "root-Add-version-6.22-17459",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f42dc4fa4dde1bb91358f27b78b1f8ef5b2cbfbc",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-15T19:04:05+02:00",
+  "timestamp": 1594832645,
+  "message": "root-fix-cmake-args-for-r-variant-17487",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e28561241bb63b1661105b76e4ab91bc8d62027d",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-16T08:31:41+02:00",
+  "timestamp": 1592289101,
+  "message": "ROOT-set-LD_LIBRARY_PATH-when-rpath-16899",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67ad8ed546a8f8a524c3f8fed0d619e4cbd442dd",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-04-29T09:05:17+02:00",
+  "timestamp": 1588143917,
+  "message": "root-added-v6.20.04-better-variant-handling-16362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cf45d38d243cc3987d8d1a421b58cc91a21a4087",
+  "author": "Dr. Christian Tacke <58549698+ChristianTackeGSI@users.noreply.github.com>",
+  "date": "2020-03-20T17:55:48+01:00",
+  "timestamp": 1584723348,
+  "message": "root-Add-version-6.20.-00-02-15487",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec75011a697249d25f05eec89aac6ab07f695de0",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2020-02-28T15:34:08+00:00",
+  "timestamp": 1582904048,
+  "message": "Add-drbenmorgan-as-maintainer-for-core-HEP-packages-15264",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f396106d1cb3c17df9d1c791a98f08baf73ac461",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-02-18T10:31:59-05:00",
+  "timestamp": 1582039919,
+  "message": "Update-davix-versions-and-add-version-restriction-for-ROOT-15038",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8cb480eb7ac18c6c5b9c3b73841b00ecfa0ed56",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-02-12T02:38:22+01:00",
+  "timestamp": 1581471502,
+  "message": "ROOT-Add-Pythia8-support-14790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80ea96312ffe50f2b62ed823baa19a2f904f8e91",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-01-23T18:43:11+01:00",
+  "timestamp": 1579801391,
+  "message": "ftgl-Move-to-frankheckenbach-fork-CMakePackage-14221",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a385a5178bb8f78f93c1eb215ad497337729128",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-01-23T18:42:25+01:00",
+  "timestamp": 1579801345,
+  "message": "root-Fix-root-x-breakage-from-11129-14224",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b98201593027850e23da6b65f9ba53474a4a2ed6",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2020-01-09T16:33:10+01:00",
+  "timestamp": 1578583990,
+  "message": "root-Configure-ROOT-correctly-for-python3-14225",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11501532d3948ccb79bf195afb4f2ebe3bac5ed7",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2020-01-08T04:35:47+01:00",
+  "timestamp": 1578454547,
+  "message": "Record-a-new-ROOT-GCC-incompatibility-14371",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3bb9d0feb4d97d3216d1f3941469be89fc2f0d40",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-20T19:55:16+01:00",
+  "timestamp": 1576868116,
+  "message": "root-Record-that-old-versions-of-ROOT-don-t-support-modern-GCC-14250",
+  "repo": "spack/spack"
+},
+{
+  "commit": "97afe560d51ef599cae514f54ba07e6834fc0d3f",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-20T19:53:20+01:00",
+  "timestamp": 1576868000,
+  "message": "Do-not-apply-the-unuran-patch-to-ROOT-6.06-xy-it-is-not-compatible-14245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71d10d76dc8c4d4f91b178a0f7c5f6d317ce9066",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-20T18:48:54+01:00",
+  "timestamp": 1576864134,
+  "message": "Adding-myself-as-a-ROOT-maintainer-14251",
+  "repo": "spack/spack"
+},
+{
+  "commit": "530a67c28045e27af28c03f71f28917f4ed35373",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-12-19T17:27:35-06:00",
+  "timestamp": 1576798055,
+  "message": "root-Add-chissg-as-maintainer.-14235",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5940ec0d74be1d775c3a7a3a6cc9804db9e101ca",
+  "author": "Hadrien G <grasland@lal.in2p3.fr>",
+  "date": "2019-12-19T19:45:09+01:00",
+  "timestamp": 1576781109,
+  "message": "Remove-python2-ism-in-root-package-14223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae3eac0b1946ce76b578c9c40d994a601a223761",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-12-18T11:14:47-06:00",
+  "timestamp": 1576689287,
+  "message": "root-Rationalize-and-improve-version-variant-and-ROOT-option-handling.-14203",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fb6d29adfaca29e2c0706eb04f710d614d446153",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-12-10T19:29:11+01:00",
+  "timestamp": 1576002551,
+  "message": "ROOT-http-variant-doesn-t-require-any-external-dependency-14072",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3eb1a0226d839ea78e11e268c757a706daf631b4",
+  "author": "iarspider <iarspider@gmail.com>",
+  "date": "2019-11-25T20:02:03+01:00",
+  "timestamp": 1574708523,
+  "message": "Fix-ROOT-dependencies-for-r-variant-13839",
+  "repo": "spack/spack"
+},
+{
+  "commit": "56de86dda64b904cc06ebfdc30ee572eee0abd51",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-11-13T01:33:47-06:00",
+  "timestamp": 1573630427,
+  "message": "root-relax-libxml2-requirements-when-python.-13657",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a2220f31500f93cda3eabbafae0626b18b1c097a",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-09-07T19:27:51-07:00",
+  "timestamp": 1567909671,
+  "message": "flake8-make-entire-repository-pass-spack-flake8-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "964a1d59970b27105ca61684228f5b3309e00cdd",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-06-04T14:39:04-05:00",
+  "timestamp": 1559677144,
+  "message": "Buildcache-relocate.py-error-fix-11616",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7438bb7f45365f75b68d723bfe9b1ee6a7aeb37d",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-05-29T15:41:13-05:00",
+  "timestamp": 1559162473,
+  "message": "ROOT-set-PYTHON_EXECUTABLE-11583",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3a20a93bfa3aecbd3032a74a1693cf312e1c002b",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-05-29T12:02:21-05:00",
+  "timestamp": 1559149341,
+  "message": "ROOT-Set-PYTHON_EXECUTABLE-with-python-variant-11579",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b2817ee0a4e4333ae1d97059cc32d8003c50a1d",
+  "author": "Chris Green <greenc@fnal.gov>",
+  "date": "2019-04-24T01:48:52-05:00",
+  "timestamp": 1556088532,
+  "message": "root-new-versions-variants-and-patches-11215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aac3799d2c2ed87373f89372942cc42a6aa6a6e9",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2019-04-08T14:30:22-05:00",
+  "timestamp": 1554751822,
+  "message": "Unset-SPACK_INCLUDE_DIRS-so-the-compiler-wrapper-does-not-prepend-any-I-flags.-The-assumption-is-that-cmake-will-set-the-correct-include-flags.-11129",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a93581e8de7c69c6c1ff860c427a851d2cf7ff7a",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-16T21:22:23+01:00",
+  "timestamp": 1550348543,
+  "message": "Fix-plural-typo-in-ROOT-package-10614",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0e0e7d4137b607a25a31aed5353458ede37f8df0",
+  "author": "Hadrien G <knights_of_ni@gmx.com>",
+  "date": "2019-02-14T05:54:45+01:00",
+  "timestamp": 1550120085,
+  "message": "Add-new-ROOT-release-move-to-SHA-256-checksums-10583",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36ebd7462c6287b5fe3b4cb9f50597dd57d833f4",
+  "author": "Javier Cervantes <javiercvilla@gmail.com>",
+  "date": "2019-02-08T18:17:07+01:00",
+  "timestamp": 1549646227,
+  "message": "root-package-major-update-8428",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "266de67c24c40ef79cde490418bb78c4eda59206",
+  "author": "Benedikt Riedel <benedikt.riedel@gmail.com>",
+  "date": "2017-11-09T08:49:27-06:00",
+  "timestamp": 1510238967,
+  "message": "ROOT-needs-to-have-a-consistent-version-of-binutils-as-it-is-very-sensitive-to-the-version-of-libopcodes.-You-can-t-move-the-code-from-one-system-with-the-same-OS-as-another.-6226",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "07aec4366fa8926ee896fdb2f0c5a68dad3267b5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-07-25T18:34:43-05:00",
+  "timestamp": 1501025683,
+  "message": "Add-universal-build_type-variant-to-CMakePackage-4797",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04ccb8f774ebe415e0cc7c8a37fc6662a0125f73",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-05-18T13:22:09-05:00",
+  "timestamp": 1495131729,
+  "message": "Add-old-version-of-ROOT-5-4288",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d6a488c69b8f10fd9d180ab679d857821c36d04",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-27T14:13:39-05:00",
+  "timestamp": 1493320419,
+  "message": "Add-latest-versions-of-root-4022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec91152a36eaa48527a9adf308a83d93aac34b89",
+  "author": "Patrick Gartung <gartung@fnal.gov>",
+  "date": "2016-09-22T15:34:58-05:00",
+  "timestamp": 1474576498,
+  "message": "a-few-package-used-in-HEP-including-ROOT6",
+  "repo": "spack/spack"
+}]

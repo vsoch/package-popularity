@@ -1,0 +1,8 @@
+[{
+  "commit": "db0f181ec13b0e218c16a965358942557d21bd38",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2021-04-07T13:44:00-04:00",
+  "timestamp": 1617817440,
+  "message": "New-package-mmv-22815",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "622b6d761d151405556b31443a76a35cf118ab3b",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-21T18:11:44+08:00",
+  "timestamp": 1616321504,
+  "message": "net-snmp-new-package-22154",
+  "repo": "spack/spack"
+}]

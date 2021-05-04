@@ -1,0 +1,152 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1d10c6c73091c6130b3af696d4a9309497dcdd54",
+  "author": "Tomoki, Karatsu <49965247+t-karatsu@users.noreply.github.com>",
+  "date": "2020-06-23T15:54:54+09:00",
+  "timestamp": 1592895294,
+  "message": "caffe-use-MPI-compiler-when-using-hdf5-mpi-17125",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7813e4146459f9460f0e6c0d6809d055130e903b",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-05-12T23:39:19+09:00",
+  "timestamp": 1589294359,
+  "message": "caffe-fixed-build-error-16520",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d5f12be70980c6ce1452c7f232baa3dc251be7d",
+  "author": "Eloy Gil <eloy@eloygil.com>",
+  "date": "2017-09-11T02:38:11+02:00",
+  "timestamp": 1505090291,
+  "message": "Missing-opencv-dependencies-5285",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b14b02f875a4844e37139bb091c960d680931b05",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-11T01:14:22+02:00",
+  "timestamp": 1505085262,
+  "message": "Improve-caffe-dependency-detection-with-extra-CMake-flags-5328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "156dedac6bd948d7943732ab42e15657c5052a9c",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-09-10T09:28:39+02:00",
+  "timestamp": 1505028519,
+  "message": "Fix-caffe-build-issue-with-python-3-5324",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b792f943f25a827257933d3a9f1b84e48f88c1a",
+  "author": "Jimmy Tang <jcftang@gmail.com>",
+  "date": "2017-07-25T13:53:33+01:00",
+  "timestamp": 1500987213,
+  "message": "Rename-the-gpu-variant-to-cuda-this-is-to-be-consistent-with-other-4890",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "785168f5a1b613ab76f0ed65896e5bf0b0b6af24",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2017-05-23T14:35:42-07:00",
+  "timestamp": 1495575342,
+  "message": "fix-build-command-for-caffe-with-openblas-4299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00fdbe81bcf322f93e90537bbe0b6bcf31863bf1",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-04-24T11:32:27-07:00",
+  "timestamp": 1493058747,
+  "message": "Caffe-3948",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bb22c3024d7f66649d1a50789da0e5d26517201",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-03-02T10:30:00-08:00",
+  "timestamp": 1488479400,
+  "message": "Added-a-recipe-for-the-Caffe-deep-learning-toolkit.-3232",
+  "repo": "spack/spack"
+}]

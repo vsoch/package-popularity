@@ -1,0 +1,8 @@
+[{
+  "commit": "dfb0da2c859a1bdbc9777eaaf23bb284d8b6bc99",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2021-03-20T13:43:04+01:00",
+  "timestamp": 1616244184,
+  "message": "zlib-ng-new-package-22346",
+  "repo": "spack/spack"
+}]

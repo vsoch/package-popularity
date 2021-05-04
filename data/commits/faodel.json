@@ -1,0 +1,56 @@
+[{
+  "commit": "b76d21710b0ad177ddc3066350f69aaec2c19d6d",
+  "author": "Omar Padron <omar.padron@kitware.com>",
+  "date": "2021-01-21T14:12:21-05:00",
+  "timestamp": 1611256341,
+  "message": "Add-develop-versions-of-faodel-and-zfp-21201",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0c7f5ae3d1ba22abe1aac3175f6c5dc777df3a5",
+  "author": "Todd Kordenbrock <tkordenbrock@users.noreply.github.com>",
+  "date": "2020-10-01T12:38:40-05:00",
+  "timestamp": 1601573920,
+  "message": "FAODEL-apply-a-patch-to-fix-CMake-failures-on-NERSC-Cori-in-faodel-1.1906.1-19093",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0086c475466ee2501ccbf446a22ed68930c3e580",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2020-06-03T11:38:27-07:00",
+  "timestamp": 1591209507,
+  "message": "patch-lambda-capture-issue-for-1.1906.1-fixed-in-upstream-faodel-master-16935",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a54687ead935933d245717000a4584abb1a28d56",
+  "author": "Todd Kordenbrock <tkordenbrock@users.noreply.github.com>",
+  "date": "2019-08-02T19:14:21-05:00",
+  "timestamp": 1564791261,
+  "message": "FAODEL-Add-1.1906.1-12180",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd3573b78def83ed5e09e612c80fabc774c667f9",
+  "author": "Todd Kordenbrock <tkordenbrock@users.noreply.github.com>",
+  "date": "2019-05-06T12:44:32-05:00",
+  "timestamp": 1557164672,
+  "message": "FAODEL-Add-FAODEL-package-to-spack-11323",
+  "repo": "spack/spack"
+}]

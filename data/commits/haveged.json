@@ -1,0 +1,8 @@
+[{
+  "commit": "05dfd94ed7e5888dbae793637919d37de8fc89dd",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-11T01:36:27+08:00",
+  "timestamp": 1615397787,
+  "message": "haveged-new-package-at-v1.9.13-22127",
+  "repo": "spack/spack"
+}]

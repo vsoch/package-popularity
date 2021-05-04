@@ -1,0 +1,48 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "439b329c385e7064cb3f778e0af3cac88e887f13",
+  "author": "Martin Oberzalek <62324958+moberza@users.noreply.github.com>",
+  "date": "2020-11-20T13:51:25+01:00",
+  "timestamp": 1605876685,
+  "message": "openldap-enable-creation-of-static-libraries-20013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "85b6e3e6d40fc1f9eb585363ac15d914038f9a0c",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-10T16:40:46+08:00",
+  "timestamp": 1581324046,
+  "message": "openldap-added-v2.4.49-14815",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afca223b3da4541e79533a75d7fb1fe3e39e986e",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-10-02T09:58:46-07:00",
+  "timestamp": 1570035526,
+  "message": "new-package-openldap-12748",
+  "repo": "spack/spack"
+}]

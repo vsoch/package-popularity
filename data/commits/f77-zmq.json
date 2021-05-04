@@ -1,0 +1,32 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9c194b22dc8a9e09be9edfe93822103a7baea297",
+  "author": "Anthony Scemama <scemama@irsamc.ups-tlse.fr>",
+  "date": "2020-02-27T04:05:46+01:00",
+  "timestamp": 1582772746,
+  "message": "f77-zmq-add-version-4.3.2-15204",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01bda126924564a399c7d529eb1e94df71ba9e8e",
+  "author": "Anthony Scemama <scemama@irsamc.ups-tlse.fr>",
+  "date": "2020-02-20T22:34:25+01:00",
+  "timestamp": 1582234465,
+  "message": "libf77zmq-15125",
+  "repo": "spack/spack"
+}]

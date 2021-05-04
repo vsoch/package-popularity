@@ -1,0 +1,144 @@
+[{
+  "commit": "476444c59244125aed5b1522fdcb33c2cd2f0f9b",
+  "author": "Valentin Churavy <vchuravy@users.noreply.github.com>",
+  "date": "2021-02-25T23:55:42+01:00",
+  "timestamp": 1614293742,
+  "message": "flux-core-add-Wno-errpr-maybe-uninitialized-21943",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71375b3446beed31f03ea2a206b536a28b0de2c0",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2021-01-27T17:56:45-08:00",
+  "timestamp": 1611799005,
+  "message": "flux-update-to-latest-releases-21306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1728b0ea250bc1ad7fc55ab9ebf377f52b0406f5",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-12-11T01:08:02-07:00",
+  "timestamp": 1607674082,
+  "message": "flux-added-v0.20.0-and-v0.21.0-20322",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29645ceba514e27c65dd07eac27b8deb240b22c1",
+  "author": "Robert Pavel <rspavel@lanl.gov>",
+  "date": "2020-09-10T15:53:28-06:00",
+  "timestamp": 1599774808,
+  "message": "Adding-Missing-Versions-for-Flux-Sched-Flux-Core-and-Compiler-Flags-18612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a74ee4d27ac0c5bda020b2f0f78f037a21650c8e",
+  "author": "Stephen Herbein <sherbein@udel.edu>",
+  "date": "2020-05-21T20:14:26-07:00",
+  "timestamp": 1590117266,
+  "message": "flux-add-dependency-types-for-python-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e3470d797bd33bb62273de771d6955e7d7682ea",
+  "author": "Stephen Herbein <sherbein@udel.edu>",
+  "date": "2020-05-18T22:58:09-07:00",
+  "timestamp": 1589867889,
+  "message": "flux-add-latest-releases-and-checksum",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "19410461b7fbbff00b92f9a32524c1cef0a9a774",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2019-11-04T07:58:40-08:00",
+  "timestamp": 1572883120,
+  "message": "Flux-v0.11.1-v0.11.3-13199",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "007e168b9e85b34376ef9708612ba184cf622b10",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-04-01T09:33:55-07:00",
+  "timestamp": 1554136435,
+  "message": "add-pkgconfig-as-dependence-for-flux-packages-11036",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67a1e56e4dee367a45be0c8e3f7a892d915a089c",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2019-01-28T20:20:01-08:00",
+  "timestamp": 1548735601,
+  "message": "add-flux-core-0.11.0-and-flux-sched-0.7.0-10447",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "92229e46e38ea0f7be607ca8071924dc8a85531a",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2018-12-11T20:34:58-08:00",
+  "timestamp": 1544589298,
+  "message": "flux-core-flux-sched-fix-compilation-and-dependencies-10049",
+  "repo": "spack/spack"
+},
+{
+  "commit": "49c705aebe92c651afeafa4c3d33d19dccfa22dd",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2018-10-24T01:06:34-07:00",
+  "timestamp": 1540368394,
+  "message": "flux-core-flux-sched-update-versions-and-dependencies-fix-git-tags-9610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3b0983a217f07a956a7e306580fbc806f3b00440",
+  "author": "Stephen Herbein <SteVwonder@users.noreply.github.com>",
+  "date": "2018-08-02T13:20:55-07:00",
+  "timestamp": 1533241255,
+  "message": "flux-update-flux-core-package-and-add-a-flux-sched-package-8818",
+  "repo": "spack/spack"
+}]

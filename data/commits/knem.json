@@ -1,0 +1,32 @@
+[{
+  "commit": "4977dcfe9bb21c5c6fd81a9018033ad3cd60741a",
+  "author": "Mohan <73109322+mohan002@users.noreply.github.com>",
+  "date": "2021-01-27T17:57:10+05:30",
+  "timestamp": 1611750430,
+  "message": "knem-added-a-patch-for-v1.1.4-21312",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0492efc113ff0188dcf16b05664ed9ffac77258",
+  "author": "Alex Margolin <alex--m@users.noreply.github.com>",
+  "date": "2020-08-09T20:55:49+03:00",
+  "timestamp": 1596995749,
+  "message": "KNEM-and-XPMEM-support-for-UCX-17215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "01b277ad0fe15e6f42f9f403126da5de68994737",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-06-17T21:41:24+02:00",
+  "timestamp": 1592422884,
+  "message": "openmpi-options-for-local-transport-16831",
+  "repo": "spack/spack"
+}]

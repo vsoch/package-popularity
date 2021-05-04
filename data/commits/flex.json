@@ -1,0 +1,304 @@
+[{
+  "commit": "694d633a2c46505b5bcb2e57a52966e37c36477e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-02-04T13:17:32+01:00",
+  "timestamp": 1612441052,
+  "message": "spack-external-find-allow-to-search-by-tags-21407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb8ff0bc81a2029ebeaa59ec582f549fee0a738d",
+  "author": "Robert Blake <blake14@llnl.gov>",
+  "date": "2020-08-28T14:22:28-07:00",
+  "timestamp": 1598649748,
+  "message": "Adding-externals-for-bison-and-flex-18358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2f7e940872f0361bc28a21b665ad2986da21d246",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-21T20:36:02-07:00",
+  "timestamp": 1587526562,
+  "message": "Fix-Flex-Reconfigure-16194",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ae824737efd90b62a6d3f668a87d6c1bc169664",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-11-12T10:01:15-08:00",
+  "timestamp": 1573581675,
+  "message": "Add-missing-dependencies-to-flex.-13692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9425075a23234ec52c263e549cede9466df0e362",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-11T21:12:28+01:00",
+  "timestamp": 1552335148,
+  "message": "flex-Apply-2.6.4-patch-regardless-of-gcc-version-10841",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3fb75e12060979a71f9389722c3139eacf800911",
+  "author": "Michael Kuhn <michael@ikkoku.de>",
+  "date": "2019-03-07T20:15:47+01:00",
+  "timestamp": 1551986147,
+  "message": "flex-package-patch-for-building-2.6.4-with-gcc-7-10754",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d579231967d502b56b6254c660e6dfddc4f2ba3a",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2018-05-17T22:58:29+02:00",
+  "timestamp": 1526590709,
+  "message": "flex-use-2.6.3.-by-default-8154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9f0e17a5389e6e09d0198785241ff5d98b42498d",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-20T21:36:45+01:00",
+  "timestamp": 1516480605,
+  "message": "flex-restrict-GCC-conflict-to-newer-Ubuntu-releases-6963",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2ed914aa1bfe65fe798583c3149f2a58ec267843",
+  "author": "stefanosoffia <stefanosoffia@users.noreply.github.com>",
+  "date": "2018-01-03T16:46:57+01:00",
+  "timestamp": 1514994417,
+  "message": "Flex-v2.6.4-conflicts-with-gcc-7.2.0-6819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "767cdf98d33cbc32c7725f84d2c2cc07fe0e828a",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-26T15:58:02+01:00",
+  "timestamp": 1498489082,
+  "message": "Cleanup-some-depends_on-flex-for-scotch-and-things-depending-on-scotch-4600-4601",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b741809bb200d4c9a06596edd89bfab05218c3d8",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-06-23T14:45:17+01:00",
+  "timestamp": 1498225517,
+  "message": "BUG-flex-lex-fails-with-lib64-installation-issue-4583-4584",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca2755d53268756f8c1c004f4f9e96f78765d8a8",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-21T23:33:34+10:00",
+  "timestamp": 1495373614,
+  "message": "flex-create-variant-lex-that-creates-symlinks-for-lex-and-libl.-a-so-3894",
+  "repo": "spack/spack"
+},
+{
+  "commit": "24553c12bbce5fcd5e1a73581a823cdd5fe319f6",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2017-02-03T17:19:23-08:00",
+  "timestamp": 1486171163,
+  "message": "Flex-and-Glib-builds-are-dependent-on-m4-3022",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "268347ccbf9521c3bcb56567657f202fab376309",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-24T15:06:56-06:00",
+  "timestamp": 1485292016,
+  "message": "Add-latest-version-of-flex-2914",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8816cdea9e4283361e917821488e38cd2ed9574f",
+  "author": "Jean-Paul Pelteret <jppelteret@gmail.com>",
+  "date": "2016-12-14T23:34:55+01:00",
+  "timestamp": 1481754895,
+  "message": "Blacklist-flex-2.6.2-by-commenting-out-package-version-2571",
+  "repo": "spack/spack"
+},
+{
+  "commit": "664939eeba8d086106e6154a897214d2da7fe09d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-11-28T11:48:34-06:00",
+  "timestamp": 1480355314,
+  "message": "Fix-building-latest-version-of-flex-2401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fbe67af3db94d41018ef575ea43fa7149448eee",
+  "author": "Matthew Scott Krafczyk <krafczyk.matthew@gmail.com>",
+  "date": "2016-11-22T17:30:25-05:00",
+  "timestamp": 1479853825,
+  "message": "Update-flex-package-url-s-and-versions-2384",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71684cb07128bebdbabaaa695ef05f98ed9cd49f",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-07-18T23:04:20-04:00",
+  "timestamp": 1468897460,
+  "message": "Flex-requires-m4",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd5a6914f161f2237a90df856126a905e305d80f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-27T12:56:43-05:00",
+  "timestamp": 1464371803,
+  "message": "Undo-changes-to-flex",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62dd040a8fd7f6f8993640156049eeb061efe955",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T09:30:37-07:00",
+  "timestamp": 1463416237,
+  "message": "add-GOPATH-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "088dce709e85d0f522ac2d90c22618a20d421cbc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-12T16:33:37-05:00",
+  "timestamp": 1463088817,
+  "message": "Make-flake8-happy",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab41fd6692feb9cdaa29dedf81689e3ff04a5f26",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-12T16:21:06-05:00",
+  "timestamp": 1463088066,
+  "message": "Add-bertini-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27de2a42d9d3b0f572c37a6ce1612b7df9855240",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-05-04T20:27:58-04:00",
+  "timestamp": 1462408078,
+  "message": "Update-Flex-to-2.6.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fdf5438ea4375dd5d9ceee7c5af1a4cf6896d53",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-06T16:55:48-08:00",
+  "timestamp": 1423270548,
+  "message": "flex-and-bison",
+  "repo": "spack/spack"
+}]

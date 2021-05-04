@@ -1,0 +1,24 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a5914cecb470d1391332b525f48235891ea2161d",
+  "author": "h-denpo <57649496+h-denpo@users.noreply.github.com>",
+  "date": "2020-08-06T06:24:49+09:00",
+  "timestamp": 1596662689,
+  "message": "add-depends_on-zlib-type-link-17887",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3104bfe93e9544fc0169e7037e1a9fbc065cb2a0",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-22T22:59:26+08:00",
+  "timestamp": 1582383566,
+  "message": "add-new-package-advancecomp-15166",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,256 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1fc687e9f6f98391b2cf66b8f1503e67262d46f2",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-29T18:39:11+01:00",
+  "timestamp": 1606671551,
+  "message": "rust-Add-1.48.0-20149",
+  "repo": "spack/spack"
+},
+{
+  "commit": "08a61006a534690c8a5232bf7274afcae76ae8df",
+  "author": "Andrew Gaspar <andrew.gaspar@outlook.com>",
+  "date": "2020-10-10T16:01:38-06:00",
+  "timestamp": 1602367298,
+  "message": "Rust-1.47.0-19240",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d0ba79bfbfc3d03e3740aa34c78b4533d5c1b35",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-09-22T12:54:54-06:00",
+  "timestamp": 1600800894,
+  "message": "Rust-added-v1.46.0-18863",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcb4dfc3077d2cb96c0fe84b6615581640637e3f",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-09-19T07:54:26+02:00",
+  "timestamp": 1600494866,
+  "message": "Ensure-variant-defaults-are-parsable-from-CLI.-18661",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7205a7542767b3e461e54361a618ffd67120dbb7",
+  "author": "Michal Sudwoj <mswoj61@gmail.com>",
+  "date": "2020-09-08T18:28:59+02:00",
+  "timestamp": 1599582539,
+  "message": "Added-nvptx-variant-to-rust-18209",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c436414352482430edfd132f69de4e851c83733b",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-07-31T13:30:00-06:00",
+  "timestamp": 1596223800,
+  "message": "Add-Rust-versions-1.45.1-and-1.44.1-17812",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d43e41da00d011fda7c17dc4d88b16e9deaebb9",
+  "author": "Andrew Gaspar <andrew.gaspar@outlook.com>",
+  "date": "2020-06-04T15:59:14-06:00",
+  "timestamp": 1591307954,
+  "message": "Rust-v1.44.0-16957",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0103084558a9759a0ee8330f21163d64224b06fc",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-05-07T13:38:21-06:00",
+  "timestamp": 1588880301,
+  "message": "Add-Rust-1.43.1-16512",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2a3942fa4cc893cbd29a7676bf61993b49e30018",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-04-23T11:33:02-06:00",
+  "timestamp": 1587663182,
+  "message": "Rust-1.43.0-16260",
+  "repo": "spack/spack"
+},
+{
+  "commit": "98cdd8777a6c317405f9c6b2da8a5134a3a6f80b",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-04-14T11:53:42-06:00",
+  "timestamp": 1586886822,
+  "message": "Add-support-for-pre-release-builds-of-Rust-beta-master-nightly-16042",
+  "repo": "spack/spack"
+},
+{
+  "commit": "723fd5a1016e2f3922d1427b9363b9c03ce9de2a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-13T17:02:37-05:00",
+  "timestamp": 1586815357,
+  "message": "Rust-add-missing-dependencies-16015",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e2cf6f5b1baca2b99e6d95f632e8b7eae9780069",
+  "author": "Andrew Gaspar <agaspar@lanl.gov>",
+  "date": "2020-03-19T20:57:41-07:00",
+  "timestamp": 1584676661,
+  "message": "Improvements-to-Rust-s-Installation-15395",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d4d82281d1d5d0a43732e79cc7031354959f86d0",
+  "author": "Jennifer Herting <jen@herting.cc>",
+  "date": "2020-02-04T16:11:36-05:00",
+  "timestamp": 1580850696,
+  "message": "rust-added-version-1.41.0-14742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "308805cd54d28f18fafba16dab406b4d73b4e263",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-04-16T16:32:11-07:00",
+  "timestamp": 1555457531,
+  "message": "Added-rust-1.34.0-11200",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2826d37a45a22a62af46df08307729694b4a9a7a",
+  "author": "Matthias Diener <matthias.diener@gmail.com>",
+  "date": "2019-01-26T09:26:16-06:00",
+  "timestamp": 1548516376,
+  "message": "rust-add-version-1.32.0-10407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1994d883c2f56f91d7dd3ff0d38c6bb3e6d2314",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2019-01-14T15:22:38-08:00",
+  "timestamp": 1547508158,
+  "message": "Added-latest-rust-releases-and-develop-branch-10341",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "060d1944d4d2611191fbdbabbeacde48bb47c0f8",
+  "author": "sknigh <sknigh@sandia.gov>",
+  "date": "2018-12-05T11:15:45-08:00",
+  "timestamp": 1544037345,
+  "message": "Rewrite-Rust-package-9998",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dca4d2b15e6e78058d1ebdb244877470241f8f9c",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-15T00:26:44-05:00",
+  "timestamp": 1489555604,
+  "message": "Consistent-docs-and-usage-of-env-mod-methods-3351",
+  "repo": "spack/spack"
+},
+{
+  "commit": "29bac34c1d468773bec4661850a12c126c101e95",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-27T03:17:12-05:00",
+  "timestamp": 1482826632,
+  "message": "Ensure-that-every-file-in-Spack-has-a-license-2659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00de72272d2ac4fd949c43cdaa9487defc7875c8",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-22T11:14:46-07:00",
+  "timestamp": 1463940886,
+  "message": "rust-compiler-builder-package-new-llvm-variants",
+  "repo": "spack/spack"
+},
+{
+  "commit": "404b7c7c4fe721f3b7236f6d02fb1330d4245858",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T09:06:03-07:00",
+  "timestamp": 1463414763,
+  "message": "initial-rust-support",
+  "repo": "spack/spack"
+}]

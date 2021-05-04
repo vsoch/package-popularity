@@ -1,0 +1,32 @@
+[{
+  "commit": "a9d6e69789ec70223e9ecd0db68a7282c3b2e092",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2021-01-11T11:39:02+01:00",
+  "timestamp": 1610361542,
+  "message": "New-versions-of-opencl-c-headers-opencl-clhpp-and-ocl-icd-20724",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6a82b2260fd49c01fd5f71f349faf3bcc72f6d9e",
+  "author": "lorddavidiii <maximillian.bensch@aei.mpg.de>",
+  "date": "2020-10-22T22:00:40+02:00",
+  "timestamp": 1603396840,
+  "message": "Add-opencl-headers-and-use-ocl-icd-as-OpenCL-provider-19463",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b9cf50d571271be6572339669ac4b507caf9b845",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2020-06-12T19:23:55-07:00",
+  "timestamp": 1592015035,
+  "message": "New-package-ocl-icd-17078",
+  "repo": "spack/spack"
+}]

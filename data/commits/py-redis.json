@@ -1,0 +1,64 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a8974c2d87733e46bbe8e66911f9cefb37074b7",
+  "author": "Joe Koning <koning@users.noreply.github.com>",
+  "date": "2020-10-12T12:05:09-07:00",
+  "timestamp": 1602529509,
+  "message": "Update-py-redis-19063",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e4c8907daf93bff7141fa572143e9d486fed2c6",
+  "author": "rvinaybharadwaj <vinayr@lanl.gov>",
+  "date": "2020-10-07T10:30:42-06:00",
+  "timestamp": 1602088242,
+  "message": "Add-py-redis-19177",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04af0eb5a2e4bf91d63825b33cff62f36176c5f3",
+  "author": "wspear <wjspear@gmail.com>",
+  "date": "2019-10-14T01:34:37-07:00",
+  "timestamp": 1571042077,
+  "message": "py-redis-added-new-package-at-version-3.3.8-13134",
+  "repo": "spack/spack"
+},
+{
+  "commit": "326c2718d5bd5cd954e4512e0e476141705e3f1b",
+  "author": "Sinan <sbulutw@gmail.com>",
+  "date": "2019-09-20T17:59:50-07:00",
+  "timestamp": 1569027590,
+  "message": "New-package-py-gast-12874",
+  "repo": "spack/spack"
+}]

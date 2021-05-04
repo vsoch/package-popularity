@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "abbc47823d57eb932eb17e563cf117883644878b",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-16T21:35:30-07:00",
+  "timestamp": 1587098130,
+  "message": "SourceForge-Mirror-Mixin-16112",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c3e2669f226e9f7afc5e84af29b868ef546a6fd",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-07T21:05:50+08:00",
+  "timestamp": 1581080750,
+  "message": "imlib2-added-v1.6.0-and-v1.6.1-14807",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1a662f428e17edd1b28edb1de02798cc66f25e69",
+  "author": "Quinn <quinnm@missouri.edu>",
+  "date": "2019-12-07T15:38:41-06:00",
+  "timestamp": 1575754721,
+  "message": "Add-New-package-feh-and-supporting-packages-14013",
+  "repo": "spack/spack"
+}]

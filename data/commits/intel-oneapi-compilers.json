@@ -1,0 +1,104 @@
+[{
+  "commit": "ccc90e3a79353a7b83b9df437f6e2601a3060e36",
+  "author": "Vasily Danilin <vasily.danilin@intel.com>",
+  "date": "2021-04-07T19:44:12+03:00",
+  "timestamp": 1617813852,
+  "message": "Integrate-oneAPI-2021.2.0-release-22821",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c8b44142303471e8aa1bdcf9a6a30b9eff852322",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2021-04-07T12:31:08-04:00",
+  "timestamp": 1617813068,
+  "message": "oneapi-fix-mkl-deps-externally-installed-and-docs-22607",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f57626a7c4a05cc11972a43eba498a943b17a08d",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2021-03-22T20:35:45-04:00",
+  "timestamp": 1616459745,
+  "message": "Oneapi-packages-update-URLs-environment-management-and-dependencies-22202",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2607bc5cff7cadb6a6048f9aaa64cd711edfe46d",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-02-03T18:21:54-06:00",
+  "timestamp": 1612398114,
+  "message": "intel-oneapi-compilers-mpi-add-module-support-20808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "863f455cf9ce787d59cacb30583e78213b2aaa72",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-02-03T14:04:23-06:00",
+  "timestamp": 1612382663,
+  "message": "intel-oneapi-compilers-add-to-LD_LIBRARY_PATH-so-that-it-finds-libimf.so-20717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e5f72817c7c6b3aa7f0b435bc695ccde352f06b",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-01-06T12:45:42-06:00",
+  "timestamp": 1609958742,
+  "message": "intel-oneapi-compilers-package-correct-module-file-20686",
+  "repo": "spack/spack"
+},
+{
+  "commit": "290043b72a6a88da66bef38b0e1e0b15ebfebddf",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2020-12-23T18:39:40-05:00",
+  "timestamp": 1608766780,
+  "message": "Add-Intel-oneAPI-packages-20411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "beb4d968ef73d1e8bebe9c4d4fbb89bff1001d8d",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-02-03T18:21:54-06:00",
+  "timestamp": 1612398114,
+  "message": "intel-oneapi-compilers-mpi-add-module-support-20808",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb345faa57a8b53141f6ab906721d68cf96c6de0",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-02-03T14:04:23-06:00",
+  "timestamp": 1612382663,
+  "message": "intel-oneapi-compilers-add-to-LD_LIBRARY_PATH-so-that-it-finds-libimf.so-20717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3fad974873b19edc3f5dec256c7f32872e7c3ef",
+  "author": "Frank Willmore <frankwillmore@gmail.com>",
+  "date": "2021-01-06T12:45:42-06:00",
+  "timestamp": 1609958742,
+  "message": "intel-oneapi-compilers-package-correct-module-file-20686",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1e4465c596d150bd6b831b5206aa1e6d92f4e8f",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2021-01-05T12:37:46-05:00",
+  "timestamp": 1609868266,
+  "message": "compiler-version-format-changed-20671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0bb18d8a3811a8b915626eab10e04f6a89ae6f64",
+  "author": "Robert Cohn <rscohn2@gmail.com>",
+  "date": "2020-12-23T18:39:40-05:00",
+  "timestamp": 1608766780,
+  "message": "Add-Intel-oneAPI-packages-20411",
+  "repo": "spack/spack"
+}]

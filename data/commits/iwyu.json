@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7d0a46c05136d1de7f28946e04336feca1318d34",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-09-18T23:31:03+09:00",
+  "timestamp": 1600439463,
+  "message": "iwyu-Require-llvm-all_targets-on-non-x86_64-systems-18710",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6ac8cf8126ed4044ae7b99cf28513059ae0c5652",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-05-22T16:07:59-04:00",
+  "timestamp": 1590178079,
+  "message": "IWYU-fix-0.14-build-16761",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c9df2dea953a309c008a26ce525299f5e36c7fd6",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-05-22T09:55:29-04:00",
+  "timestamp": 1590155729,
+  "message": "IWYU-update-include-what-you-use-version-16760",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e989c05cd0e249be41cd7a4a24f2b126c3ce6f8d",
+  "author": "Seth R. Johnson <johnsonsr@ornl.gov>",
+  "date": "2020-03-26T23:38:56-04:00",
+  "timestamp": 1585280336,
+  "message": "Add-include-what-you-use-15691",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,248 @@
+[{
+  "commit": "f7a9fbc688c8d59d0e89ef4c7fa874a960d15815",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-02-09T15:35:30-06:00",
+  "timestamp": 1612906530,
+  "message": "Update-the-Spack-R-BioConductor-packages-to-Bioconductor-3.12-21575",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1b24dfb8bafe86fbff47a9751b199e2707e3c23e",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-11-27T20:57:15-06:00",
+  "timestamp": 1574909835,
+  "message": "Replace-git-based-Bioconductor-R-packages-12005",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a1572bb9991fc8fd8aa5a2d9a17f3b978a0d0bb6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-23T21:56:48-05:00",
+  "timestamp": 1532401008,
+  "message": "Add-top-level-attributes-for-git-R-Bioconductor-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "17d94a5b51a99f9af5ebeb58087b2407fa4b973b",
+  "author": "Yifan Zhu <ifanzhu@foxmail.com>",
+  "date": "2017-10-24T04:25:02-05:00",
+  "timestamp": 1508837102,
+  "message": "r-geoquery-created-new-package-5879",
+  "repo": "spack/spack"
+},
+{
+  "commit": "420048350fddfd32f7e1577b8e4b6c7fe3e9ea0a",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-10-24T04:19:19-05:00",
+  "timestamp": 1508836759,
+  "message": "bioconductor-update-5786",
+  "repo": "spack/spack"
+},
+{
+  "commit": "618d3add4f1a4d9796c37e5f3b5def5e32a91255",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-09-26T16:39:34-05:00",
+  "timestamp": 1506461974,
+  "message": "r-annotate-new-package.-5490",
+  "repo": "spack/spack"
+},
+{
+  "commit": "34d41312847f2460cd61d1dec2fd776404ec3944",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-09-25T17:57:17-05:00",
+  "timestamp": 1506380237,
+  "message": "r-genefilter-New-package.-5467",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8f0fbb4e11601ed653a6d4b4f38975bf44ed2014",
+  "author": "lingnanyuan <1297162327@qq.com>",
+  "date": "2017-09-25T17:45:21-05:00",
+  "timestamp": 1506379521,
+  "message": "r-multtest-new-package.-5469",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04489d6dfa5baf2d24b7942e194c5c0a30941f80",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2017-09-20T21:00:56-05:00",
+  "timestamp": 1505959256,
+  "message": "r-biobase-new-package-5398",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6b2d75a0a6cf23e685d65a7d1c09ecba6c358275",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-07-19T00:22:14+08:00",
+  "timestamp": 1500394934,
+  "message": "Repalce-ftp-with-http-for-gdbm-mesa-glu-and-udunits2.-4798",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "929c45916bf9f9b483f2a6999fad68127c7b667e",
+  "author": "Luigi Calori <l.calori@cineca.it>",
+  "date": "2017-05-23T23:36:48+02:00",
+  "timestamp": 1495575408,
+  "message": "new-package-virtualgl-4297",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ab2077b87e1d1e96e2832b7273e7756480516c1",
+  "author": "Milton Woods <miltonjwoods@gmail.com>",
+  "date": "2017-05-14T22:41:00+10:00",
+  "timestamp": 1494765660,
+  "message": "mesa-glu-provides-libGLU-the-OpenGL-utility-library-from-SGI-4244",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eef2021d912bad3decc2f8fa96eda8bde5135fa0",
+  "author": "Elsa Gonsiorowski <gonsie@me.com>",
+  "date": "2017-03-11T07:12:26-08:00",
+  "timestamp": 1489245146,
+  "message": "pdsh-basic-package-3408",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3dd4a01a5e737a08a211f4e0f58da0a725e70818",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-04T21:24:07-05:00",
+  "timestamp": 1483583047,
+  "message": "Standardize-package-names-lower-case-not-Mixed_CASE-2475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df0c1134c9a026682ae432eae548294181d64059",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-04T16:10:07-08:00",
+  "timestamp": 1388880607,
+  "message": "SPACK-14-Bugfix-in-Spec.normalize",
+  "repo": "spack/spack"
+}]

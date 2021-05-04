@@ -1,0 +1,392 @@
+[{
+  "commit": "364b9e7a2700ace10ce5604cf941594c5671b53c",
+  "author": "Bryan Herman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-03-16T20:46:16-04:00",
+  "timestamp": 1615941976,
+  "message": "add-maintainer-to-py-h5py-22332",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f213cf834937fc52518edbd16a82870efaba8b4c",
+  "author": "Bryan Herman <63422190+bryanherman@users.noreply.github.com>",
+  "date": "2021-03-12T14:44:37-05:00",
+  "timestamp": 1615578277,
+  "message": "py-h5py-offline-installation-and-deps-fix-22262",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bb4ccdfa91f6ea8ca80d14661e81fbff22b06ffd",
+  "author": "Thomas Kluyver <thomas.kluyver@xfel.eu>",
+  "date": "2021-03-12T00:39:25+00:00",
+  "timestamp": 1615509565,
+  "message": "Add-newest-versions-of-py-h5py-22245",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8071be81c4cef38d54814b6f1a348c318b86d2b6",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-02-25T17:08:00-05:00",
+  "timestamp": 1614290880,
+  "message": "py-tensorflow-disable-h5py-hdf5-mpi-variant-s-if-tensorflow-is-mpi-21955",
+  "repo": "spack/spack"
+},
+{
+  "commit": "561557d2f5cc780678316174d65ff44aea4022d3",
+  "author": "Ben Morgan <drbenmorgan@users.noreply.github.com>",
+  "date": "2021-01-27T13:43:21+00:00",
+  "timestamp": 1611755001,
+  "message": "py-h5py-add-build-dependency-on-py-wheel-21320",
+  "repo": "spack/spack"
+},
+{
+  "commit": "040f69f93135971a0aa2b2e6b9b36da14d17628c",
+  "author": "Kelly (KT) Thompson <KineticTheory@users.noreply.github.com>",
+  "date": "2021-01-14T11:27:04-07:00",
+  "timestamp": 1610648824,
+  "message": "py-h5py-HDF5_DIR-is-needed-for-mpi-too-20905",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d685e47fb7dd2787f25415e515102135b05789ae",
+  "author": "Sajid Ali <sajidsyed2021@u.northwestern.edu>",
+  "date": "2021-01-02T17:32:36-06:00",
+  "timestamp": 1609630356,
+  "message": "bump-py-h5py-20482",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4accff26614af1b36e239035a22acf72a328313",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-29T18:44:04-06:00",
+  "timestamp": 1609289044,
+  "message": "PythonPackage-url-pypi-20610",
+  "repo": "spack/spack"
+},
+{
+  "commit": "826cd07cf7bef7d610103516943b0ef73ab459ad",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-12-16T17:15:03-06:00",
+  "timestamp": 1608160503,
+  "message": "PythonPackage-add-import-module-smoke-tests-20023",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75f34126fcbd44149ea9784ed29e3f6a1026685c",
+  "author": "Simon Pintarelli <1237199+simonpintarelli@users.noreply.github.com>",
+  "date": "2020-08-01T23:26:41+02:00",
+  "timestamp": 1596317201,
+  "message": "h5py-does-not-correctly-recognize-hdf5-version-on-Cray-17831",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31e8d646afd825b07a7ec571403c2ebc588f65c1",
+  "author": "Axel Huebl <axelhuebl@lbl.gov>",
+  "date": "2020-04-26T09:45:04-07:00",
+  "timestamp": 1587919504,
+  "message": "py-h5py-master-new-version-16306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a1a346999b77ef7485913c79d7d854c779ecd0d",
+  "author": "genric <genrich.ivaska@epfl.ch>",
+  "date": "2020-02-27T04:01:22+01:00",
+  "timestamp": 1582772482,
+  "message": "h5py-add-version-2.10.0-15205",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d60106a3f69eaaac9be4cc1f95ae935a8e79baf6",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2019-02-27T10:45:28-08:00",
+  "timestamp": 1551293128,
+  "message": "Add-newer-versions-for-51-Python-packages-10738",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e57ddda4cc339ef5fd3a68f01435684d24687ec2",
+  "author": "Sajid Ali <30510036+s-sajid-ali@users.noreply.github.com>",
+  "date": "2018-12-20T17:23:17-06:00",
+  "timestamp": 1545348197,
+  "message": "update-h5py-to-2.9.0-10169",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cca6b673db8abbe485edb6390472881d75b40148",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-09-14T17:56:44-05:00",
+  "timestamp": 1536965804,
+  "message": "py-h5py-add-version-2.8.0-9231",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fec473e9e29b907b289a5055ae69933fa153d32",
+  "author": "Brian Van Essen <vanessen1@llnl.gov>",
+  "date": "2017-12-11T17:26:13-07:00",
+  "timestamp": 1513038373,
+  "message": "Py-h5py-update-6635",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f564e0230196936fb4313ea531b4b349ad754368",
+  "author": "Chien-Chang Feng <jasonfenglu@users.noreply.github.com>",
+  "date": "2017-12-04T15:50:35+09:00",
+  "timestamp": 1512370235,
+  "message": "py-h5py-fixed-a-typo-in-the-name-of-a-dependency-6540",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bbbfe94462c06aa99fd6d4ee802955135d1de9b",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-11-23T16:05:38+01:00",
+  "timestamp": 1511449538,
+  "message": "Introduce-virtual-dependency-pkgconfig-5198",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50957bd44fe54836e10045cdede7e1393d732f6f",
+  "author": "koebbe <koebbe@users.noreply.github.com>",
+  "date": "2017-11-14T10:26:58-06:00",
+  "timestamp": 1510676818,
+  "message": "py-h5py-make-sure-to-depend-on-the-hl-variant-of-hdf5-6304",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "afc4f9c3c2d464b2e1e25ace359e230fbc24fd6a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-08-06T11:45:00-05:00",
+  "timestamp": 1502037900,
+  "message": "Download-from-pypi.io-not-pypi.python.org-4981",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acad217cba0360318818d784b96d21aad710f86f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-14T13:14:45-05:00",
+  "timestamp": 1492193685,
+  "message": "Add-a-py-pkgconfig-package-3815",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9d0a3c6b059f3f15ae892a497edd399cc076c120",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-03-18T15:20:16-05:00",
+  "timestamp": 1489868416,
+  "message": "Fix-deptype-of-various-dependencies-on-Python-packages-3486",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "36072c47767d1ed53d8d08e53ce0e9cb4f0a3e16",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-12-16T12:49:02-06:00",
+  "timestamp": 1481914142,
+  "message": "HACK-Make-concretization-great-again-2590",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82fcc5e1deabed8d6774bb13179ee1a4a026400a",
+  "author": "Joseph Ciurej <ciurej1@llnl.gov>",
+  "date": "2016-10-06T14:43:49-07:00",
+  "timestamp": 1475790229,
+  "message": "Feature-Proposal-Make-All-Python-Extensions-User-Configuration-Independent-1435",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb865b0df20e47c365db5d7ba26a63cfd39115c6",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-25T11:23:09-05:00",
+  "timestamp": 1469463789,
+  "message": "Add-py-setuptools-as-dependency",
+  "repo": "spack/spack"
+},
+{
+  "commit": "67fade5b1e128e7bb08ef4709da5e15a22d10ee6",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-07-18T17:08:56-04:00",
+  "timestamp": 1468876136,
+  "message": "Declare-dependency-of-py-h5py-mpi-on-py-mpi4py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79b3ef0362beba8dba260bdb023518f8c77c62bd",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-07-05T10:58:11-04:00",
+  "timestamp": 1467730691,
+  "message": "Don-t-enforce-hdf5-mpi",
+  "repo": "spack/spack"
+},
+{
+  "commit": "80d444624b433d1059bed6580c24fb87db331016",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-15T16:42:50-05:00",
+  "timestamp": 1466026970,
+  "message": "Fix-activation-of-sites.py-for-sncosmo",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b2aa78d6ab569f5dac65b665c2f9b2962b72fdbb",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T17:08:50-05:00",
+  "timestamp": 1465596530,
+  "message": "Remove-version-constraints",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4eeaff175cc6c9fd15a7d2455e1e0663ad147aca",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T14:29:57-05:00",
+  "timestamp": 1465586997,
+  "message": "Allow-packages-to-build",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a660c60eb1997317fe0e99054a99cc1cea1d3a56",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T09:24:52-05:00",
+  "timestamp": 1465568692,
+  "message": "Add-py-sncosmo-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f4e72f33c8ba988507aba667e318d1861c7b2b20",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-05T08:24:33-07:00",
+  "timestamp": 1444058673,
+  "message": "added-dependencies-for-py-h5py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "83af842a74757548e6f0370461c13aa358f681a0",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-06-01T08:38:32-07:00",
+  "timestamp": 1433173112,
+  "message": "fixed-cython-activation-conflict",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2bc3f74df263eb92a99e5477f4ce04972eb76994",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2015-01-22T11:50:01-08:00",
+  "timestamp": 1421956201,
+  "message": "added-more-Python-modules",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,16 @@
+[{
+  "commit": "0910f37f45d6e986b13b2da3f9996152f8eb4019",
+  "author": "m-shunji <76516098+m-shunji@users.noreply.github.com>",
+  "date": "2021-02-05T03:13:30+09:00",
+  "timestamp": 1612462410,
+  "message": "parallelio-add-necessary-resources-21477",
+  "repo": "spack/spack"
+},
+{
+  "commit": "587d25ad457232a332275f8a38e65cbc56e00b7b",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2021-01-07T03:05:43+09:00",
+  "timestamp": 1609956343,
+  "message": "parallelio-New-Package.-20673",
+  "repo": "spack/spack"
+}]

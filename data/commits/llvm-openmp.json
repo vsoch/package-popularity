@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0342e41521110a3c1d784678f83d262e54a30df",
+  "author": "Jim Galarowicz <jeg@trenzasynergy.com>",
+  "date": "2020-08-13T15:41:20-05:00",
+  "timestamp": 1597351280,
+  "message": "Update-the-change-to-add-gomp-compatibity-to-llvm-openmp.-17400",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73b2b2a70f6fe84dc97bad3ddc8a7e3bbce8a7e4",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-12T19:57:36-05:00",
+  "timestamp": 1570928256,
+  "message": "Add-LLVM-OpenMP-9.0.0-13154",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d1f965e592d0d854de71aa3ce4bf67fe8ad5d8a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-07-17T21:27:16-05:00",
+  "timestamp": 1563416836,
+  "message": "Fix-scikit-learn-build-with-Apple-clang-11496",
+  "repo": "spack/spack"
+}]

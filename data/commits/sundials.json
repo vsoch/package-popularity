@@ -1,0 +1,488 @@
+[{
+  "commit": "d9804d31f90c6e183e298a00caa359fbc8173a62",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2021-04-28T03:49:14-07:00",
+  "timestamp": 1619606954,
+  "message": "sundials-fix-cuda-architectures-typo-and-specify-raja-variants-23293",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ac6976dee567410a0523087cda18d16c0c760f7a",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2021-03-20T04:43:31-07:00",
+  "timestamp": 1616240611,
+  "message": "sundials-use-CudaPackage-and-ROCmPackage-and-add-spack-tests-22183",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4ec044817b258ea7f594d6b2fe8dcc428714d0b2",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2021-02-04T12:19:12-08:00",
+  "timestamp": 1612469952,
+  "message": "sundials-add-new-version-21488",
+  "repo": "spack/spack"
+},
+{
+  "commit": "61641ecff2d9aad26340a7f3ab80c29f0d8ba690",
+  "author": "Josh Essman <68349992+joshessman-llnl@users.noreply.github.com>",
+  "date": "2021-02-03T11:39:57-06:00",
+  "timestamp": 1612373997,
+  "message": "sundials-expose-monitoring-build-option-21429",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0e6a0199ef4db473ea0bd2e924f3e96fa10297a",
+  "author": "Ryan Mast <nightlark@users.noreply.github.com>",
+  "date": "2020-12-16T18:26:47-08:00",
+  "timestamp": 1608172007,
+  "message": "sundials-add-versions-up-to-5.6.1-20436",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0216922f13cc17aa578c2001ed471c2acac4022",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2020-11-09T13:59:55-06:00",
+  "timestamp": 1604951995,
+  "message": "add-sundials-5.5.0-19819",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aab8c45a34169a971f4a713097639bb722791662",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2020-09-24T23:51:34-07:00",
+  "timestamp": 1601016694,
+  "message": "sundials-added-v5.4.0-18949",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3c866294e17c009a8ee91ada33cda251712fde21",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2020-08-23T14:43:57-07:00",
+  "timestamp": 1598219037,
+  "message": "add-github-url-as-backup-18223",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f6bef306ec425bf0214e0795b74970bf18cd4e68",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2020-05-22T04:39:57-07:00",
+  "timestamp": 1590147597,
+  "message": "sundials-added-v5.2.0-and-v5.3.0-16752",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16a9464b5cb5ba9765cb06a129aa71a82882298e",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2020-02-21T12:54:27-08:00",
+  "timestamp": 1582318467,
+  "message": "sundials-add-version-5.1.0-and-trilinos-variant-15155",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e12b4e95ae4fe1bdb9d7ae77af7c90aed86f5fb",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2019-11-12T07:52:05-06:00",
+  "timestamp": 1573566725,
+  "message": "sundial-add-patch-for-build-failure-on-cori-theta-13665",
+  "repo": "spack/spack"
+},
+{
+  "commit": "177f661bb3bde9c6ca2989214069ef27cdc3e8ec",
+  "author": "Cody Balos <balos1@llnl.gov>",
+  "date": "2019-10-23T21:06:20-07:00",
+  "timestamp": 1571889980,
+  "message": "sundials-add-version-5.0.0-and-new-variant-13375",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a3caf52cac9f19638220b837e4870210d698da0d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-07-15T07:32:51-07:00",
+  "timestamp": 1563201171,
+  "message": "packages-computation.llnl.gov-is-now-computing.llnl.gov-12013",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bc15b2d9a061b37e55434edec6ae3954e95032b",
+  "author": "Tim Fuller <tjfulle@sandia.gov>",
+  "date": "2019-07-12T18:46:47-06:00",
+  "timestamp": 1562978807,
+  "message": "find_libraries-searches-lib-and-lib64-before-prefix-11958",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4025ec9508c11c77fe126c0c6c1d0be281afb580",
+  "author": "Cody Balos <cjbalos@gmail.com>",
+  "date": "2019-03-14T03:00:22-07:00",
+  "timestamp": 1552557622,
+  "message": "sundials-add-new-version-4.1.0-10890",
+  "repo": "spack/spack"
+},
+{
+  "commit": "60a44d515507594449433ce0cfbeef230cbe720e",
+  "author": "Cody Balos <cjbalos@gmail.com>",
+  "date": "2019-01-10T12:47:48-08:00",
+  "timestamp": 1547153268,
+  "message": "sundials-add-version-4.0.1-and-remove-4.0.0-dev-series-10306",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "408c156544875209e305068b790c9ac9949126b9",
+  "author": "Satish Balay <balay@mcs.anl.gov>",
+  "date": "2018-10-22T18:04:53-05:00",
+  "timestamp": 1540249493,
+  "message": "sundials-update-to-version-3.2.1-9603",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "219846684bef2313223e80ddf6578c2ec14fd540",
+  "author": "Cody Balos <cjbalos@gmail.com>",
+  "date": "2018-10-03T19:37:54-07:00",
+  "timestamp": 1538620674,
+  "message": "SUNDIALS-add-new-versions-9401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7df911026d799adae6af28f6667b1a6145be212",
+  "author": "Cody Balos <cjbalos@gmail.com>",
+  "date": "2018-08-31T12:14:15-07:00",
+  "timestamp": 1535742855,
+  "message": "SUNDIALS-add-new-versions-update-hashes-and-apply-clang-fix-9115",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1f8fc574d9e5e6b079da5d2dad8479cde7c1b103",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2018-05-09T18:53:25-07:00",
+  "timestamp": 1525917205,
+  "message": "Add-new-Sundials-versions-8075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "95fe8f7e07011739b8d46e994dd383233835e1b4",
+  "author": "Veselin Dobrev <v-dobrev@users.noreply.github.com>",
+  "date": "2018-02-19T22:11:04-08:00",
+  "timestamp": 1519107064,
+  "message": "sundials-add-the-headers-and-libs-properties-7282",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d9fc26b2a56c5a12c473bf60e547d1afaf7ae322",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2017-11-09T05:04:03-08:00",
+  "timestamp": 1510232643,
+  "message": "add-sundials-3.1.0-6230",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a656bc300a4f98f73a54105a0cc9546c59d207cb",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2017-11-08T21:06:34-08:00",
+  "timestamp": 1510203994,
+  "message": "add-patch-for-building-sundials-6161",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e47ceefc433da2f7d8373b8f7e3dbb23f093adb3",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-11-02T02:16:43-05:00",
+  "timestamp": 1509607003,
+  "message": "sundials-hypre-depends-on-hypre-6075",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10b27ec788edaaa6d9e484288fb6acc8d9b6643c",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2017-10-30T21:49:13-07:00",
+  "timestamp": 1509425353,
+  "message": "sundials-update-to-v3.0.0-6004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f885c89fdc2ecf22af7e71468b1e65f48940c3ff",
+  "author": "David Gardner <gardner48@llnl.gov>",
+  "date": "2017-10-13T20:13:10-07:00",
+  "timestamp": 1507950790,
+  "message": "Update-Sundials-package-5696",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0d3d33b58eb14e3da2980db43db98b0cbd3e967",
+  "author": "Denis Davydov <davydden@gmail.com>",
+  "date": "2017-08-25T03:18:06+02:00",
+  "timestamp": 1503623886,
+  "message": "dealii-add-nanoflann-sundials-and-adol-c-plus-fixes-on-macOS-5175",
+  "repo": "spack/spack"
+},
+{
+  "commit": "39cb589510e95fa44ca634b2cdac9a56a34b1809",
+  "author": "Mark C. Miller <miller86@llnl.gov>",
+  "date": "2017-08-11T06:39:48-07:00",
+  "timestamp": 1502458788,
+  "message": "More-variants-for-MFEM-4533",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9be294de315e094b15865aad1a78e6433731f385",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-04T18:21:43+02:00",
+  "timestamp": 1501863703,
+  "message": "Changed-every-fpic-variant-to-pic-4969",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed582cef68585b6090866fb0bb3aa2cc72dbe2ed",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-03-02T19:01:29+01:00",
+  "timestamp": 1488477689,
+  "message": "New-interface-for-passing-build-information-among-specs-1875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d848559f70ad67842150b51d2792843f3cce4621",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-09-21T21:27:59+02:00",
+  "timestamp": 1474486079,
+  "message": "Reworking-of-lapack_shared_libs-and-similar-properties-1682",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a0584c78a8c1a93ad60f394f054907ecb3b371e7",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-06-29T15:06:21-04:00",
+  "timestamp": 1467227181,
+  "message": "foam-extend-sundials-add-cmake-as-a-builddep",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7e1ee463ca677e3209c800a6c3b111dd8851b78d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-06T13:25:37-05:00",
+  "timestamp": 1465237537,
+  "message": "Install-examples-for-sundials",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2220784eda80546415e39c783785f2435986a08a",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-26T15:22:17-05:00",
+  "timestamp": 1464294137,
+  "message": "Add-scons-support-.zip-support-and-Cantera-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4c614ac768dafd465d50f31bfebc0c3296881113",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-10-07T09:21:05-07:00",
+  "timestamp": 1412698865,
+  "message": "Add-SUNDIALS-solver-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1ad474f1a9afa7ccc8d596caa08278e19a69eb97",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-07-30T23:30:07-07:00",
+  "timestamp": 1406788207,
+  "message": "Allow-per-version-URLs-instead-of-one-single-URL-per-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81dc27bf411c7417604ca3ebb344ff82f8d3e7d9",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T16:03:49-07:00",
+  "timestamp": 1395011029,
+  "message": "Move-packages-and-mock-packages-to-var-spack",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8b334e86c9fb0ab4c7f682bccf82815d114e0a8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-03-16T14:51:03-07:00",
+  "timestamp": 1395006663,
+  "message": "New-more-consistent-package-directory-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d18be7437febdecbd6f0ff0bd9101d246db27bab",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-12T18:19:18+01:00",
+  "timestamp": 1389547158,
+  "message": "Remove-trailing-whitespace-from-license-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce9b3511d04a0b9d69c816fb0b052bdfe8c0f3d6",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2014-01-08T10:21:02+01:00",
+  "timestamp": 1389172862,
+  "message": "Add-license-to-python-files-and-spack-script",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a4cda9452449b7ef5c78d838f1315d69f0bdd1c7",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-25T17:19:51-08:00",
+  "timestamp": 1388020791,
+  "message": "install-now-takes-spec-AND-prefix",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e645bb065ac790abeda9919e82e0c5808ed6ba3d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-20T14:30:45-08:00",
+  "timestamp": 1387578645,
+  "message": "SPACK-1-Multi-version-installation-now-works-front-to-back-with-specs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "87fedc7e1e132e52405ee4e0105bb8267ae57c1b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-12-07T13:51:46-08:00",
+  "timestamp": 1386453106,
+  "message": "Added-support-for-virtual-dependencies-provides",
+  "repo": "spack/spack"
+},
+{
+  "commit": "389fa1792d8f0ac7945b80620c386f2d614a7921",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-11-23T13:04:36-08:00",
+  "timestamp": 1385240676,
+  "message": "Added-web-spider-capability-for-listing-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b5c565891ff20c87b3583aaacc29fd37357f723b",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-26T14:04:09-07:00",
+  "timestamp": 1382821449,
+  "message": "First-cut-concretization-works-with-tests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "558cf7e40689fc18eca47bc80d34da555b5d27d5",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-17T14:46:00-07:00",
+  "timestamp": 1382046360,
+  "message": "spec-flatten-normalize-validate-package-validate",
+  "repo": "spack/spack"
+},
+{
+  "commit": "db07c7f611da4ddc6127dde28d48e5624e4f1172",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2013-10-15T03:04:25-07:00",
+  "timestamp": 1381831465,
+  "message": "Spec-constraints-and-normalization-now-work",
+  "repo": "spack/spack"
+}]

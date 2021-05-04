@@ -1,0 +1,16 @@
+[{
+  "commit": "6f25e5242e1cf7120b5ec9bba0dba40c55fdda2d",
+  "author": "Tamara Dahlgren <35777542+tldahlgren@users.noreply.github.com>",
+  "date": "2021-04-22T22:23:09-07:00",
+  "timestamp": 1619155389,
+  "message": "Docs-Updated-copyrights-in-files-still-using-2020-as-ending-year-23215",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4f73dff204777eed61b4ee2747f03277cb5fa294",
+  "author": "Hanqi Guo <guohanqi@gmail.com>",
+  "date": "2021-02-07T05:46:08-06:00",
+  "timestamp": 1612698368,
+  "message": "adding-new-package-FTK-the-feature-tracking-kit-21493",
+  "repo": "spack/spack"
+}]

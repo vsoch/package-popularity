@@ -1,0 +1,40 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1571d6240be4ef0757244295c9a60469bfb600f0",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2020-12-23T15:15:41-08:00",
+  "timestamp": 1608765341,
+  "message": "style-ensure-that-all-packages-pass-spack-style-a",
+  "repo": "spack/spack"
+},
+{
+  "commit": "100593b83a186834b3881e122f16656c3ee104a5",
+  "author": "xfzhao <xfzhao@iastate.edu>",
+  "date": "2020-01-03T03:22:09-06:00",
+  "timestamp": 1578043329,
+  "message": "new-package-bref3-14256",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a10253a667406209f10be76459a3f34ce396899f",
+  "author": "xfzhao <xfzhao@iastate.edu>",
+  "date": "2019-12-21T18:22:56-06:00",
+  "timestamp": 1576974176,
+  "message": "new-module-beagle-14257",
+  "repo": "spack/spack"
+}]

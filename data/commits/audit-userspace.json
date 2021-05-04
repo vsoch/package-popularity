@@ -1,0 +1,16 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50b5e6b94b6fd35d53a222abc88db542855efd03",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2020-02-22T23:01:27+08:00",
+  "timestamp": 1582383687,
+  "message": "add-new-package-audit-userspace-15163",
+  "repo": "spack/spack"
+}]

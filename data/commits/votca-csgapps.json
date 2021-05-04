@@ -1,0 +1,88 @@
+[{
+  "commit": "8af010ce5d53bd35b5f9eabba78efdc611aa8c94",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2021-01-13T07:07:53-07:00",
+  "timestamp": 1610546873,
+  "message": "votca-add-v1.6.4-20822",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e117e087eb18871e1a86715c027d3cd2fa649870",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-12-09T15:06:54-07:00",
+  "timestamp": 1607551614,
+  "message": "votca-add-v1.6.3-20308",
+  "repo": "spack/spack"
+},
+{
+  "commit": "adc98ae409ccdae6b3861583956a51382ae6e86a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-08-22T11:38:41-06:00",
+  "timestamp": 1598117921,
+  "message": "votca-add-v1.6.2-18218",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e91d7988e5ef9b582fd7dcf37eed2eb9f9d1e11a",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-06-22T00:36:01-06:00",
+  "timestamp": 1592807761,
+  "message": "votca-added-v1.6.1-17186",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fcbf0545c7bb653f346fbec9dab27b829f4cf1a8",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-27T19:43:34-06:00",
+  "timestamp": 1588038214,
+  "message": "votca-add-stable-version-16336",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ca86e56572335e726a3351910b23b69cdfd24c36",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-20T20:30:43-06:00",
+  "timestamp": 1587436243,
+  "message": "votca-remove-rc-versions-16197",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5d008dc37b07b2d4bf27d8f1041d54f344d70a22",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-18T09:16:48-06:00",
+  "timestamp": 1587223008,
+  "message": "votca-add-v1.6-16139",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8e597e8a7a9a5536b481efa161ec8828e2b3e9d3",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2020-04-10T13:36:09-06:00",
+  "timestamp": 1586547369,
+  "message": "votca-add-v1.6_rc2-15999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "969bc948b551f7395dd06db5f9d406b0006d14d2",
+  "author": "Christoph Junghans <junghans@lanl.gov>",
+  "date": "2019-12-07T09:04:15-07:00",
+  "timestamp": 1575734655,
+  "message": "votca-add-v1.6_rc1-14017",
+  "repo": "spack/spack"
+}]

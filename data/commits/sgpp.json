@@ -1,0 +1,40 @@
+[{
+  "commit": "ed1540efa30b0c01f61a6c26f85e3a07fd498fd9",
+  "author": "Freifrau von Bleifrei <freifrauvonbleifrei@users.noreply.github.com>",
+  "date": "2021-02-18T12:28:42+01:00",
+  "timestamp": 1613647722,
+  "message": "sgpp-use-spack-compiler-instead-of-default-gcc-21756",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51b90edd78009627a63360eab25786aa5a42afbc",
+  "author": "t-nojiri <68096132+t-nojiri@users.noreply.github.com>",
+  "date": "2020-09-26T00:20:35+09:00",
+  "timestamp": 1601047235,
+  "message": "sgpp-allow-building-on-aarch64-18968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "14599f09be6cd6eac4dc4d9d2d01a0ad001ae3f5",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2020-06-25T18:18:48+02:00",
+  "timestamp": 1593101928,
+  "message": "Separate-Apple-Clang-from-LLVM-Clang-17110",
+  "repo": "spack/spack"
+},
+{
+  "commit": "745804582be4c8ef25ba9b0cb7dee62aa6e4b8a7",
+  "author": "Gregor Daiß <G-071@users.noreply.github.com>",
+  "date": "2020-04-21T23:03:46+02:00",
+  "timestamp": 1587503026,
+  "message": "Add-new-package-sgpp-15961",
+  "repo": "spack/spack"
+}]

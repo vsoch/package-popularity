@@ -1,0 +1,184 @@
+[{
+  "commit": "62a001dea6421698c92a0d43d22d87f1cabc8bf8",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2021-04-28T21:14:05+09:00",
+  "timestamp": 1619612045,
+  "message": "scalasca-add-v2.6-23299",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9bcf99358e0b35f41646c7b3dae6b4fa70556994",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2020-12-10T21:43:16+09:00",
+  "timestamp": 1607604196,
+  "message": "Add-a-new-NEST-version-2.20.0.-20316",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e87266c64637eeed1a2da469738ddf8d6520f25e",
+  "author": "Itaru Kitayama <ikitayama@users.noreply.github.com>",
+  "date": "2020-11-07T12:18:49+09:00",
+  "timestamp": 1604719129,
+  "message": "Add-the-scorep-package-dependency.-19742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52e0f47a3ff67bd0c8a31c6755b384dedd70ee02",
+  "author": "Phil Tooley <32297355+ptooley@users.noreply.github.com>",
+  "date": "2019-07-12T16:30:07+01:00",
+  "timestamp": 1562945407,
+  "message": "update-scalasca-to-latest-version-simplify-recipe-11999",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0e54c00734e59bfdaae7ffd74243048036c1f73",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-10-18T01:27:08+02:00",
+  "timestamp": 1539818828,
+  "message": "scalasca-add-2.4-9556",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "82463f1fd622872b80f80a7c62728992d204b5cc",
+  "author": "Pramod S Kumbhar <pramod.r.s.kumbhar@gmail.com>",
+  "date": "2017-08-07T21:56:47+02:00",
+  "timestamp": 1502135807,
+  "message": "Fix-Scalasca-build-error-5004",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "04c2a1caf46b5b3b96b76c68a96a621072c40f2b",
+  "author": "David Böhme <boehme3@llnl.gov>",
+  "date": "2017-06-16T09:45:06-07:00",
+  "timestamp": 1497631506,
+  "message": "Update-Scalasca-Score-P-Cube-OTF2-4485",
+  "repo": "spack/spack"
+},
+{
+  "commit": "aa63bc6f34eaa2f1329bb28ce6a312ee6a6313ea",
+  "author": "Mark Olesen <Mark.Olesen@gmx.net>",
+  "date": "2017-04-05T21:54:40+02:00",
+  "timestamp": 1491422080,
+  "message": "update-versions-for-scalasca-and-related-tools-3697",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8857b1f69e4a2dca5d08e7817c69e080da8e8266",
+  "author": "David Boehme <boehme3@llnl.gov>",
+  "date": "2014-10-08T17:31:11-07:00",
+  "timestamp": 1412814671,
+  "message": "Add-Scalasca-2.1",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e377abc18c2cda1b967c2e663d1d9b56828ccfc0",
+  "author": "David Boehme <boehme3@llnl.gov>",
+  "date": "2014-07-31T17:51:23-07:00",
+  "timestamp": 1406854283,
+  "message": "Add-Score-P-packages",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "d2e759e61456535a476f7150389f6d3a62738c85",
+  "author": "Paul Kuberry <pakuber@sandia.gov>",
+  "date": "2021-03-10T02:25:59-07:00",
+  "timestamp": 1615368359,
+  "message": "compadre-add-new-package-22119",
+  "repo": "spack/spack"
+}]

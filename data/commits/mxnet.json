@@ -1,0 +1,160 @@
+[{
+  "commit": "0a259ab934b2fc68245efd828b2f8dd7d1bbf275",
+  "author": "Andrew W Elble <aweits@rit.edu>",
+  "date": "2021-04-30T10:55:17-04:00",
+  "timestamp": 1619794517,
+  "message": "mxnet-new-version-1.8.0-23358",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ccb9992a626b6292bb1b8d9a4dee42004dc74c9",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-09T12:51:18-06:00",
+  "timestamp": 1612896678,
+  "message": "Procedure-to-deprecate-old-versions-of-software-20767",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c3206656bcbe9f1d634671c3ec9cbb3638c26bab",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2021-02-05T12:48:20-06:00",
+  "timestamp": 1612550900,
+  "message": "mxnet-convert-to-CMakePackage-21385",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0efe54f72285138e766b84cd889ebaf5a6d88c58",
+  "author": "Baptiste Jonglez <30461003+jonglezb@users.noreply.github.com>",
+  "date": "2021-01-27T14:53:09+01:00",
+  "timestamp": 1611755589,
+  "message": "mxnet-Fix-python-lib-installation-21298",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79afe20bb0916b377c23fc8fc0dd592c5357e72b",
+  "author": "Baptiste Jonglez <30461003+jonglezb@users.noreply.github.com>",
+  "date": "2021-01-26T14:58:41+01:00",
+  "timestamp": 1611669521,
+  "message": "mxnet-Add-optional-cuda_arch-spec-support-enable-CUDA-by-default-21266",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7bed6a7077dcaed2b2400e2c437967124cc227ae",
+  "author": "Baptiste Jonglez <30461003+jonglezb@users.noreply.github.com>",
+  "date": "2021-01-25T22:09:56+01:00",
+  "timestamp": 1611608996,
+  "message": "mxnet-Fix-cuda-build-21267",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e467d13a4992791ccab196b02873778f5f46a51",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-06-17T12:24:38+09:00",
+  "timestamp": 1592364278,
+  "message": "mxnet-avoid-GNU-parallel-shuffle-without-openmp.-17095",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51ff18ef8d5679672107485d372798c7ab647b34",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2020-05-21T12:33:31+09:00",
+  "timestamp": 1590032011,
+  "message": "mxnet-Fix-dependency-and-add-new-version.-16714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "51f8744ab77a114fe0e9dd4d99bc957bf5fc39cd",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-03-18T18:01:20-04:00",
+  "timestamp": 1584568880,
+  "message": "py-horovod-set-appropriate-build-env-vars-15548",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "00f91ab22bb260427302ef5662f0b3f4be4e3899",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-11T22:04:41-07:00",
+  "timestamp": 1570856681,
+  "message": "checksums-Remove-or-fix-up-unfetchable-or-unverifiable-md5-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "451328d6e6b8bd29b4a840d9fdc6ab278a1cf14a",
+  "author": "Justin Stanley <molecuul@users.noreply.github.com>",
+  "date": "2018-09-14T13:01:30-05:00",
+  "timestamp": 1536948090,
+  "message": "mxnet-added-1.3.0-9236",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9e95e8394e9ddb0e20419688cc6e1d1507b351a1",
+  "author": "健美猫 <weijianwen@gmail.com>",
+  "date": "2017-10-11T04:56:26+08:00",
+  "timestamp": 1507668986,
+  "message": "Add-a-package-dmlc-mxnet.-3579",
+  "repo": "spack/spack"
+}]

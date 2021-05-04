@@ -1,0 +1,112 @@
+[{
+  "commit": "d1174bd40fe1c9001b899529c0c16785524b07d1",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2021-01-19T05:52:27+01:00",
+  "timestamp": 1611031947,
+  "message": "Make-sure-sio-library-is-properly-propagated-20940",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "8035a52f7b8e3e8dd8cb02b4fbf32613d0cf260e",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-12-07T18:58:10+01:00",
+  "timestamp": 1607363890,
+  "message": "edm4hep-added-package-at-v0.3-updated-podio-at-v0.13-20241",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3069631f37703942e05ecc3eec8bd1ec9f7b98d5",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-18T18:07:35+01:00",
+  "timestamp": 1605719255,
+  "message": "Add-hep-label-to-high-energy-physics-packages-19968",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b21899128350fc849e707d6b4b4c67711a7f2aaf",
+  "author": "Joseph Wang <joequant@gmail.com>",
+  "date": "2020-11-16T01:33:19+08:00",
+  "timestamp": 1605461599,
+  "message": "fix-a-typo-in-podio-package-script-19928",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d5b89b422d9cebb83aea269f46b865ba1ba88b13",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-11-13T19:43:43+01:00",
+  "timestamp": 1605293023,
+  "message": "Add-sio-and-add-it-as-possible-dependency-for-podio-19875",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2c55d47c1ed9c78eb53bc1ba459a2e88b821105c",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-11-11T17:53:56+01:00",
+  "timestamp": 1605113636,
+  "message": "podio-set-pythonpath-correctly-19779",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd0610000193fe0d90c33b4bcfd8d7f174eb48ee",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-08-21T00:06:52+02:00",
+  "timestamp": 1597961212,
+  "message": "podio-new-version-cxxstd-17-now-mandatory-18191",
+  "repo": "spack/spack"
+},
+{
+  "commit": "041e21802e717082308bb98bdeed3d5779ae6b31",
+  "author": "Thomas Madlener <thomas.madlener@desy.de>",
+  "date": "2020-08-12T08:56:11+02:00",
+  "timestamp": 1597215371,
+  "message": "podio-added-dependency-on-jinja2-for-newer-versions-17990",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f09656e3f8a1982bdb00492270cfa54cbc1a710c",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-07-31T05:21:02+02:00",
+  "timestamp": 1596165662,
+  "message": "New-Versions-dd4hep-podio-17659",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b8270559d95ec584054c310973e3311e8d0b071d",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-06-25T05:42:41+02:00",
+  "timestamp": 1593056561,
+  "message": "podio-patch-to-correctly-load-dictionaries-in-v00-10-17157",
+  "repo": "spack/spack"
+},
+{
+  "commit": "31ccf80294382a391743728a736574737217c23b",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-05-19T04:52:18+02:00",
+  "timestamp": 1589856738,
+  "message": "podio-fix-root-cxxstd-dependency-16708",
+  "repo": "spack/spack"
+},
+{
+  "commit": "77812845b83311019daa01bb859afe944e4f2162",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-04-27T18:01:09+02:00",
+  "timestamp": 1588003269,
+  "message": "update-podio-version-formatting-16321",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5320268033570d93d40b431fc4d93893572bac0b",
+  "author": "vvolkl <valentin.volkl@cern.ch>",
+  "date": "2020-04-09T11:29:19+02:00",
+  "timestamp": 1586424559,
+  "message": "podio-add-recipe-for-podio-15726",
+  "repo": "spack/spack"
+}]

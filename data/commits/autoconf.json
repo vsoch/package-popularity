@@ -1,0 +1,248 @@
+[{
+  "commit": "c4e81b9cdb71e8e0de970b3cf1f5d498af18ff65",
+  "author": "Robert Mijakovic <robert.mijakovic@gmail.com>",
+  "date": "2021-03-20T09:44:53+01:00",
+  "timestamp": 1616229893,
+  "message": "autoconf-add-v2.71-22415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "694d633a2c46505b5bcb2e57a52966e37c36477e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2021-02-04T13:17:32+01:00",
+  "timestamp": 1612441052,
+  "message": "spack-external-find-allow-to-search-by-tags-21407",
+  "repo": "spack/spack"
+},
+{
+  "commit": "d577b6fcdf9c8963329e01b12907d526b4481129",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2021-01-28T11:21:04+01:00",
+  "timestamp": 1611829264,
+  "message": "autoconf-fix-v2.70-and-patching-procedure-of-bin-autom4te.in-21255",
+  "repo": "spack/spack"
+},
+{
+  "commit": "74fbad47425a319484503bb14bd10eae221b5310",
+  "author": "eugeneswalker <38933153+eugeneswalker@users.noreply.github.com>",
+  "date": "2021-01-27T17:59:03-08:00",
+  "timestamp": 1611799143,
+  "message": "autoconf-add-version-2.70-21362",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c18167d01f7e02ee7ff06d231c287cf8259301fe",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-08-14T09:06:26-05:00",
+  "timestamp": 1597413986,
+  "message": "Autoconf-add-spack-external-find-support-16692",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "497fddfcb9fdcebac47b56c6d856110b9150b5ea",
+  "author": "Massimiliano Culpo <massimiliano.culpo@gmail.com>",
+  "date": "2019-12-20T23:32:18+01:00",
+  "timestamp": 1576881138,
+  "message": "Fetching-from-URLs-falls-back-to-mirrors-if-they-exist-13881",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5be5c486ace6e0e67f67caa6d553d556df1cc5ba",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-08-16T01:27:21-05:00",
+  "timestamp": 1534400841,
+  "message": "Download-GNU-packages-from-mirrors-8992",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "df7876ab54f58b4bbc7969ad00dd7a6a46813d7c",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2018-01-14T05:10:42+01:00",
+  "timestamp": 1515903042,
+  "message": "Do-not-construct-path-to-perl-command-manually-6927",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "733965b3c6fdc9bb16b5c9985fe5ff35d31a5a22",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-26T16:10:22+02:00",
+  "timestamp": 1506435022,
+  "message": "autoconf-automake-Add-missing-perl-dependency-5187",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9a14597493c4e7d5b85a07173e7711c6892de421",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2017-03-11T22:04:18-05:00",
+  "timestamp": 1489287858,
+  "message": "autoconf-Correct-m4-dependency-declaration-3415",
+  "repo": "spack/spack"
+},
+{
+  "commit": "81a5146b1df1f69172c0f76bc3dbe469f4e366f9",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-01-26T11:27:15+01:00",
+  "timestamp": 1485426435,
+  "message": "AutotoolsPackage-minor-improvements-2859",
+  "repo": "spack/spack"
+},
+{
+  "commit": "664939eeba8d086106e6154a897214d2da7fe09d",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-11-28T11:48:34-06:00",
+  "timestamp": 1480355314,
+  "message": "Fix-building-latest-version-of-flex-2401",
+  "repo": "spack/spack"
+},
+{
+  "commit": "482f60d1d37d8d18ff62318c23a72808ceacd99e",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-10-22T01:03:07+02:00",
+  "timestamp": 1477090987,
+  "message": "packages-moved-decorators-into-AutotoolsPackage-and-CMakePackage",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9ceb3f6b492fba7eec7950c685ee30bfb179fdd1",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-09-02T11:23:33-04:00",
+  "timestamp": 1472829813,
+  "message": "Add-two-famous-old-versions-of-autoconf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6fd45520daa93ee6094eaf9df57e5b26d4d6d1bf",
+  "author": "Ben Boeckel <ben.boeckel@kitware.com>",
+  "date": "2016-03-09T10:46:56-05:00",
+  "timestamp": 1457538416,
+  "message": "deptypes-mark-deptypes-in-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "acd90145539191595b51189195816668ba51b3bd",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2016-06-26T17:36:33+02:00",
+  "timestamp": 1466955393,
+  "message": "autotools-set-Executable-in-dependent-modules",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e111add17f885866e997e7483a0ac32235d9c497",
+  "author": "Vishal Boddu <vishal.boddu@fau.de>",
+  "date": "2016-05-02T14:31:02+02:00",
+  "timestamp": 1462192262,
+  "message": "missing-dependencies-m4-added-for-netcdf-and-autoconf",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e0e545774aaddb5386367bd900a31b85692abc51",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-03-08T12:15:40-06:00",
+  "timestamp": 1457460940,
+  "message": "Add-more-versions-to-Autotools",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "76ed5c212cdf41e44428ef723c3d7f5695efbcc8",
+  "author": "Bob Robey <brobey@lanl.gov>",
+  "date": "2014-10-25T21:25:25-06:00",
+  "timestamp": 1414293925,
+  "message": "Adding-autotools-and-ImageMagick-and-patch-for-mpe2",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,8 @@
+[{
+  "commit": "e0c82fcf824a8c59ce277a4c69a2e5ba88b0276f",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-23T16:29:06-05:00",
+  "timestamp": 1619213346,
+  "message": "New-package-r-shinystan-23223",
+  "repo": "spack/spack"
+}]

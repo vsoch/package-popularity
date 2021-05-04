@@ -1,0 +1,24 @@
+[{
+  "commit": "623edc6674ed9400a65b9d5ecb7faa76910fcd17",
+  "author": "Aurelien Bouteiller <bouteill@icl.utk.edu>",
+  "date": "2021-03-22T14:34:03-04:00",
+  "timestamp": 1616438043,
+  "message": "Invoke-ctest-j1-from-spack-install-test-and-build_with_parsec-from-spack-test-run-22070",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eb3338ed1b9775e7e9c772c9dd7cc4ed1b37c9d5",
+  "author": "Aurelien Bouteiller <bouteill@icl.utk.edu>",
+  "date": "2021-02-07T06:47:20-05:00",
+  "timestamp": 1612698440,
+  "message": "Parsec-new-release-21481",
+  "repo": "spack/spack"
+},
+{
+  "commit": "63eabae0ecdcd4d77b099f1ee2e8e88303f7a99d",
+  "author": "Aurelien Bouteiller <bouteill@icl.utk.edu>",
+  "date": "2021-01-11T03:25:26-05:00",
+  "timestamp": 1610353526,
+  "message": "PaRSEC-added-new-package-20170",
+  "repo": "spack/spack"
+}]

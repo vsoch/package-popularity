@@ -1,0 +1,192 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "02f92fc7f8a69618fcf91282222b8316ace9c4ae",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-18T12:34:09-06:00",
+  "timestamp": 1484764449,
+  "message": "Massive-conversion-from-Package-to-AutotoolsPackage-2845",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05f5ba4bf9c6fa68427525301e2a42fed76d8682",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-23T14:57:29-04:00",
+  "timestamp": 1471978649,
+  "message": "Correct-flake8-errors",
+  "repo": "spack/spack"
+},
+{
+  "commit": "73cae8d9c4c568f50fee2829d87b31c0361ce792",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-23T13:52:28-04:00",
+  "timestamp": 1471974748,
+  "message": "Implement-review-requests",
+  "repo": "spack/spack"
+},
+{
+  "commit": "bdc825fc3c779b7c15785ca8fadc342c4a3d2cef",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-08-23T09:59:56-04:00",
+  "timestamp": 1471960796,
+  "message": "cddlib-Point-download-url-to-a-more-reliable-Fedora-server",
+  "repo": "spack/spack"
+},
+{
+  "commit": "71e92774ebef0194beaa6a56fa2129fed3df70b1",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-06-18T22:47:59-04:00",
+  "timestamp": 1466304479,
+  "message": "New-package-cddlib",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dd5a6914f161f2237a90df856126a905e305d80f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-27T12:56:43-05:00",
+  "timestamp": 1464371803,
+  "message": "Undo-changes-to-flex",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62dd040a8fd7f6f8993640156049eeb061efe955",
+  "author": "Tom Scogland <tscogland@llnl.gov>",
+  "date": "2016-05-16T09:30:37-07:00",
+  "timestamp": 1463416237,
+  "message": "add-GOPATH-support",
+  "repo": "spack/spack"
+},
+{
+  "commit": "088dce709e85d0f522ac2d90c22618a20d421cbc",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-12T16:33:37-05:00",
+  "timestamp": 1463088817,
+  "message": "Make-flake8-happy",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab41fd6692feb9cdaa29dedf81689e3ff04a5f26",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-05-12T16:21:06-05:00",
+  "timestamp": 1463088066,
+  "message": "Add-bertini-package",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "27de2a42d9d3b0f572c37a6ce1612b7df9855240",
+  "author": "Erik Schnetter <schnetter@gmail.com>",
+  "date": "2016-05-04T20:27:58-04:00",
+  "timestamp": 1462408078,
+  "message": "Update-Flex-to-2.6.0",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "79808da760eabcb3e692c88e29ea3c7c558b131d",
+  "author": "karenyyng <karen.yyng@gmail.com>",
+  "date": "2015-10-03T18:47:36-07:00",
+  "timestamp": 1443923256,
+  "message": "added-a-bunch-of-packages-and-added-submodule",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5fdf5438ea4375dd5d9ceee7c5af1a4cf6896d53",
+  "author": "Alfredo Gimenez <gimenez1@llnl.gov>",
+  "date": "2015-02-06T16:55:48-08:00",
+  "timestamp": 1423270548,
+  "message": "flex-and-bison",
+  "repo": "spack/spack"
+}]

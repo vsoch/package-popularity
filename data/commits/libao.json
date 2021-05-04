@@ -1,0 +1,8 @@
+[{
+  "commit": "806f02438d9039b17ae789d65587f70f1b9a7abc",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-20T22:11:52+08:00",
+  "timestamp": 1616249512,
+  "message": "libao-add-new-package-at-v1.2.2-22135",
+  "repo": "spack/spack"
+}]

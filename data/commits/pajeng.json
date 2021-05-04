@@ -1,0 +1,16 @@
+[{
+  "commit": "b052ff9be01194b9e55717e123ad831faa7d6915",
+  "author": "Vinícius <vgpinto@inf.ufrgs.br>",
+  "date": "2021-03-20T13:57:40-03:00",
+  "timestamp": 1616259460,
+  "message": "pajeng-add-dependency-on-fmt-for-develop-22432",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ce64a4170f594e9f1317da5da20904ec2a855b1c",
+  "author": "Vinícius <vinicius.pinto@inf.ufrgs.br>",
+  "date": "2021-03-20T07:35:43-03:00",
+  "timestamp": 1616236543,
+  "message": "pajeng-new-package-22398",
+  "repo": "spack/spack"
+}]

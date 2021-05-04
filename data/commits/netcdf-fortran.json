@@ -1,0 +1,304 @@
+[{
+  "commit": "350418ec35a9d8e3387e7941a538bf207bde542e",
+  "author": "AMD Toolchain Support <73240730+amd-toolchain-support@users.noreply.github.com>",
+  "date": "2021-01-05T21:36:24+05:30",
+  "timestamp": 1609862784,
+  "message": "AOCC-support-for-WRFv3.9.1.1-20568",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75bfdc73351ae02a4a95de305a7af6d58287c7ab",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-10-19T23:12:09+02:00",
+  "timestamp": 1603141929,
+  "message": "netcdf-fortran-support-for-Cray-compiler-18971",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b27cd9d75da191a068c61f48a0846077acb875d1",
+  "author": "Rémi Lacroix <remi.lacroix@idris.fr>",
+  "date": "2020-08-28T23:22:42+02:00",
+  "timestamp": 1598649762,
+  "message": "NetCDF-Fortran-Add-version-4.5.3.-18350",
+  "repo": "spack/spack"
+},
+{
+  "commit": "9fdb945383471eaaceb98652837ba1a314477d36",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-08-22T23:06:17+02:00",
+  "timestamp": 1598130377,
+  "message": "NetCDF-fix-constraints.-16719",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ec5959694c740f0e33207d5643346d97a26c6b83",
+  "author": "Nicholas Sly <nicholas.sly@gmail.com>",
+  "date": "2020-05-29T10:48:03-06:00",
+  "timestamp": 1590770883,
+  "message": "Add-netcdf-c-parallel-netcdf-variant-specification-to-netcdf-fortran-mpi.-16671",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cd2e906702dad47bcc76fbfa3f46c5010bb17d0b",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2020-05-11T19:31:40+02:00",
+  "timestamp": 1589218300,
+  "message": "netcdf-fortran-Fix-build-with-gcc-10-16573",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6e63ff1688e79878554a79b8d2132d4141cd1913",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2020-04-28T12:15:19-04:00",
+  "timestamp": 1588090519,
+  "message": "netcdf-fortran-add-new-variants-16046",
+  "repo": "spack/spack"
+},
+{
+  "commit": "284e450c91f5fdc0a71f6c1f7c2823c84918122f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2020-04-17T16:28:51-05:00",
+  "timestamp": 1587158931,
+  "message": "Language-specific-PIC-flags-15474",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05a80523c84eb2a696441762728bebf6fc2d8404",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-04-09T16:57:07+02:00",
+  "timestamp": 1586444227,
+  "message": "NetCDF-packages-switch-to-the-official-FTP-server.-15641",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e3b357ad87dbc119c67befaef65588ca48236b16",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2020-03-02T15:40:37+01:00",
+  "timestamp": 1583160037,
+  "message": "Update-flag_handler-for-netcdf-fortran-.-14789",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7106563109276f0dbb472ae88fc14575a001db2",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2020-01-28T15:13:51-06:00",
+  "timestamp": 1580246031,
+  "message": "Set-netcdf-fortran-to-build-serially-with-Intel-compiler-14461",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "52eba8fb00679f3a7842582d0f24f3f58a61d923",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-11-06T18:14:35+01:00",
+  "timestamp": 1573060475,
+  "message": "netcdf-fortran-Fix-parallel-builds-13612",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2264e30d99d8b9fbdec8fa69b594e53d8ced15a1",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-28T20:27:54-05:00",
+  "timestamp": 1572312474,
+  "message": "Update-URL-parsing-regexes-and-tests-13411",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0f22e528f37525ed42e7eb9d4369879956677fef",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-10-24T15:21:13-05:00",
+  "timestamp": 1571948473,
+  "message": "Add-latest-version-of-NetCDF-libraries-13416",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7eb9ce1af15c865a3a74bc807e48e5b66757d91",
+  "author": "Carson Woods <carsonwoods@users.noreply.github.com>",
+  "date": "2019-06-19T16:38:17-06:00",
+  "timestamp": 1560983897,
+  "message": "Bump-netcdf-fortran-version-to-4.4.5-11790",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "75e86a61fef9ad020839e49ff7785bb1bc41f5af",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-11-14T16:40:16+01:00",
+  "timestamp": 1542210016,
+  "message": "netcdf-fortran-add-LDFLAGS-to-fix-contents-of-libnetcdff.la.-9647",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c7c3fab7445fbeff79fa645a1dad6c44887faaa1",
+  "author": "Alberto Chiusole <bebosudo@users.noreply.github.com>",
+  "date": "2018-11-13T06:54:11+01:00",
+  "timestamp": 1542088451,
+  "message": "Add-pic-variant-to-netcdf-packages-9605",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "03dc78a894cfc572368483f55403c7fe112fd167",
+  "author": "Sergey Kosukhin <sergey.kosukhin@mpimet.mpg.de>",
+  "date": "2018-08-02T15:32:20+02:00",
+  "timestamp": 1533216740,
+  "message": "netcdf-fortran-enforce-autoreconf-when-building-with-NAG.-8844",
+  "repo": "spack/spack"
+},
+{
+  "commit": "90d36016efd67b33e3f7142b156a4447e6265a70",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2018-05-21T17:23:35-04:00",
+  "timestamp": 1526937815,
+  "message": "netcdf-cxx4-Update-to-use-CPPFLAGS-8148",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e72b69732eca35dbd4ccaae15b1307eff0a8d538",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-08-03T17:21:40+02:00",
+  "timestamp": 1501773700,
+  "message": "Changed-keyword-argument-recurse-to-recursive",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "10c395b2f510eb9ce1036222d30ef99d9aa26212",
+  "author": "Massimiliano Culpo <massimiliano.culpo@epfl.ch>",
+  "date": "2017-04-07T11:18:34+02:00",
+  "timestamp": 1491556714,
+  "message": "Abinit-a-few-modernizations-for-the-package-and-its-dependencies-3699",
+  "repo": "spack/spack"
+},
+{
+  "commit": "68baac0549e816dce68ebab40c701b92f5f46dec",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-07T20:07:00-06:00",
+  "timestamp": 1483841220,
+  "message": "Various-updates-to-the-NCO-package-and-dependencies-2639",
+  "repo": "spack/spack"
+},
+{
+  "commit": "060fb596f7897b0da14a0bcb601a644e489ac140",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-22T09:52:17-05:00",
+  "timestamp": 1466607137,
+  "message": "Add-latest-version-of-netcdf-fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ae87948a232c17982a7987e5423ac77acdc59194",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-05T23:05:45-05:00",
+  "timestamp": 1457237145,
+  "message": "Fixed-URLs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b043c4a5b83f36ad4837fc7302f0919a3d759940",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T12:04:41-05:00",
+  "timestamp": 1457111081,
+  "message": "Update-package.py",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0eb6ef2cd031d1668e1891425bdc6234df0594df",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-04T11:09:40-05:00",
+  "timestamp": 1457107780,
+  "message": "1.-Removed-fake-MPI-dependency-from-netcdf-cxx4-and-netcdf-fortran",
+  "repo": "spack/spack"
+},
+{
+  "commit": "976d0240c467b9ff74333fafcd2ac1e896819a80",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-03-02T18:58:47-05:00",
+  "timestamp": 1456963127,
+  "message": "Removed-FIXMEs",
+  "repo": "spack/spack"
+},
+{
+  "commit": "15ae92aae9c8ac521bb5d7ee5f210d265494d87a",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2016-02-29T22:59:28-05:00",
+  "timestamp": 1456804768,
+  "message": "New-packages-added-blitz-netcdf-cxx4-netcdf-fortran-proj-udunits2",
+  "repo": "spack/spack"
+}]

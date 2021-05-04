@@ -1,0 +1,8 @@
+[{
+  "commit": "757528d5fbf6fa098e8eb558a4716a5be24a809d",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2021-04-13T17:02:21-05:00",
+  "timestamp": 1618351341,
+  "message": "genemark-et-package-add-version-4.65-and-new-dependencies-22966",
+  "repo": "spack/spack"
+}]

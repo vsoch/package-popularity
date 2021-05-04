@@ -1,0 +1,112 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "0d07dea2eb1e32157c3ae58a5514bcd46e2d32ac",
+  "author": "Christoph Junghans <christoph.junghans@gmail.com>",
+  "date": "2019-03-07T14:53:04-07:00",
+  "timestamp": 1551995584,
+  "message": "snap-overwrite-flags-10832",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "3f18c048658cfaede38a9c66a8e7ccb8e0447b88",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2018-07-24T20:52:35-05:00",
+  "timestamp": 1532483555,
+  "message": "Add-top-level-attributes-for-git-R-Z-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "629b17b36fc9ea8b83175bc571e0a006f558c01f",
+  "author": "jiseung <anna.jiseung@gmail.com>",
+  "date": "2017-08-07T14:34:06-05:00",
+  "timestamp": 1502134446,
+  "message": "Packages-snap-5000",
+  "repo": "spack/spack"
+},
+{
+  "commit": "16fbd0fc41e6268d46ba1ccc0ab6e46a184af09b",
+  "author": "jiseung <anna.jiseung@gmail.com>",
+  "date": "2017-07-20T13:15:43-05:00",
+  "timestamp": 1500574543,
+  "message": "new-package-SNAP-4826",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45a7e8bb12cd840f5998c4ebb1b449183e50af47",
+  "author": "pkondamudi <pkondamudi@users.noreply.github.com>",
+  "date": "2017-07-19T08:46:42-05:00",
+  "timestamp": 1500472002,
+  "message": "New-Package-SimpleMOC-4742",
+  "repo": "spack/spack"
+},
+{
+  "commit": "5bad9dfeacb76825e39b182c54fc0f9f4eb815bf",
+  "author": "homerdin <homerdin@gmail.com>",
+  "date": "2017-07-10T18:30:08-05:00",
+  "timestamp": 1499729408,
+  "message": "New-Package-MiniAMR-4701",
+  "repo": "spack/spack"
+},
+{
+  "commit": "45e731d574b83e6f4cc35ee7e55e4cba0e061bfe",
+  "author": "homerdin <homerdin@gmail.com>",
+  "date": "2017-07-10T12:31:41-05:00",
+  "timestamp": 1499707901,
+  "message": "New-Package-HPCCG-4693",
+  "repo": "spack/spack"
+}]

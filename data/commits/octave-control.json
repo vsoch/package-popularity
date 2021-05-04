@@ -1,0 +1,8 @@
+[{
+  "commit": "f7dae98eededcd3e65a42c9fb4da84ea8d426436",
+  "author": "Olivier Cessenat <cessenat@gmail.com>",
+  "date": "2021-02-22T18:43:46+01:00",
+  "timestamp": 1614015826,
+  "message": "New-Package-octave-quaternion-21856",
+  "repo": "spack/spack"
+}]

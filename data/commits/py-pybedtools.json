@@ -1,0 +1,168 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2072c93dc87c75e6d940a4d9aa41e5228e5acb29",
+  "author": "manifest <robqiao@users.noreply.github.com>",
+  "date": "2020-12-01T01:25:49+10:30",
+  "timestamp": 1606748149,
+  "message": "Added-bedtools2-v2.29.2-and-and-py-bedtools-versions-up-to-v0.8.0-19744",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7a459857e778f0d73cdb1c208c13a9cdc6ffed59",
+  "author": "Justin S <3630356+codeandkey@users.noreply.github.com>",
+  "date": "2019-05-17T14:32:21-05:00",
+  "timestamp": 1558121541,
+  "message": "py-pybedtools-new-package-at-0.6.9-11475",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7ba4c6200c125a651eeb10b3cde964da8f81ae22",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-16T22:53:18-07:00",
+  "timestamp": 1539755598,
+  "message": "relicense-remove-significant-contributions-from-peetsv",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b0ecd0fd0b8d1ba0f79435989899fcfaceb6cef0",
+  "author": "Levi Baber <baberlevi@gmail.com>",
+  "date": "2018-03-21T19:51:34-05:00",
+  "timestamp": 1521679894,
+  "message": "py-pybedtools-fix-hash-for-0.6.9-7492",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e981e6bd19c561ec85d63d526a485f80dd54917f",
+  "author": "peetsv <32349688+peetsv@users.noreply.github.com>",
+  "date": "2018-02-13T23:46:10-08:00",
+  "timestamp": 1518594370,
+  "message": "py-pybedtools-adding-older-version-0.6.9-7107",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ea6ebedd0ec5dc10caba2904a1ca8baaa9ac7414",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2018-01-05T15:08:22-06:00",
+  "timestamp": 1515186502,
+  "message": "py-pybedtools-Create-new-package-6487",
+  "repo": "spack/spack"
+},
+{
+  "commit": "dac09dd5fb56e9d7da554eeb98dcf86b1fde45fc",
+  "author": "Eric <erimar77@users.noreply.github.com>",
+  "date": "2017-12-16T20:38:59-06:00",
+  "timestamp": 1513478339,
+  "message": "py-bx-python-Create-new-package-6672",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "c0aaa8fcea6a9524c7fe0de08c7b373f2aba62d6",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-01-16T18:13:37-08:00",
+  "timestamp": 1484619217,
+  "message": "Add-PythonPackage-base-class",
+  "repo": "spack/spack"
+},
+{
+  "commit": "402dfe30f99f129d310ccde3381ea7ac8c5fca53",
+  "author": "Elizabeth Fischer <elizabeth.fischer@columbia.edu>",
+  "date": "2017-01-07T22:59:02-05:00",
+  "timestamp": 1483847942,
+  "message": "Get-Rid-of-nobuild-nolink-and-alldeps-2765",
+  "repo": "spack/spack"
+},
+{
+  "commit": "f56de639721e24348fc889209036b22836232669",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-08-02T12:02:06-05:00",
+  "timestamp": 1470157326,
+  "message": "Fix-cycler-dependencies-update-qhull-version-names",
+  "repo": "spack/spack"
+},
+{
+  "commit": "11e595089d14423025c5c46eedb568616181e19f",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2016-06-10T09:25:53-05:00",
+  "timestamp": 1465568753,
+  "message": "Matplotlib-overhaul",
+  "repo": "spack/spack"
+},
+{
+  "commit": "240f1fd2239552f37d0f8a8841496414b163ef10",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-08-10T01:50:00-07:00",
+  "timestamp": 1470819000,
+  "message": "Spack-packages-now-PEP8-compliant",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "89d5127900dda96b2a583c4c1a9bdac8e51c1c15",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-26T14:19:27-08:00",
+  "timestamp": 1448576367,
+  "message": "New-cleaner-package-repository-structure",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1c4ef2996219a00e774baafa558880c83ae3d859",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2015-11-04T17:55:43-08:00",
+  "timestamp": 1446688543,
+  "message": "Add-Sphinx-package",
+  "repo": "spack/spack"
+}]

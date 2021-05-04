@@ -1,0 +1,8 @@
+[{
+  "commit": "2ba00262e577eda760e51eb476ce7b46c5c3c98b",
+  "author": "darmac <xiaojun2@hisilicon.com>",
+  "date": "2021-03-09T16:37:52+08:00",
+  "timestamp": 1615279072,
+  "message": "hw-probe-new-package-at-v1.5-22156",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,184 @@
+[{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62927654dd26db7a6a45c8bb307bf1cf6ba3470d",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-10-10T22:44:41-07:00",
+  "timestamp": 1570772681,
+  "message": "checksums-use-sha256-checksums-everywhere",
+  "repo": "spack/spack"
+},
+{
+  "commit": "1550d5cae644f962fb12ff584a94203e6125c179",
+  "author": "Toyohisa Kameyama <kameyama@riken.jp>",
+  "date": "2019-10-03T01:58:25+09:00",
+  "timestamp": 1570035505,
+  "message": "ants-missing-zlib-dependency-and-fix-working-directory-in-install.-13010",
+  "repo": "spack/spack"
+},
+{
+  "commit": "6f50cd52ed2bd8673d358fca8bd3d5ba62d916fb",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-12-31T22:04:23-08:00",
+  "timestamp": 1546322663,
+  "message": "copyright-update-license-headers-for-2013-2019-copyright",
+  "repo": "spack/spack"
+},
+{
+  "commit": "eea786f4e888b30cf70d1cddab4b5e6aa1c4cc28",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-10-07T13:52:23-07:00",
+  "timestamp": 1538945543,
+  "message": "relicense-replace-LGPL-headers-with-Apache-2.0-MIT-SPDX-headers",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ed5f68211e93df983a5e15c7f1ce812b810b49c0",
+  "author": "Simon Flood <simonflood@users.noreply.github.com>",
+  "date": "2018-04-11T20:22:23+01:00",
+  "timestamp": 1523474543,
+  "message": "Add-ANTs-package-7717",
+  "repo": "spack/spack"
+},
+{
+  "commit": "54f97d1dec8df18b3d34144f38760abd9a7cc5b4",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2018-03-24T12:13:52-07:00",
+  "timestamp": 1521918832,
+  "message": "Update-copyright-on-LLNL-files-for-2018.-7592",
+  "repo": "spack/spack"
+},
+{
+  "commit": "05fa3026551fd1fc7895ea5cfaed001c2bb1af55",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-11-04T17:08:04-07:00",
+  "timestamp": 1509840484,
+  "message": "Replace-github.com-llnl-spack-with-github.com-spack-spack-6142",
+  "repo": "spack/spack"
+},
+{
+  "commit": "84ae7872d36fef95872250cfe801ec0d12f3d28f",
+  "author": "Michael Kuhn <suraia@ikkoku.de>",
+  "date": "2017-09-07T05:44:16+02:00",
+  "timestamp": 1504755856,
+  "message": "Update-copyright-notices-for-2017-5295",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cac4362f6491bf48dd287f31f3de9169464713ea",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2017-06-24T22:22:55-07:00",
+  "timestamp": 1498368175,
+  "message": "Make-LICENSE-recognizable-by-GitHub.-4598",
+  "repo": "spack/spack"
+},
+{
+  "commit": "50df071ad9a1b936ffbb4121036a36ed5ab38ffa",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2017-04-03T17:34:16-05:00",
+  "timestamp": 1491258856,
+  "message": "Overhaul-Spack-s-URL-parsing-2972",
+  "repo": "spack/spack"
+},
+{
+  "commit": "43371c31a2fab552f2421ca9d355b10f5ff8098e",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-08-03T16:51:53-04:00",
+  "timestamp": 1470257513,
+  "message": "Flake8-cleanup",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4acf6d76bf7ec982573331835f7bcddd8487b18b",
+  "author": "George Hartzell <hartzell@alerce.com>",
+  "date": "2016-07-27T14:27:05-04:00",
+  "timestamp": 1469644025,
+  "message": "Add-package-for-unison",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8855f48aab61e174b4c9a1532e255b0a8b910c7",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-23T19:43:55-05:00",
+  "timestamp": 1469321035,
+  "message": "Add-dependency-type-tp-r-packages",
+  "repo": "spack/spack"
+},
+{
+  "commit": "519b760222d953b9c79793e7803526846a814607",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-07-04T17:30:05-05:00",
+  "timestamp": 1467671405,
+  "message": "New-package-RStan",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a813f03955397140104b7d926f0fddf925e672bc",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-11T16:18:54-05:00",
+  "timestamp": 1465679934,
+  "message": "Add-list_url-for-old-versions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "7213b123245895ab3fe588c7b5656b68f648b99d",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-06-05T20:12:11-05:00",
+  "timestamp": 1465175531,
+  "message": "Tweak-how-R-packages-are-built",
+  "repo": "spack/spack"
+},
+{
+  "commit": "cb3505769b57e9f7c06f42faf8b88dfb40db7ec9",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-05-28T22:31:47-05:00",
+  "timestamp": 1464492707,
+  "message": "Clean-up-R-extensions",
+  "repo": "spack/spack"
+},
+{
+  "commit": "e7ced54369583a72fc865834e4f7c209fb06f1c8",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2016-05-11T21:22:25-07:00",
+  "timestamp": 1463026945,
+  "message": "Correct-LLNL-LGPL-license-template-for-clarity",
+  "repo": "spack/spack"
+},
+{
+  "commit": "2b7b7f6d9758d47bb59b59e92cb2c7e3b785ac51",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-24T18:11:18-05:00",
+  "timestamp": 1461539478,
+  "message": "Reformat-description-text",
+  "repo": "spack/spack"
+},
+{
+  "commit": "fbabfc593d10a7fc35944e72e2eb8b1ebf4818eb",
+  "author": "Glenn Johnson <glenn-johnson@uiowa.edu>",
+  "date": "2016-04-06T16:44:22-05:00",
+  "timestamp": 1459979062,
+  "message": "Make-R-extensable-and-add-a-couple-of-packages-for-verification",
+  "repo": "spack/spack"
+}]

@@ -1,0 +1,64 @@
+[{
+  "commit": "43f4d2da9997a17e4c523078a0b0335350dd739a",
+  "author": "Gregory L. Lee <lee218@llnl.gov>",
+  "date": "2021-03-19T02:31:14-07:00",
+  "timestamp": 1616146274,
+  "message": "updated-deps-to-get-gtkplus-to-build-22228",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a8ccb8e116a1abfaa1d7ecb4e84f9f14ebab12ad",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2021-01-01T23:10:28-08:00",
+  "timestamp": 1609571428,
+  "message": "copyrights-update-all-files-with-license-headers-for-2021",
+  "repo": "spack/spack"
+},
+{
+  "commit": "b96a251c3de2e9feb23decb29e7820b1e97c3f2a",
+  "author": "Michael Kuhn <michael.kuhn@ovgu.de>",
+  "date": "2020-11-29T20:02:44+01:00",
+  "timestamp": 1606676564,
+  "message": "librsvg-added-v2.50.2-20150",
+  "repo": "spack/spack"
+},
+{
+  "commit": "a50b3323a913fb041d488e83b84d102894ffc235",
+  "author": "Pariksheet Nanda <pariksheet.nanda@uconn.edu>",
+  "date": "2020-09-28T07:29:48-04:00",
+  "timestamp": 1601292588,
+  "message": "librsvg-added-v2.50.0-18865-18869",
+  "repo": "spack/spack"
+},
+{
+  "commit": "4af630308619afb40b1de89d1f7bac0f57b70a38",
+  "author": "Todd Gamblin <tgamblin@llnl.gov>",
+  "date": "2019-12-30T22:36:56-08:00",
+  "timestamp": 1577774216,
+  "message": "copyright-update-copyright-dates-for-2020-14328",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ab98ef17659c413a2eede4106574400a6e4e0ec5",
+  "author": "Adam J. Stewart <ajstewart426@gmail.com>",
+  "date": "2019-11-29T15:00:44-06:00",
+  "timestamp": 1575061244,
+  "message": "Mass-conversion-of-setup_-dependent_-environment-13924",
+  "repo": "spack/spack"
+},
+{
+  "commit": "62f0286f5e2ecf63f6f18c28b12844eee18277f7",
+  "author": "Michael Kuhn <michael.kuhn@informatik.uni-hamburg.de>",
+  "date": "2019-09-09T19:54:47+02:00",
+  "timestamp": 1568051687,
+  "message": "Fix-pkgconfig-dependencies-12714",
+  "repo": "spack/spack"
+},
+{
+  "commit": "ee710fd1708513db5e6eac38b667453c794a082a",
+  "author": "Geoffrey Oxberry <oxberry1@llnl.gov>",
+  "date": "2019-08-27T01:30:45-07:00",
+  "timestamp": 1566894645,
+  "message": "librsvg-new-package-12567",
+  "repo": "spack/spack"
+}]
