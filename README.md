@@ -1,7 +1,9 @@
 # Package Popularity
 
+![img/spackages.png](img/spackages.png)
+
 ...or for this dummy example... let's assess the popularity of spack packages,
-spackages!
+spackages! If you just want to see the output, you can [see the web interface here](https://vsoch.github.io/package-popularity/).
 
 We first define popularity in two different ways:
 
