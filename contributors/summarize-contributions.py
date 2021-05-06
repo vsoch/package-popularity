@@ -146,7 +146,7 @@ def main():
         meta["percent"] = round(meta["count"] / len(totals) * 100, 3)
         if len(meta["packages"]) > maxnum:
             maxnum = len(meta["packages"])
-        meta['packages'] = sorted(meta['packages'])
+        meta["packages"] = sorted(meta["packages"])
 
     result = template.render(
         authors=authordata, max=maxnum, total_contributors=len(authordata)
