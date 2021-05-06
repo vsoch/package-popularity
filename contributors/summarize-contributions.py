@@ -128,6 +128,32 @@ def main():
     with open("index.html", "w") as fd:
         fd.write(result)
 
+    # Second visualization - reversed! Authors are bubbles, and packages count
+    with open("template-reversed.html", "r") as fd:
+        template = Template(fd.read())
+
+    authordata = {}
+    for package, metadata in data.items():
+        for author in metadata["authors"]:
+            if author not in authordata:
+                authordata[author] = {"count": 0, "packages": []}
+            authordata[author]["count"] += 1
+            authordata[author]["packages"].append(package)
+
+    # Calculate percent of packages contributed to
+    maxnum = 0
+    for author, meta in authordata.items():
+        meta["percent"] = round(meta["count"] / len(totals) * 100, 3)
+        if len(meta["packages"]) > maxnum:
+            maxnum = len(meta["packages"])
+        meta['packages'] = sorted(meta['packages'])
+
+    result = template.render(
+        authors=authordata, max=maxnum, total_contributors=len(authordata)
+    )
+    with open(os.path.join("authors", "index.html"), "w") as fd:
+        fd.write(result)
+
 
 if __name__ == "__main__":
     main()

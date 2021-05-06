@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+  <style>
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+  font-weight: 300;
+}
+
+.chart {
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+#message {
+  text-align: left;
+  float: left;
+  font-weight: 600px;
+}
+.circle:hover{
+  fill: yellow;
+}
+  </style>
+  </head>
+  <body>
+<div class="container-wide" style="padding:20px">
+<h1>Spack Package Contributors! 🎉️</h1>
+<p>Unlike <a href="../">the contributors analysis</a> that asks which packages are most "loved" (or perhaps hated) by developer contributors, this visualization shows which contributors are loved by spack packages! For a total of {{ total_contributors }} contributors to package files, you can mouse over any contributor to see the names of packages that he or she has contributed to, and the count. The data and page here are generated via <a href="https://github.com/vsoch/package-popularity">this repository</a> in the contributors directory. If you want to see the flip of this graph - the packages with counts of developers - see <a href="../">here</a>.</p>
+<br>
+<div class="row">
+<div class="col-md-8">
+<div id="chart"></div>
+</div>
+<div class="col-md-4">
+  <p id="message"><span style="font-style:italic">Mouse over a contributor circle to see contributions.</span></p></div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+(function() {
+
+// Fake JSON data
+var json = {"authors": {
+  {% for author,meta in authors.items() %} "{{ author }}": {"count": {{ meta.count }},
+  "packages": [ {% for p in meta.packages %}"{{ p }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}], 
+  "percent": "{{ meta.percent }}"}{% if loop.last %}{% else %},{% endif %}{% endfor %} 
+  }
+};
+
+// D3 Bubble Chart 
+
+var colors = d3.scale.quantize()
+    .domain([0,{{ max }}])
+    .range(["#5E4FA2", "#3288BD", "#66C2A5", "#ABDDA4", "#E6F598", 
+    "#FFFFBF", "#FEE08B", "#FDAE61", "#F46D43", "#D53E4F", "#9E0142"]);
+    
+var diameter = 1000;
+var svg = d3.select('#chart').append('svg')
+				.attr('width', diameter)
+				.attr('height', diameter);
+var bubble = d3.layout.pack()
+  .size([diameter, diameter])
+  .value(function(d) {return d.size;})
+  .sort(function(a, b) {return -(a.value - b.value)}) 
+  .padding(3);
+  
+// generate data with calculated layout values
+var nodes = bubble.nodes(processData(json))
+            .filter(function(d) { return !d.children; }); // filter out the outer bubble
+ 
+var vis = svg.selectAll('circle')
+        .data(nodes);
+
+// tooltip div that is hidden by default:
+var tooltip = d3.select("#chart")
+    .append("div")
+      .style("opacity", 0)
+      .attr("class", "tooltip")
+      .style("background-color", "black")
+      .style("border-radius", "5px")
+      .style("padding", "10px")
+      .style("color", "white")
+
+  var showTooltip = function(d) {
+     var html = "<h4>" + d.className + "</h4><span style='font-size:22px; margin-bottom:10px' class='badge badge-primary'>" + d.size + " packages </span>" + "<ul class='list-group'>"
+     for (i in d.packages){
+         html += "<li class='list-group-item'>" + d.packages[i] + "</li>"
+     }
+     html += "</ul>"
+     $("#message").html(html)
+  }
+  
+vis.enter().append('circle')
+  .attr('transform', function(d) { return 'translate(' + d.x + ',' + d.y + ')'; })
+  .attr('r', function(d) { return d.r; })
+  .attr('class', function(d) { return d.group; })
+  .attr("fill", function(d) {return colors(d.size)})
+  .on("mouseover", showTooltip);
+  
+function processData(data) {
+    var obj = data.authors;
+    var newDataSet = [];
+
+    for(var prop in obj) {
+      newDataSet.push({name: prop, className: prop.toLowerCase(),
+                       packages: obj[prop].packages,
+                       percent: obj[prop].percent, size: obj[prop].count});
+    }
+    return {children: newDataSet};
+  }
+  
+})();
+</script>
+  </body>
+</html>

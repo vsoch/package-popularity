@@ -52,7 +52,7 @@ p {
   <body>
 <div class="container-wide" style="padding:20px">
 <h1>Spack Package Contributors! 🎉️</h1>
-<p>Which Spack packages are most popular, as measured by contributors? We might call this a developer level of popularity, or perhaps this is more properly labeled as packages that cause developer pain. The chart below shows ~5559 packages, colored by their build type, and sized by the number of contributors. You can mouse over any package to see the name and the contributors. The data and page here are generated via <a href="https://github.com/vsoch/package-popularity">this repository</a> in the contributors directory. So what do you see - development pain or true popularity? 🤔️</p>
+<p>Which Spack packages are most popular, as measured by contributors? We might call this a developer level of popularity, or perhaps this is more properly labeled as packages that cause developer pain. The chart below shows ~5559 packages, colored by their build type, and sized by the number of contributors. You can mouse over any package to see the name and the contributors. If you want to see the flip of this graph - the developers with counts of the number of packages they've contributed to - see <a href="authors/">here</a>. The data and page here are generated via <a href="https://github.com/vsoch/package-popularity">this repository</a> in the contributors directory. So what do you see - development pain or true popularity? 🤔️</p>
 <br>
 <div class="row">
 <div class="col-md-8">
@@ -11211,7 +11211,7 @@ var json = {"packages": {
 
 // D3 Bubble Chart 
 
-var build_systems = [ "AutotoolsPackage","PythonPackage","MesonPackage","OctavePackage","BundlePackage","MavenPackage","CMakePackage","PerlPackage","MakefilePackage","RubyPackage","SIPPackage","QMakePackage","WafPackage","RPackage","SConsPackage","IntelPackage","Package"]
+var build_systems = [ "WafPackage","MavenPackage","IntelPackage","OctavePackage","MakefilePackage","Package","AutotoolsPackage","MesonPackage","PythonPackage","SConsPackage","RPackage","BundlePackage","PerlPackage","SIPPackage","RubyPackage","CMakePackage","QMakePackage"]
 console.log(build_systems)
 var diameter = 1200;
 var svg = d3.select('#chart').append('svg')
