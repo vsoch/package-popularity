@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 5,
+   "percentage": 26.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 5.3,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 26.3,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 5.3,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 10.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 5,
+   "percentage": 26.3,
+   "author": "lingnanyuan",
+   "email": "<1297162327@qq.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 19,
+  "percentage": "100.0"
+ }
+}

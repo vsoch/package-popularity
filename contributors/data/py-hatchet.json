@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 8,
+   "percentage": 42.1,
+   "author": "Abhinav Bhatele",
+   "email": "<bhatele@cs.umd.edu>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 11,
+   "percentage": 57.9,
+   "author": "Stephanie Brink",
+   "email": "<brink2@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 19,
+  "percentage": "100.0"
+ }
+}

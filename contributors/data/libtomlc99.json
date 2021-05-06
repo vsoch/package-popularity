@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "Oliver Breitwieser",
+   "email": "<oliver.breitwieser@kip.uni-heidelberg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 21,
+   "percentage": 91.3,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

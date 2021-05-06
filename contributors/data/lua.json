@@ -1,0 +1,107 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 12,
+   "percentage": 7.1,
+   "author": "Vanessasaurus",
+   "email": "<814322+vsoch@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 14,
+   "percentage": 8.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 37,
+   "percentage": 21.8,
+   "author": "Robert Pavel",
+   "email": "<rspavel@lanl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 20,
+   "percentage": 11.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.8,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 2.4,
+   "author": "Paul",
+   "email": "<pbryant@newmexicoconsortium.org>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.8,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 1.8,
+   "author": "Stephen Herbein",
+   "email": "<SteVwonder@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 5,
+   "percentage": 2.9,
+   "author": "Patrick Gartung",
+   "email": "<gartung@fnal.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Kelly (KT) Thompson",
+   "email": "<kgt@lanl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 62,
+   "percentage": 36.5,
+   "author": "Tom Scogland",
+   "email": "<tscogland@llnl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 2.4,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 170,
+  "percentage": "100.0"
+ }
+}

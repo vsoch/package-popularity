@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 9,
+   "percentage": 23.7,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.6,
+   "author": "Robert Blake",
+   "email": "<blake14@llnl.gov>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 4,
+   "percentage": 10.5,
+   "author": "Phil Tooley",
+   "email": "<32297355+ptooley@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 12,
+   "percentage": 31.6,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 5.3,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.6,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 9,
+   "percentage": 23.7,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

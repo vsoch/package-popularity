@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Steven Smith",
+   "email": "<smithsg84@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 43,
+   "percentage": 97.7,
+   "author": "0t1s1",
+   "email": "<65258917+0t1s1@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 44,
+  "percentage": "100.0"
+ }
+}

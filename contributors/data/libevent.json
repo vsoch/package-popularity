@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 11,
+   "percentage": 20.0,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 7.3,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 21,
+   "percentage": 38.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 10,
+   "percentage": 18.2,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.8,
+   "author": "Quinn",
+   "email": "<micheal.quinn85@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 3,
+   "percentage": 5.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 5,
+   "percentage": 9.1,
+   "author": "David Beckingsale",
+   "email": "<davidbeckingsale@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 55,
+  "percentage": "100.0"
+ }
+}

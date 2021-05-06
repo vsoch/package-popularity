@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 3,
+   "percentage": 10.7,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 25.0,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.6,
+   "author": "snehring",
+   "email": "<snehring@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 17,
+   "percentage": 60.7,
+   "author": "Alfredo Gimenez",
+   "email": "<gimenez1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 28,
+  "percentage": "100.0"
+ }
+}

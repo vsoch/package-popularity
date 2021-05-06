@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 8,
+   "percentage": 25.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 5,
+   "percentage": 15.6,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 12,
+   "percentage": 37.5,
+   "author": "Phil Tooley",
+   "email": "<32297355+ptooley@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 18.8,
+   "author": "mwilliammyers",
+   "email": "<mwilliammyers@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

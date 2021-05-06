@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 28.6,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 9.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 12,
+   "percentage": 57.1,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

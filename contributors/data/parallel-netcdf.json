@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 28,
+   "percentage": 17.4,
+   "author": "Sergei Shudler",
+   "email": "<shudler1@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 77,
+   "percentage": 47.8,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 4,
+   "percentage": 2.5,
+   "author": "MichaelLaufer",
+   "email": "<70094649+MichaelLaufer@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 18,
+   "percentage": 11.2,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 25,
+   "percentage": 15.5,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 4,
+   "percentage": 2.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 1.2,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 161,
+  "percentage": "100.0"
+ }
+}

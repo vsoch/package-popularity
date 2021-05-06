@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 7.5,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 62,
+   "percentage": 92.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 67,
+  "percentage": "100.0"
+ }
+}

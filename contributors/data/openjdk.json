@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 9,
+   "percentage": 7.7,
+   "author": "Pramod Kumbhar",
+   "email": "<pramod.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 2.6,
+   "author": "Baptiste Jonglez",
+   "email": "<30461003+jonglezb@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 3.4,
+   "author": "Ryan Marcellino",
+   "email": "<67644978+myan-rarcellino-nnl@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 20,
+   "percentage": 17.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 3,
+   "percentage": 2.6,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "Paul Ferrell",
+   "email": "<51765748+Paul-Ferrell@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 20,
+   "percentage": 17.1,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 57,
+   "percentage": 48.7,
+   "author": "snehring",
+   "email": "<snehring@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 117,
+  "percentage": "100.0"
+ }
+}

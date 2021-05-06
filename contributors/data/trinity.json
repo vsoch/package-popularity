@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 9.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 34,
+   "percentage": 43.6,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 35,
+   "percentage": 44.9,
+   "author": "Simon Flood",
+   "email": "<simonflood@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 78,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 18.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 6.2,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 75.0,
+   "author": "Leonhard Reichenbach",
+   "email": "<Zehvogel@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

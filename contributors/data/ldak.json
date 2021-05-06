@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 10,
+   "percentage": 33.3,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 20,
+   "percentage": 66.7,
+   "author": "Nick Booher",
+   "email": "<njbooher@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

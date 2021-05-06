@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Chris Richardson",
+   "email": "<chris@bpi.cam.ac.uk>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 10.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 34,
+   "percentage": 48.6,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 8.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 5.7,
+   "author": "toffer93",
+   "email": "<czachow@smail.uni-koeln.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 16,
+   "percentage": 22.9,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 70,
+  "percentage": "100.0"
+ }
+}

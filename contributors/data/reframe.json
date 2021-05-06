@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 27,
+   "percentage": 32.9,
+   "author": "Vasileios Karakasis",
+   "email": "<vkarak@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 55,
+   "percentage": 67.1,
+   "author": "victorusu",
+   "email": "<victorusu@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 82,
+  "percentage": "100.0"
+ }
+}

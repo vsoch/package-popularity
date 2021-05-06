@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 days ago",
+   "lines": 7,
+   "percentage": 30.4,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 16,
+   "percentage": 69.6,
+   "author": "David Beckingsale",
+   "email": "<davidbeckingsale@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 days ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

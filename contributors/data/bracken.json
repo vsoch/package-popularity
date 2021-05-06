@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 16.3,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 35,
+   "percentage": 81.4,
+   "author": "Eric",
+   "email": "<erimar77@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 187,
+   "percentage": 72.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 2.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 7,
+   "percentage": 2.7,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 11,
+   "percentage": 4.3,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Stephen McDowell",
+   "email": "<svenevs@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 1.6,
+   "author": "Samuel Fux",
+   "email": "<samuel.fux@id.ethz.ch>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 23,
+   "percentage": 8.9,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 1.6,
+   "author": "Michael F. Herbst",
+   "email": "<info@michael-herbst.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 3,
+   "percentage": 1.2,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 10,
+   "percentage": 3.9,
+   "author": "mwilliammyers",
+   "email": "<mwilliammyers@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 258,
+  "percentage": "100.0"
+ }
+}

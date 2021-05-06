@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 84,
+   "percentage": 87.5,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.0,
+   "author": "Tyler Reddy",
+   "email": "<tyler.je.reddy@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 11,
+   "percentage": 11.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 96,
+  "percentage": "100.0"
+ }
+}

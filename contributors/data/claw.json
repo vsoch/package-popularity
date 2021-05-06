@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 35,
+   "percentage": 62.5,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 21,
+   "percentage": 37.5,
+   "author": "Valentin Clement (\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3 \u30af\u30ec\u30e1\u30f3)",
+   "email": "<clementval@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 56,
+  "percentage": "100.0"
+ }
+}

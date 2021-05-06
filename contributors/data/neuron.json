@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 5,
+   "percentage": 4.8,
+   "author": "Itaru Kitayama",
+   "email": "<ikitayama@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 90,
+   "percentage": 86.5,
+   "author": "Pramod Kumbhar",
+   "email": "<pramod.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 6,
+   "percentage": 5.8,
+   "author": "Ricardo Silva",
+   "email": "<ricardo.d.silva@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "Pramod S Kumbhar",
+   "email": "<pramod.r.s.kumbhar@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 104,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 44.4,
+   "author": "Jim Huang",
+   "email": "<jserv.tw@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 11.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 44.4,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 9,
+  "percentage": "100.0"
+ }
+}

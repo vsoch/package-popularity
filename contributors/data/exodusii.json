@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 19,
+   "percentage": 32.2,
+   "author": "Robert Pavel",
+   "email": "<rspavel@lanl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 11.9,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 8.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.7,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 20.3,
+   "author": "Ond\u0159ej \u010cert\u00edk",
+   "email": "<ondrej@certik.us>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 15,
+   "percentage": 25.4,
+   "author": "Joseph Ciurej",
+   "email": "<ciurej1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 59,
+  "percentage": "100.0"
+ }
+}

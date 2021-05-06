@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "dithwick",
+   "email": "<46924962+dithwick@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "noguchi-k",
+   "email": "<55966120+noguchi-k@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 66,
+   "percentage": 89.2,
+   "author": "Mark W. Krentel",
+   "email": "<krentel@rice.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 5.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 74,
+  "percentage": "100.0"
+ }
+}

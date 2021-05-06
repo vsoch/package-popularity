@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 64,
+   "percentage": 75.3,
+   "author": "Peter Lindstrom",
+   "email": "<pl@llnl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Omar Padron",
+   "email": "<omar.padron@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 17,
+   "percentage": 20.0,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Mark C. Miller",
+   "email": "<miller86@llnl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Mark Miller",
+   "email": "<miller86@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 85,
+  "percentage": "100.0"
+ }
+}

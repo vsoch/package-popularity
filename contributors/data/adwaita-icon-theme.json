@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 12.5,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 14,
+   "percentage": 87.5,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

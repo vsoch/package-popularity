@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 37,
+   "percentage": 37.0,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 20,
+   "percentage": 20.0,
+   "author": "Olaf Mersmann",
+   "email": "<olafm@p-value.net>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 4.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.0,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 38,
+   "percentage": 38.0,
+   "author": "Omar Awile",
+   "email": "<omar.awile@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 100,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 4.9,
+   "author": "Rohit Goswami",
+   "email": "<r95g10@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 4,
+   "percentage": 9.8,
+   "author": "Melven Roehrig-Zoellner",
+   "email": "<Melven.Roehrig-Zoellner@DLR.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 21,
+   "percentage": 51.2,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 22.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 12.2,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 41,
+  "percentage": "100.0"
+ }
+}

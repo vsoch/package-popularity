@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 17,
+   "percentage": 14.9,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 52,
+   "percentage": 45.6,
+   "author": "Jean-Paul Pelteret",
+   "email": "<jppelteret@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 13,
+   "percentage": 11.4,
+   "author": "gauthier12",
+   "email": "<45069706+gauthier12@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 2.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 29,
+   "percentage": 25.4,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 114,
+  "percentage": "100.0"
+ }
+}

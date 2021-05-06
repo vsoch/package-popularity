@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 6,
+   "percentage": 6.1,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 90,
+   "percentage": 91.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 2.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 98,
+  "percentage": "100.0"
+ }
+}

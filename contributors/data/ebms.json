@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 3.4,
+   "author": "Robert Pavel",
+   "email": "<rspavel@lanl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 6.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 26,
+   "percentage": 89.7,
+   "author": "pkondamudi",
+   "email": "<pkondamudi@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 29,
+  "percentage": "100.0"
+ }
+}

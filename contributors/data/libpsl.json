@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 18,
+   "percentage": 85.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

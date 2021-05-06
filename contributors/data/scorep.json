@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 10,
+   "percentage": 9.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 7,
+   "percentage": 6.8,
+   "author": "jdomke",
+   "email": "<28772296+jdomke@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 14,
+   "percentage": 13.6,
+   "author": "Michael Kuhn",
+   "email": "<michael@ikkoku.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 8.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "Marc-Andre Hermanns",
+   "email": "<m.a.hermanns@fz-juelich.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 32,
+   "percentage": 31.1,
+   "author": "Abhinav Bhatele",
+   "email": "<bhatele@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 9,
+   "percentage": 8.7,
+   "author": "Pramod S Kumbhar",
+   "email": "<pramod.r.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 9.7,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 7.8,
+   "author": "Mark Olesen",
+   "email": "<Mark.Olesen@gmx.net>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "David Boehme",
+   "email": "<boehme3@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 103,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 50,
+   "percentage": 98.0,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 51,
+  "percentage": "100.0"
+ }
+}

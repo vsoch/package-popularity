@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 14,
+   "percentage": 43.8,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 18,
+   "percentage": 56.2,
+   "author": "Jennifer Herting",
+   "email": "<jen@herting.cc>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

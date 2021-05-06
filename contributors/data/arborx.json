@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 35,
+   "percentage": 40.7,
+   "author": "Daniel Arndt",
+   "email": "<arndtd@ornl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 49,
+   "percentage": 57.0,
+   "author": "Andrey Prokopenko",
+   "email": "<prokopenkoav@ornl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

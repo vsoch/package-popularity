@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 14,
+   "percentage": 56.0,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 16.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 7,
+   "percentage": 28.0,
+   "author": "Barry Smith",
+   "email": "<bsmith@mcs.anl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

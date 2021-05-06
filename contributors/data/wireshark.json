@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 19,
+   "percentage": 22.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 4.8,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 58,
+   "percentage": 69.9,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 83,
+  "percentage": "100.0"
+ }
+}

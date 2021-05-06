@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 7,
+   "percentage": 2.2,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 1.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 238,
+   "percentage": 74.1,
+   "author": "Mark Olesen",
+   "email": "<Mark.Olesen@gmx.net>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 0.6,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 3.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 22,
+   "percentage": 6.9,
+   "author": "Simo Tuomisto",
+   "email": "<simo-tuomisto@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 2.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 0.9,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 25,
+   "percentage": 7.8,
+   "author": "Chris Hadjigeorgiou",
+   "email": "<ch741@cam.ac.uk>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 321,
+  "percentage": "100.0"
+ }
+}

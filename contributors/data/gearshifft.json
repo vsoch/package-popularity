@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 19,
+   "percentage": 38.8,
+   "author": "David Pape",
+   "email": "<zyzzyxdonta@posteo.de>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 3,
+   "percentage": 6.1,
+   "author": "h-denpo",
+   "email": "<57649496+h-denpo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 26,
+   "percentage": 53.1,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 49,
+  "percentage": "100.0"
+ }
+}

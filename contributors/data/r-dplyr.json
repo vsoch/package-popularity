@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 32,
+   "percentage": 74.4,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 20.9,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Strahinja Trecakov",
+   "email": "<trecakov@nmsu.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

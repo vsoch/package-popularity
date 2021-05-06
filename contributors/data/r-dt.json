@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 15,
+   "percentage": 60.0,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Amjad Kotobi",
+   "email": "<amjadkotbi@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 7,
+   "percentage": 28.0,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

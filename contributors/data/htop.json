@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 15.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 7.7,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 5,
+   "percentage": 38.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 5,
+   "percentage": 38.5,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 13,
+  "percentage": "100.0"
+ }
+}

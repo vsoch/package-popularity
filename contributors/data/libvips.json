@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 10.3,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 26,
+   "percentage": 89.7,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 29,
+  "percentage": "100.0"
+ }
+}

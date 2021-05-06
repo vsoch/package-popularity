@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 56,
+   "percentage": 58.3,
+   "author": "Rao Garimella",
+   "email": "<rao@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 40,
+   "percentage": 41.7,
+   "author": "Julien Loiseau",
+   "email": "<contact@julien-loiseau.fr>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 96,
+  "percentage": "100.0"
+ }
+}

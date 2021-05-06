@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 15,
+   "percentage": 11.7,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 113,
+   "percentage": 88.3,
+   "author": "Tom Payerle",
+   "email": "<payerle@umd.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 128,
+  "percentage": "100.0"
+ }
+}

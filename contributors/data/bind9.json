@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 6,
+   "percentage": 37.5,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 62.5,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

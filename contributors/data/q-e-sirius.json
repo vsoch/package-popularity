@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 39,
+   "percentage": 86.7,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 6,
+   "percentage": 13.3,
+   "author": "Simon Pintarelli",
+   "email": "<1237199+simonpintarelli@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 45,
+  "percentage": "100.0"
+ }
+}

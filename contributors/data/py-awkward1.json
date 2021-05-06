@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 6,
+   "percentage": 35.3,
+   "author": "Valentin Volkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 5.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 10,
+   "percentage": 58.8,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 17,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "7 months ago",
+   "lines": 5,
+   "percentage": 2.7,
+   "author": "Piotr Luszczek",
+   "email": "<luszczek@icl.utk.edu>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 179,
+   "percentage": 97.3,
+   "author": "Nikolay Simakov",
+   "email": "<nikolays@buffalo.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 184,
+  "percentage": "100.0"
+ }
+}

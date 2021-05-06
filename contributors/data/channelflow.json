@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 1.7,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 6.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 54,
+   "percentage": 91.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 59,
+  "percentage": "100.0"
+ }
+}

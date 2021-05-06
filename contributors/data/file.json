@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 3,
+   "percentage": 30.0,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 70.0,
+   "author": "sknigh",
+   "email": "<sknigh@sandia.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 10,
+  "percentage": "100.0"
+ }
+}

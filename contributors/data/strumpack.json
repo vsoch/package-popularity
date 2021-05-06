@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 55,
+   "percentage": 31.6,
+   "author": "Sergei Shudler",
+   "email": "<sergshu@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 115,
+   "percentage": 66.1,
+   "author": "Pieter Ghysels",
+   "email": "<pghysels@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 2.3,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 174,
+  "percentage": "100.0"
+ }
+}

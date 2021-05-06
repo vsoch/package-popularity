@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 56,
+   "percentage": 91.8,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 5,
+   "percentage": 8.2,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 61,
+  "percentage": "100.0"
+ }
+}

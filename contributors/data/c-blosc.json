@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 15,
+   "percentage": 31.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 12.8,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.1,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 4.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 4.3,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 15,
+   "percentage": 31.9,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 12.8,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 47,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 7,
+   "percentage": 17.1,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 28,
+   "percentage": 68.3,
+   "author": "G-Ragghianti",
+   "email": "<33492707+G-Ragghianti@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 14.6,
+   "author": "Teodor Nikolov",
+   "email": "<teodor.nikolov22@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 41,
+  "percentage": "100.0"
+ }
+}

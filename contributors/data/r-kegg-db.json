@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 11,
+   "percentage": 73.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 26.7,
+   "author": "lingnanyuan",
+   "email": "<1297162327@qq.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 15,
+  "percentage": "100.0"
+ }
+}

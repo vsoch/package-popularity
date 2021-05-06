@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 14,
+   "percentage": 45.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 3.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 3,
+   "percentage": 9.7,
+   "author": "Amjad Kotobi",
+   "email": "<amjadkotbi@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 10,
+   "percentage": 32.3,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 6.5,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 3.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 31,
+  "percentage": "100.0"
+ }
+}

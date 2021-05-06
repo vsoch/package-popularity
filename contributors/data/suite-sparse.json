@@ -1,0 +1,135 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 4,
+   "percentage": 2.6,
+   "author": "finkandreas",
+   "email": "<finkandreas@web.de>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 22,
+   "percentage": 14.2,
+   "author": "Kai Torben Ohlhus",
+   "email": "<k.ohlhus@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 1.3,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 2,
+   "percentage": 1.3,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 6,
+   "percentage": 3.9,
+   "author": "Jean-Paul Pelteret",
+   "email": "<jppelteret@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 8,
+   "percentage": 5.2,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Tomoki, Karatsu",
+   "email": "<49965247+t-karatsu@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 32,
+   "percentage": 20.6,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 5.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Mathias Anselmann",
+   "email": "<mathias.anselmann@posteo.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 15,
+   "percentage": 9.7,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 29,
+   "percentage": 18.7,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Dan FitzGerald",
+   "email": "<38731008+djfitzgerald@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 1.3,
+   "author": "Kelly (KT) Thompson",
+   "email": "<KineticTheory@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 1.3,
+   "author": "eklee15",
+   "email": "<eunkyung.lee@us.ibm.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 9,
+   "percentage": 5.8,
+   "author": "Stephen McDowell",
+   "email": "<svenevs@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 9,
+   "percentage": 5.8,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 155,
+  "percentage": "100.0"
+ }
+}

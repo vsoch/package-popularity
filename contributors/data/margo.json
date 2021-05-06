@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 38,
+   "percentage": 86.4,
+   "author": "Phil Carns",
+   "email": "<carns@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Scott Wittenburg",
+   "email": "<scott.wittenburg@kitware.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 11.4,
+   "author": "Francois Budin",
+   "email": "<francois.budin@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 44,
+  "percentage": "100.0"
+ }
+}

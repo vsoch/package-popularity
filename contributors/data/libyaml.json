@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 3.6,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 24,
+   "percentage": 85.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 10.7,
+   "author": "Isaac Whitfield",
+   "email": "<iw@whitfin.io>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 28,
+  "percentage": "100.0"
+ }
+}

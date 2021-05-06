@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 23,
+   "percentage": 46.0,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 26,
+   "percentage": 52.0,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 50,
+  "percentage": "100.0"
+ }
+}

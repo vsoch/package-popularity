@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 33,
+   "percentage": 97.1,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 34,
+  "percentage": "100.0"
+ }
+}

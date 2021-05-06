@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 24,
+   "percentage": 17.8,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 0.7,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 13,
+   "percentage": 9.6,
+   "author": "Michael Kuron",
+   "email": "<mkuron@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 97,
+   "percentage": 71.9,
+   "author": "fcannini",
+   "email": "<fcannini@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 135,
+  "percentage": "100.0"
+ }
+}

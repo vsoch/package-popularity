@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 18,
+   "percentage": 78.3,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "Eric M\u00fcller",
+   "email": "<mueller@kip.uni-heidelberg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "Federico Ficarelli",
+   "email": "<federico.ficarelli@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 8.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

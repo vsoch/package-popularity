@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 20,
+   "percentage": 55.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 16,
+   "percentage": 44.4,
+   "author": "Paul Chelarescu",
+   "email": "<paulchelarescu@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 36,
+  "percentage": "100.0"
+ }
+}

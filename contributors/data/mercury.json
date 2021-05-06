@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 6,
+   "percentage": 6.2,
+   "author": "Phil Carns",
+   "email": "<carns@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 68,
+   "percentage": 70.1,
+   "author": "Jerome Soumagne",
+   "email": "<jsoumagne@hdfgroup.org>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.1,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 15,
+   "percentage": 15.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 6.2,
+   "author": "dorier",
+   "email": "<dorier@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 97,
+  "percentage": "100.0"
+ }
+}

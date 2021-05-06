@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 11.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 3,
+   "percentage": 17.6,
+   "author": "ketsubouchi",
+   "email": "<67359246+ketsubouchi@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 52.9,
+   "author": "Tim Law",
+   "email": "<timrlaw@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 17.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 17,
+  "percentage": "100.0"
+ }
+}

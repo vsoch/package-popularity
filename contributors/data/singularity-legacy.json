@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 21,
+   "percentage": 84.0,
+   "author": "Vanessasaurus",
+   "email": "<vsochat@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 4,
+   "percentage": 16.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

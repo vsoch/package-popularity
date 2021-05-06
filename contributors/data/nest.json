@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 9,
+   "percentage": 7.4,
+   "author": "Itaru Kitayama",
+   "email": "<ikitayama@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 5.0,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 103,
+   "percentage": 85.1,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 121,
+  "percentage": "100.0"
+ }
+}

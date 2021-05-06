@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 14,
+   "percentage": 24.6,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 11,
+   "percentage": 19.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.8,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 7.0,
+   "author": "Bili Dong",
+   "email": "<qobilidop@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 8.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 7,
+   "percentage": 12.3,
+   "author": "Matthew Scott Krafczyk",
+   "email": "<krafczyk.matthew@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.8,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 14,
+   "percentage": 24.6,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 57,
+  "percentage": "100.0"
+ }
+}

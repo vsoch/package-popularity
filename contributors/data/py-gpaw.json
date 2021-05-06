@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 7.6,
+   "author": "T.Tian",
+   "email": "<lovaulonzezoeta@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 16,
+   "percentage": 17.4,
+   "author": "Simo Tuomisto",
+   "email": "<simo-tuomisto@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 67,
+   "percentage": 72.8,
+   "author": "simo-tuomisto",
+   "email": "<simo-tuomisto@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 92,
+  "percentage": "100.0"
+ }
+}

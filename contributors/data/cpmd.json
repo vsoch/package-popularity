@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 81,
+   "percentage": 98.8,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 82,
+  "percentage": "100.0"
+ }
+}

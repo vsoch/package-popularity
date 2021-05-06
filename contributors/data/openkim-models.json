@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 37,
+   "percentage": 90.2,
+   "author": "Ryan S. Elliott",
+   "email": "<relliott@umn.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 9.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 41,
+  "percentage": "100.0"
+ }
+}

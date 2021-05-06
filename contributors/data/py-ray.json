@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 1,
+   "percentage": 3.2,
+   "author": "Evili del Rio",
+   "email": "<evili.del.rio@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 30,
+   "percentage": 96.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 31,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 12.5,
+   "author": "bryanherman",
+   "email": "<63422190+bryanherman@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 6.2,
+   "author": "Bryan Herman",
+   "email": "<bryan.herman@unnpp.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 6.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 8,
+   "percentage": 50.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 25.0,
+   "author": "Luigi Calori",
+   "email": "<l.calori@cineca.it>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

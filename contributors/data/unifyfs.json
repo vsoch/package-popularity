@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 85,
+   "percentage": 98.8,
+   "author": "Cameron Stanavige",
+   "email": "<cameronstanavige@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

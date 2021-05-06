@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 14,
+   "percentage": 17.7,
+   "author": "Asher Mancinelli",
+   "email": "<asher.mancinelli@pnnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 12,
+   "percentage": 15.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 37,
+   "percentage": 46.8,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 12.7,
+   "author": "junkudo",
+   "email": "<junkudo18@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Jonathan Wong",
+   "email": "<jonwong12@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "futuretristan",
+   "email": "<tristan.schloegl@fau.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 2.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 79,
+  "percentage": "100.0"
+ }
+}

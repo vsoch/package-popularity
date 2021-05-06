@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 16,
+   "percentage": 43.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 16.2,
+   "author": "Jordan Moxon",
+   "email": "<32072858+moxcodes@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 2.7,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 16.2,
+   "author": "Russell J. Hewett",
+   "email": "<rhewett@vt.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 21.6,
+   "author": "Nils Deppe",
+   "email": "<nd357@cornell.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 37,
+  "percentage": "100.0"
+ }
+}

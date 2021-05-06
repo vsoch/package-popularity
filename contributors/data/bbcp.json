@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 20.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 4,
+   "percentage": 20.0,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 10.0,
+   "author": "James Wynne III",
+   "email": "<wynnejr@ornl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 10,
+   "percentage": 50.0,
+   "author": "Robert D. French",
+   "email": "<frenchrd@ornl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 20,
+  "percentage": "100.0"
+ }
+}

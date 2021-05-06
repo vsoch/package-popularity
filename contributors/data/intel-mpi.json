@@ -1,0 +1,86 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 4,
+   "percentage": 6.2,
+   "author": "William Downs",
+   "email": "<wdowns@g.harvard.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 15,
+   "percentage": 23.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 9,
+   "percentage": 14.1,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "TZ",
+   "email": "<tz-rrze@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 4,
+   "percentage": 6.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 3.1,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Kevin Manalo",
+   "email": "<kmanalo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 13,
+   "percentage": 20.3,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 3.1,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 12,
+   "percentage": 18.8,
+   "author": "Michael Sternberg",
+   "email": "<sternberg@anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Kyle Fernandes, n\u00e9 Jacobs",
+   "email": "<kylefernandes@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 64,
+  "percentage": "100.0"
+ }
+}

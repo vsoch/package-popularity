@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 9,
+   "percentage": 18.0,
+   "author": "Jonathan Maack",
+   "email": "<40000230+jmaack24@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 38,
+   "percentage": 76.0,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 4.0,
+   "author": "junkudo",
+   "email": "<junkudo18@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 50,
+  "percentage": "100.0"
+ }
+}

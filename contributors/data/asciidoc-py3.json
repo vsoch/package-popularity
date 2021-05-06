@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 months ago",
+   "lines": 5,
+   "percentage": 29.4,
+   "author": "lorddavidiii",
+   "email": "<maximillian.bensch@aei.mpg.de>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 12,
+   "percentage": 70.6,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 17,
+  "percentage": "100.0"
+ }
+}

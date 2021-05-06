@@ -1,0 +1,107 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 12,
+   "percentage": 13.2,
+   "author": "Jean-Paul Pelteret",
+   "email": "<jppelteret@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 20,
+   "percentage": 22.0,
+   "author": "vijay kallesh",
+   "email": "<Vijay-teekinavar.Kallesh@amd.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 2,
+   "percentage": 2.2,
+   "author": "rempke",
+   "email": "<56254913+rempke@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 3,
+   "percentage": 3.3,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.2,
+   "author": "Piotr Luszczek",
+   "email": "<luszczek@icl.utk.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 29,
+   "percentage": 31.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 11,
+   "percentage": 12.1,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 2.2,
+   "author": "Kelly (KT) Thompson",
+   "email": "<kgt@lanl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 5,
+   "percentage": 5.5,
+   "author": "Nicolas Richart",
+   "email": "<nicolas.richart@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 91,
+  "percentage": "100.0"
+ }
+}

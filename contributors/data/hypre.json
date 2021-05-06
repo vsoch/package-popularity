@@ -1,0 +1,142 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 4,
+   "percentage": 1.9,
+   "author": "QuellynSnead",
+   "email": "<quellyn@lanl.gov>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 34,
+   "percentage": 15.9,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 17,
+   "percentage": 7.9,
+   "author": "Sergei Shudler",
+   "email": "<shudler1@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 15,
+   "percentage": 7.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 0.9,
+   "author": "David M. Rogers",
+   "email": "<predictivestatmech@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 15,
+   "percentage": 7.0,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 30,
+   "percentage": 14.0,
+   "author": "Sarah Osborn",
+   "email": "<30503782+osborn9@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 19,
+   "percentage": 8.9,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.4,
+   "author": "Tim Fuller",
+   "email": "<tjfulle@sandia.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 4.7,
+   "author": "Christoph Junghans",
+   "email": "<junghans@lanl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 2.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 5.6,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 9,
+   "percentage": 4.2,
+   "author": "Ond\u0159ej \u010cert\u00edk",
+   "email": "<ondrej@certik.us>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 27,
+   "percentage": 12.6,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 0.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "eklee15",
+   "email": "<eunkyung.lee@us.ibm.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 1.9,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 1.9,
+   "author": "Saravan Pantham",
+   "email": "<saravan.pantham@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 214,
+  "percentage": "100.0"
+ }
+}

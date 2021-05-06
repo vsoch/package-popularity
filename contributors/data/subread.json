@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 3,
+   "percentage": 6.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Benoist LAURENT",
+   "email": "<benoist.laurent@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Eric Martin",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 13.6,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 27.3,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 19,
+   "percentage": 43.2,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 44,
+  "percentage": "100.0"
+ }
+}

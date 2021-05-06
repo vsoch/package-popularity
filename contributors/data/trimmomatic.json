@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 6.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "codeandkey",
+   "email": "<jtst@iastate.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Eric Martin",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Eric",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 12.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 23,
+   "percentage": 71.9,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

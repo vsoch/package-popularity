@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 5,
+   "percentage": 41.7,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 8.3,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 50.0,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 12,
+  "percentage": "100.0"
+ }
+}

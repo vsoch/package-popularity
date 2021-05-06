@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 7,
+   "percentage": 21.2,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "0 months ago",
+   "lines": 1,
+   "percentage": 3.0,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 9.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 10,
+   "percentage": 30.3,
+   "author": "Herv\u00e9 Yviquel",
+   "email": "<hyviquel@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 9.1,
+   "author": "Pramod Kumbhar",
+   "email": "<pramod.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 9,
+   "percentage": 27.3,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 33,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 27,
+   "percentage": 49.1,
+   "author": "Rao Garimella",
+   "email": "<rao@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 27,
+   "percentage": 49.1,
+   "author": "Daryl W. Grunau",
+   "email": "<DarylGrunau@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 55,
+  "percentage": "100.0"
+ }
+}

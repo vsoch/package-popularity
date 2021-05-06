@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 10.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 18,
+   "percentage": 38.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 4.3,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.1,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 6.4,
+   "author": "Peter Doak",
+   "email": "<PDoakORNL@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 10.6,
+   "author": "anne-glerum",
+   "email": "<a.c.glerum@uu.nl>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 25.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 2.1,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 47,
+  "percentage": "100.0"
+ }
+}

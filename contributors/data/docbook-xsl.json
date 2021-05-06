@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 9.5,
+   "author": "lorddavidiii",
+   "email": "<maximillian.bensch@aei.mpg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 38.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 23.8,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 5,
+   "percentage": 23.8,
+   "author": "Tom Scogland",
+   "email": "<tscogland@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

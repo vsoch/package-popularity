@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 6,
+   "percentage": 20.0,
+   "author": "David B\u00f6hme",
+   "email": "<boehme3@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 24,
+   "percentage": 80.0,
+   "author": "Matthew LeGendre",
+   "email": "<legendre1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 4.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 6,
+   "percentage": 7.0,
+   "author": "Tom Payerle",
+   "email": "<payerle@umd.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 18,
+   "percentage": 20.9,
+   "author": "Takayuki Kobayashi",
+   "email": "<27466252+irisTa56@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 2.3,
+   "author": "baip",
+   "email": "<baip@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 55,
+   "percentage": 64.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

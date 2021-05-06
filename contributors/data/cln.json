@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 1.7,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 37,
+   "percentage": 62.7,
+   "author": "Jean-Paul Pelteret",
+   "email": "<jppelteret@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 3.4,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 19,
+   "percentage": 32.2,
+   "author": "Matthias Mayr",
+   "email": "<mayrmt@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 59,
+  "percentage": "100.0"
+ }
+}

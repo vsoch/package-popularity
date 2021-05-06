@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 40,
+   "percentage": 80.0,
+   "author": "Teodor Nikolov",
+   "email": "<teodor.nikolov22@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 10,
+   "percentage": 20.0,
+   "author": "Marko Kabic",
+   "email": "<mkmarkokabic@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 50,
+  "percentage": "100.0"
+ }
+}

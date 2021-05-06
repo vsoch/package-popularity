@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 14.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 16,
+   "percentage": 47.1,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 29.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Milton Woods",
+   "email": "<miltonjwoods@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 34,
+  "percentage": "100.0"
+ }
+}

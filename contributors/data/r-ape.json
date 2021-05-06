@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 7,
+   "percentage": 22.6,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 16.1,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 6.5,
+   "author": "Yifan Zhu",
+   "email": "<ifanzhu@foxmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 17,
+   "percentage": 54.8,
+   "author": "Tom Merrick",
+   "email": "<thomas.merrick@tamucc.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 31,
+  "percentage": "100.0"
+ }
+}

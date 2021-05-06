@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 11.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 11,
+   "percentage": 21.6,
+   "author": "Andrew Gaspar",
+   "email": "<agaspar@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 29,
+   "percentage": 56.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 3,
+   "percentage": 5.9,
+   "author": "Kelly (KT) Thompson",
+   "email": "<kgt@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 51,
+  "percentage": "100.0"
+ }
+}

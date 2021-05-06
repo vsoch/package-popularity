@@ -1,0 +1,170 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 22,
+   "percentage": 4.1,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "4 days ago",
+   "lines": 375,
+   "percentage": 70.4,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Valentin Volkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 6,
+   "percentage": 1.1,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Amiya Maji",
+   "email": "<amaji@purdue.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 29,
+   "percentage": 5.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Angel de Vicente",
+   "email": "<angel.de.vicente@iac.es>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "Wouter Deconinck",
+   "email": "<wdconinc@jlab.org>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 7,
+   "percentage": 1.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 6,
+   "percentage": 1.1,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 1.9,
+   "author": "Joseph Ciurej",
+   "email": "<ciurej1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Jonathon Anderson",
+   "email": "<jonathon.anderson@colorado.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Dan Lipsa",
+   "email": "<dan.lipsa@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 13,
+   "percentage": 2.4,
+   "author": "Jim Galarowicz",
+   "email": "<jeg@trenzasynergy.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 1.7,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 0.8,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Milton Woods",
+   "email": "<miltonjwoods@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 25,
+   "percentage": 4.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 1.9,
+   "author": "Mark Olesen",
+   "email": "<Mark.Olesen@gmx.net>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 1.1,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Alfredo Gimenez",
+   "email": "<gimenez1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 533,
+  "percentage": "100.0"
+ }
+}

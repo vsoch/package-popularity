@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 236,
+   "percentage": 98.3,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 1.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 240,
+  "percentage": "100.0"
+ }
+}

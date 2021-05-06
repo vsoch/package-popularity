@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 28.6,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 4,
+   "percentage": 28.6,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 42.9,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 14,
+  "percentage": "100.0"
+ }
+}

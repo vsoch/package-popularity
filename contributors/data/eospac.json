@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 17,
+   "percentage": 27.4,
+   "author": "Gabriel Rockefeller",
+   "email": "<gaber@lanl.gov>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 3,
+   "percentage": 4.8,
+   "author": "Kelly (KT) Thompson",
+   "email": "<KineticTheory@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "ketsubouchi",
+   "email": "<67359246+ketsubouchi@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 11,
+   "percentage": 17.7,
+   "author": "Robert Pavel",
+   "email": "<rspavel@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 25,
+   "percentage": 40.3,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 6.5,
+   "author": "Daniel Topa",
+   "email": "<dantopa@lanl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Daryl W. Grunau",
+   "email": "<DarylGrunau@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 62,
+  "percentage": "100.0"
+ }
+}

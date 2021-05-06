@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 10,
+   "percentage": 33.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 3,
+   "percentage": 10.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 6.7,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 14,
+   "percentage": 46.7,
+   "author": "Mark W. Krentel",
+   "email": "<krentel@rice.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.3,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

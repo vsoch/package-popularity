@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 1,
+   "percentage": 2.2,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 44,
+   "percentage": 97.8,
+   "author": "Amjad Kotobi",
+   "email": "<amjadkotbi@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 45,
+  "percentage": "100.0"
+ }
+}

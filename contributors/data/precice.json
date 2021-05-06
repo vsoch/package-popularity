@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 93,
+   "percentage": 71.5,
+   "author": "Fr\u00e9d\u00e9ric Simonis",
+   "email": "<simonisfrederic@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 7,
+   "percentage": 5.4,
+   "author": "Gerasimos Chourdakis",
+   "email": "<chourdak@in.tum.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 2.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 27,
+   "percentage": 20.8,
+   "author": "Mark Olesen",
+   "email": "<Mark.Olesen@gmx.net>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 130,
+  "percentage": "100.0"
+ }
+}

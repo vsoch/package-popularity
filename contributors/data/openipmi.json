@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 8,
+   "percentage": 36.4,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 14,
+   "percentage": 63.6,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 22,
+  "percentage": "100.0"
+ }
+}

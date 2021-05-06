@@ -1,0 +1,100 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 39,
+   "percentage": 19.3,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 7,
+   "percentage": 3.5,
+   "author": "Martin Aum\u00fcller",
+   "email": "<aumuell@reserv.at>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 3.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 3,
+   "percentage": 1.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 11,
+   "percentage": 5.4,
+   "author": "Tom Payerle",
+   "email": "<payerle@umd.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 35,
+   "percentage": 17.3,
+   "author": "Mark W. Krentel",
+   "email": "<krentel@rice.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 3.0,
+   "author": "Ben Morgan",
+   "email": "<drbenmorgan@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 4.5,
+   "author": "Tim Haines",
+   "email": "<thaines.astro@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 22,
+   "percentage": 10.9,
+   "author": "Chris Green",
+   "email": "<greenc@fnal.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 48,
+   "percentage": 23.8,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 14,
+   "percentage": 6.9,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 202,
+  "percentage": "100.0"
+ }
+}

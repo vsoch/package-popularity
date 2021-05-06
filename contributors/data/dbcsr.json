@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 55,
+   "percentage": 52.4,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 34,
+   "percentage": 32.4,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 14,
+   "percentage": 13.3,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 105,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "Omar Padron",
+   "email": "<omar.padron@kitware.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 66,
+   "percentage": 97.1,
+   "author": "Todd Kordenbrock",
+   "email": "<tkordenbrock@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 68,
+  "percentage": "100.0"
+ }
+}

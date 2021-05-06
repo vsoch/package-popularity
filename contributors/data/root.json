@@ -1,0 +1,100 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 4,
+   "percentage": 0.9,
+   "author": "Dmitri Smirnov",
+   "email": "<dmixsmi@gmail.com>"
+  },
+  {
+   "last_commit": "a week ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "David Hadley",
+   "email": "<davehadley@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 41,
+   "percentage": 8.8,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 39,
+   "percentage": 8.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 9,
+   "percentage": 1.9,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Thomas Madlener",
+   "email": "<thomas.madlener@desy.de>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 141,
+   "percentage": 30.3,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 51,
+   "percentage": 11.0,
+   "author": "Hadrien G",
+   "email": "<knights_of_ni@gmx.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 82,
+   "percentage": 17.6,
+   "author": "Chris Green",
+   "email": "<greenc@fnal.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 1.7,
+   "author": "Patrick Gartung",
+   "email": "<gartung@fnal.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 81,
+   "percentage": 17.4,
+   "author": "Javier Cervantes",
+   "email": "<javiercvilla@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 1.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 465,
+  "percentage": "100.0"
+ }
+}

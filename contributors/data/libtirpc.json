@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 10,
+   "percentage": 45.5,
+   "author": "Tom Payerle",
+   "email": "<payerle@umd.edu>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 4.5,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 9.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 4.5,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 8,
+   "percentage": 36.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 22,
+  "percentage": "100.0"
+ }
+}

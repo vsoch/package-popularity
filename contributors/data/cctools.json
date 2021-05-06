@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 46,
+   "percentage": 51.7,
+   "author": "Benjamin Tovar",
+   "email": "<btovar@nd.edu>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 4,
+   "percentage": 4.5,
+   "author": "ketsubouchi",
+   "email": "<67359246+ketsubouchi@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 6.7,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 32,
+   "percentage": 36.0,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 89,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 233,
+   "percentage": 82.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 12,
+   "percentage": 4.3,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 12,
+   "percentage": 4.3,
+   "author": "kolamsrinivas",
+   "email": "<67026525+kolamsrinivas@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 3,
+   "percentage": 1.1,
+   "author": "Tomoki, Karatsu",
+   "email": "<49965247+t-karatsu@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 4.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 3.2,
+   "author": "Nicolas Richart",
+   "email": "<nicolas.richart@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 282,
+  "percentage": "100.0"
+ }
+}

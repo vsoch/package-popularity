@@ -1,0 +1,93 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 6,
+   "percentage": 3.5,
+   "author": "G-Ragghianti",
+   "email": "<33492707+G-Ragghianti@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 26,
+   "percentage": 15.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.2,
+   "author": "Kelly (KT) Thompson",
+   "email": "<KineticTheory@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 2.4,
+   "author": "Serban Maerean",
+   "email": "<serban@us.ibm.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 64,
+   "percentage": 37.6,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 6,
+   "percentage": 3.5,
+   "author": "jthies",
+   "email": "<jonas.thies@dlr.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 2.4,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 32,
+   "percentage": 18.8,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 16,
+   "percentage": 9.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 1.2,
+   "author": "serbanmaerean",
+   "email": "<serban@us.ibm.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 3,
+   "percentage": 1.8,
+   "author": "Barry Smith",
+   "email": "<bsmith@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 5,
+   "percentage": 2.9,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 170,
+  "percentage": "100.0"
+ }
+}

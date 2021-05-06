@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 8.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 4,
+   "percentage": 4.8,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 47,
+   "percentage": 56.0,
+   "author": "Cameron Smith",
+   "email": "<cwsmith@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Aaron Fisher",
+   "email": "<fisher47@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 23,
+   "percentage": 27.4,
+   "author": "Mark C. Miller",
+   "email": "<miller86@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 84,
+  "percentage": "100.0"
+ }
+}

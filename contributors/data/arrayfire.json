@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 19,
+   "percentage": 35.8,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 33,
+   "percentage": 62.3,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 53,
+  "percentage": "100.0"
+ }
+}

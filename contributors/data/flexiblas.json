@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 9.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 10,
+   "percentage": 90.9,
+   "author": "Christoph Junghans",
+   "email": "<junghans@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 11,
+  "percentage": "100.0"
+ }
+}

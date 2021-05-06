@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 23,
+   "percentage": 92.0,
+   "author": "Bryan Herman",
+   "email": "<bryan.herman@unnpp.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 8.0,
+   "author": "bryanherman",
+   "email": "<63422190+bryanherman@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

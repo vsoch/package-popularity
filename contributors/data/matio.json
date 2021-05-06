@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 7,
+   "percentage": 15.6,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 19,
+   "percentage": 42.2,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 3,
+   "percentage": 6.7,
+   "author": "Jason Sarich",
+   "email": "<sarich@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 14,
+   "percentage": 31.1,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 4.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 45,
+  "percentage": "100.0"
+ }
+}

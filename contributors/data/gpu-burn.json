@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 17,
+   "percentage": 47.2,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 19,
+   "percentage": 52.8,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 36,
+  "percentage": "100.0"
+ }
+}

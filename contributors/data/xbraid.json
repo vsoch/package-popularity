@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 3.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 28,
+   "percentage": 45.9,
+   "author": "Cody Balos",
+   "email": "<balos1@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 30,
+   "percentage": 49.2,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 61,
+  "percentage": "100.0"
+ }
+}

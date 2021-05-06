@@ -1,0 +1,16 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 40,
+   "percentage": 100.0,
+   "author": "Keita Iwabuchi",
+   "email": "<iwabuchi1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 40,
+  "percentage": "100.0"
+ }
+}

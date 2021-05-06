@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 8,
+   "percentage": 13.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 4,
+   "percentage": 6.7,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 48,
+   "percentage": 80.0,
+   "author": "Chris Green",
+   "email": "<greenc@fnal.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 60,
+  "percentage": "100.0"
+ }
+}

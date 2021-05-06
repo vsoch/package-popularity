@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 5.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 34,
+   "percentage": 91.9,
+   "author": "lingnanyuan",
+   "email": "<1297162327@qq.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 37,
+  "percentage": "100.0"
+ }
+}

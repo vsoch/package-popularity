@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 7.1,
+   "author": "h-denpo",
+   "email": "<57649496+h-denpo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 13,
+   "percentage": 92.9,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 14,
+  "percentage": "100.0"
+ }
+}

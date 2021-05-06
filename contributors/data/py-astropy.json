@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 61,
+   "percentage": 82.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 7,
+   "percentage": 9.5,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Paul Hopkins",
+   "email": "<paul.hopkins@ligo.org>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Mike Nolta",
+   "email": "<mike@nolta.net>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 74,
+  "percentage": "100.0"
+ }
+}

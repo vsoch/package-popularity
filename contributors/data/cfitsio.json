@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 11,
+   "percentage": 30.6,
+   "author": "lorddavidiii",
+   "email": "<maximillian.bensch@aei.mpg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.8,
+   "author": "Reinhard Prix",
+   "email": "<reinhard.prix@posteo.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 16,
+   "percentage": 44.4,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 16.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 5.6,
+   "author": "Mike Nolta",
+   "email": "<mike@nolta.net>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 36,
+  "percentage": "100.0"
+ }
+}

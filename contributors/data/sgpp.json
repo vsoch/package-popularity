@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 19,
+   "percentage": 10.2,
+   "author": "Freifrau von Bleifrei",
+   "email": "<freifrauvonbleifrei@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 165,
+   "percentage": 88.7,
+   "author": "Gregor Dai\u00df",
+   "email": "<G-071@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 186,
+  "percentage": "100.0"
+ }
+}

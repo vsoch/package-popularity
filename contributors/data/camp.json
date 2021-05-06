@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 31,
+   "percentage": 70.5,
+   "author": "Danny Taller",
+   "email": "<66029857+dtaller@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 10,
+   "percentage": 22.7,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 4.5,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "David Beckingsale",
+   "email": "<davidbeckingsale@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 44,
+  "percentage": "100.0"
+ }
+}

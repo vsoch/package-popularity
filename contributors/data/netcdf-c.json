@@ -1,0 +1,114 @@
+{
+ "authors": [
+  {
+   "last_commit": "20 hours ago",
+   "lines": 25,
+   "percentage": 12.6,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 1.0,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 19,
+   "percentage": 9.5,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 1.0,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 93,
+   "percentage": 46.7,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.5,
+   "author": "Carson Woods",
+   "email": "<carsonwoods@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 25,
+   "percentage": 12.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.5,
+   "author": "Christoph Junghans",
+   "email": "<junghans@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 11,
+   "percentage": 5.5,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 1.5,
+   "author": "Alberto Chiusole",
+   "email": "<bebosudo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 4,
+   "percentage": 2.0,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 3.0,
+   "author": "Andrey Prokopenko",
+   "email": "<aprokop@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Saravan Pantham",
+   "email": "<saravan.pantham@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "20 hours ago",
+  "lines": 199,
+  "percentage": "100.0"
+ }
+}

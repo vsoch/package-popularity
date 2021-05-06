@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 3,
+   "percentage": 5.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 1.7,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 17,
+   "percentage": 28.3,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 39,
+   "percentage": 65.0,
+   "author": "Hironori-Yamaji",
+   "email": "<52182908+Hironori-Yamaji@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 60,
+  "percentage": "100.0"
+ }
+}

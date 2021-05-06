@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 9.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 18.2,
+   "author": "Levi Baber",
+   "email": "<baber@iastate.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 72.7,
+   "author": "xfzhao",
+   "email": "<xfzhao@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 11,
+  "percentage": "100.0"
+ }
+}

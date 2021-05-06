@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 3,
+   "percentage": 3.5,
+   "author": "Themos Tsikas",
+   "email": "<ThemosTsikas@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 56,
+   "percentage": 65.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 24,
+   "percentage": 28.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 85,
+  "percentage": "100.0"
+ }
+}

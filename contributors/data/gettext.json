@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 3,
+   "percentage": 3.8,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 4,
+   "percentage": 5.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 9.0,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 6.4,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 52,
+   "percentage": 66.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 78,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 11,
+   "percentage": 25.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 9.3,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 18.6,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 23.3,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 18.6,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

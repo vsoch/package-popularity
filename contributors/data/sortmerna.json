@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 25.0,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 12.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 62.5,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 69,
+   "percentage": 89.6,
+   "author": "Mark W. Krentel",
+   "email": "<krentel@rice.edu>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 3.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 3.9,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 77,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 52,
+   "percentage": 19.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 3,
+   "percentage": 1.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 197,
+   "percentage": 74.9,
+   "author": "Jim Galarowicz",
+   "email": "<jeg@krellinst.org>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 3.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Pramod S Kumbhar",
+   "email": "<pramod.r.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 263,
+  "percentage": "100.0"
+ }
+}

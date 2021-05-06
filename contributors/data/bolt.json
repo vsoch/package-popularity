@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 10,
+   "percentage": 33.3,
+   "author": "Shintaro Iwasaki",
+   "email": "<iwasaki@eidos.ic.i.u-tokyo.ac.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 10.0,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 17,
+   "percentage": 56.7,
+   "author": "Ken Raffenetti",
+   "email": "<raffenet@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

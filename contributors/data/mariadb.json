@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 19,
+   "percentage": 36.5,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 9.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 3.8,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 9.6,
+   "author": "Jennifer Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 5.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 15.4,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 15.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "Chris Green",
+   "email": "<greenc@fnal.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 52,
+  "percentage": "100.0"
+ }
+}

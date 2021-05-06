@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 11,
+   "percentage": 9.7,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 61,
+   "percentage": 54.0,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 2,
+   "percentage": 1.8,
+   "author": "yellowhat",
+   "email": "<yellowhat46@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.8,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 30,
+   "percentage": 26.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 5.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 113,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 14,
+   "percentage": 38.9,
+   "author": "Baptiste Jonglez",
+   "email": "<30461003+jonglezb@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 9,
+   "percentage": 25.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.8,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 5.6,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 5.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 4,
+   "percentage": 11.1,
+   "author": "Stephen Herbein",
+   "email": "<SteVwonder@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 11.1,
+   "author": "Tom Scogland",
+   "email": "<tscogland@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 36,
+  "percentage": "100.0"
+ }
+}

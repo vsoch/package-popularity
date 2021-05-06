@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 9,
+   "percentage": 20.9,
+   "author": "Antonio Arena",
+   "email": "<antonio.arena@kaust.edu.sa>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 14,
+   "percentage": 32.6,
+   "author": "Roman Briskine",
+   "email": "<brisk022@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 19,
+   "percentage": 44.2,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

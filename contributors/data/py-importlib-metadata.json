@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 19,
+   "percentage": 90.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Joe Koning",
+   "email": "<koning@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

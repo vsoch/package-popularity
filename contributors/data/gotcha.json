@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 14.3,
+   "author": "h-denpo",
+   "email": "<57649496+h-denpo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Mark W. Krentel",
+   "email": "<krentel@rice.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 28.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 10,
+   "percentage": 47.6,
+   "author": "David Poliakoff",
+   "email": "<poliakoff1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

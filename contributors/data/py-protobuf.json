@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 9.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 6.2,
+   "author": "Tim Moon",
+   "email": "<moon13@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 7.8,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 23,
+   "percentage": 35.9,
+   "author": "Dominik Dold",
+   "email": "<34650920+dodo47@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 10.9,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 10,
+   "percentage": 15.6,
+   "author": "mcneish1",
+   "email": "<35310375+mcneish1@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 12.5,
+   "author": "mwilliammyers",
+   "email": "<mwilliammyers@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 64,
+  "percentage": "100.0"
+ }
+}

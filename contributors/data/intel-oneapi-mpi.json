@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 6,
+   "percentage": 10.5,
+   "author": "Vasily Danilin",
+   "email": "<vasily.danilin@intel.com>"
+  },
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 38,
+   "percentage": 66.7,
+   "author": "Robert Cohn",
+   "email": "<rscohn2@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 6,
+   "percentage": 10.5,
+   "author": "Stephen Sachs",
+   "email": "<stephenmsachs@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 7,
+   "percentage": 12.3,
+   "author": "Frank Willmore",
+   "email": "<frankwillmore@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 57,
+  "percentage": "100.0"
+ }
+}

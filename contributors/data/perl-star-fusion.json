@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 28.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.8,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 14,
+   "percentage": 66.7,
+   "author": "Douglas Duckworth",
+   "email": "<quackmaster@protonmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

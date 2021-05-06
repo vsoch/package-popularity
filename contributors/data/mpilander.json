@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 3.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 6.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 27,
+   "percentage": 90.0,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

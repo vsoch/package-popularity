@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 6,
+   "percentage": 30.0,
+   "author": "Vasily Danilin",
+   "email": "<vasily.danilin@intel.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 14,
+   "percentage": 70.0,
+   "author": "Robert Cohn",
+   "email": "<rscohn2@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 20,
+  "percentage": "100.0"
+ }
+}

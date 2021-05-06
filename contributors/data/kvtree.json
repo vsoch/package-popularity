@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 4,
+   "percentage": 12.9,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a week ago",
+   "lines": 1,
+   "percentage": 3.2,
+   "author": "Frank Willmore",
+   "email": "<frankwillmore@gmail.com>"
+  },
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 6,
+   "percentage": 19.4,
+   "author": "Cameron Stanavige",
+   "email": "<stanavige1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 17,
+   "percentage": 54.8,
+   "author": "Elsa Gonsiorowski, PhD",
+   "email": "<gonsie@me.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 9.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 31,
+  "percentage": "100.0"
+ }
+}

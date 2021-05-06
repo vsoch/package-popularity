@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "Desmond Orton",
+   "email": "<odesmond21@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 48,
+   "percentage": 71.6,
+   "author": "Nick Booher",
+   "email": "<njbooher@iastate.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 18,
+   "percentage": 26.9,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 67,
+  "percentage": "100.0"
+ }
+}

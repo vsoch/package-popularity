@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 27,
+   "percentage": 71.1,
+   "author": "Baptiste Jonglez",
+   "email": "<30461003+jonglezb@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 7.9,
+   "author": "Ross Miller",
+   "email": "<rgmiller@ornl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 21.1,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

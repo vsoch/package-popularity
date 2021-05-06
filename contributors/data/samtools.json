@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 25,
+   "percentage": 43.1,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 12.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 10.3,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.7,
+   "author": "Eric Martin",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 10.3,
+   "author": "\u5065\u7f8e\u731e\u7301",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 3.4,
+   "author": "Carlos Bederi\u00e1n",
+   "email": "<zzzoom@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 13.8,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 3,
+   "percentage": 5.2,
+   "author": "Mario Melara",
+   "email": "<maamelara@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 58,
+  "percentage": "100.0"
+ }
+}

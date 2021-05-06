@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 4.8,
+   "author": "Valentin Volkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 67,
+   "percentage": 63.8,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "Andre Sailer",
+   "email": "<andre.philippe.sailer@cern.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 29,
+   "percentage": 27.6,
+   "author": "Hadrien G",
+   "email": "<knights_of_ni@gmx.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.9,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 105,
+  "percentage": "100.0"
+ }
+}

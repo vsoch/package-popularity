@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 9.1,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 9.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 36.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 5,
+   "percentage": 45.5,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 11,
+  "percentage": "100.0"
+ }
+}

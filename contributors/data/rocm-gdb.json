@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 8,
+   "percentage": 15.4,
+   "author": "Sreenivasa Murthy Kolam",
+   "email": "<67086238+srekolam@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 7.7,
+   "author": "arjun-raj-kuppala",
+   "email": "<60718144+arjun-raj-kuppala@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 40,
+   "percentage": 76.9,
+   "author": "srekolam",
+   "email": "<67086238+srekolam@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 52,
+  "percentage": "100.0"
+ }
+}

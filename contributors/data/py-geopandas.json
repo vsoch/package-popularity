@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 20,
+   "percentage": 66.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 10,
+   "percentage": 33.3,
+   "author": "Neil Flood",
+   "email": "<neilflood@fastmail.fm>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "5 days ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 13,
+   "percentage": 19.4,
+   "author": "Evan Bollig",
+   "email": "<ebbollig@amazon.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 5,
+   "percentage": 7.5,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 26,
+   "percentage": 38.8,
+   "author": "Douglas Duckworth",
+   "email": "<quackmaster@protonmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 7.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 17,
+   "percentage": 25.4,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "5 days ago",
+  "lines": 67,
+  "percentage": "100.0"
+ }
+}

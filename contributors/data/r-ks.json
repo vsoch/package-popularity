@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 14,
+   "percentage": 60.9,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 39.1,
+   "author": "Mike Pozulp",
+   "email": "<mmpozulp@email.wm.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

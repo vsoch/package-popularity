@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 5.0,
+   "author": "kkauder",
+   "email": "<kkauder@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 17,
+   "percentage": 85.0,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 10.0,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 20,
+  "percentage": "100.0"
+ }
+}

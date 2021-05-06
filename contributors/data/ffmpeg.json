@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 9,
+   "percentage": 5.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 67,
+   "percentage": 42.4,
+   "author": "Joseph Ciurej",
+   "email": "<ciurej1@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 5,
+   "percentage": 3.2,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 65,
+   "percentage": 41.1,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Sean McGrath",
+   "email": "<smcgrat@tcd.ie>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 8,
+   "percentage": 5.1,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 158,
+  "percentage": "100.0"
+ }
+}

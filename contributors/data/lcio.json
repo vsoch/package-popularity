@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 5.9,
+   "author": "Thomas Madlener",
+   "email": "<thomas.madlener@desy.de>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 63,
+   "percentage": 74.1,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 17,
+   "percentage": 20.0,
+   "author": "Andre Sailer",
+   "email": "<andre.philippe.sailer@cern.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 85,
+  "percentage": "100.0"
+ }
+}

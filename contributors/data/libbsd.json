@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 5,
+   "percentage": 13.9,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 10,
+   "percentage": 27.8,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 11.1,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 5.6,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 7,
+   "percentage": 19.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 8,
+   "percentage": 22.2,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 36,
+  "percentage": "100.0"
+ }
+}

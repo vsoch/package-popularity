@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 11,
+   "percentage": 44.0,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "vijay kallesh",
+   "email": "<Vijay-teekinavar.Kallesh@amd.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "yellowhat",
+   "email": "<yellowhat46@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 11,
+   "percentage": 44.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

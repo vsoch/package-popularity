@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 82,
+   "percentage": 97.6,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 84,
+  "percentage": "100.0"
+ }
+}

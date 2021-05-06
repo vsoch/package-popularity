@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 5.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 15,
+   "percentage": 21.7,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Nick Robison",
+   "email": "<nicholas.a.robison@omb.eop.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 4.3,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 45,
+   "percentage": 65.2,
+   "author": "Matthias Wolf",
+   "email": "<m+git@sushinara.net>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 69,
+  "percentage": "100.0"
+ }
+}

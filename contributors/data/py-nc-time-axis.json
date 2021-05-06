@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 10.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 90.0,
+   "author": "Milton Woods",
+   "email": "<miltonjwoods@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 10,
+  "percentage": "100.0"
+ }
+}

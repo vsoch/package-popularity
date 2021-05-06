@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 83,
+   "percentage": 40.3,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 45,
+   "percentage": 21.8,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 14,
+   "percentage": 6.8,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 12,
+   "percentage": 5.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 4.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 1.9,
+   "author": "t-karatsu",
+   "email": "<49965247+t-karatsu@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 38,
+   "percentage": 18.4,
+   "author": "William F Godoy",
+   "email": "<williamfgc@yahoo.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 206,
+  "percentage": "100.0"
+ }
+}

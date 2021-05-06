@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 4,
+   "percentage": 5.6,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 67,
+   "percentage": 94.4,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 71,
+  "percentage": "100.0"
+ }
+}

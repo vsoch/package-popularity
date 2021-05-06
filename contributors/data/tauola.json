@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 24,
+   "percentage": 70.6,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 10,
+   "percentage": 29.4,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 34,
+  "percentage": "100.0"
+ }
+}

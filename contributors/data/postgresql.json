@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 7.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 4,
+   "percentage": 4.2,
+   "author": "TAKAHASHI Shuuji",
+   "email": "<shuuji3@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 16,
+   "percentage": 16.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 59,
+   "percentage": 61.5,
+   "author": "Chris Green",
+   "email": "<greenc@fnal.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 6,
+   "percentage": 6.2,
+   "author": "Diana Bite",
+   "email": "<diana.bite@arm.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 4,
+   "percentage": 4.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 96,
+  "percentage": "100.0"
+ }
+}

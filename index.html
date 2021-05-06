@@ -2,243 +2,57 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
      <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
-    <script src="https://unpkg.com/chartist-plugin-tooltips@0.0.17"></script>
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <style>
-  .ct-series-a .ct-bar {
-  stroke: darkblue;
-  stroke-width: 20px;
-}
 body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 p {
   font-weight: 300;
 }
-
-.chart {
-  padding-top:10px;
-  padding-bottom:10px;
-}
-.chartist-tooltip {
-  display: inline-block;
-  opacity: 0;
-  min-width: 5em;
-  padding: .3em;
-  background: #F4C63D;
-  color: #453D3F;
-  font-family: Oxygen,Helvetica,Arial,sans-serif;
-  font-weight: 700;
+.card {
+  min-height:200px;
   text-align: center;
-  pointer-events: none;
-  z-index: 1;
-  -webkit-transition: opacity .2s linear;
-  -moz-transition: opacity .2s linear;
-  -o-transition: opacity .2s linear;
-  transition: opacity .2s linear; }
-  .chartist-tooltip:before {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    width: 0;
-    height: 0;
-    margin-left: -15px;
-    border: 15px solid transparent;
-    border-top-color: #F4C63D; }
-  .chartist-tooltip.tooltip-show {
-    opacity: 1; }
+  margin:10px;
+  cursor: pointer;
+}
 
-.ct-area, .ct-line {
-  pointer-events: none; }
+.card:hover {
+  background-color: darkblue;
 
+}
   </style>
   </head>
   <body>
-<div class="container" style="padding-top:20px">
+<div class="container" style="padding-top:300px">
+<div class="row">
+    <div class="col-md-12">
 <h1>Spack Package Popularity! 🎉️</h1>
-<p>Which Spack packages are most popular? And how do we measure popularity? If we can claim
-that more popular packages get more issues, and then updates (pull requests), we can use commits over time as a metric of usage, and popularity. The above charts are generated via <a href="https://github.com/vsoch/package-popularity">this repository</a> and will show the most popular 25 packages of all, and then the most popular packages per year. What do you see? 🤔️</p>
-<br>
-<h2>Top 25 Packages by Commits over all time</h2>
-<div class="top25 chart"></div>
-<h2>Top 25 Packages by commits for 2013</h2>
-<div class="top25_2013 chart"></div>
-<h2>Top 25 Packages by commits for 2014</h2>
-<div class="top25_2014 chart"></div>
-<h2>Top 25 Packages by commits for 2015</h2>
-<div class="top25_2015 chart"></div>
-<h2>Top 25 Packages by commits for 2016</h2>
-<div class="top25_2016 chart"></div>
-<h2>Top 25 Packages by commits for 2017</h2>
-<div class="top25_2017 chart"></div>
-<h2>Top 25 Packages by commits for 2018</h2>
-<div class="top25_2018 chart"></div>
-<h2>Top 25 Packages by commits for 2019</h2>
-<div class="top25_2019 chart"></div>
-<h2>Top 25 Packages by commits for 2020</h2>
-<div class="top25_2020 chart"></div>
-<h2>Top 25 Packages by commits for 2021</h2>
-<div class="top25_2021 chart"></div>
-
-</div><script src="https://code.jquery.com/jquery-3.6.0.slim.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+<p>Which Spack packages are most popular? For this small project we will use the data and code available at <a href="https://github.com/vsoch/package-popularity">this repository</a> to assess different metrics of package popularity:</p>
+    </div>
+</div>
+<div class="row">
+   <div data-url="commits/" class="col-md-2 card">
+      <a style="margin:auto" href="commits/">Commits</a>   
+   </div>
+   <div data-url="contributors/" class="col-md-2 card">    
+      <a style="margin:auto" href="contributors/">Contributors</a>   
+   </div>
+</div>
+<div class="row" style="padding-top:20px">
+    <div class="col-md-12">
+    <p class="alert alert-info">More metrics coming soon!</p>
+    </div>
+</div>
+</div>
   <script>
-
-var datatop25 = {
-  labels: ['trilinos', 'python', 'openmpi', 'cmake', 'qt', 'dealii', 'gcc', 'llvm', 'petsc', 'llvm-doe', 'boost', 'hdf5', 'openblas', 'mpich', 'openssl', 'paraview', 'py-numpy', 'mvapich2', 'py-matplotlib', 'r', 'go', 'gromacs', 'intel-parallel-studio', 'git', 'opencv'],
-  series: [
-    [180, 173, 165, 146, 143, 141, 141, 135, 135, 126, 121, 113, 110, 108, 88, 88, 88, 87, 86, 84, 77, 77, 75, 72, 72]
-  ]
-};
-
-var options = {
-  high: 180,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25', datatop25, options);
-
-var datatop25_2013 = {
-  labels: ['pmgr-collective', 'r-backports', 'r-futile-logger', 'libdwarf', 'colordiff', 'llvm', 'masurca', 'llvm-doe', 'iozone', 'r-rstudioapi', 'subversion', 'mpfr', 'r-registry', 'py-qtconsole', 'likwid', 'r-expm', 'py-packaging', 'qt-creator', 'py-appdirs', 'raft', 'r-rpart-plot', 'qwt', 'r-rsolnp', 'coinhsl', 'pxz'],
-  series: [
-    [14, 14, 14, 13, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
-  ]
-};
-
-var options = {
-  high: 14,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2013', datatop25_2013, options);
-
-var datatop25_2014 = {
-  labels: ['stat', 'launchmon', 'spindle', 'swig', 'callpath', 'mrnet', 'libmonitor', 'tethex', 'automaded', 'cmake', 'mpich', 'dyninst', 'gperftools', 'likwid', 'llvm', 'pmgr-collective', 'llvm-doe', 'libelf', 'scr', 'libdwarf', 'gcc', 'meson', 'sqlite', 'r-rstudioapi', 'py-flake8-polyfill'],
-  series: [
-    [17, 14, 12, 11, 10, 10, 10, 10, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 7, 7]
-  ]
-};
-
-var options = {
-  high: 17,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2014', datatop25_2014, options);
-
-var datatop25_2015 = {
-  labels: ['python', 'qt', 'netlib-lapack', 'py-matplotlib', 'gcc', 'binutils', 'mvapich2', 'atlas', 'py-pyside', 'corset', 'hdf5', 'c-ares', 'xtensor', 'mitos', 'sratoolkit', 'vim', 'at-spi2-atk', 'vegas2', 'cppgsl', 'vmatch', 'py-methylcode', 'opencoarrays', 'icet', 'xsimd', 'llvm'],
-  series: [
-    [19, 12, 11, 10, 10, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 7]
-  ]
-};
-
-var options = {
-  high: 19,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2015', datatop25_2015, options);
-
-var datatop25_2016 = {
-  labels: ['trilinos', 'dealii', 'qt', 'python', 'openmpi', 'hdf5', 'petsc', 'openssl', 'mpich', 'opencv', 'openblas', 'cmake', 'mumps', 'boost', 'netlib-scalapack', 'netcdf-c', 'gcc', 'intel-parallel-studio', 'py-matplotlib', 'scotch', 'r', 'quantum-espresso', 'mvapich2', 'q-e-sirius', 'arpack-ng'],
-  series: [
-    [67, 50, 43, 42, 35, 33, 30, 27, 27, 27, 26, 24, 22, 22, 21, 21, 20, 19, 18, 18, 18, 17, 17, 17, 17]
-  ]
-};
-
-var options = {
-  high: 67,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2016', datatop25_2016, options);
-
-var datatop25_2017 = {
-  labels: ['trilinos', 'openmpi', 'dealii', 'boost', 'openblas', 'r', 'hdf5', 'gcc', 'petsc', 'llvm', 'intel-parallel-studio', 'llvm-doe', 'perl', 'python', 'intel-mkl', 'qt', 'mvapich2', 'adios', 'ncurses', 'elemental', 'hydrogen', 'openssl', 'go', 'opencv', 'zlib'],
-  series: [
-    [40, 32, 31, 30, 29, 26, 25, 25, 24, 22, 22, 22, 22, 22, 20, 19, 19, 19, 18, 18, 18, 17, 17, 17, 16]
-  ]
-};
-
-var options = {
-  high: 40,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2017', datatop25_2017, options);
-
-var datatop25_2018 = {
-  labels: ['openmpi', 'petsc', 'trilinos', 'dealii', 'python', 'cmake', 'boost', 'llvm', 'llvm-doe', 'gcc', 'openspeedshop', 'cbtf-krell', 'glib', 'vtk', 'git', 'xsdk', 'mfem', 'superlu-dist', 'charmpp', 'openfoam', 'lbann', 'openblas', 'intel-parallel-studio', 'hypre', 'gdal'],
-  series: [
-    [28, 25, 25, 24, 22, 21, 19, 17, 17, 17, 16, 16, 16, 15, 15, 15, 15, 15, 14, 14, 14, 13, 13, 13, 13]
-  ]
-};
-
-var options = {
-  high: 28,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2018', datatop25_2018, options);
-
-var datatop25_2019 = {
-  labels: ['cmake', 'llvm', 'llvm-doe', 'python', 'qt', 'petsc', 'openmpi', 'root', 'paraview', 'dealii', 'boost', 'py-numpy', 'hypre', 'jdk', 'trilinos', 'gcc', 'vtk', 'qmcpack', 'openfoam', 'gromacs', 'libfabric', 'go', 'openpmd-api', 'r', 'adios2'],
-  series: [
-    [30, 23, 23, 23, 22, 22, 19, 19, 18, 18, 18, 17, 17, 16, 16, 16, 15, 15, 15, 15, 14, 14, 14, 14, 13]
-  ]
-};
-
-var options = {
-  high: 30,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2019', datatop25_2019, options);
-
-var datatop25_2020 = {
-  labels: ['python', 'cmake', 'acts', 'py-torch', 'gcc', 'qt', 'openmpi', 'trilinos', 'llvm', 'llvm-doe', 'root', 'petsc', 'gromacs', 'hip', 'openblas', 'py-numpy', 'py-tensorflow', 'boost', 'py-matplotlib', 'suite-sparse', 'cuda', 'openfoam', 'mpich', 'amrex', 'paraview'],
-  series: [
-    [37, 30, 30, 30, 29, 25, 25, 24, 23, 23, 23, 22, 21, 20, 20, 19, 19, 19, 17, 17, 17, 17, 17, 17, 16]
-  ]
-};
-
-var options = {
-  high: 37,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2020', datatop25_2020, options);
-
-var datatop25_2021 = {
-  labels: ['amrex', 'lbann', 'hdf5', 'paraview', 'llvm', 'gromacs', 'openmpi', 'intel-oneapi-mpi', 'cmake', 'intel-oneapi-compilers', 'mesa', 'intel-oneapi-mkl', 'openblas', 'gcc', 'hip', 'py-numpy', 'py-h5py', 'git', 'dihydrogen', 'warpx', 'petsc', 'root', 'hydrogen', 'llvm-amdgpu', 'reframe'],
-  series: [
-    [16, 16, 15, 14, 14, 14, 12, 12, 11, 11, 10, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 7, 7]
-  ]
-};
-
-var options = {
-  high: 16,
-  low: 0,
-  plugins: [Chartist.plugins.tooltip({})]
-};
-
-new Chartist.Bar('.top25_2021', datatop25_2021, options);
-
-</script>
+    $(".card").click(function(){
+       url=$(this).attr("data-url")
+       document.location=url    
+    })
+  </script>
   </body>
 </html>

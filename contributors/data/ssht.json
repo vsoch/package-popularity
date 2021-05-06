@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 18,
+   "percentage": 85.7,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 14.3,
+   "author": "Jordan Moxon",
+   "email": "<32072858+moxcodes@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 21,
+  "percentage": "100.0"
+ }
+}

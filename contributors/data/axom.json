@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 300,
+   "percentage": 99.3,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 302,
+  "percentage": "100.0"
+ }
+}

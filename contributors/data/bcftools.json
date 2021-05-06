@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 52,
+   "percentage": 66.7,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 7.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 5.1,
+   "author": "Ricardo Silva",
+   "email": "<ricardo.d.silva@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 7,
+   "percentage": 9.0,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 3,
+   "percentage": 3.8,
+   "author": "Carlos Bederi\u00e1n",
+   "email": "<zzzoom@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 78,
+  "percentage": "100.0"
+ }
+}

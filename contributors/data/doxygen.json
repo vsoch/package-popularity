@@ -1,0 +1,128 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 19,
+   "percentage": 26.0,
+   "author": "Robert Underwood",
+   "email": "<robertu94@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 5,
+   "percentage": 6.8,
+   "author": "Kelly (KT) Thompson",
+   "email": "<KineticTheory@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 6.8,
+   "author": "Ryan Pepper",
+   "email": "<rp20g15@soton.ac.uk>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 4.1,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 12.3,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 8,
+   "percentage": 11.0,
+   "author": "Chad Wood",
+   "email": "<cdw@cs.uoregon.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 4.1,
+   "author": "Jannek Squar",
+   "email": "<squar@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "George Zagaris",
+   "email": "<george.zagaris@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 3,
+   "percentage": 4.1,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 5.5,
+   "author": "Justin Too",
+   "email": "<justin@doubleotoo.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 73,
+  "percentage": "100.0"
+ }
+}

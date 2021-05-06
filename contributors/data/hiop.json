@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 108,
+   "percentage": 83.7,
+   "author": "Asher Mancinelli",
+   "email": "<ashermancinelli@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 19,
+   "percentage": 14.7,
+   "author": "junkudo",
+   "email": "<junkudo18@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 129,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "5 days ago",
+   "lines": 60,
+   "percentage": 80.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Robert Underwood",
+   "email": "<robertu94@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 8.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 2.7,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Levi Baber",
+   "email": "<baber@iastate.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Leonhard Reichenbach",
+   "email": "<Zehvogel@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "5 days ago",
+  "lines": 75,
+  "percentage": "100.0"
+ }
+}

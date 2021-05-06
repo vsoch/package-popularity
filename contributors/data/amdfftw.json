@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 45,
+   "percentage": 37.5,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 75,
+   "percentage": 62.5,
+   "author": "vijay kallesh",
+   "email": "<Vijay-teekinavar.Kallesh@amd.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 120,
+  "percentage": "100.0"
+ }
+}

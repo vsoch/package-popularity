@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "5 days ago",
+   "lines": 18,
+   "percentage": 75.0,
+   "author": "Sreenivasa Murthy Kolam",
+   "email": "<67086238+srekolam@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 6,
+   "percentage": 25.0,
+   "author": "arjun-raj-kuppala",
+   "email": "<60718144+arjun-raj-kuppala@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "5 days ago",
+  "lines": 24,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 24,
+   "percentage": 27.9,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 10,
+   "percentage": 11.6,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Anton Kozhevnikov",
+   "email": "<toxa81@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 11,
+   "percentage": 12.8,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tm@dev-zero.ch>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 2.3,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 9.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.3,
+   "author": "Simon Pintarelli",
+   "email": "<1237199+simonpintarelli@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 23,
+   "percentage": 26.7,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 4.7,
+   "author": "Michael Sternberg",
+   "email": "<sternberg@anl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

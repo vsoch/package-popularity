@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "22 hours ago",
+   "lines": 27,
+   "percentage": 10.0,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 16,
+   "percentage": 5.9,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 6,
+   "percentage": 2.2,
+   "author": "Danny Taller",
+   "email": "<66029857+dtaller@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 162,
+   "percentage": 60.2,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 34,
+   "percentage": 12.6,
+   "author": "David Beckingsale",
+   "email": "<davidbeckingsale@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 5,
+   "percentage": 1.9,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 1.1,
+   "author": "Adrien Bernede",
+   "email": "<51493078+adrienbernede@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 3,
+   "percentage": 1.1,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 3.3,
+   "author": "Robert Blake",
+   "email": "<blake14@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 1.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "22 hours ago",
+  "lines": 269,
+  "percentage": "100.0"
+ }
+}

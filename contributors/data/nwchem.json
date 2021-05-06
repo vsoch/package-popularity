@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 4.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 28,
+   "percentage": 23.7,
+   "author": "Edoardo Apr\u00e0",
+   "email": "<edoardo.apra@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 5.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 79,
+   "percentage": 66.9,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 118,
+  "percentage": "100.0"
+ }
+}

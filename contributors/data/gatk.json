@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 1.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 40,
+   "percentage": 34.8,
+   "author": "dunatotatos",
+   "email": "<contact@dunatotatos.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 4,
+   "percentage": 3.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 63,
+   "percentage": 54.8,
+   "author": "zschulte",
+   "email": "<schulte.zach@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 5,
+   "percentage": 4.3,
+   "author": "David Orman",
+   "email": "<orman@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 115,
+  "percentage": "100.0"
+ }
+}

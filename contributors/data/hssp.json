@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 10,
+   "percentage": 30.3,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 9,
+   "percentage": 27.3,
+   "author": "Harsh Bhatia",
+   "email": "<bhatia4@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 14,
+   "percentage": 42.4,
+   "author": "asmaahassan90",
+   "email": "<31959389+asmaahassan90@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 33,
+  "percentage": "100.0"
+ }
+}

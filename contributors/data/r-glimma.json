@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 10,
+   "percentage": 35.7,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 42.9,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 21.4,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 28,
+  "percentage": "100.0"
+ }
+}

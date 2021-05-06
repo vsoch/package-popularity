@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 111,
+   "percentage": 77.6,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 1.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 3.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 4.2,
+   "author": "Corey McNeish",
+   "email": "<35310375+mcneish1@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 18,
+   "percentage": 12.6,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.7,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 143,
+  "percentage": "100.0"
+ }
+}

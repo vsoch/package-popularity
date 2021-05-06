@@ -1,0 +1,100 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 50,
+   "percentage": 9.5,
+   "author": "Luca Heltai",
+   "email": "<luca.heltai@sissa.it>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 17,
+   "percentage": 3.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 258,
+   "percentage": 49.0,
+   "author": "Jean-Paul Pelteret",
+   "email": "<jppelteret@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 10,
+   "percentage": 1.9,
+   "author": "David M. Rogers",
+   "email": "<predictivestatmech@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Mathias Anselmann",
+   "email": "<mathias.anselmann@posteo.de>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "Hector Martinez-Seara",
+   "email": "<hseara@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "Alexander Knieps",
+   "email": "<alexanderrobom@web.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 1.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 173,
+   "percentage": 32.9,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 0.8,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "BenBrands",
+   "email": "<benjamin.brands@fau.de>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Bruno Turcksin",
+   "email": "<bruno.turcksin@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 526,
+  "percentage": "100.0"
+ }
+}

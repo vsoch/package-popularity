@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 9.6,
+   "author": "tilne",
+   "email": "<55806862+tilne@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 3,
+   "percentage": 5.8,
+   "author": "rexcsn",
+   "email": "<23195731+rexcsn@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 17,
+   "percentage": 32.7,
+   "author": "Enrico Usai",
+   "email": "<10634438+enrico-usai@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "ddeidda",
+   "email": "<53186409+ddeidda@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "Luca Carrogu",
+   "email": "<carrogu@amazon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 24,
+   "percentage": 46.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.9,
+   "author": "Sean Smith",
+   "email": "<seaam@amazon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 52,
+  "percentage": "100.0"
+ }
+}

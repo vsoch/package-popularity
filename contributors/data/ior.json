@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 4.7,
+   "author": "Alberto Chiusole",
+   "email": "<1922124+bebosudo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 4.7,
+   "author": "Nikolay Simakov",
+   "email": "<nikolays@buffalo.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 4.7,
+   "author": "Kevin Manalo",
+   "email": "<kmanalo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 11.6,
+   "author": "Michael Kuhn",
+   "email": "<michael@ikkoku.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Rob Latham",
+   "email": "<rlatham@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 14,
+   "percentage": 32.6,
+   "author": "Pramod S Kumbhar",
+   "email": "<pramod.r.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 4.7,
+   "author": "Federico Padua",
+   "email": "<padua@uni-mainz.de>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 14,
+   "percentage": 32.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

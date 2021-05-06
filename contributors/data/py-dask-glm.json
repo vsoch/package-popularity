@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 22,
+   "percentage": 62.9,
+   "author": "a-saitoh-fj",
+   "email": "<63334055+a-saitoh-fj@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 13,
+   "percentage": 37.1,
+   "author": "Tomoki, Karatsu",
+   "email": "<49965247+t-karatsu@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 35,
+  "percentage": "100.0"
+ }
+}

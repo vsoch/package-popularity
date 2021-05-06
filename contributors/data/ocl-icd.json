@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 22,
+   "percentage": 52.4,
+   "author": "lorddavidiii",
+   "email": "<maximillian.bensch@aei.mpg.de>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 20,
+   "percentage": 47.6,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 42,
+  "percentage": "100.0"
+ }
+}

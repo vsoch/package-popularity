@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 14,
+   "percentage": 32.6,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 28,
+   "percentage": 65.1,
+   "author": "Antonio Arena",
+   "email": "<antonio.arena@kaust.edu.sa>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Dan Lipsa",
+   "email": "<dan.lipsa@kitware.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 12.0,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Howard Pritchard",
+   "email": "<howardp@lanl.gov>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 20,
+   "percentage": 80.0,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

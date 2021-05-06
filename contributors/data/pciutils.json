@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 13,
+   "percentage": 72.2,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 5,
+   "percentage": 27.8,
+   "author": "arjun-raj-kuppala",
+   "email": "<60718144+arjun-raj-kuppala@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 18,
+  "percentage": "100.0"
+ }
+}

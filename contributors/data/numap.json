@@ -1,0 +1,16 @@
+{
+ "authors": [
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 100.0,
+   "author": "Fran\u00e7ois Trahay",
+   "email": "<francois.trahay@telecom-sudparis.eu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 10,
+  "percentage": "100.0"
+ }
+}

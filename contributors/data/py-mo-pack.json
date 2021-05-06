@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 2,
+   "percentage": 16.7,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 10,
+   "percentage": 83.3,
+   "author": "Milton Woods",
+   "email": "<miltonjwoods@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 12,
+  "percentage": "100.0"
+ }
+}

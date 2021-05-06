@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 2,
+   "percentage": 1.8,
+   "author": "lpoirel",
+   "email": "<louis.poirel@michelin.com>"
+  },
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 21,
+   "percentage": 18.8,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 28,
+   "percentage": 25.0,
+   "author": "ilbiondo",
+   "email": "<61497728+ilbiondo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 2.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 58,
+   "percentage": 51.8,
+   "author": "simo-tuomisto",
+   "email": "<simo-tuomisto@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 112,
+  "percentage": "100.0"
+ }
+}

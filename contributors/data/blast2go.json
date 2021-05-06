@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 4,
+   "percentage": 11.4,
+   "author": "h-denpo",
+   "email": "<57649496+h-denpo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 31,
+   "percentage": 88.6,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 35,
+  "percentage": "100.0"
+ }
+}

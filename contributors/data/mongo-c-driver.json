@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 7,
+   "percentage": 6.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 99,
+   "percentage": 90.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 2.8,
+   "author": "Andrea Negri",
+   "email": "<andrea.negri@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 109,
+  "percentage": "100.0"
+ }
+}

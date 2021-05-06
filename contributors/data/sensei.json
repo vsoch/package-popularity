@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 50,
+   "percentage": 51.0,
+   "author": "Dan Lipsa",
+   "email": "<dan.lipsa@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 48,
+   "percentage": 49.0,
+   "author": "Sergei Shudler",
+   "email": "<sergshu@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 98,
+  "percentage": "100.0"
+ }
+}

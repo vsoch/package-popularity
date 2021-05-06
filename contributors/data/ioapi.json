@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 3.7,
+   "author": "Hao Lyu",
+   "email": "<20434183+IncubatorShokuhou@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 11.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 23,
+   "percentage": 85.2,
+   "author": "Pariksheet Nanda",
+   "email": "<pariksheet.nanda@uconn.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 27,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 4,
+   "percentage": 25.0,
+   "author": "Valentin Volkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 12,
+   "percentage": 75.0,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

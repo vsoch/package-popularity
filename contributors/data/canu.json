@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 3.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 3.8,
+   "author": "Levi Baber",
+   "email": "<baber@iastate.edu>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 3,
+   "percentage": 11.5,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 7.7,
+   "author": "Eric Martin",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 11.5,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 3.8,
+   "author": "DDevHan",
+   "email": "<danhan@iastate.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 14,
+   "percentage": 53.8,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 26,
+  "percentage": "100.0"
+ }
+}

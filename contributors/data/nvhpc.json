@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 16,
+   "percentage": 12.7,
+   "author": "Filippo Spiga",
+   "email": "<spiga.filippo@gmail.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 110,
+   "percentage": 87.3,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 126,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 26,
+   "percentage": 83.9,
+   "author": "Olivier Cessenat",
+   "email": "<cessenat@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 6.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 3,
+   "percentage": 9.7,
+   "author": "Tom Scogland",
+   "email": "<tscogland@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 31,
+  "percentage": "100.0"
+ }
+}

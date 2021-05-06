@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 days ago",
+   "lines": 4,
+   "percentage": 17.4,
+   "author": "Hang Yan",
+   "email": "<iyanhang@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "h-denpo",
+   "email": "<57649496+h-denpo@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 17,
+   "percentage": 73.9,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 days ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

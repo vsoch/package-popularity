@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 236,
+   "percentage": 97.5,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 0.8,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 0.4,
+   "author": "Matt Larsen",
+   "email": "<mclarsen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 1.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 242,
+  "percentage": "100.0"
+ }
+}

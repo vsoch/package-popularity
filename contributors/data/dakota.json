@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 2.2,
+   "author": "kean-smullen-nnl",
+   "email": "<51930705+kean-smullen-nnl@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 16,
+   "percentage": 35.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 4,
+   "percentage": 8.9,
+   "author": "g-mathias",
+   "email": "<40861554+g-mathias@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 6.7,
+   "author": "sknigh",
+   "email": "<sknigh@sandia.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 11,
+   "percentage": 24.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 10,
+   "percentage": 22.2,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 45,
+  "percentage": "100.0"
+ }
+}

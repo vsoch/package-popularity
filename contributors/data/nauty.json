@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 17,
+   "percentage": 27.9,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 3.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 6.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 3.3,
+   "author": "Louis Vernon",
+   "email": "<louis.vernon@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 30,
+   "percentage": 49.2,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 5,
+   "percentage": 8.2,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 61,
+  "percentage": "100.0"
+ }
+}

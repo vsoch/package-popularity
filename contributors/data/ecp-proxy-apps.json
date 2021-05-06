@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 10,
+   "percentage": 15.6,
+   "author": "Robert Pavel",
+   "email": "<rspavel@lanl.gov>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 21,
+   "percentage": 32.8,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 33,
+   "percentage": 51.6,
+   "author": "Abhinav Bhatele",
+   "email": "<bhatele@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 64,
+  "percentage": "100.0"
+ }
+}

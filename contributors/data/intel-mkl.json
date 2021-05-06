@@ -1,0 +1,107 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 15,
+   "percentage": 21.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Kai Torben Ohlhus",
+   "email": "<k.ohlhus@gmail.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 4,
+   "percentage": 5.7,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 23,
+   "percentage": 32.9,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Scott Wittenburg",
+   "email": "<scott.wittenburg@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "\u5065\u7f8e\u731e\u7301",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Nichols A. Romero",
+   "email": "<naromero77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 4.3,
+   "author": "Michael Sternberg",
+   "email": "<sternberg@anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 17.1,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Carlos Bederi\u00e1n",
+   "email": "<zzzoom@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Jon Rood",
+   "email": "<jrood@nrel.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 2.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 70,
+  "percentage": "100.0"
+ }
+}

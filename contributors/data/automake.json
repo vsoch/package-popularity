@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 21,
+   "percentage": 47.7,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 13.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 11.4,
+   "author": "Yang Zongze",
+   "email": "<yangzongze@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Ryan Mast",
+   "email": "<nightlark@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 6.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 2,
+   "percentage": 4.5,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 13.6,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 44,
+  "percentage": "100.0"
+ }
+}

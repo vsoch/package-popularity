@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 195,
+   "percentage": 99.0,
+   "author": "Hadrien G",
+   "email": "<knights_of_ni@gmx.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Wouter Deconinck",
+   "email": "<wdconinc@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 197,
+  "percentage": "100.0"
+ }
+}

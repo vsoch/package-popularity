@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 4,
+   "percentage": 0.6,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Andr\u00e9 Brandenburger",
+   "email": "<brandenburger@dismail.de>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 91,
+   "percentage": 13.1,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 65,
+   "percentage": 9.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 3,
+   "percentage": 0.4,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 8,
+   "percentage": 1.2,
+   "author": "takanori-ihara",
+   "email": "<62980219+takanori-ihara@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 8,
+   "percentage": 1.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 5,
+   "percentage": 0.7,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 1.3,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 501,
+   "percentage": 72.1,
+   "author": "Dominik Dold",
+   "email": "<34650920+dodo47@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 695,
+  "percentage": "100.0"
+ }
+}

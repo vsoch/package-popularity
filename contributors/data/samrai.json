@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 24,
+   "percentage": 30.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 17,
+   "percentage": 21.5,
+   "author": "David Wells",
+   "email": "<drwells@email.unc.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "twang15",
+   "email": "<twang15@ncsu.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 31,
+   "percentage": 39.2,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "Jim Eliot",
+   "email": "<benjaminjeliot@gmail.com>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 3,
+   "percentage": 3.8,
+   "author": "David Beckingsale",
+   "email": "<davidbeckingsale@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 79,
+  "percentage": "100.0"
+ }
+}

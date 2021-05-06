@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 52,
+   "percentage": 92.9,
+   "author": "Simon Frasch",
+   "email": "<zeadream.play@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 7.1,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 56,
+  "percentage": "100.0"
+ }
+}

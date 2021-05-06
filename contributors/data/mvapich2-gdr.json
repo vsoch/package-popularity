@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 25,
+   "percentage": 14.5,
+   "author": "apreifsteck",
+   "email": "<apreifsteck@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 147,
+   "percentage": 85.5,
+   "author": "Nithin Senthil Kumar",
+   "email": "<sk95.nithin@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 172,
+  "percentage": "100.0"
+ }
+}

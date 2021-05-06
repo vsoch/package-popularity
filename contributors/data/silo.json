@@ -1,0 +1,121 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 3,
+   "percentage": 2.5,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "yesterday",
+   "lines": 34,
+   "percentage": 28.1,
+   "author": "Olivier Cessenat",
+   "email": "<cessenat@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 3,
+   "percentage": 2.5,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 5.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "QuellynSnead",
+   "email": "<quellyn@lanl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 5,
+   "percentage": 4.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 5.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 34,
+   "percentage": 28.1,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "David Wells",
+   "email": "<drwells@email.unc.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 4.1,
+   "author": "Nick Forrington",
+   "email": "<nick.forrington@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 5.0,
+   "author": "Robert Pavel",
+   "email": "<rspavel@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 3.3,
+   "author": "Mike Pozulp",
+   "email": "<mmpozulp@email.wm.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "Carlos Bederi\u00e1n",
+   "email": "<zzzoom@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 2,
+   "percentage": 1.7,
+   "author": "Dhanannjay Deo",
+   "email": "<dhanannjay.deo@kitware.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 8,
+   "percentage": 6.6,
+   "author": "Joseph Ciurej",
+   "email": "<ciurej1@llnl.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 1,
+   "percentage": 0.8,
+   "author": "Alfredo Gimenez",
+   "email": "<gimenez1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 121,
+  "percentage": "100.0"
+ }
+}

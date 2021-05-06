@@ -1,0 +1,149 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 days ago",
+   "lines": 10,
+   "percentage": 2.4,
+   "author": "Martin Hilgeman",
+   "email": "<martin.hilgeman@dell.com>"
+  },
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 202,
+   "percentage": 48.4,
+   "author": "Nichols A. Romero",
+   "email": "<naromero77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 24,
+   "percentage": 5.8,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "m-shunji",
+   "email": "<76516098+m-shunji@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 34,
+   "percentage": 8.2,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 1.0,
+   "author": "Dominik Gresch",
+   "email": "<greschd@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 14,
+   "percentage": 3.4,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 46,
+   "percentage": 11.0,
+   "author": "fcannini",
+   "email": "<fcannini@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 0.5,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 3,
+   "percentage": 0.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 0.5,
+   "author": "Filippo Spiga",
+   "email": "<spiga.filippo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 2.9,
+   "author": "TZ",
+   "email": "<tz-rrze@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Nick Forrington",
+   "email": "<nick.forrington@arm.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 0.7,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Felix Mayr",
+   "email": "<49785055+flxmr@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "nvarini",
+   "email": "<nicola.varini@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 3,
+   "percentage": 0.7,
+   "author": "William Scullin",
+   "email": "<wscullin@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 46,
+   "percentage": 11.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 3,
+   "percentage": 0.7,
+   "author": "Mayeul d'Avezac",
+   "email": "<m.davezac@ucl.ac.uk>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 5,
+   "percentage": 1.2,
+   "author": "Nicola Varini",
+   "email": "<nicola.varini@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 days ago",
+  "lines": 417,
+  "percentage": "100.0"
+ }
+}

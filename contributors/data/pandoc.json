@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 4.5,
+   "author": "a-saitoh-fj",
+   "email": "<63334055+a-saitoh-fj@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 3,
+   "percentage": 13.6,
+   "author": "Derek Ryan Strong",
+   "email": "<drstrong@protonmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 18,
+   "percentage": 81.8,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 22,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 2.6,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 68,
+   "percentage": 88.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 1.3,
+   "author": "sknigh",
+   "email": "<sknigh@sandia.gov>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 4,
+   "percentage": 5.2,
+   "author": "Kelly (KT) Thompson",
+   "email": "<kgt@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 77,
+  "percentage": "100.0"
+ }
+}

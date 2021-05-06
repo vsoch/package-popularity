@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 57.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 3,
+   "percentage": 42.9,
+   "author": "David Poliakoff",
+   "email": "<poliakoff1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 7,
+  "percentage": "100.0"
+ }
+}

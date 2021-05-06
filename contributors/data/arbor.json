@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 45,
+   "percentage": 81.8,
+   "author": "Sebastian Schmitt",
+   "email": "<sebastian.schmitt@kip.uni-heidelberg.de>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 10,
+   "percentage": 18.2,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 55,
+  "percentage": "100.0"
+ }
+}

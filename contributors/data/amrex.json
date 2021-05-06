@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "yesterday",
+   "lines": 138,
+   "percentage": 69.3,
+   "author": "mic84",
+   "email": "<mrosso@lbl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 41,
+   "percentage": 20.6,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 3,
+   "percentage": 1.5,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 6.0,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 1.0,
+   "author": "Cody Balos",
+   "email": "<cjbalos@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 1.0,
+   "author": "Mark C. Miller",
+   "email": "<miller86@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "yesterday",
+  "lines": 199,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 2.1,
+   "author": "Bryan Herman",
+   "email": "<63422190+bryanherman@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 47,
+   "percentage": 97.9,
+   "author": "Andrew-Dunning-NNL",
+   "email": "<67964561+Andrew-Dunning-NNL@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 48,
+  "percentage": "100.0"
+ }
+}

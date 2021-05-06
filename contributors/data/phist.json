@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 141,
+   "percentage": 92.8,
+   "author": "jthies",
+   "email": "<jonas.thies@dlr.de>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 1.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 4,
+   "percentage": 2.6,
+   "author": "Scott Wittenburg",
+   "email": "<scott.wittenburg@kitware.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 5,
+   "percentage": 3.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 152,
+  "percentage": "100.0"
+ }
+}

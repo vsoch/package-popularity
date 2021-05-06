@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 32,
+   "percentage": 84.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.6,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 13.2,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

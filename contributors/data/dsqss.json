@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 23,
+   "percentage": 43.4,
+   "author": "a-saitoh-fj",
+   "email": "<63334055+a-saitoh-fj@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 30,
+   "percentage": 56.6,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 53,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "5 days ago",
+   "lines": 9,
+   "percentage": 39.1,
+   "author": "Sreenivasa Murthy Kolam",
+   "email": "<67086238+srekolam@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 2,
+   "percentage": 8.7,
+   "author": "Ganesh Kumar",
+   "email": "<46193450+gkathirv@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 8.7,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 10,
+   "percentage": 43.5,
+   "author": "srekolam",
+   "email": "<67086238+srekolam@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "5 days ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

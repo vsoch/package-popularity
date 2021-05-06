@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 1.0,
+   "author": "Daniel Arndt",
+   "email": "<arndtd@ornl.gov>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 166,
+   "percentage": 86.0,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 2.6,
+   "author": "Tamara Dahlgren",
+   "email": "<35777542+tldahlgren@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 1.6,
+   "author": "jthies",
+   "email": "<jonas.thies@dlr.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Alicia Klinvex",
+   "email": "<amklinv@sandia.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 16,
+   "percentage": 8.3,
+   "author": "Barry Smith",
+   "email": "<bsmith@mcs.anl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 193,
+  "percentage": "100.0"
+ }
+}

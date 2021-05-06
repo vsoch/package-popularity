@@ -1,0 +1,107 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 29,
+   "percentage": 4.2,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 24,
+   "percentage": 3.5,
+   "author": "Sergei Shudler",
+   "email": "<shudler1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 35,
+   "percentage": 5.1,
+   "author": "Josh Essman",
+   "email": "<68349992+joshessman-llnl@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 41,
+   "percentage": 5.9,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 200,
+   "percentage": 28.9,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 5,
+   "percentage": 0.7,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 21,
+   "percentage": 3.0,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 25,
+   "percentage": 3.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 34,
+   "percentage": 4.9,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 0.3,
+   "author": "Geoffrey Malcolm Oxberry",
+   "email": "<goxberry@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 0.3,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 219,
+   "percentage": 31.7,
+   "author": "Aaron Fisher",
+   "email": "<fisher47@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 53,
+   "percentage": 7.7,
+   "author": "Mark C. Miller",
+   "email": "<miller86@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 691,
+  "percentage": "100.0"
+ }
+}

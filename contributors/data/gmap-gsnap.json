@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 5,
+   "percentage": 11.6,
+   "author": "snehring",
+   "email": "<snehring@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 9.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 2,
+   "percentage": 4.7,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Eric Martin",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 23,
+   "percentage": 53.5,
+   "author": "lingnanyuan",
+   "email": "<1297162327@qq.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 7,
+   "percentage": 16.3,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

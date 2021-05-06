@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 3,
+   "percentage": 4.5,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 12,
+   "percentage": 17.9,
+   "author": "Abhinav Bhatele",
+   "email": "<bhatele@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 52,
+   "percentage": 77.6,
+   "author": "rvinaybharadwaj",
+   "email": "<vinayr@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 67,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "authors": [
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 100.0,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 12,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.5,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 2.5,
+   "author": "Christoph Junghans",
+   "email": "<junghans@lanl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 38,
+   "percentage": 95.0,
+   "author": "homerdin",
+   "email": "<homerdin@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 40,
+  "percentage": "100.0"
+ }
+}

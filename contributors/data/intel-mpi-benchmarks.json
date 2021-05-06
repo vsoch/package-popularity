@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 4,
+   "percentage": 5.7,
+   "author": "Tomoki, Karatsu",
+   "email": "<49965247+t-karatsu@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 1.4,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 65,
+   "percentage": 92.9,
+   "author": "Carson Woods",
+   "email": "<carsonwoods@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 70,
+  "percentage": "100.0"
+ }
+}

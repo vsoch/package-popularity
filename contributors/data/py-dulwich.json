@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 7.7,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 12,
+   "percentage": 92.3,
+   "author": "Andrew-Dunning-NNL",
+   "email": "<67964561+Andrew-Dunning-NNL@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 13,
+  "percentage": "100.0"
+ }
+}

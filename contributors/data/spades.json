@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 10.5,
+   "author": "Desmond Orton",
+   "email": "<odesmond21@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 21.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 5.3,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 5.3,
+   "author": "Mario Melara",
+   "email": "<maamelara@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 10.5,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 5.3,
+   "author": "Leonhard Reichenbach",
+   "email": "<Zehvogel@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 8,
+   "percentage": 42.1,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 19,
+  "percentage": "100.0"
+ }
+}

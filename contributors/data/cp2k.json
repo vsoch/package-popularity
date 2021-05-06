@@ -1,0 +1,93 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 41,
+   "percentage": 7.7,
+   "author": "AMD Toolchain Support",
+   "email": "<73240730+amd-toolchain-support@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 289,
+   "percentage": 54.5,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 13,
+   "percentage": 2.5,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 0.4,
+   "author": "t-nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 3,
+   "percentage": 0.6,
+   "author": "darmac",
+   "email": "<xiaojun2@hisilicon.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 175,
+   "percentage": 33.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "baip",
+   "email": "<baip@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 530,
+  "percentage": "100.0"
+ }
+}

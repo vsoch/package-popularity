@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 49,
+   "percentage": 80.3,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 19.7,
+   "author": "Dominik Dold",
+   "email": "<34650920+dodo47@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 61,
+  "percentage": "100.0"
+ }
+}

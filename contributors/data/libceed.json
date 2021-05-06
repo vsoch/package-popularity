@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 5,
+   "percentage": 4.5,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 12,
+   "percentage": 10.7,
+   "author": "Jed Brown",
+   "email": "<jed@jedbrown.org>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 6,
+   "percentage": 5.4,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 56,
+   "percentage": 50.0,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 3.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 29,
+   "percentage": 25.9,
+   "author": "Aaron Fisher",
+   "email": "<fisher47@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 112,
+  "percentage": "100.0"
+ }
+}

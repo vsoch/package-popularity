@@ -1,0 +1,233 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 3,
+   "percentage": 0.3,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 492,
+   "percentage": 52.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 63,
+   "percentage": 6.8,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 70,
+   "percentage": 7.5,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 8,
+   "percentage": 0.9,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 53,
+   "percentage": 5.7,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 3,
+   "percentage": 0.3,
+   "author": "ketsubouchi",
+   "email": "<67359246+ketsubouchi@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 73,
+   "percentage": 7.8,
+   "author": "Joseph Ciurej",
+   "email": "<ciurej1@llnl.gov>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 7,
+   "percentage": 0.8,
+   "author": "Elizabeth Fischer",
+   "email": "<eafischer2@alaska.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 0.6,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 0.6,
+   "author": "Hector",
+   "email": "<10837193+he-b@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 0.2,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Dan Lipsa",
+   "email": "<dan.lipsa@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Seth R. Johnson",
+   "email": "<johnsonsr@ornl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 0.3,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 38,
+   "percentage": 4.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 0.2,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 0.3,
+   "author": "Shane R. Spencer",
+   "email": "<shane@bogomip.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 0.8,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 0.2,
+   "author": "Felix Mayr",
+   "email": "<49785055+flxmr@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 24,
+   "percentage": 2.6,
+   "author": "Peter Scheibel",
+   "email": "<scheibel1@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 5,
+   "percentage": 0.5,
+   "author": "Daniel Topa",
+   "email": "<dantopa@lanl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 16,
+   "percentage": 1.7,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 0.2,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 0.4,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 5,
+   "percentage": 0.5,
+   "author": "Mike Pozulp",
+   "email": "<mmpozulp@email.wm.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 14,
+   "percentage": 1.5,
+   "author": "Oliver Breitwieser",
+   "email": "<oliver.breitwieser@kip.uni-heidelberg.de>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Milton Woods",
+   "email": "<miltonjwoods@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.1,
+   "author": "Patrick Gartung",
+   "email": "<gartung@fnal.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 13,
+   "percentage": 1.4,
+   "author": "Paul Hopkins",
+   "email": "<paul.hopkins@ligo.org>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 930,
+  "percentage": "100.0"
+ }
+}

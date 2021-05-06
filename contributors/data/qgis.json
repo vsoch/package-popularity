@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 208,
+   "percentage": 96.3,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 7,
+   "percentage": 3.2,
+   "author": "Elizabeth Fischer",
+   "email": "<eafischer2@alaska.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 216,
+  "percentage": "100.0"
+ }
+}

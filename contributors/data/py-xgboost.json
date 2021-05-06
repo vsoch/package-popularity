@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 44,
+   "percentage": 67.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 21,
+   "percentage": 32.3,
+   "author": "kean-smullen-nnl",
+   "email": "<51930705+kean-smullen-nnl@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 65,
+  "percentage": "100.0"
+ }
+}

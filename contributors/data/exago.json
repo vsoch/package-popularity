@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 1,
+   "percentage": 1.6,
+   "author": "Asher Mancinelli",
+   "email": "<asher.mancinelli@pnnl.gov>"
+  },
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 63,
+   "percentage": 98.4,
+   "author": "Cameron Rutherford",
+   "email": "<cameron.rutherford@me.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 64,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 6,
+   "percentage": 20.7,
+   "author": "downloadico",
+   "email": "<download@carc.unm.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 6.9,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 6,
+   "percentage": 20.7,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 10.3,
+   "author": "xfzhao",
+   "email": "<xfzhao@iastate.edu>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 41.4,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 29,
+  "percentage": "100.0"
+ }
+}

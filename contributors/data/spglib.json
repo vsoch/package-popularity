@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 2,
+   "percentage": 6.2,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 20,
+   "percentage": 62.5,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 6.2,
+   "author": "asmaahassan90",
+   "email": "<31959389+asmaahassan90@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 8,
+   "percentage": 25.0,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

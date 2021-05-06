@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 2,
+   "percentage": 1.2,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 4,
+   "percentage": 2.4,
+   "author": "Thomas Madlener",
+   "email": "<thomas.madlener@desy.de>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 161,
+   "percentage": 95.3,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 169,
+  "percentage": "100.0"
+ }
+}

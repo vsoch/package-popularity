@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 1,
+   "percentage": 4.3,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 3,
+   "percentage": 13.0,
+   "author": "Cameron Stanavige",
+   "email": "<stanavige1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 19,
+   "percentage": 82.6,
+   "author": "Elsa Gonsiorowski, PhD",
+   "email": "<gonsie@me.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 23,
+  "percentage": "100.0"
+ }
+}

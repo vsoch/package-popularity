@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 3,
+   "percentage": 3.2,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 70,
+   "percentage": 74.5,
+   "author": "Ben Morgan",
+   "email": "<drbenmorgan@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "vvolkl",
+   "email": "<valentin.volkl@cern.ch>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 12,
+   "percentage": 12.8,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 8,
+   "percentage": 8.5,
+   "author": "Patrick Gartung",
+   "email": "<gartung@fnal.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 94,
+  "percentage": "100.0"
+ }
+}

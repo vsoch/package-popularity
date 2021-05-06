@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 days ago",
+   "lines": 15,
+   "percentage": 11.8,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 98,
+   "percentage": 77.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 2.4,
+   "author": "Baptiste Jonglez",
+   "email": "<30461003+jonglezb@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 2,
+   "percentage": 1.6,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 1.6,
+   "author": "Justin Stanley",
+   "email": "<molecuul@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 7,
+   "percentage": 5.5,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 days ago",
+  "lines": 127,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 2,
+   "percentage": 8.0,
+   "author": "Chris Richardson",
+   "email": "<chris@bpi.cam.ac.uk>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 8.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 19,
+   "percentage": 76.0,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 8.0,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

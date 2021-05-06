@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 days ago",
+   "lines": 4,
+   "percentage": 6.3,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 59,
+   "percentage": 93.7,
+   "author": "Stephanie Brink",
+   "email": "<brink2@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 days ago",
+  "lines": 63,
+  "percentage": "100.0"
+ }
+}

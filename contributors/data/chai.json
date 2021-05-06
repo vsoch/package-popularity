@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "21 hours ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Tomoyasu Nojiri",
+   "email": "<68096132+t-nojiri@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 17,
+   "percentage": 20.7,
+   "author": "Danny Taller",
+   "email": "<66029857+dtaller@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 14,
+   "percentage": 17.1,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 10,
+   "percentage": 12.2,
+   "author": "Ben Corbett",
+   "email": "<32752943+corbett5@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 38,
+   "percentage": 46.3,
+   "author": "Adrien Bernede",
+   "email": "<51493078+adrienbernede@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "21 hours ago",
+  "lines": 82,
+  "percentage": "100.0"
+ }
+}

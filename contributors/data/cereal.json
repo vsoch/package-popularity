@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 15,
+   "percentage": 44.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 2,
+   "percentage": 5.9,
+   "author": "Andreas Baumbach",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 2,
+   "percentage": 5.9,
+   "author": "healther",
+   "email": "<healther@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 6,
+   "percentage": 17.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 7,
+   "percentage": 20.6,
+   "author": "Erik Schnetter",
+   "email": "<schnetter@gmail.com>"
+  },
+  {
+   "last_commit": "5 years ago",
+   "lines": 1,
+   "percentage": 2.9,
+   "author": "Ben Boeckel",
+   "email": "<ben.boeckel@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 34,
+  "percentage": "100.0"
+ }
+}

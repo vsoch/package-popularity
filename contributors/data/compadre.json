@@ -1,0 +1,16 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 40,
+   "percentage": 100.0,
+   "author": "Paul Kuberry",
+   "email": "<pakuber@sandia.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 40,
+  "percentage": "100.0"
+ }
+}

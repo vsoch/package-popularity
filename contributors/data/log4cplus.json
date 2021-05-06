@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 22.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 11.1,
+   "author": "\u5065\u7f8e\u731e\u7301",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 6,
+   "percentage": 66.7,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 9,
+  "percentage": "100.0"
+ }
+}

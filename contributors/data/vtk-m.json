@@ -1,0 +1,86 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 4,
+   "percentage": 1.3,
+   "author": "Vicente Bolea",
+   "email": "<vicente.bolea@kitware.com>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 44,
+   "percentage": 14.8,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 2,
+   "percentage": 0.7,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 66,
+   "percentage": 22.2,
+   "author": "Robert Maynard",
+   "email": "<robert.maynard@kitware.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 126,
+   "percentage": 42.4,
+   "author": "Jieyang Chen",
+   "email": "<cjy7117@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 5,
+   "percentage": 1.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 0.7,
+   "author": "Vicente Adolfo Bolea Sanchez",
+   "email": "<vicente.bolea@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Matt Larsen",
+   "email": "<mclarsen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.3,
+   "author": "Kenneth Moreland",
+   "email": "<kmorel@sandia.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 45,
+   "percentage": 15.2,
+   "author": "HAOCHENG LIU",
+   "email": "<30446009+HaochengLIU@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 297,
+  "percentage": "100.0"
+ }
+}

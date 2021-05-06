@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 3,
+   "percentage": 7.0,
+   "author": "Mohan",
+   "email": "<73109322+mohan002@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 15,
+   "percentage": 34.9,
+   "author": "Alex Margolin",
+   "email": "<alex--m@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 25,
+   "percentage": 58.1,
+   "author": "Sergey Kosukhin",
+   "email": "<sergey.kosukhin@mpimet.mpg.de>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

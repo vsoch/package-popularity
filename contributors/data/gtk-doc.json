@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 3,
+   "percentage": 10.0,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 27,
+   "percentage": 90.0,
+   "author": "Jennifer Herting",
+   "email": "<jen@herting.cc>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 30,
+  "percentage": "100.0"
+ }
+}

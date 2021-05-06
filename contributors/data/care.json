@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "21 hours ago",
+   "lines": 2,
+   "percentage": 1.8,
+   "author": "Chris White",
+   "email": "<white238@llnl.gov>"
+  },
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 112,
+   "percentage": 98.2,
+   "author": "Danny Taller",
+   "email": "<66029857+dtaller@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "21 hours ago",
+  "lines": 114,
+  "percentage": "100.0"
+ }
+}

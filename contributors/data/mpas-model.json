@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 10,
+   "percentage": 12.8,
+   "author": "m-shunji",
+   "email": "<76516098+m-shunji@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 68,
+   "percentage": 87.2,
+   "author": "Toyohisa Kameyama",
+   "email": "<kameyama@riken.jp>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 78,
+  "percentage": "100.0"
+ }
+}

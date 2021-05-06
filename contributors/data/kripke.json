@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 18.8,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Christoph Junghans",
+   "email": "<junghans@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 28.1,
+   "author": "Aniruddha Marathe",
+   "email": "<aniruddhapmarathe@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Brian Homerding",
+   "email": "<homerdin@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 12,
+   "percentage": 37.5,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Akhil Reddy Patlolla",
+   "email": "<patlolla.akhil@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 2,
+   "percentage": 6.2,
+   "author": "Tanzima Z. Islam",
+   "email": "<islam3@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

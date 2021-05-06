@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "6 days ago",
+   "lines": 1,
+   "percentage": 10.0,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a week ago",
+   "lines": 2,
+   "percentage": 20.0,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 70.0,
+   "author": "Vanessasaurus",
+   "email": "<vsochat@stanford.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "6 days ago",
+  "lines": 10,
+  "percentage": "100.0"
+ }
+}

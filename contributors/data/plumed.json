@@ -1,0 +1,86 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 31,
+   "percentage": 17.3,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 9,
+   "percentage": 5.0,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 4,
+   "percentage": 2.2,
+   "author": "Zhiyi Wu",
+   "email": "<zhiyi.wu@msdtc.ox.ac.uk>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 2,
+   "percentage": 1.1,
+   "author": "g-mathias",
+   "email": "<40861554+g-mathias@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 3.9,
+   "author": "Hector Martinez-Seara",
+   "email": "<hseara@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 69,
+   "percentage": 38.5,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 1.1,
+   "author": "Ricardo Silva",
+   "email": "<ricardo.d.silva@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 52,
+   "percentage": 29.1,
+   "author": "Andrew Williams",
+   "email": "<williamsa89@cardiff.ac.uk>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Gilles Fourestey",
+   "email": "<gilles.fourestey@epfl.ch>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 179,
+  "percentage": "100.0"
+ }
+}

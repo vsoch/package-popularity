@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 weeks ago",
+   "lines": 10,
+   "percentage": 18.9,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 3.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 17,
+   "percentage": 32.1,
+   "author": "Glenn P Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 17.0,
+   "author": "Levi Baber",
+   "email": "<baberlevi@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 15,
+   "percentage": 28.3,
+   "author": "Audrey Thoma",
+   "email": "<las_thoma15@iastate.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 weeks ago",
+  "lines": 53,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 157,
+   "percentage": 36.8,
+   "author": "estewart08",
+   "email": "<ethan.stewart@amd.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 270,
+   "percentage": 63.2,
+   "author": "arjun-raj-kuppala",
+   "email": "<60718144+arjun-raj-kuppala@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 427,
+  "percentage": "100.0"
+ }
+}

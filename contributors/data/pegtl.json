@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 13.2,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 18,
+   "percentage": 47.4,
+   "author": "Daryl W. Grunau",
+   "email": "<DarylGrunau@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 5.3,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 2.6,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 7.9,
+   "author": "noguchi-k",
+   "email": "<55966120+noguchi-k@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 5.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 7,
+   "percentage": 18.4,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

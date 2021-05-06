@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 6,
+   "percentage": 1.4,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 421,
+   "percentage": 96.6,
+   "author": "Cyrus Harrison",
+   "email": "<cyrush@llnl.gov>"
+  },
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 0.5,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "eugeneswalker",
+   "email": "<38933153+eugeneswalker@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 1.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.2,
+   "author": "Dan Lipsa",
+   "email": "<dan.lipsa@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 436,
+  "percentage": "100.0"
+ }
+}

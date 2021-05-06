@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 6,
+   "percentage": 16.2,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 14,
+   "percentage": 37.8,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 3,
+   "percentage": 8.1,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 3,
+   "percentage": 8.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 5.4,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 1,
+   "percentage": 2.7,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 8,
+   "percentage": 21.6,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 37,
+  "percentage": "100.0"
+ }
+}

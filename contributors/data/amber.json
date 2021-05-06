@@ -1,0 +1,51 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 160,
+   "percentage": 80.0,
+   "author": "Hector Martinez-Seara",
+   "email": "<hseara@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 15,
+   "percentage": 7.5,
+   "author": "Scott McMillan",
+   "email": "<scott.andrew.mcmillan@gmail.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 14,
+   "percentage": 7.0,
+   "author": "g-mathias",
+   "email": "<40861554+g-mathias@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 0.5,
+   "author": "dmorone",
+   "email": "<dmorone@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 4.5,
+   "author": "Justin S",
+   "email": "<3630356+codeandkey@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 200,
+  "percentage": "100.0"
+ }
+}

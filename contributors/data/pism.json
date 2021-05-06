@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 11.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 89,
+   "percentage": 88.1,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 101,
+  "percentage": "100.0"
+ }
+}

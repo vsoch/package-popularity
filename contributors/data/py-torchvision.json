@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 78,
+   "percentage": 90.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 2,
+   "percentage": 2.3,
+   "author": "Robert Blake",
+   "email": "<blake14@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 5,
+   "percentage": 5.8,
+   "author": "Phil Tooley",
+   "email": "<32297355+ptooley@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

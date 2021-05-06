@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 5,
+   "percentage": 20.8,
+   "author": "Chris Richardson",
+   "email": "<chris@bpi.cam.ac.uk>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 6,
+   "percentage": 25.0,
+   "author": "Garth N. Wells",
+   "email": "<gnw20@cam.ac.uk>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 13,
+   "percentage": 54.2,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 24,
+  "percentage": "100.0"
+ }
+}

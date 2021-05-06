@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 31,
+   "percentage": 57.4,
+   "author": "Cody Balos",
+   "email": "<balos1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 23,
+   "percentage": 42.6,
+   "author": "Piotr Luszczek",
+   "email": "<luszczek@icl.utk.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 54,
+  "percentage": "100.0"
+ }
+}

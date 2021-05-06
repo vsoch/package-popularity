@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 9,
+   "percentage": 13.2,
+   "author": "Simon Frasch",
+   "email": "<simon.frasch@cscs.ch>"
+  },
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 38,
+   "percentage": 55.9,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 1.5,
+   "author": "Tiziano M\u00fcller",
+   "email": "<tiziano.mueller@chem.uzh.ch>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 19,
+   "percentage": 27.9,
+   "author": "Simon Pintarelli",
+   "email": "<1237199+simonpintarelli@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 68,
+  "percentage": "100.0"
+ }
+}

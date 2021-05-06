@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 15,
+   "percentage": 42.9,
+   "author": "a-saitoh-fj",
+   "email": "<63334055+a-saitoh-fj@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 20,
+   "percentage": 57.1,
+   "author": "Harsh Bhatia",
+   "email": "<bhatia4@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 35,
+  "percentage": "100.0"
+ }
+}

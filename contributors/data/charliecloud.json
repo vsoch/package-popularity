@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 days ago",
+   "lines": 37,
+   "percentage": 90.2,
+   "author": "Jordan Ogas",
+   "email": "<jogas@lanl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.4,
+   "author": "Tyler Reddy",
+   "email": "<tyler.je.reddy@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 7.3,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 days ago",
+  "lines": 41,
+  "percentage": "100.0"
+ }
+}

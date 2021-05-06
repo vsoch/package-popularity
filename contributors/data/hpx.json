@@ -1,0 +1,79 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 11,
+   "percentage": 8.2,
+   "author": "Mikael Simberg",
+   "email": "<mikael.simberg@iki.fi>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 0.7,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 53,
+   "percentage": 39.6,
+   "author": "albestro",
+   "email": "<9337627+albestro@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 1,
+   "percentage": 0.7,
+   "author": "aurianer",
+   "email": "<aurianer@cscs.ch>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 1.5,
+   "author": "Auriane R",
+   "email": "<48684432+aurianer@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 12,
+   "percentage": 9.0,
+   "author": "Teodor Nikolov",
+   "email": "<teodor.nikolov22@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.5,
+   "author": "rtohid",
+   "email": "<rtohid@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.7,
+   "author": "Severin Strobl",
+   "email": "<github@severin-strobl.de>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 47,
+   "percentage": 35.1,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 4,
+   "percentage": 3.0,
+   "author": "Christoph Junghans",
+   "email": "<christoph.junghans@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 134,
+  "percentage": "100.0"
+ }
+}

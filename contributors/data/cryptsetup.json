@@ -1,0 +1,72 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 4.1,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 2,
+   "percentage": 4.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 3,
+   "percentage": 6.1,
+   "author": "Robert Blake",
+   "email": "<blake14@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 8.2,
+   "author": "Jonathon Anderson",
+   "email": "<jonathon.anderson@colorado.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.0,
+   "author": "Dr. Christian Tacke",
+   "email": "<58549698+ChristianTackeGSI@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 5,
+   "percentage": 10.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 4,
+   "percentage": 8.2,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 27,
+   "percentage": 55.1,
+   "author": "Owen Solberg",
+   "email": "<odoublewen@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 49,
+  "percentage": "100.0"
+ }
+}

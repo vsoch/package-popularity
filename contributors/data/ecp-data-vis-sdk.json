@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 81,
+   "percentage": 94.2,
+   "author": "Chuck Atkins",
+   "email": "<chuck.atkins@kitware.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 5,
+   "percentage": 5.8,
+   "author": "Omar Padron",
+   "email": "<omar.padron@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 86,
+  "percentage": "100.0"
+ }
+}

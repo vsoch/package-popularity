@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 2.5,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 2.5,
+   "author": "\u5065\u7f8e\u731e\u7301",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 38,
+   "percentage": 95.0,
+   "author": "Mayeul d'Avezac",
+   "email": "<m.davezac@imperial.ac.uk>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 40,
+  "percentage": "100.0"
+ }
+}

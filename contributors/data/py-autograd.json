@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 5.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 17,
+   "percentage": 94.4,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 18,
+  "percentage": "100.0"
+ }
+}

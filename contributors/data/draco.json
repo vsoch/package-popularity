@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 weeks ago",
+   "lines": 75,
+   "percentage": 86.2,
+   "author": "Kelly (KT) Thompson",
+   "email": "<KineticTheory@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 13.8,
+   "author": "Robert Pavel",
+   "email": "<rspavel@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 weeks ago",
+  "lines": 87,
+  "percentage": "100.0"
+ }
+}

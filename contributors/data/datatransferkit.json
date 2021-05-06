@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 11,
+   "percentage": 28.9,
+   "author": "Daniel Arndt",
+   "email": "<arndtd@ornl.gov>"
+  },
+  {
+   "last_commit": "10 months ago",
+   "lines": 27,
+   "percentage": 71.1,
+   "author": "Ge Wenjun",
+   "email": "<39968398+wjge@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

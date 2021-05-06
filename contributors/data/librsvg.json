@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 6.1,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 2,
+   "percentage": 6.1,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@ovgu.de>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 4,
+   "percentage": 12.1,
+   "author": "Pariksheet Nanda",
+   "email": "<pariksheet.nanda@uconn.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 24.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 17,
+   "percentage": 51.5,
+   "author": "Geoffrey Oxberry",
+   "email": "<oxberry1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 33,
+  "percentage": "100.0"
+ }
+}

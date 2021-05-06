@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "5 months ago",
+   "lines": 8,
+   "percentage": 4.4,
+   "author": "Ruben Di Battista",
+   "email": "<rubendibattista@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 2,
+   "percentage": 1.1,
+   "author": "Jaroslav Hron",
+   "email": "<hron@karlin.mff.cuni.cz>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 2,
+   "percentage": 1.1,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 10,
+   "percentage": 5.5,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 133,
+   "percentage": 73.1,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 6,
+   "percentage": 3.3,
+   "author": "Massimiliano Culpo",
+   "email": "<massimiliano.culpo@epfl.ch>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 21,
+   "percentage": 11.5,
+   "author": "George Hartzell",
+   "email": "<hartzell@alerce.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 182,
+  "percentage": "100.0"
+ }
+}

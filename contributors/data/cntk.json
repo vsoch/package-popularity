@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 2,
+   "percentage": 2.4,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 1,
+   "percentage": 1.2,
+   "author": "Pramod S Kumbhar",
+   "email": "<pramod.r.s.kumbhar@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 7,
+   "percentage": 8.5,
+   "author": "Jimmy Tang",
+   "email": "<jcftang@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 71,
+   "percentage": 86.6,
+   "author": "\u5065\u7f8e\u732b",
+   "email": "<weijianwen@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 82,
+  "percentage": "100.0"
+ }
+}

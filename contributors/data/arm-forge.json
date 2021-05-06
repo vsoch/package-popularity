@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 19,
+   "percentage": 50.0,
+   "author": "Nick Forrington",
+   "email": "<nick.forrington@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 10,
+   "percentage": 26.3,
+   "author": "Federico Ficarelli",
+   "email": "<federico.ficarelli@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 9,
+   "percentage": 23.7,
+   "author": "Gregory L. Lee",
+   "email": "<lee218@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 38,
+  "percentage": "100.0"
+ }
+}

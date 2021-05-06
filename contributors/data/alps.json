@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 34,
+   "percentage": 54.0,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "2 months ago",
+   "lines": 29,
+   "percentage": 46.0,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 63,
+  "percentage": "100.0"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "bryanherman",
+   "email": "<63422190+bryanherman@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 7,
+   "percentage": 28.0,
+   "author": "Sajid Ali",
+   "email": "<30510036+s-sajid-ali@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 4,
+   "percentage": 16.0,
+   "author": "ketsubouchi",
+   "email": "<kenta.tsubouchi@hac-inc.co.jp>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Harmen Stoppels",
+   "email": "<harmenstoppels@gmail.com>"
+  },
+  {
+   "last_commit": "11 months ago",
+   "lines": 1,
+   "percentage": 4.0,
+   "author": "Michael Kuhn",
+   "email": "<michael.kuhn@informatik.uni-hamburg.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 8.0,
+   "author": "Daryl W. Grunau",
+   "email": "<DarylGrunau@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 9,
+   "percentage": 36.0,
+   "author": "Scott Wittenburg",
+   "email": "<scott.wittenburg@kitware.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "3 months ago",
+  "lines": 25,
+  "percentage": "100.0"
+ }
+}

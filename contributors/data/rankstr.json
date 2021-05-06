@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 2,
+   "percentage": 11.8,
+   "author": "Cameron Stanavige",
+   "email": "<stanavige1@llnl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 12,
+   "percentage": 70.6,
+   "author": "Elsa Gonsiorowski, PhD",
+   "email": "<gonsie@me.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 3,
+   "percentage": 17.6,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 17,
+  "percentage": "100.0"
+ }
+}

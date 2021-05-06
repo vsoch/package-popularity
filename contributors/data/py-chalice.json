@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 3.6,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 27,
+   "percentage": 96.4,
+   "author": "rvinaybharadwaj",
+   "email": "<vinayr@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 28,
+  "percentage": "100.0"
+ }
+}

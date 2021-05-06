@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 3.7,
+   "author": "Andrew W Elble",
+   "email": "<aweits@rit.edu>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 26,
+   "percentage": 96.3,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 27,
+  "percentage": "100.0"
+ }
+}

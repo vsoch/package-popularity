@@ -1,0 +1,58 @@
+{
+ "authors": [
+  {
+   "last_commit": "a month ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "Robert Mijakovic",
+   "email": "<robert.mijakovic@gmail.com>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 6,
+   "percentage": 18.8,
+   "author": "Michael Kuhn",
+   "email": "<suraia@ikkoku.de>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 3.1,
+   "author": "iarspider",
+   "email": "<iarspider@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 15,
+   "percentage": 46.9,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 3,
+   "percentage": 9.4,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 4,
+   "percentage": 12.5,
+   "author": "Eric",
+   "email": "<erimar77@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "6 years ago",
+   "lines": 2,
+   "percentage": 6.2,
+   "author": "Bob Robey",
+   "email": "<brobey@lanl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a month ago",
+  "lines": 32,
+  "percentage": "100.0"
+ }
+}

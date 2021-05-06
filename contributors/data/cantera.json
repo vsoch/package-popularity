@@ -1,0 +1,65 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 6,
+   "percentage": 3.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "Greg Becker",
+   "email": "<becker33@llnl.gov>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "ketsubouchi",
+   "email": "<67359246+ketsubouchi@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 135,
+   "percentage": 83.3,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "asmaahassan90",
+   "email": "<31959389+asmaahassan90@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.6,
+   "author": "\u5065\u7f8e\u731e\u7301",
+   "email": "<weijianwen@gmail.com>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 14,
+   "percentage": 8.6,
+   "author": "Matthias Diener",
+   "email": "<matthias.diener@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 3,
+   "percentage": 1.9,
+   "author": "Elizabeth Fischer",
+   "email": "<elizabeth.fischer@columbia.edu>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 162,
+  "percentage": "100.0"
+ }
+}

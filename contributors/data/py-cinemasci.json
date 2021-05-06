@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 6.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "5 months ago",
+   "lines": 15,
+   "percentage": 93.8,
+   "author": "Ethan Stam",
+   "email": "<33101855+EthanS94@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

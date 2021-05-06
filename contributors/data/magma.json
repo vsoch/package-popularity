@@ -1,0 +1,93 @@
+{
+ "authors": [
+  {
+   "last_commit": "a week ago",
+   "lines": 27,
+   "percentage": 24.8,
+   "author": "Sergei Shudler",
+   "email": "<sergshu@gmail.com>"
+  },
+  {
+   "last_commit": "3 months ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "jkelling",
+   "email": "<j.kelling@hzdr.de>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 3,
+   "percentage": 2.8,
+   "author": "Stan Tomov",
+   "email": "<tomov@eecs.utk.edu>"
+  },
+  {
+   "last_commit": "7 months ago",
+   "lines": 4,
+   "percentage": 3.7,
+   "author": "Glenn Johnson",
+   "email": "<glenn-johnson@uiowa.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 8,
+   "percentage": 7.3,
+   "author": "Veselin Dobrev",
+   "email": "<v-dobrev@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 15,
+   "percentage": 13.8,
+   "author": "Sinan",
+   "email": "<sbulutw@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 7,
+   "percentage": 6.4,
+   "author": "Piotr Luszczek",
+   "email": "<luszczek@icl.utk.edu>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "Satish Balay",
+   "email": "<balay@mcs.anl.gov>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 1.8,
+   "author": "R\u00e9mi Lacroix",
+   "email": "<remi.lacroix@idris.fr>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 20,
+   "percentage": 18.3,
+   "author": "Aaron Fisher",
+   "email": "<fisher47@llnl.gov>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 1,
+   "percentage": 0.9,
+   "author": "Denis Davydov",
+   "email": "<davydden@gmail.com>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 20,
+   "percentage": 18.3,
+   "author": "eklee15",
+   "email": "<eunkyung.lee@us.ibm.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "a week ago",
+  "lines": 109,
+  "percentage": "100.0"
+ }
+}

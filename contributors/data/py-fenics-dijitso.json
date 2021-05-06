@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 6,
+   "percentage": 37.5,
+   "author": "emai-imcs",
+   "email": "<edwin.mai@unibw.de>"
+  },
+  {
+   "last_commit": "8 months ago",
+   "lines": 10,
+   "percentage": 62.5,
+   "author": "Jeffrey Salmond",
+   "email": "<js947@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 16,
+  "percentage": "100.0"
+ }
+}

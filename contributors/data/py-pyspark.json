@@ -1,0 +1,30 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 7,
+   "percentage": 50.0,
+   "author": "Jen Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 1,
+   "percentage": 7.1,
+   "author": "rvinaybharadwaj",
+   "email": "<vinayr@lanl.gov>"
+  },
+  {
+   "last_commit": "2 years ago",
+   "lines": 6,
+   "percentage": 42.9,
+   "author": "Matthias Wolf",
+   "email": "<m+git@sushinara.net>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 14,
+  "percentage": "100.0"
+ }
+}

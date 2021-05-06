@@ -1,0 +1,44 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 1.1,
+   "author": "Bryan Herman",
+   "email": "<63422190+bryanherman@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 25,
+   "percentage": 27.8,
+   "author": "Carson Woods",
+   "email": "<carsonwoods@users.noreply.github.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 22,
+   "percentage": 24.4,
+   "author": "Greg Sjaardema",
+   "email": "<gsjaardema@gmail.com>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 31,
+   "percentage": 34.4,
+   "author": "Jon Rood",
+   "email": "<jon.rood@nrel.gov>"
+  },
+  {
+   "last_commit": "3 years ago",
+   "lines": 11,
+   "percentage": 12.2,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 90,
+  "percentage": "100.0"
+ }
+}

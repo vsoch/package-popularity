@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "2 months ago",
+   "lines": 1,
+   "percentage": 2.3,
+   "author": "Axel Huebl",
+   "email": "<axelhuebl@lbl.gov>"
+  },
+  {
+   "last_commit": "6 months ago",
+   "lines": 42,
+   "percentage": 97.7,
+   "author": "G-Ragghianti",
+   "email": "<33492707+G-Ragghianti@users.noreply.github.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "2 months ago",
+  "lines": 43,
+  "percentage": "100.0"
+ }
+}

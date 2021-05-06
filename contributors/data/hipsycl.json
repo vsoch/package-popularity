@@ -1,0 +1,23 @@
+{
+ "authors": [
+  {
+   "last_commit": "0 months ago",
+   "lines": 11,
+   "percentage": 7.2,
+   "author": "ravil-mobile",
+   "email": "<ravil.mobile.com@gmail.com>"
+  },
+  {
+   "last_commit": "9 months ago",
+   "lines": 142,
+   "percentage": 92.8,
+   "author": "Federico Ficarelli",
+   "email": "<federico.ficarelli@gmail.com>"
+  }
+ ],
+ "totals": {
+  "last_commit": "0 months ago",
+  "lines": 153,
+  "percentage": "100.0"
+ }
+}

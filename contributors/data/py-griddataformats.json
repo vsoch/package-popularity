@@ -1,0 +1,37 @@
+{
+ "authors": [
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 6.7,
+   "author": "Todd Gamblin",
+   "email": "<tgamblin@llnl.gov>"
+  },
+  {
+   "last_commit": "4 months ago",
+   "lines": 1,
+   "percentage": 6.7,
+   "author": "Adam J. Stewart",
+   "email": "<ajstewart426@gmail.com>"
+  },
+  {
+   "last_commit": "a year ago",
+   "lines": 2,
+   "percentage": 13.3,
+   "author": "Jennifer Herting",
+   "email": "<jen@herting.cc>"
+  },
+  {
+   "last_commit": "4 years ago",
+   "lines": 11,
+   "percentage": 73.3,
+   "author": "Brian Van Essen",
+   "email": "<vanessen1@llnl.gov>"
+  }
+ ],
+ "totals": {
+  "last_commit": "4 months ago",
+  "lines": 15,
+  "percentage": "100.0"
+ }
+}
