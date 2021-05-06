@@ -30,6 +30,7 @@ p {
 
 /* colors for build systems */
 
+.AutotoolsPackage {fill: black}​
 .PerlPackage {fill: #FFE74C}
 .QMakePackage {fill: #FFC452}
 .WafPackage {fill: #FFA058}
@@ -37,16 +38,16 @@ p {
 .Package {fill: #FFACB2}
 .SIPPackage {fill: #B5F8BC}
 .MavenPackage {fill: #6BF178}
-​.MesonPackage {fill: #50CCBC}
+.MesonPackage {fill: #50CCBC}
 .PythonPackage {fill: #35A7FF}
 .IntelPackage {fill: darkblue}
 .CMakePackage {fill: darkred}
 .BundlePackage{fill: indigo}
-​.AutotoolsPackage {fill: darkgreen}​
 .SConsPackage {fill: purple}
 .RPackage {fill: blueviolet}
 .MakefilePackage {fill: turquoise}
 .RubyPackage {fill: magenta}
+
   </style>
   </head>
   <body>
@@ -73,12 +74,12 @@ p {
   <li class="list-group-item" style="background-color:#6BF178">MavenPackage {{ percents.MavenPackage }} %</li>
   <li class="list-group-item" style="background-color:#50CCBC">MesonPackage {{ percents.MesonPackage }} %</li>
   <li class="list-group-item" style="background-color:#35A7FF">PythonPackage {{ percents.PythonPackage }} %</li>
-  <li class="list-group-item" style="background-color:darkblue">IntelPackage {{ percents.IntelPackage }} %</li>
-  <li class="list-group-item" style="background-color:darkred">CMakePackage {{ percents.CMakePackage }} %</li>  
-  <li class="list-group-item" style="background-color:indigo">BundlePackage {{ percents.BundlePackage }} %</li>  
-  <li class="list-group-item" style="background-color:darkgreen">AutotoolsPackage {{ percents.AutotoolsPackage }} %</li>  
-  <li class="list-group-item" style="background-color:purple">SConsPackage {{ percents.SConsPackage }} %</li>  
-  <li class="list-group-item" style="background-color:blueviolet">RPackage {{ percents.RPackage }} %</li>  
+  <li class="list-group-item" style="background-color:darkblue; color:white">IntelPackage {{ percents.IntelPackage }} %</li>
+  <li class="list-group-item" style="background-color:darkred; color:white">CMakePackage {{ percents.CMakePackage }} %</li>  
+  <li class="list-group-item" style="background-color:indigo; color:white">BundlePackage {{ percents.BundlePackage }} %</li>  
+  <li class="list-group-item" style="background-color:black; color:white">AutotoolsPackage {{ percents.AutotoolsPackage }} %</li>  
+  <li class="list-group-item" style="background-color:purple; color:white">SConsPackage {{ percents.SConsPackage }} %</li>  
+  <li class="list-group-item" style="background-color:blueviolet; color:white">RPackage {{ percents.RPackage }} %</li>  
   <li class="list-group-item" style="background-color:turquoise">MakefilePackage {{ percents.MakefilePackage }} %</li>  
   <li class="list-group-item" style="background-color:magenta">RubyPackage {{ percents.RubyPackage }} %</li>  
 </ul>
@@ -101,8 +102,6 @@ var json = {"packages": {
 
 // D3 Bubble Chart 
 
-var build_systems = [ {% for bs in build_systems %}"{{ bs }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}]
-console.log(build_systems)
 var diameter = 1200;
 var svg = d3.select('#chart').append('svg')
 				.attr('width', diameter)

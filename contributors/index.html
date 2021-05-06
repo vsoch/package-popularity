@@ -30,6 +30,7 @@ p {
 
 /* colors for build systems */
 
+.AutotoolsPackage {fill: black}​
 .PerlPackage {fill: #FFE74C}
 .QMakePackage {fill: #FFC452}
 .WafPackage {fill: #FFA058}
@@ -37,16 +38,16 @@ p {
 .Package {fill: #FFACB2}
 .SIPPackage {fill: #B5F8BC}
 .MavenPackage {fill: #6BF178}
-​.MesonPackage {fill: #50CCBC}
+.MesonPackage {fill: #50CCBC}
 .PythonPackage {fill: #35A7FF}
 .IntelPackage {fill: darkblue}
 .CMakePackage {fill: darkred}
 .BundlePackage{fill: indigo}
-​.AutotoolsPackage {fill: darkgreen}​
 .SConsPackage {fill: purple}
 .RPackage {fill: blueviolet}
 .MakefilePackage {fill: turquoise}
 .RubyPackage {fill: magenta}
+
   </style>
   </head>
   <body>
@@ -73,11 +74,11 @@ p {
   <li class="list-group-item" style="background-color:#6BF178">MavenPackage 0.684 %</li>
   <li class="list-group-item" style="background-color:#50CCBC">MesonPackage 0.252 %</li>
   <li class="list-group-item" style="background-color:#35A7FF">PythonPackage 25.036 %</li>
-  <li class="list-group-item" style="background-color:darkblue">IntelPackage 0.108 %</li>
+  <li class="list-group-item" style="background-color:darkblue; color:white">IntelPackage 0.108 %</li>
   <li class="list-group-item" style="background-color:darkred">CMakePackage 12.797 %</li>  
-  <li class="list-group-item" style="background-color:indigo">BundlePackage 0.144 %</li>  
-  <li class="list-group-item" style="background-color:darkgreen">AutotoolsPackage 20.176 %</li>  
-  <li class="list-group-item" style="background-color:purple">SConsPackage 0.108 %</li>  
+  <li class="list-group-item" style="background-color:indigo; color:white">BundlePackage 0.144 %</li>  
+  <li class="list-group-item" style="background-color:black; color:white">AutotoolsPackage 20.176 %</li>  
+  <li class="list-group-item" style="background-color:purple; color:white">SConsPackage 0.108 %</li>  
   <li class="list-group-item" style="background-color:blueviolet">RPackage 17.711 %</li>  
   <li class="list-group-item" style="background-color:turquoise">MakefilePackage 7.919 %</li>  
   <li class="list-group-item" style="background-color:magenta">RubyPackage 0.306 %</li>  
@@ -11211,8 +11212,6 @@ var json = {"packages": {
 
 // D3 Bubble Chart 
 
-var build_systems = [ "WafPackage","MavenPackage","IntelPackage","OctavePackage","MakefilePackage","Package","AutotoolsPackage","MesonPackage","PythonPackage","SConsPackage","RPackage","BundlePackage","PerlPackage","SIPPackage","RubyPackage","CMakePackage","QMakePackage"]
-console.log(build_systems)
 var diameter = 1200;
 var svg = d3.select('#chart').append('svg')
 				.attr('width', diameter)
