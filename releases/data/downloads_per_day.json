@@ -1,0 +1,82 @@
+{
+    "v0.11.0": {
+        "days": 1,
+        "downloads_per_day": 30.0
+    },
+    "v0.11.1": {
+        "days": 18,
+        "downloads_per_day": 1.72
+    },
+    "v0.11.2": {
+        "days": 278,
+        "downloads_per_day": 0.75
+    },
+    "v0.12.0": {
+        "days": 61,
+        "downloads_per_day": 0.92
+    },
+    "v0.12.1": {
+        "days": 285,
+        "downloads_per_day": 0.9
+    },
+    "v0.13.0": {
+        "days": 10,
+        "downloads_per_day": 6.3
+    },
+    "v0.13.1": {
+        "days": 29,
+        "downloads_per_day": 2.17
+    },
+    "v0.13.2": {
+        "days": 19,
+        "downloads_per_day": 7.58
+    },
+    "v0.13.3": {
+        "days": 45,
+        "downloads_per_day": 1.93
+    },
+    "v0.13.4": {
+        "days": 16,
+        "downloads_per_day": 3.88
+    },
+    "v0.14.0": {
+        "days": 25,
+        "downloads_per_day": 5.52
+    },
+    "v0.14.1": {
+        "days": 26,
+        "downloads_per_day": 11.96
+    },
+    "v0.14.2": {
+        "days": 76,
+        "downloads_per_day": 2.36
+    },
+    "v0.15.0": {
+        "days": 10,
+        "downloads_per_day": 4.8
+    },
+    "v0.15.1": {
+        "days": 12,
+        "downloads_per_day": 12.33
+    },
+    "v0.15.2": {
+        "days": 4,
+        "downloads_per_day": 2.5
+    },
+    "v0.15.3": {
+        "days": 16,
+        "downloads_per_day": 2.44
+    },
+    "v0.15.4": {
+        "days": 96,
+        "downloads_per_day": 4.5
+    },
+    "v0.16.0": {
+        "days": 96,
+        "downloads_per_day": 5.32
+    },
+    "v0.16.1": {
+        "days": 72,
+        "downloads_per_day": 4.46
+    }
+}

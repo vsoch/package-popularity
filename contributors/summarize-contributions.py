@@ -44,7 +44,6 @@ def write_json(obj, filename):
 
 
 def main():
-    """run_shpc is the entrypoint to the singularity-hpc client."""
 
     parser = get_parser()
     args, extra = parser.parse_known_args()

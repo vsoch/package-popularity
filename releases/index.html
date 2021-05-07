@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
+  <style>
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+  font-weight: 300;
+}
+
+.chart {
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.container {
+  width: 75%;
+  margin: 20px auto;
+}
+.chartjs-wrapper {
+  border: 1px solid #e5e5e5;
+  padding: 20px;
+  margin-bottom:80px;
+  width: 100%;
+  .chartjs {
+    min-height: 200px;
+  }
+}
+.customLegend li {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 15px;
+  span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+    border-radius: 25px;
+  }
+}
+
+  </style>
+  </head>
+  <body>
+<div class="container" style="padding-top:20px">
+<h1>Spack Release Popularity! 🎉️</h1>
+<p>The first plot shows the all time number of downloads (Y) based on the Spack relase (x). Keep in mind that we are early in 2021, and there is still time for v0.16.1 to be out, and that each release is not out for the same amount of time. The second plot shows the days that the release is newest, meaning the time of publication until the publication of the next release. The range goes from barely two days to all the way up to 285 days, which seems like a lot, but it's not really considering it's well within a year. The third plot combines the two and shows the average number of downloads of a release per day, assuming that a release is actively downloaded between its original release date and the date of the next release. This assumption, of course, it likely off, but it's likely the case that releases are downloaded within this range. You'll notice a huge outlier in 11.0.0, which was only out for perhaps a day or two, and thus the ~30 or so all time values are attributed to that day. The data and page here are generated via <a href="https://github.com/vsoch/package-popularity">this repository</a> in the releases directory. What do you see? I see consistency. The second plot shows that releases are consistent, and I would say have generally become more frequent over time (at least compared to the two early outliers) and the number of downloads is probably not informative enough to say anything conclusive about usage. A better metric of usage would be source downloads, which we we will look at later.</p>
+<br>
+
+  <h2>Spack .tar.gz GitHub Downloads by Release</h2>
+  <div class="chartjs-wrapper">
+    <canvas id="linechart" class="chartjs"></canvas>
+  </div>
+
+  <h2>Days that Release is Newest</h2>
+  <div class="chartjs-wrapper">
+    <canvas id="linechart3" class="chartjs"></canvas>
+  </div>
+
+  <h2>Estimated Release Downloads Per Day</h2>
+  <div class="chartjs-wrapper">
+    <canvas id="linechart2" class="chartjs"></canvas>
+  </div>
+
+
+</div><script src="https://code.jquery.com/jquery-3.6.0.slim.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+  <script>
+
+//yes this is hugely rednudant, and I'm okay with that.
+var ctx = document.getElementById('linechart');
+
+var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'line',
+    
+    // The data for our dataset
+    data: {
+        labels: ["v0.11.0","v0.11.1","v0.11.2","v0.12.0","v0.12.1","v0.13.0","v0.13.1","v0.13.2","v0.13.3","v0.13.4","v0.14.0","v0.14.1","v0.14.2","v0.15.0","v0.15.1","v0.15.2","v0.15.3","v0.15.4","v0.16.0","v0.16.1"],
+        datasets: [
+        {
+          label: "",
+          backgroundColor: 'transparent',
+          borderColor: 'rgb(82, 136, 255)',
+          data: [30,31,208,56,256,63,63,144,87,62,138,311,179,48,148,10,39,432,511,321],
+          lineTension: 0.3,
+          pointRadius: 5,
+          pointBackgroundColor: 'rgba(255,255,255,1)',
+          pointHoverBackgroundColor: 'rgba(255,255,255,0.6)',
+          pointHoverRadius: 10,
+          pointHitRadius: 30,
+          pointBorderWidth: 2,
+          pointStyle: 'rectRounded'
+        }
+      ]
+    },
+    
+    // Configuration options go here
+    options: {
+      legend: {
+         display: false
+       },
+      scales: {
+        xAxes: [{
+          gridLines: {
+            display:false
+          }
+        }],
+        yAxes: [{
+          gridLines: {
+             display:true
+          },
+       }]
+     },
+     tooltips: {
+      callbacks: {
+        title: function(tooltipItem, data) {
+          console.log(data);
+          console.log(tooltipItem);
+          return data['labels'][tooltipItem[0]['index']];
+        },
+        label: function(tooltipItem, data) {
+          return  data['datasets'][0]['data'][tooltipItem['index']] + " downloads";
+        },
+      },
+      backgroundColor: '#606060',
+      titleFontSize: 14,
+      titleFontColor: '#ffffff',
+      bodyFontColor: '#ffffff',
+      bodyFontSize: 18,
+      displayColors: false
+    }
+  }
+});
+
+
+var ctx = document.getElementById('linechart2');
+var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'line',
+    
+    // The data for our dataset
+    data: {
+        labels: ["v0.11.0","v0.11.1","v0.11.2","v0.12.0","v0.12.1","v0.13.0","v0.13.1","v0.13.2","v0.13.3","v0.13.4","v0.14.0","v0.14.1","v0.14.2","v0.15.0","v0.15.1","v0.15.2","v0.15.3","v0.15.4","v0.16.0","v0.16.1"],
+        datasets: [
+        {
+          label: "",
+          backgroundColor: 'transparent',
+          borderColor: 'rgb(82, 136, 255)',
+          data: [30.0,1.72,0.75,0.92,0.9,6.3,2.17,7.58,1.93,3.88,5.52,11.96,2.36,4.8,12.33,2.5,2.44,4.5,5.32,4.46],
+          lineTension: 0.3,
+          pointRadius: 5,
+          pointBackgroundColor: 'rgba(255,255,255,1)',
+          pointHoverBackgroundColor: 'rgba(255,255,255,0.6)',
+          pointHoverRadius: 10,
+          pointHitRadius: 30,
+          pointBorderWidth: 2,
+          pointStyle: 'rectRounded'
+        }
+      ]
+    },
+    
+    // Configuration options go here
+    options: {
+      legend: {
+         display: false
+       },
+      scales: {
+        xAxes: [{
+          gridLines: {
+            display:false
+          }
+        }],
+        yAxes: [{
+          gridLines: {
+             display:true
+          },
+       }]
+     },
+     tooltips: {
+      callbacks: {
+        title: function(tooltipItem, data) {
+          console.log(data);
+          console.log(tooltipItem);
+          return data['labels'][tooltipItem[0]['index']];
+        },
+        label: function(tooltipItem, data) {
+          return  data['datasets'][0]['data'][tooltipItem['index']] + " downloads";
+        },
+      },
+      backgroundColor: '#606060',
+      titleFontSize: 14,
+      titleFontColor: '#ffffff',
+      bodyFontColor: '#ffffff',
+      bodyFontSize: 18,
+      displayColors: false
+    }
+  }
+});
+
+
+var ctx = document.getElementById('linechart3');
+var chart = new Chart(ctx, {
+    type: 'line',
+    
+    data: {
+        labels: ["v0.11.0","v0.11.1","v0.11.2","v0.12.0","v0.12.1","v0.13.0","v0.13.1","v0.13.2","v0.13.3","v0.13.4","v0.14.0","v0.14.1","v0.14.2","v0.15.0","v0.15.1","v0.15.2","v0.15.3","v0.15.4","v0.16.0","v0.16.1"],
+        datasets: [
+        {
+          label: "",
+          backgroundColor: 'transparent',
+          borderColor: 'rgb(82, 136, 255)',
+          data: [1,18,278,61,285,10,29,19,45,16,25,26,76,10,12,4,16,96,96,72],
+          lineTension: 0.3,
+          pointRadius: 5,
+          pointBackgroundColor: 'rgba(255,255,255,1)',
+          pointHoverBackgroundColor: 'rgba(255,255,255,0.6)',
+          pointHoverRadius: 10,
+          pointHitRadius: 30,
+          pointBorderWidth: 2,
+          pointStyle: 'rectRounded'
+        }
+      ]
+    },
+    
+    // Configuration options go here
+    options: {
+      legend: {
+         display: false
+       },
+      scales: {
+        xAxes: [{
+          gridLines: {
+            display:false
+          }
+        }],
+        yAxes: [{
+          gridLines: {
+             display:true
+          },
+       }]
+     },
+     tooltips: {
+      callbacks: {
+        title: function(tooltipItem, data) {
+          console.log(data);
+          console.log(tooltipItem);
+          return data['labels'][tooltipItem[0]['index']];
+        },
+        label: function(tooltipItem, data) {
+          return  data['datasets'][0]['data'][tooltipItem['index']] + " days";
+        },
+      },
+      backgroundColor: '#606060',
+      titleFontSize: 14,
+      titleFontColor: '#ffffff',
+      bodyFontColor: '#ffffff',
+      bodyFontSize: 18,
+      displayColors: false
+    }
+  }
+});
+</script>
+  </body>
+</html>
